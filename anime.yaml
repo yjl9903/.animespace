@@ -1,0 +1,49 @@
+storage: 'Z:\alidriver\anime'
+
+preference:
+  format:
+    anime: '{title}'
+    episode: '{title} S{season}E{ep} {{fansub}}.{extension}'
+    film: '{title} {{fansub}}.{extension}'
+    ova: '{title} {{fansub}}.{extension}'
+  extension:
+    include:
+      - mp4
+      - mkv
+    exclude: []
+  keyword:
+    order:
+      format:
+        - mp4
+        - mkv
+      language:
+        - 简
+        - 繁
+      resolution:
+        - '1080'
+        - '720'
+      fansub:
+        - '内嵌'
+        - '内封'
+    exclude: []
+  fansub:
+    order: []
+    exclude: []
+
+plans:
+  - ./plans/*.yaml
+
+plugins:
+  - name: animegarden
+    provider: aria2
+    # proxy: http://127.0.0.1:7890
+    # debug:
+    #   log: ./aria2.log
+
+  - name: local
+    directory: ./local
+    introspect: false
+    refresh: false
+
+  - name: bangumi
+    username: '603937'

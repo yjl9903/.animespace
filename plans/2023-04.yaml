@@ -1,0 +1,193 @@
+name: 2023-04-04 新番放送计划
+
+date: 2023-04-01 21:00
+
+status: onair
+
+onair:
+  - title: 【我推的孩子】
+    translations:
+      - '【推しの子】'
+      - '[Oshi no Ko]'
+    bgm: '386809'
+    fansub:
+      - 桜都字幕组
+      - 北宇治字幕组
+      - Lilith-Raws
+      - LoliHouse
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22【我推的孩子】%22%2C%22【推しの子】%22%2C%22%5BOshi%20no%20Ko%5D%22%5D%5D&after=2023-03-31T16%3A00%3A00.000Z
+
+  - title: 魔法少女毁灭者
+    translations:
+      - '魔法少女マジカルデストロイヤーズ'
+      - 'Mahou Shoujo Magical Destroyers'
+      - '魔法少女 Destroyers'
+      - '魔法少女 Magical Destroyers'
+    bgm: '349039'
+    fansub:
+      - 北宇治字幕组
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22魔法少女毁灭者%22%2C%22魔法少女マジカルデストロイヤーズ%22%2C%22Mahou%20Shoujo%20Magical%20Destroyers%22%2C%22魔法少女%20Destroyers%22%2C%22魔法少女%20Magical%20Destroyers%22%5D%5D&after=2023-03-31T16%3A00%3A00.000Z
+
+  - title: 新石纪 NEW WORLD
+    translations:
+      - 'Dr. Stone S03'
+    season: 3
+    bgm: '363101'
+    fansub:
+      - Lilith-Raws
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22新石纪%20NEW%20WORLD%22%2C%22Dr.STONE%20NEW%20WORLD%22%2C%22Dr.STONE%20第3期%22%2C%22Dr.STONE%203%22%2C%22新石纪%20第三季%22%2C%22石纪元%20第三季%22%2C%22ドクターストーン%20第3期%22%5D%5D&after=2023-03-31T16%3A00%3A00.000Z
+
+  - title: 赛马娘 Pretty Derby Road to the Top
+    translations:
+      - '赛马娘 巅峰之路'
+      - '赛马娘 Pretty Derby'
+    bgm: '380448'
+    status: finish
+    fansub:
+      - 北宇治字幕组
+      - 肥猫压制
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22赛马娘%20Pretty%20Derby%20Road%20to%20the%20Top%22%2C%22ウマ娘%20プリティーダービー%20Road%20to%20the%20Top%22%2C%22赛马娘%20巅峰之路%22%2C%22Uma%20Musume:%20Pretty%20Derby%20-%20Road%20to%20the%20Top%22%2C%22ウマ娘%20プリティーダービー%20ロードトゥーザトップ%22%2C%22赛马娘%20RTTT%20/%20ウマ娘%20RTTT%22%5D%5D&after=2023-03-31T16%3A00%3A00.000Z
+
+  - title: '熊熊勇闯异世界 Punch!'
+    translations:
+      - Kuma Kuma Kuma Bear Punch!
+      - Kuma Kuma Kuma Bear S02
+    bgm: '323651'
+    season: 2
+    fansub:
+      - Lilith-Raws
+      - ANi
+
+  - title: 天国大魔境
+    bgm: '404804'
+    fansub:
+      - SweetSub
+      - 猎户发布组
+
+  - title: 偶像大师 灰姑娘女孩 U149
+    bgm: '376703'
+    fansub:
+      - 北宇治字幕组
+      - 喵萌奶茶屋
+
+  - title: 我的百合乃工作是也！
+    bgm: '381666'
+    keywords:
+      - 百合是我的工作！
+    fansub:
+      - Lilith-Raws
+
+  - title: 机动战士高达 水星的魔女
+    directory: 机动战士高达 水星的魔女 Season2
+    bgm: '403238'
+    season: 1
+    keywords:
+      - 机动战士高达 水星的魔女
+    fansub:
+      - LoliHouse
+      - 喵萌奶茶屋
+
+  - title: 地狱乐
+    bgm: '325808'
+    fansub:
+      - 喵萌奶茶屋
+      - 风之圣殿
+
+  - title: 为美好的世界献上爆炎！
+    translations:
+      - '为美好的世界献上爆焰！'
+      - 'Kono Subarashii Sekai ni Bakuen wo!'
+      - 'KonoSuba: An Explosion on This Wonderful World!'
+    bgm: '385209'
+    fansub:
+      - 桜都字幕组
+      - 爱恋字幕社
+
+  - title: 魔法使的新娘
+    directory: 魔法使的新娘 第二季
+    season: 2
+    bgm: '399820'
+    fansub:
+      - ANi
+
+  - title: 和山田谈场Lv999的恋爱
+    translations: 'Yamada-kun to Lv999 no Koi wo Suru'
+    bgm: '395684'
+    fansub:
+      - Lilith-Raws
+      - ANi
+      - 爱恋字幕社
+
+  - title: 我心里危险的东西
+    translations:
+      - 我内心的糟糕念头
+    bgm: '394260'
+    fansub: LoliHouse
+
+  - title: 我家的英雄
+    translations: My Home Hero
+    bgm: '388067'
+    fansub:
+      - Lilith-Raws
+      - ANi
+
+  - title: 小鸟之翼 高尔夫少女
+    directory: 小鸟之翼 高尔夫少女 第二季
+    bgm: '389998'
+    season: 1
+    rewrite:
+      episode: +13
+    keywords:
+      - 小鸟之翼 第二季
+    fansub: 北宇治字幕组
+
+  - title: 邻人似银河
+    translations:
+      - A Galaxy Next Door
+      - Otonari ni Ginga
+    bgm: '379442'
+    fansub:
+      - Lilith-Raws
+      - ANi
+
+  - title: 蓝色管弦乐
+    bgm: '377769'
+    fansub:
+      - 动漫国字幕组
+
+  - title: 世界巨星
+    translations:
+      - World Dai Star
+    bgm: '409088'
+    fansub:
+      - 喵萌奶茶屋
+      - 星空字幕组
+
+  - title: 亡骸游戏
+    bgm: '408013'
+    fansub: LoliHouse
+
+  - title: 鬼灭之刃 锻刀村篇
+    translations: 鬼灭之刃 刀匠村篇
+    bgm: '369768'
+    season: 4
+    fansub: 爱恋字幕社
+
+  - title: 总之就是非常可爱
+    directory: 总之就是非常可爱 第二季
+    translations:
+      - トニカクカワイイ 第2期
+      - 'TONIKAWA: Over The Moon For You Season 2'
+      - Tonikaku Kawaii Season 2
+    season: 2
+    bgm: '355798'
+    fansub:
+      - 爱恋字幕社
+
+  - title: 无神世界的神明活动
+    translations:
+      - '神無き世界のカミサマ活動'
+      - '在无神的世界进行信仰传播'
+      - 'Kaminaki Sekai no Kamisama Katsudou'
+    bgm: '377607'
+    fansub: ANi

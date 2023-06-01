@@ -1,0 +1,30 @@
+title: 电影
+
+date: 2022-04-01 12:00
+
+status: finish
+
+onair:
+  - title: 刀剑神域 进击篇 无星之夜的咏叹调
+    bgm: '315375'
+    type: 电影
+
+  - title: 刀剑神域 进击篇 黯淡黄昏的谐谑曲
+    bgm: '355004'
+    type: 电影
+    fansub: 幻之字幕组
+
+  - title: 摇曳露营△ 剧场版
+    bgm: '262898'
+    type: 电影
+
+  - title: 通往夏天的隧道，再见的出口
+    bgm: '362575'
+    type: 电影
+    fansub: MCE汉化组
+
+  - title: 时光碎片
+    bgm: '277727'
+    date: 2020-05-20 08:00
+    type: 电影
+    fansub: 千夏字幕组
