@@ -147,7 +147,7 @@ onair:
         offset: +13
     keywords:
       - 小鸟之翼 第二季
-    fansub: 
+    fansub:
       - 北宇治字幕组
       - ANi
 
@@ -201,3 +201,7 @@ onair:
       - 'Kaminaki Sekai no Kamisama Katsudou'
     bgm: '377607'
     fansub: ANi
+
+  - title: 跃动青春
+    bgm: '357961'
+    fansub: 爱恋字幕社
