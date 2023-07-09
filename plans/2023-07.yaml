@@ -18,10 +18,13 @@ onair:
 
   - title: 满怀美梦的少年是现实主义者
     translations:
+      - '滿懷美夢的少年是現實主義者'
       - '夢見る男子は現実主義者'
       - '幻想男子变成了现实主义者'
       - 'Yumemiru Danshi wa Genjitsushugisha'
     bgm: '408351'
+    fansub:
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22满怀美梦的少年是现实主义者%22%2C%22夢見る男子は現実主義者%22%2C%22幻想男子变成了现实主义者%22%2C%22Yumemiru%20Danshi%20wa%20Genjitsushugisha%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 谎言游戏
@@ -30,22 +33,26 @@ onair:
       - 'Liar Liar'
       - 'LIAR·LIAR'
     bgm: '333979'
+    fansub:
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22谎言游戏%22%2C%22ライアー・ライアー%22%2C%22Liar%20Liar%22%2C%22LIAR·LIAR%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 不死少女・杀人笑剧
     translations:
-      - 'アンデッドガール・マーダーファルス'
-      - 'Undead Girl・Murder Farce'
-      - 'Undead Girl·Murder Farce'
-      - 'Undead Girl, Murder Farce'
+      - 不死少女的謀殺鬧劇
     bgm: '425591'
+    fansub:
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22不死少女・杀人笑剧%22%2C%22アンデッドガール・マーダーファルス%22%2C%22Undead%20Girl・Murder%20Farce%22%2C%22Undead%20Girl·Murder%20Farce%22%2C%22Undead%20Girl%2C%20Murder%20Farce%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
-  - title: 能干的猫今天也忧郁
+  - title: 能干猫今天也忧郁
     translations:
+      - 能干的猫今天也忧郁
       - 'デキる猫は今日も憂鬱'
       - 'Dekiru Neko wa Kyou mo Yuuutsu'
     bgm: '384672'
+    fansub:
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22能干的猫今天也忧郁%22%2C%22デキる猫は今日も憂鬱%22%2C%22Dekiru%20Neko%20wa%20Kyou%20mo%20Yuuutsu%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 堀与宫村 -piece-
@@ -53,6 +60,7 @@ onair:
       - 'ホリミヤ -piece-'
     bgm: '425992'
     fansub:
+      - 桜都字幕组
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22堀与宫村%20-piece-%22%2C%22ホリミヤ%20-piece-%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
@@ -69,29 +77,34 @@ onair:
       - '僵尸100'
       - 'Zom 100: Zombie ni Naru made ni Shitai 100 no Koto'
     bgm: '414461'
+    fansub:
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22僵尸百分百～在成为僵尸前要做的100件事～%22%2C%22ゾン100～ゾンビになるまでにしたい100のこと～%22%2C%22僵尸百分百～在变成僵尸之前想做的100件事～%22%2C%22僵尸100%22%2C%22Zom%20100:%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
-  - title: 无职转生Ⅱ ～到了异世界就拿出真本事～
+  - title: 无职转生 ～到了异世界就拿出真本事～
+    directory: 无职转生 ～到了异世界就拿出真本事～/Season 2
     translations:
+      - '无职转生Ⅱ ～到了异世界就拿出真本事～'
       - '無職轉生，到了異世界就拿出真本事'
       - '無職転生Ⅱ ～異世界行ったら本気だす～'
       - '无职转生Ⅱ ～在异世界认真地活下去～'
       - '无职转生 ～在异世界认真地活下去～ 第二季'
       - '無職転生 ～異世界行ったら本気だす～ 第2期'
-      - 'Mushoku Tensei II: Isekai Ittara Honki Dasu'
-      - 'Mushoku Tensei: Jobless Reincarnation Season 2'
     season: 2
     bgm: '373247'
     fansub:
-      - 天月動漫&發佈組
+      - 北宇治字幕组
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22无职转生Ⅱ%20～到了异世界就拿出真本事～%22%2C%22無職転生Ⅱ%20～異世界行ったら本気だす～%22%2C%22无职转生Ⅱ%20～在异世界认真地活下去～%22%2C%22无职转生%20～在异世界认真地活下去～%20第二季%22%2C%22無職転生%20～異世界行ったら本気だす～%20第2期%22%2C%22Mushoku%20Tensei%20II:%20Isekai%20Ittara%20Honki%20Dasu%22%2C%22Mushoku%20Tensei:%20Jobless%20Reincarnation%20Season%202%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 莱莎的炼金工房 ～常暗女王与秘密藏身处～
     translations:
+      - 莱莎的炼金工房 ～常暗女王与秘密藏身处～
       - 'ライザのアトリエ ～常闇の女王と秘密の隠れ家～'
     bgm: '425236'
     fansub:
-      - ANi
+      - 桜都字幕组
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22莱莎的炼金工房%20～常暗女王与秘密藏身处～%22%2C%22ライザの アトリエ%20～常闇の女王と秘密の隠れ家～%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 七魔剑支配天下
@@ -102,6 +115,9 @@ onair:
       - 'Reign of the Seven Spellblades'
       - 'Nanatsu no Maken ga Shihai Suru'
     bgm: '362006'
+    fansub:
+      - Lilith-Raws
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22七魔剑支配天下%22%2C%22七つの魔剣が支配する%22%2C%22主宰七 魔剑%22%2C%22七柄魔剑将其支配%22%2C%22Reign%20of%20the%20Seven%20Spellblades%22%2C%22Nanatsu%20no%20Maken%20ga%20Shihai%20Suru%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: AI电子基因
@@ -110,6 +126,8 @@ onair:
       - 'AI no Idenshi'
       - 'AI的遗电子'
     bgm: '410203'
+    fansub:
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22AI电子基因%22%2C%22AIの遺電子%22%2C%22AI%20no%20Idenshi%22%2C%22AI的遗电子%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 间谍教室 第二季
@@ -120,6 +138,8 @@ onair:
       - 'Spy Kyoushitsu 2nd season'
     season: 2
     bgm: '428418'
+    fansub:
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22间谍教室%20第二季%22%2C%22スパイ教室%202nd%20season%22%2C%22特工教室%20第二季%22%2C%22Spy%20Room%202nd%20season%22%2C%22Spy%20Kyoushitsu%202nd%20season%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 白圣女与黑牧师
@@ -128,20 +148,35 @@ onair:
       - 'The White Holy Woman and the Black Priest'
       - 'Shiro Seijo to Kuro Bokushi'
     bgm: '387822'
+    fansub:
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22白圣女与黑牧师%22%2C%22白聖女と黒牧師%22%2C%22The%20White%20Holy%20Woman%20and%20the%20Black%20Priest%22%2C%22Shiro%20Seijo%20to%20Kuro%20Bokushi%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 喜欢的人忘记戴眼镜了
     translations:
+      - 我喜歡的女孩忘記戴眼鏡
       - '好きな子がめがねを忘れた'
       - 'The Girl I Like Forgot Her Glasses'
     bgm: '415182'
+    fansub:
+      - 桜都字幕组
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22喜欢的人忘记戴眼镜了%22%2C%22好きな子がめがねを忘れた%22%2C%22The%20Girl%20I%20Like%20Forgot%20Her%20Glasses%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
+
+  - title: 政宗君的复仇
+    translations:
+      - '政宗くんのリベンジ'
+    bgm: '185762'
+    status: finish
 
   - title: 政宗君的复仇R
     translations:
+      - '政宗君的復仇 R'
       - '政宗くんのリベンジR'
       - 'Masamune-kun no Revenge R'
       - '政宗君的复仇 第二季'
     season: 2
     bgm: '376433'
+    fansub:
+      - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22政宗君的复仇R%22%2C%22政宗くんのリベンジR%22%2C%22Masamune-kun%20no%20Revenge%20R%22%2C%22政宗君的复仇%20第二季%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z

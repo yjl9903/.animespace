@@ -81,7 +81,7 @@ plugins:
   - name: local
     directory: ./local
     introspect: false
-    refresh: false
+    refresh: true
 
   - name: bangumi
     username: '603937'
