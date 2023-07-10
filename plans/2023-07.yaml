@@ -75,9 +75,10 @@ onair:
       - 'ゾン100～ゾンビになるまでにしたい100のこと～'
       - '僵尸百分百～在变成僵尸之前想做的100件事～'
       - '僵尸100'
-      - 'Zom 100: Zombie ni Naru made ni Shitai 100 no Koto'
+      - 'Zom 100 - Zombie ni Naru made ni Shitai 100 no Koto'
     bgm: '414461'
     fansub:
+      - 爱恋字幕社
       - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22僵尸百分百～在成为僵尸前要做的100件事～%22%2C%22ゾン100～ゾンビになるまでにしたい100のこと～%22%2C%22僵尸百分百～在变成僵尸之前想做的100件事～%22%2C%22僵尸100%22%2C%22Zom%20100:%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
@@ -162,6 +163,16 @@ onair:
       - 桜都字幕组
       - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22喜欢的人忘记戴眼镜了%22%2C%22好きな子がめがねを忘れた%22%2C%22The%20Girl%20I%20Like%20Forgot%20Her%20Glasses%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
+
+  - title: 幻日夜羽 -镜中晖光-
+    translations:
+      - '幻日のヨハネ -SUNSHINE in the MIRROR-'
+      - 'Genjitsu no Yohane: Sunshine in the Mirror'
+      - 'Yohane the Parhelion: Sunshine in the Mirror'
+    bgm: '389772'
+    fansub:
+      - Lilith-Raws
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22幻日夜羽%20-镜中晖光-%22%2C%22幻日のヨハネ%20-SUNSHINE%20in%20the%20MIRROR-%22%2C%22Genjitsu%20no%20Yohane:%20Sunshine%20in%20the%20Mirror%22%2C%22Yohane%20the%20Parhelion:%20Sunshine%20in%20the%20Mirror%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 政宗君的复仇
     translations:
