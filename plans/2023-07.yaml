@@ -131,14 +131,19 @@ onair:
       - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22AI电子基因%22%2C%22AIの遺電子%22%2C%22AI%20no%20Idenshi%22%2C%22AI的遗电子%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
-  - title: 间谍教室 第二季
+  - title: 间谍教室
+    directory: 间谍教室 第二季
     translations:
-      - 'スパイ教室 2nd season'
-      - '特工教室 第二季'
-      - 'Spy Room 2nd season'
-      - 'Spy Kyoushitsu 2nd season'
-    season: 2
+      - 'スパイ教室'
+      - '特工教室'
+      - 'Spy Room'
+      - 'Spy Kyoushitsu'
+    season: 1
     bgm: '428418'
+    rewrite:
+      episode:
+        lte: 12
+        offset: +12
     fansub:
       - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22间谍教室%20第二季%22%2C%22スパイ教室%202nd%20season%22%2C%22特工教室%20第二季%22%2C%22Spy%20Room%202nd%20season%22%2C%22Spy%20Kyoushitsu%202nd%20season%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
