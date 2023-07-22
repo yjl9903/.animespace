@@ -1,0 +1,31 @@
+# Generated at 2023-05-13 11:53
+
+videos:
+  - filename: 赛马娘 Pretty Derby Road to the Top S01E01 {北宇治字幕组}.mp4
+    episode: 1
+    fansub: 北宇治字幕组
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/637779_Pretty_Derby_Road_to_the_Top_Uma_Musume_-_Pretty_Derby_-_Road_to_the_Top_01_Webrip_1080p_HEVC_AAC_CHS_MP4.html
+
+  - filename: 赛马娘 Pretty Derby Road to the Top S01E02 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/638482_Pretty_Derby_Road_to_the_Top_Uma_Musume_-_Pretty_Derby_-_Road_to_the_Top_02_Webrip_1080p_HEVC_AAC.html
+
+  - filename: 赛马娘 Pretty Derby Road to the Top S01E03 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/639120_Pretty_Derby_Road_to_the_Top_Uma_Musume_-_Pretty_Derby_-_Road_to_the_Top_03_Webrip_1080p_HEVC_AAC.html
+
+  - filename: 赛马娘 Pretty Derby Road to the Top S01E04 {肥猫压制}.mp4
+    naming: auto
+    fansub: 肥猫压制
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/639654_DAY_Pretty_Derby_Uma_Musume_Pretty_Derby_Road_to_the_Top_4_AMZN_WEBrip_1080P_MP4.html

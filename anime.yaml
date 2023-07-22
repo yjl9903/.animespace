@@ -1,5 +1,7 @@
 storage: 'Z:\alidriver\anime'
 
+library: '.\library'
+
 preference:
   format:
     anime: '{title}'
