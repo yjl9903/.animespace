@@ -1,3 +1,9 @@
-# Generated at 2023-07-02 01:48
+# Generated at 2023-07-24 11:27
 
-videos: []
+videos:
+  - filename: 总之就是非常可爱 女子高中篇 S01E01 {云光字幕组}.mp4
+    fansub: 云光字幕组
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/646116_Tonikaku_Kawaii_-_Joshikou-hen_01_1080p.html
