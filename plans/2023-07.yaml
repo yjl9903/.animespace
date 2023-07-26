@@ -68,6 +68,9 @@ onair:
     translations:
       - 'トニカクカワイイ 女子高編'
     bgm: '441233'
+    season: 3
+    rewrite:
+      title: '总之就是非常可爱'
     fansub: 云光字幕组
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22总之就是非常可爱%20女子高中篇%22%2C%22トニカクカワイイ%20女子高編%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
@@ -155,7 +158,9 @@ onair:
       - 'Shiro Seijo to Kuro Bokushi'
     bgm: '387822'
     fansub:
+      - 北宇治字幕组
       - Lilith-Raws
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22白圣女与黑牧师%22%2C%22白聖女と黒牧師%22%2C%22The%20White%20Holy%20Woman%20and%20the%20Black%20Priest%22%2C%22Shiro%20Seijo%20to%20Kuro%20Bokushi%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 喜欢的人忘记戴眼镜了
@@ -203,4 +208,4 @@ onair:
       - 'シンデュアリティ'
     bgm: '401301'
     fansub: 喵萌奶茶屋
-    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22奇异贤伴%20黑色天使%22%2C%22SYNDUALITY%20Noir%22%2C%22シン デュアリティ%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z  
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22奇异贤伴%20黑色天使%22%2C%22SYNDUALITY%20Noir%22%2C%22シン デュアリティ%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
