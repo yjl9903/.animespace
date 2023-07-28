@@ -8,5 +8,6 @@ export default async function() {
 
   await $`git add .`;
   await $`git commit -m ${commit}`;
+  await $`git pull --rebase`;
   await $`git push origin main`;
 }
