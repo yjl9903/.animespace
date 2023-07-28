@@ -42,18 +42,18 @@ async function render() {
     if ('bgm' in anime.plan) {
       if (image) {
         const bgmId = anime.plan.bgm as string;
+        const link = `https://bangumi.tv/subject/${anime.plan.bgm}`;
         const subject = await client.subject(+bgmId).catch(() => undefined);
         const name = subject
           ? subject.name_cn || subject.name
           : anime.plan.title;
         const image = subject?.images.large
-          ? `[![${subject.name_cn || subject.name}](${
-              subject.images.large
-            })](https://bangumi.tv/subject/${anime.plan.bgm})<br/>`
+          ? `<a href="${link}"><img src="${subject.images.large}" alt="${name}" style="height:200px;" /></a>`
           : '';
 
         return (
-          image + `[${name}](https://bangumi.tv/subject/${anime.plan.bgm})`
+          image +
+          `<div style="display:flex;align-items:center;justify-content:center;height:2em;padding:4px;"><a href="${link}"">${name}</a></div>`
         );
       } else {
         return (
@@ -74,16 +74,19 @@ async function render() {
   if (cells.length > 0) {
     const COL = 4;
     text.push('### Onair', '');
+    text.push(`<table><tbody>`);
     for (let i = 0; i < cells.length; i += COL) {
       const line: string[] = [];
       for (let j = i; j < i + COL; j++) {
-        line.push(cells[j]);
+        if (cells[j]) {
+          line.push(`<td align="center">${cells[j]}</td>`);
+        } else {
+          line.push(`<td></td>`);
+        }
       }
-      text.push('| ' + line.join(' | ') + ' |');
-      if (i === 0) {
-        text.push('|' + ' :-: |'.repeat(COL));
-      }
+      text.push('<tr>' + line.join('') + '</tr>');
     }
+    text.push(`</tbody></table>`);
   }
 
   text.push('', '### Finish', '');
