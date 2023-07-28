@@ -5,7 +5,7 @@ XLor's personal anime following list used for [AnimeSpace](https://github.com/yj
 ## 动画
 
 <!-- __inject_start__ -->
-### Onair
+### 正在播出
 
 <table><tbody>
 <tr><td align="center"><a href="https://bangumi.tv/subject/428735"><img src="https://lain.bgm.tv/pic/cover/l/e7/a7/428735_1v11n.jpg" alt="BanG Dream! It's MyGO!!!!!" style="height:200px;" /></a><div style="display:flex;align-items:center;justify-content:center;height:2em;padding:4px;"><a href="https://bangumi.tv/subject/428735"">BanG Dream! It's MyGO!!!!!</a></div></td><td align="center"><a href="https://bangumi.tv/subject/408351"><img src="https://lain.bgm.tv/pic/cover/l/34/17/408351_R44A4.jpg" alt="满怀美梦的少年是现实主义者" style="height:200px;" /></a><div style="display:flex;align-items:center;justify-content:center;height:2em;padding:4px;"><a href="https://bangumi.tv/subject/408351"">满怀美梦的少年是现实主义者</a></div></td><td align="center"><a href="https://bangumi.tv/subject/333979"><img src="https://lain.bgm.tv/pic/cover/l/68/ea/333979_lG5Gt.jpg" alt="谎言游戏" style="height:200px;" /></a><div style="display:flex;align-items:center;justify-content:center;height:2em;padding:4px;"><a href="https://bangumi.tv/subject/333979"">谎言游戏</a></div></td><td align="center"><a href="https://bangumi.tv/subject/425591"><img src="https://lain.bgm.tv/pic/cover/l/6b/c0/425591_SI26V.jpg" alt="不死少女 杀人笑剧" style="height:200px;" /></a><div style="display:flex;align-items:center;justify-content:center;height:2em;padding:4px;"><a href="https://bangumi.tv/subject/425591"">不死少女 杀人笑剧</a></div></td></tr>
@@ -15,7 +15,7 @@ XLor's personal anime following list used for [AnimeSpace](https://github.com/yj
 <tr><td align="center"><a href="https://bangumi.tv/subject/376433"><img src="https://lain.bgm.tv/pic/cover/l/37/da/376433_EhTZ4.jpg" alt="政宗君的复仇R" style="height:200px;" /></a><div style="display:flex;align-items:center;justify-content:center;height:2em;padding:4px;"><a href="https://bangumi.tv/subject/376433"">政宗君的复仇R</a></div></td><td align="center"><a href="https://bangumi.tv/subject/401301"><img src="https://lain.bgm.tv/pic/cover/l/0f/dc/401301_Qr1Xk.jpg" alt="奇异贤伴 黑色天使" style="height:200px;" /></a><div style="display:flex;align-items:center;justify-content:center;height:2em;padding:4px;"><a href="https://bangumi.tv/subject/401301"">奇异贤伴 黑色天使</a></div></td><td></td><td></td></tr>
 </tbody></table>
 
-### Finish
+### 已完结
 
 + [小鸟之翼 高尔夫少女](https://bangumi.tv/subject/354682)
 + [异世界舅舅](https://bangumi.tv/subject/339326)
