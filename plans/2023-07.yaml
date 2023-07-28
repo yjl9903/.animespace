@@ -72,7 +72,9 @@ onair:
     season: 3
     rewrite:
       title: '总之就是非常可爱'
-    fansub: 云光字幕组
+    fansub:
+      - 云光字幕组
+      - 天月動漫&發佈組
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22总之就是非常可爱%20女子高中篇%22%2C%22トニカクカワイイ%20女子高編%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 僵尸百分百～在成为僵尸前要做的100件事～

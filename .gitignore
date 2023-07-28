@@ -1,3 +1,4 @@
+# AnimeSpace
 anime
 download
 *.mp4
@@ -5,3 +6,6 @@ download
 *.aria2
 *.torrent
 *.log
+
+# Node
+node_modules
