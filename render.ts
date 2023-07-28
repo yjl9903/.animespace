@@ -73,7 +73,7 @@ async function render() {
 
   if (cells.length > 0) {
     const COL = 4;
-    text.push('### Onair', '');
+    text.push('### 正在播出', '');
     text.push(`<table><tbody>`);
     for (let i = 0; i < cells.length; i += COL) {
       const line: string[] = [];
@@ -89,7 +89,7 @@ async function render() {
     text.push(`</tbody></table>`);
   }
 
-  text.push('', '### Finish', '');
+  text.push('', '### 已完结', '');
   for (const anime of animes.filter(a => a.plan.status === 'finish')) {
     text.push('+ ' + (await render(anime)));
   }
