@@ -11,9 +11,15 @@ devDependencies:
   animespace:
     specifier: 0.1.0-beta.11
     version: 0.1.0-beta.11
+  bgmc:
+    specifier: ^0.0.4
+    version: 0.0.4
   optc:
     specifier: ^0.6.3
     version: 0.6.3
+  undici:
+    specifier: ^5.22.1
+    version: 5.22.1
 
 packages:
 

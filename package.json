@@ -7,7 +7,9 @@
   "devDependencies": {
     "@animespace/core": "0.1.0-beta.11",
     "animespace": "0.1.0-beta.11",
-    "optc": "^0.6.3"
+    "bgmc": "^0.0.4",
+    "optc": "^0.6.3",
+    "undici": "^5.22.1"
   },
   "packageManager": "pnpm@8.6.10",
   "engines": {
