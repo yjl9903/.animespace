@@ -1,4 +1,4 @@
-# Generated at 2023-07-22 05:00
+# Generated at 2023-07-29 03:28
 
 videos:
   - filename: AI电子基因 S01E01 {Lilith-Raws}.mp4
@@ -21,3 +21,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/646352_Lilith-Raws_AI_AI_no_Idenshi_-_03_Baha_WebDL_1080p_AVC_AAC_CHT.html
+
+  - filename: AI电子基因 S01E04 {Lilith-Raws}.mp4
+    fansub: Lilith-Raws
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/646994_Lilith-Raws_AI_AI_no_Idenshi_-_04_Baha_WebDL_1080p_AVC_AAC_CHT.html
