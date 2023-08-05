@@ -5,6 +5,13 @@ date: 2022-04-01 12:00
 status: finish
 
 onair:
+  - title: 特别篇 吹响！悠风号～合奏比赛～
+    translations:
+      - '特别篇 吹响吧！上低音号 ~ 合奏比赛 ~'
+    bgm: '386195'
+    type: 电影
+    fansub: 北宇治字幕组
+
   - title: 刀剑神域 进击篇 无星之夜的咏叹调
     bgm: '315375'
     type: 电影
