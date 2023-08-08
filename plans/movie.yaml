@@ -5,6 +5,18 @@ date: 2022-04-01 12:00
 status: finish
 
 onair:
+  - title: 电影 奇巧计程车 扑朔谜林
+    translations:
+      - '映画 オッドタクシー イン・ザ・ウッズ'
+      - 'Eiga Odd Taxi: In the Woods'
+      - '奇巧计程车 In The Woods'
+      - '電影版 奇巧計程車：撲朔謎林'
+      - '映画 ODDTAXI イン・ザ・ウッズ'
+      - 'Odd Taxi: In the Woods'
+    bgm: '363414'
+    type: 电影
+    fansub: 喵萌奶茶屋
+
   - title: 特别篇 吹响！悠风号～合奏比赛～
     translations:
       - '特别篇 吹响吧！上低音号 ~ 合奏比赛 ~'
