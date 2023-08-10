@@ -1,4 +1,4 @@
-# Generated at 2023-08-06 12:42
+# Generated at 2023-08-10 09:24
 
 videos:
   - filename: 喜欢的人忘记戴眼镜了 S01E01 {桜都字幕组}.mkv
@@ -35,3 +35,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/647605_Suki_na_Ko_ga_Megane_wo_Wasureta_05_1080P.html
+
+  - filename: 喜欢的人忘记戴眼镜了 S01E06 {Lilith-Raws}.mp4
+    fansub: Lilith-Raws
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/647913_Lilith-Raws_Suki_na_Ko_ga_Megane_wo_Wasureta_-_06_Baha_WebDL_1080p_AVC_AAC_CHT.html
