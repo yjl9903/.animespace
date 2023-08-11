@@ -1,4 +1,4 @@
-# Generated at 2023-08-05 01:49
+# Generated at 2023-08-12 03:29
 
 videos:
   - filename: 七魔剑支配天下 S01E01 {Lilith-Raws}.mp4
@@ -35,3 +35,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/647578_Lilith-Raws_Nanatsu_no_Maken_ga_Shihai_suru_-_05_Baha_WebDL_1080p_AVC_AAC_CHT.html
+
+  - filename: 七魔剑支配天下 S01E06 {ANi}.mp4
+    fansub: ANi
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/648177_ANi_-_06_1080P_Bilibili_WEB-DL_AAC_AVC_CHT_CHS_MP4.html
