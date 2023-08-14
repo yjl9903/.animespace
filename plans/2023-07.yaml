@@ -36,6 +36,8 @@ onair:
       - 'LIAR·LIAR'
     bgm: '333979'
     fansub:
+      - LoliHouse
+      - ANi
       - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22谎言游戏%22%2C%22ライアー・ライアー%22%2C%22Liar%20Liar%22%2C%22LIAR·LIAR%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
@@ -55,6 +57,7 @@ onair:
     bgm: '384672'
     fansub:
       - Lilith-Raws
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22能干的猫今天也忧郁%22%2C%22デキる猫は今日も憂鬱%22%2C%22Dekiru%20Neko%20wa%20Kyou%20mo%20Yuuutsu%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 堀与宫村 -piece-
@@ -87,6 +90,7 @@ onair:
     bgm: '414461'
     fansub:
       - 爱恋字幕社
+      - ANi
       - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22僵尸百分百～在成为僵尸前要做的100件事～%22%2C%22ゾン100～ゾンビになるまでにしたい100のこと～%22%2C%22僵尸百分百～在变成僵尸之前想做的100件事～%22%2C%22僵尸100%22%2C%22Zom%20100:%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
@@ -102,6 +106,7 @@ onair:
     bgm: '373247'
     fansub:
       - 北宇治字幕组
+      - ANi
       - Lilith-Raws
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22无职转生Ⅱ%20～到了异世界就拿出真本事～%22%2C%22無職転生Ⅱ%20～異世界行ったら本気だす～%22%2C%22无职转生Ⅱ%20～在异世界认真地活下去～%22%2C%22无职转生%20～在异世界认真地活下去～%20第二季%22%2C%22無職転生%20～異世界行ったら本気だす～%20第2期%22%2C%22Mushoku%20Tensei%20II:%20Isekai%20Ittara%20Honki%20Dasu%22%2C%22Mushoku%20Tensei:%20Jobless%20Reincarnation%20Season%202%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
@@ -136,6 +141,7 @@ onair:
     bgm: '410203'
     fansub:
       - Lilith-Raws
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22AI电子基因%22%2C%22AIの遺電子%22%2C%22AI%20no%20Idenshi%22%2C%22AI的遗电子%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 间谍教室
@@ -153,6 +159,7 @@ onair:
         offset: +12
     fansub:
       - Lilith-Raws
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22间谍教室%20第二季%22%2C%22スパイ教室%202nd%20season%22%2C%22特工教室%20第二季%22%2C%22Spy%20Room%202nd%20season%22%2C%22Spy%20Kyoushitsu%202nd%20season%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 
   - title: 白圣女与黑牧师

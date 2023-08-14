@@ -1,4 +1,4 @@
-# Generated at 2023-08-08 10:54
+# Generated at 2023-08-14 02:15
 
 videos:
   - filename: 无职转生 ～到了异世界就拿出真本事～ S00E02.mkv
@@ -43,3 +43,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/647872_Mushoku_Tensei_-_Season_2_05_WebRip_1080p_HEVC_AAC.html
+
+  - filename: 无职转生 ～到了异世界就拿出真本事～ S02E06 {Lilith-Raws}.mp4
+    fansub: Lilith-Raws
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/648372_Lilith-Raws_Mushoku_Tensei_S02_-_06_Baha_WebDL_1080p_AVC_AAC_CHT.html
