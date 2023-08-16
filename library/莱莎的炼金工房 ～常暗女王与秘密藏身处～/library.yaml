@@ -1,4 +1,4 @@
-# Generated at 2023-08-09 10:11
+# Generated at 2023-08-17 01:27
 
 videos:
   - filename: 莱莎的炼金工房 ～常暗女王与秘密藏身处～ S01E01 {桜都字幕组}.mkv
@@ -42,3 +42,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/647939_Ryza_no_Atelier_Tokoyami_no_Joou_to_Himitsu_no_Kakurega_06_1080p.html
+
+  - filename: 莱莎的炼金工房 ～常暗女王与秘密藏身处～ S01E07 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/648614_Ryza_no_Atelier_Tokoyami_no_Joou_to_Himitsu_no_Kakurega_07_1080p.html
