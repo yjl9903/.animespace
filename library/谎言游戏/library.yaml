@@ -1,4 +1,4 @@
-# Generated at 2023-08-13 02:56
+# Generated at 2023-08-20 07:09
 
 videos:
   - filename: 谎言游戏 S01E01 {LoliHouse}.mkv
@@ -49,3 +49,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/648258_LoliHouse_Liar_Liar_-_07_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 谎言游戏 S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/648900_LoliHouse_Liar_Liar_-_08_WebRip_1080p_HEVC-10bit_AAC.html
