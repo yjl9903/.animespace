@@ -1,4 +1,4 @@
-# Generated at 2023-08-17 10:25
+# Generated at 2023-08-24 01:36
 
 videos:
   - filename: 白圣女与黑牧师 S01E01 {北宇治字幕组}.mkv
@@ -42,3 +42,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/648661_Lilith-Raws_Shiro_Seijo_to_Kuro_Bokushi_-_06_Baha_WebDL_1080p_AVC_AAC_CHT.html
+
+  - filename: 白圣女与黑牧师 S01E07 {ANi}.mp4
+    fansub: ANi
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/649212_ANi_Shiro_Seijo_to_Kuro_Bokushi_-_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
