@@ -1,4 +1,4 @@
-# Generated at 2023-08-27 11:09
+# Generated at 2023-09-04 12:37
 
 videos:
   - filename: 奇异贤伴 黑色天使 S01E01 {喵萌奶茶屋}.mp4
@@ -49,3 +49,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/649562_07_SYNDUALITY_Noir_07_1080p.html
+
+  - filename: 奇异贤伴 黑色天使 S01E08 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/650184_07_SYNDUALITY_Noir_08_1080p_v2.html
