@@ -1,4 +1,4 @@
-# Generated at 2023-08-29 08:06
+# Generated at 2023-09-06 08:49
 
 videos:
   - filename: 僵尸百分百～在成为僵尸前要做的100件事～ S01E01 {爱恋字幕社}.mp4
@@ -42,3 +42,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/649726_7_100_Zom_100_-_Zombie_ni_Naru_made_ni_Shitai_100_no_Koto_06_1080P_MP4.html
+
+  - filename: 僵尸百分百～在成为僵尸前要做的100件事～ S01E07 {爱恋字幕社}.mp4
+    fansub: 爱恋字幕社
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/650424_7_100_Zom_100_-_Zombie_ni_Naru_made_ni_Shitai_100_no_Koto_07_1080P_MP4.html
