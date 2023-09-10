@@ -221,3 +221,14 @@ onair:
     bgm: '401301'
     fansub: 喵萌奶茶屋
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22奇异贤伴%20黑色天使%22%2C%22SYNDUALITY%20Noir%22%2C%22シン デュアリティ%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
+
+  - title: 我的幸福婚姻
+    translations:
+      - 'わたしの幸せな結婚'
+      - '我的幸福婚约'
+      - '我的美好婚事'
+      - 'Watashi no Shiawase na Kekkon'
+      - 'My Happy Marriage'
+    bgm: '377125'
+    fansub:
+      - 喵萌奶茶屋

@@ -1,4 +1,4 @@
-# Generated at 2023-09-03 01:31
+# Generated at 2023-09-11 12:52
 
 videos:
   - filename: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ Ⅱ S02E01 {ANi}.mp4
@@ -63,3 +63,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/650072_ANi_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ Ⅱ S02E10 {ANi}.mp4
+    fansub: ANi
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/650673_ANi_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
