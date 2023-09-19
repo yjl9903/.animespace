@@ -1,6 +1,6 @@
-storage: 'S:\aliyundriver\anime'
-
-library: '.\library'
+storage:
+  anime: 'S:\aliyundriver\anime'
+  library: '.\library'
 
 preference:
   format:
