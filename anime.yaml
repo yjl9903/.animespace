@@ -1,6 +1,11 @@
 storage:
-  anime: 'S:\aliyundriver\anime'
-  library: '.\library'
+  anime:
+    provider: webdav
+    url: http://localhost:5244/dav
+    directory: /aliyundriver/anime
+    username: admin
+    password: abcdef
+  library: './library'
 
 preference:
   format:
