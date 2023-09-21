@@ -1,4 +1,4 @@
-# Generated at 2023-09-16 03:01
+# Generated at 2023-09-22 12:58
 
 videos:
   - filename: 我的幸福婚姻 S01E01 {喵萌奶茶屋}.mp4
@@ -77,3 +77,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/651191_07_Watashi_no_Shiawase_na_Kekkon_11_1080p.html
+
+  - filename: 我的幸福婚姻 S01E12 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/651616_Watashi_no_Shiawase_na_Kekkon_My_Happy_Marriage_-_12_WEBRip_HEVC-10bit_1080p.html
