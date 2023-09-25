@@ -1,4 +1,4 @@
-# Generated at 2023-09-21 03:34
+# Generated at 2023-09-24 09:30
 
 videos:
   - filename: 堀与宫村 -piece- S01E01 {桜都字幕组}.mkv
@@ -84,3 +84,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/651534_-piece-_Horimiya_Piece_12_1080p.html
+
+  - filename: 堀与宫村 -piece- S01E13 {ANi}.mp4
+    fansub: ANi
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/651851_ANi_Horimiya_The_Missing_Pieces_-_-piece-_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
