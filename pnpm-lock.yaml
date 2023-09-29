@@ -5,12 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 devDependencies:
-  '@animespace/core':
-    specifier: 0.1.0-beta.11
-    version: 0.1.0-beta.11
   animespace:
-    specifier: 0.1.0-beta.11
-    version: 0.1.0-beta.11
+    specifier: 0.1.0-beta.13
+    version: 0.1.0-beta.13
   bgmc:
     specifier: ^0.0.4
     version: 0.0.4
@@ -31,72 +28,79 @@ packages:
       '@jridgewell/trace-mapping': 0.3.18
     dev: true
 
-  /@animespace/animegarden@0.1.0-beta.11:
-    resolution: {integrity: sha512-UAc06wSezwNipDMs/3AERsHVPIOYyOWp2KCCJvywzvSmWIa8jRVmzdDo8LmMwUvyC9HOWqM9/7jLLUUWYJGVlQ==}
-    engines: {node: '>=v16.0.0'}
+  /@animespace/animegarden@0.1.0-beta.13:
+    resolution: {integrity: sha512-OoSAEocKTB8+yQ8tZ55m6t5uIIaLYGzBl5DpxM89D0JdZjGT7RN/sS9Ru3xiFBOy92gf76MZPy030bAF4QWnNw==}
+    engines: {node: '>=v20.7.0'}
     dependencies:
-      '@animespace/core': 0.1.0-beta.11
+      '@animespace/core': 0.1.0-beta.13
       '@breadc/color': 0.9.6
       '@onekuma/map': 0.1.10
-      animegarden: 0.0.24
-      anitomy: 0.0.24
-      bgmc: 0.0.4
+      animegarden: 0.0.28
+      anitomy: 0.0.28
       cli-progress: 3.12.0
       date-fns: 2.30.0
       debug: 4.3.4
       defu: 6.1.2
       fs-extra: 11.1.1
       libaria2: 1.0.95(debug@4.3.4)
-      memofunc: 0.0.5
-      prompts: 2.4.2
-      undici: 5.22.1
-      webtorrent: 2.1.15
-      zod: 3.21.4
+      memofunc: 0.0.6
+      webtorrent: 2.1.25
+      zod: 3.22.2
     transitivePeerDependencies:
       - bufferutil
       - supports-color
       - utf-8-validate
     dev: true
 
-  /@animespace/bangumi@0.1.0-beta.11:
-    resolution: {integrity: sha512-JsiNvgJadyOCdfNh+RR0jQNQMA0te/vM5ePzmtkNX5N7XIH16FItzPtc1KadSxdrC8YUV/Hy0DwfhfBjVdZ8bA==}
-    engines: {node: '>=v16.0.0'}
+  /@animespace/bangumi@0.1.0-beta.13:
+    resolution: {integrity: sha512-g4ov1K9ijHrUWXV+lvwHe1f6+yAJ7Us5tLySY+7oXwakJQbiQ7jhW4OPzjjNQougD9wfa41UxhwaS6nW6uyg7w==}
+    engines: {node: '>=v20.7.0'}
     dependencies:
-      '@animespace/core': 0.1.0-beta.11
+      '@animespace/core': 0.1.0-beta.13
+      '@breadc/color': 0.9.6
+      animegarden: 0.0.28
       bgmc: 0.0.4
-      undici: 5.22.1
+      date-fns: 2.30.0
+      fs-extra: 11.1.1
+      prompts: 2.4.2
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /@animespace/core@0.1.0-beta.11:
-    resolution: {integrity: sha512-1kHDCQid/HSAU1+fvLTNsQC2SfQ+LK9sL0wSA+5TbMqLno2qaZUZiiMHrvO7087vvVep0yLzlFEX9idkjgn1AQ==}
-    engines: {node: '>=v16.0.0'}
+  /@animespace/core@0.1.0-beta.13:
+    resolution: {integrity: sha512-bJrpJoD7V8T/97A8wqRwFt9mwCGoykITepolrhH59JzA2xTXpdFkEfaAl5hroRDpKntbEyrYjIF225LcsMAJZw==}
+    engines: {node: '>=v20.7.0'}
     dependencies:
       '@breadc/color': 0.9.6
       '@breadc/death': 0.9.6
-      anitomy: 0.0.24
+      '@breadfs/webdav': 0.0.7
+      anitomy: 0.0.28
+      breadfs: 0.0.7
       consola: 3.2.3
       date-fns: 2.30.0
       debug: 4.3.4
       defu: 6.1.2
       fast-glob: 3.3.1
       fs-extra: 11.1.1
+      memofunc: 0.0.6
+      simptrad: 0.1.0
       trash: 8.1.1
-      yaml: 2.3.1
-      zod: 3.21.4
+      undici: 5.25.2
+      yaml: 2.3.2
+      zod: 3.22.2
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /@animespace/local@0.1.0-beta.11:
-    resolution: {integrity: sha512-nAgKEsXSk2AARIqazVet5q2LF+J8SKL4nsjR2SZrFd7w6WS1pPZICwFQ+XcNdwUzhKLM6wNqX3ytCu/uKHVsRA==}
-    engines: {node: '>=v16.0.0'}
+  /@animespace/local@0.1.0-beta.13:
+    resolution: {integrity: sha512-T9jEzA/USQMZ6y7qNEl9YquaUCdLVezfX7aftMsmWD6YK1FuFrwDkx9yxy6cnlUI+ROtukp3/MDcf3lUeienug==}
+    engines: {node: '>=v20.7.0'}
     dependencies:
-      '@animespace/core': 0.1.0-beta.11
+      '@animespace/core': 0.1.0-beta.13
       '@breadc/color': 0.9.6
-      anitomy: 0.0.24
-      memofunc: 0.0.5
+      anitomy: 0.0.28
+      breadfs: 0.0.7
+      memofunc: 0.0.6
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -395,6 +399,35 @@ packages:
     resolution: {integrity: sha512-08dVA+sEzXiVVfWZ4lohnc0XUzLNi/roLezQ6+L6qEpPkbwHdArDXtMcj6lbFE73Ix4v1xArrkjkwfhHGbkolQ==}
     dev: true
 
+  /@breadfs/core@0.0.7:
+    resolution: {integrity: sha512-vCWrFrZ9uUrE094Ygznh4k1LzyIC9IrnJUwRZbu4YFTewphfoTQtM9krEIT79wU0cjwDoGAwGgC9OI0I31QG2g==}
+    engines: {node: '>=v20.6.1'}
+    dependencies:
+      pathe: 1.1.1
+    dev: true
+
+  /@breadfs/node@0.0.7:
+    resolution: {integrity: sha512-9IgKV1wR8KDQju6CehRinv9co/LX7Q0peioxqKSkpCMILzOHs/wXVjJmewH1A96Heh3/4X/+8jJBT9gYVRJxvQ==}
+    engines: {node: '>=v20.6.1'}
+    dependencies:
+      '@breadfs/core': 0.0.7
+      fs-extra: 11.1.1
+    dev: true
+
+  /@breadfs/webdav@0.0.7:
+    resolution: {integrity: sha512-F2Q0Sp02KtjTxNm6J6LAcPXZMhK4GeN1IflxhHxHkKsnTqlL26Bb7ASNTO2ZzSfdMA9zODBqQfEsy0HzOb3j0Q==}
+    engines: {node: '>=v20.6.1'}
+    dependencies:
+      '@breadfs/core': 0.0.7
+      webdav: 5.3.0
+    dev: true
+
+  /@buttercup/fetch@0.1.2:
+    resolution: {integrity: sha512-mDBtsysQ0Gnrp4FamlRJGpu7HUHwbyLC4uUav1I7QAqThFAa/4d1cdZCxrV5gKvh6zO1fu95bILNJi4Y2hALhQ==}
+    optionalDependencies:
+      node-fetch: 3.3.2
+    dev: true
+
   /@jridgewell/gen-mapping@0.3.3:
     resolution: {integrity: sha512-HLhSWOLRi875zjjMG/r+Nv0oCW8umGb0BgEhyX3dDX3egwZtB8PqLnjz3yedt8R5StBrzcg4aBpnh8UA9D1BoQ==}
     engines: {node: '>=6.0.0'}
@@ -519,8 +552,8 @@ packages:
       err-code: 3.0.1
       get-browser-rtc: 1.1.0
       queue-microtask: 1.2.3
-      streamx: 2.15.0
-      uint8-util: 2.1.9
+      streamx: 2.15.1
+      uint8-util: 2.2.4
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -530,8 +563,8 @@ packages:
     dependencies:
       debug: 4.3.4
       queue-microtask: 1.2.3
-      streamx: 2.15.0
-      uint8-util: 2.1.9
+      streamx: 2.15.1
+      uint8-util: 2.2.4
       ws: 8.13.0(bufferutil@4.0.7)(utf-8-validate@5.0.10)
     transitivePeerDependencies:
       - bufferutil
@@ -543,7 +576,7 @@ packages:
     resolution: {integrity: sha512-bD6PvWbaf53JC04O7WnGDjqZBDgja/KT2Jd/6I2vJBIy+DLmQfQJZZ/G+16nAkVq1yGTIkO4rfc4RlH0DmEEqA==}
     engines: {node: '>=0.2.6'}
     dependencies:
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
     dev: true
 
   /@total-typescript/ts-reset@0.4.2:
@@ -594,41 +627,41 @@ packages:
       indent-string: 5.0.0
     dev: true
 
-  /animegarden@0.0.24:
-    resolution: {integrity: sha512-kRROXnsMpJI8PUfZpof7FVJFitH9xqQSl0HipFElObFNSNxR9/nvNwg5vrOVtWrW1vPCxNIZNR/2CAN3BMnSkg==}
+  /animegarden@0.0.28:
+    resolution: {integrity: sha512-EKpwj9pzipBmhmlfbyHZbLs0Ez9HbJR/qXQTn9DoO6b0QReS6/XqOQ2duRT//yS35/7G+l+kdLqULlgOneR9Vg==}
     engines: {node: '>=v18.16.0'}
     dependencies:
       cheerio: 1.0.0-rc.12
       simptrad: 0.1.0
-      zod: 3.21.4
+      zod: 3.22.2
     dev: true
 
-  /animespace@0.1.0-beta.11:
-    resolution: {integrity: sha512-+ghDow2IkYBTP8dnJ5iD/1SvKC+5AU36js6Qq8nxdO1GePuv9LdA+56rwKf3kto0dGYcnAC15md6bwK+cbnewQ==}
-    engines: {node: '>=v16.0.0'}
+  /animespace@0.1.0-beta.13:
+    resolution: {integrity: sha512-Tl5G+5d8Tv5yGkT7AHk3Ud36naQ319iSk+2+aHG9oo3pk2VmkU8byeyhyoGLMU8oTPAawBhE68kQTATR8L3Giw==}
+    engines: {node: '>=v20.7.0'}
     hasBin: true
     dependencies:
-      '@animespace/animegarden': 0.1.0-beta.11
-      '@animespace/bangumi': 0.1.0-beta.11
-      '@animespace/core': 0.1.0-beta.11
-      '@animespace/local': 0.1.0-beta.11
+      '@animespace/animegarden': 0.1.0-beta.13
+      '@animespace/bangumi': 0.1.0-beta.13
+      '@animespace/core': 0.1.0-beta.13
+      '@animespace/local': 0.1.0-beta.13
       '@breadc/color': 0.9.6
       '@onekuma/map': 0.1.10
       breadc: 0.9.6
       date-fns: 2.30.0
       debug: 4.3.4
       fs-extra: 11.1.1
-      open-editor: 4.0.0
+      open-editor: 4.1.1
       prompts: 2.4.2
-      undici: 5.22.1
+      undici: 5.25.2
     transitivePeerDependencies:
       - bufferutil
       - supports-color
       - utf-8-validate
     dev: true
 
-  /anitomy@0.0.24:
-    resolution: {integrity: sha512-H0BvXQnWqW2kvMLDURG/mES6gNVQ3GUp9JC7TXcQuGncuRPhkdy4PA7qv0k+qf87oJzpsExGtcbhuPewNe8JWw==}
+  /anitomy@0.0.28:
+    resolution: {integrity: sha512-c2h3pd/yIybbwMzeMiYZu1zrkYuOJg+dVh9mQBwE+b4BNZPPjXR+ujUcDnAKPx9xxDmlaY8W0CtDbkAi3Tlubg==}
     engines: {node: '>=v18.16.0'}
     dev: true
 
@@ -678,6 +711,10 @@ packages:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
     dev: true
 
+  /base-64@1.0.0:
+    resolution: {integrity: sha512-kwDPIFCGx0NZHog36dj+tHiwP4QMzsZ3AgMViUBKI0+V5n4U0ufTCUMhnQ04diaRI8EX/QcPfql7zlhZ7j4zgg==}
+    dev: true
+
   /base64-arraybuffer@1.0.2:
     resolution: {integrity: sha512-I3yl4r9QB5ZRY3XuJVEPfc2XhZO6YweFPI+UovAzn+8/hb3oJ6lnysaFcjVpkCPfVWFUDvoZ8kmVDP7WyRtYtQ==}
     engines: {node: '>= 0.6.0'}
@@ -687,11 +724,11 @@ packages:
     resolution: {integrity: sha512-D/vrAD4dLVX23NalHwb8dSvsUsxeRPO8Y7ToKA015JQYq69MLDOMkC0uGZYA/MPpltLO8rt8eqFC2j8DxjTZ/w==}
     dev: true
 
-  /bencode@3.0.3:
-    resolution: {integrity: sha512-aP282ducX2oSLiopRaPxvO6GMOsn0teN122hvlQQXlIr0fJC+Iirea6tmOWSLWPd+GtJf2YF6+YlbF7Wz90rIA==}
+  /bencode@4.0.0:
+    resolution: {integrity: sha512-AERXw18df0pF3ziGOCyUjqKZBVNH8HV3lBxnx5w0qtgMIk4a1wb9BkcCQbkp9Zstfrn/dzRwl7MmUHHocX3sRQ==}
     engines: {node: '>=12.20.0'}
     dependencies:
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
     dev: true
 
   /bep53-range@2.0.0:
@@ -713,11 +750,11 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /bittorrent-dht@11.0.4:
-    resolution: {integrity: sha512-pTQKeGAJBBGkNnHpnJcBrgGYoKVhM6Y58UOgNwx7Yto9zrkdjJlyo26XpTLYMCHQBjdDBg0PGuW1nkA8cJkoIQ==}
+  /bittorrent-dht@11.0.5:
+    resolution: {integrity: sha512-R09D6uNaziRqsc+B/j5QzkjceTak+wH9vcNLnkmt8A52EWF9lQwBP0vvCKgSA3AJOYYl+41n3osA2KYYn/z5uQ==}
     engines: {node: '>=12.20.0'}
     dependencies:
-      bencode: 3.0.3
+      bencode: 4.0.0
       debug: 4.3.4
       k-bucket: 5.1.0
       k-rpc: 5.1.0
@@ -743,30 +780,30 @@ packages:
     resolution: {integrity: sha512-VyLcUjVMEOdSpHaCG/7odvCdLbAB1y3l9A2V6WIje24uV7FkJPrQrH/RrlFmKxP89pFVDEnE+YlHaFujlFIZsg==}
     dev: true
 
-  /bittorrent-protocol@4.1.8:
-    resolution: {integrity: sha512-zWH6KEfxXk8dYC0n4+hkA8xozWvzSwdPurHZ/huTvRml20llrpVfV6qug+v0Da9HO5kZy+eyGJ93Q8rVT+MpgQ==}
+  /bittorrent-protocol@4.1.11:
+    resolution: {integrity: sha512-8ehCNnnRpxB6wrqDzYdLY6Bx0k1ZcXwHmxfVsU9xljolgfd4jhUq9gKcbnnUj4yR8I5/qHJ5fYVoGIfrmUlAAQ==}
     engines: {node: '>=12.20.0'}
     dependencies:
-      bencode: 3.0.3
+      bencode: 4.0.0
       bitfield: 4.1.0
       debug: 4.3.4
       rc4: 0.1.5
-      streamx: 2.15.0
+      streamx: 2.15.1
       throughput: 1.0.1
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
       unordered-array-remove: 1.0.2
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /bittorrent-tracker@10.0.10:
-    resolution: {integrity: sha512-a/JOmgAfFvyFj4ycVVzyda+MwflDIpzytdr/7DMPgIau1m7B94+JFy2skIsPEOyWH6iCSJtvLNDnC7EaTRvGNw==}
+  /bittorrent-tracker@10.0.12:
+    resolution: {integrity: sha512-EYQEwhOYkrRiiwkCFcM9pbzJInsAe7UVmUgevW133duwlZzjwf5ABwDE7pkkmNRS6iwN0b8LbI/94q16dYqiow==}
     engines: {node: '>=12.20.0'}
     hasBin: true
     dependencies:
       '@thaunknown/simple-peer': 9.12.1
       '@thaunknown/simple-websocket': 9.1.1(bufferutil@4.0.7)(utf-8-validate@5.0.10)
-      bencode: 3.0.3
+      bencode: 4.0.0
       bittorrent-peerid: 1.3.6
       chrome-dgram: 3.0.6
       clone: 2.1.2
@@ -783,7 +820,7 @@ packages:
       simple-get: 4.0.1
       socks: 2.7.1
       string2compact: 2.0.1
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
       unordered-array-remove: 1.0.2
       ws: 8.13.0(bufferutil@4.0.7)(utf-8-validate@5.0.10)
     optionalDependencies:
@@ -808,6 +845,12 @@ packages:
       concat-map: 0.0.1
     dev: true
 
+  /brace-expansion@2.0.1:
+    resolution: {integrity: sha512-XnAIvQ8eM+kC6aULx6wuQiwVsnzsi9d3WxzV3FpWTGA19F621kwdbsAcFKXgKUHZWsy+mY6iL1sHTxWEFCytDA==}
+    dependencies:
+      balanced-match: 1.0.2
+    dev: true
+
   /braces@3.0.2:
     resolution: {integrity: sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A==}
     engines: {node: '>=8'}
@@ -819,6 +862,16 @@ packages:
     resolution: {integrity: sha512-EEpIMOXHneAc3+65keu9sugIIEfOeFYaVVbgMlf581bb2Gr3Ib7QajLTtL1a3rnmzR4hBEgr8WdpDuJIdaRQDQ==}
     dependencies:
       '@breadc/color': 0.9.6
+    dev: true
+
+  /breadfs@0.0.7:
+    resolution: {integrity: sha512-lL2QMpTQfZqI7DguPcRkpxM2eNoS0PAJGxLlvWuw4huF69qjTf/H7Ya8L4KDn94ewHhHxTcSip3Okqy4JNcPCw==}
+    engines: {node: '>=v20.6.1'}
+    dependencies:
+      '@breadfs/core': 0.0.7
+      '@breadfs/node': 0.0.7
+    optionalDependencies:
+      '@breadfs/webdav': 0.0.7
     dev: true
 
   /browserslist@4.21.9:
@@ -847,6 +900,10 @@ packages:
       streamsearch: 1.1.0
     dev: true
 
+  /byte-length@1.0.2:
+    resolution: {integrity: sha512-ovBpjmsgd/teRmgcPh23d4gJvxDoXtAzEL9xTfMU8Yc2kqCDb7L9jAG0XHl1nzuGl+h3ebCIF1i62UFyA9V/2Q==}
+    dev: true
+
   /cache-chunk-store@3.2.2:
     resolution: {integrity: sha512-2lJdWbgHFFxcSth9s2wpId3CR3v1YC63KjP4T9WhpW7LWlY7Hiiei3QwwqzkWqlJTfR8lSy9F5kRQECeyj+yQA==}
     dependencies:
@@ -865,6 +922,10 @@ packages:
       ansi-styles: 3.2.1
       escape-string-regexp: 1.0.5
       supports-color: 5.5.0
+    dev: true
+
+  /charenc@0.0.2:
+    resolution: {integrity: sha512-yrLQ/yVUFXkzg7EDQsPieE/53+0RlaWTs+wBrvW36cyilJ2SaDWfl4Yj7MtLTXleV9uEKefbAGUPv2/iWSooRA==}
     dev: true
 
   /cheerio-select@2.1.0:
@@ -975,12 +1036,12 @@ packages:
     resolution: {integrity: sha512-PXHBvGLuL69u55IkLa5e5838fLhIMHxmkV4ge42a8alGyn7BtawYgI0hQ849EedvtHIOLNNH3i6eQU1BiE9SUA==}
     dev: true
 
-  /create-torrent@6.0.12:
-    resolution: {integrity: sha512-UlPIttGpGhcoF3rW2NeSCr/t+Qr5bfXc6Bn/fFPeks9345LTU9OEv3yevllluFkEjF5oi7Q591Hxv8kmajNEXQ==}
+  /create-torrent@6.0.15:
+    resolution: {integrity: sha512-+FPYgumN6OEFTjxzSF7S7306DXu74fNF5m7CGiu+n2U+yXThnIAy9gelWjhqcndxVN2a7DKlLHqrRlr25HOQ8A==}
     engines: {node: '>=12'}
     hasBin: true
     dependencies:
-      bencode: 3.0.3
+      bencode: 4.0.0
       block-iterator: 1.1.1
       fast-readable-async-iterator: 1.1.1
       is-file: 1.0.0
@@ -991,7 +1052,7 @@ packages:
       piece-length: 2.0.1
       queue-microtask: 1.2.3
       run-parallel: 1.2.0
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
     dev: true
 
   /cross-fetch-ponyfill@1.0.3:
@@ -1008,6 +1069,10 @@ packages:
       path-key: 3.1.1
       shebang-command: 2.0.0
       which: 2.0.2
+    dev: true
+
+  /crypt@0.0.2:
+    resolution: {integrity: sha512-mCxBlsHFYh9C+HVpiEacem8FEBnMXgU9gy4zmNC+SXAZNB/1idgp/aulFJ4FgCi7GPEVbfyng092GqL2k2rmow==}
     dev: true
 
   /css-select@5.1.0:
@@ -1228,6 +1293,13 @@ packages:
     resolution: {integrity: sha512-xEHkLUEmStETI+15zhglJLO9TjXxNkkp2ldEfYVZdcqxFhM172EfGl1irI6mVlTxXspYKH1/kjevnt/XSsPeFA==}
     dev: true
 
+  /fast-xml-parser@4.3.1:
+    resolution: {integrity: sha512-viVv3xb8D+SiS1W4cv4tva3bni08kAkx0gQnWrykMM8nXPc1FxqZPU00dCEVjkiCg4HoXd2jC4x29Nzg/l2DAA==}
+    hasBin: true
+    dependencies:
+      strnum: 1.0.5
+    dev: true
+
   /fastq@1.15.0:
     resolution: {integrity: sha512-wBrocU2LCXXa+lWBt8RoIRD89Fi8OdABODa/kEnyeyjS5aZO5/GNvI5sEINADqP/h8M29UHTHUb53sUu5Ihqdw==}
     dependencies:
@@ -1416,6 +1488,15 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
+  /he@1.2.0:
+    resolution: {integrity: sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==}
+    hasBin: true
+    dev: true
+
+  /hot-patcher@2.0.1:
+    resolution: {integrity: sha512-ECg1JFG0YzehicQaogenlcs2qg6WsXQsxtnbr1i696u5tLUjtJdQAh0u2g0Q5YV45f263Ta1GnUJsc8WIfJf4Q==}
+    dev: true
+
   /htmlparser2@8.0.2:
     resolution: {integrity: sha512-GYdjWKDkbRLkZ5geuHs5NY1puJ+PXwP7+fHPRz06Eirsb9ugf6d8kkXav6ADhcODhFFPMIXyxkxSuMf3D6NCFA==}
     dependencies:
@@ -1495,6 +1576,10 @@ packages:
   /ipaddr.js@2.1.0:
     resolution: {integrity: sha512-LlbxQ7xKzfBusov6UMi4MFpEg0m+mAm9xyNGEduwXMEDuf4WfzB/RZwMVYEd7IKGvh4IUkEXYxtAVu9T3OelJQ==}
     engines: {node: '>= 10'}
+    dev: true
+
+  /is-buffer@1.1.6:
+    resolution: {integrity: sha512-NcdALwpXkTm5Zvvbk7owOUSvVvBKDgKP5/ewfXEznmQFfs4ZRmanOeKBTjRVjka3QFoN6XJ+9F3USqfHqTaU5w==}
     dev: true
 
   /is-docker@2.2.1:
@@ -1632,6 +1717,10 @@ packages:
     resolution: {integrity: sha512-t+KLJFkHPQk8lfN6WBOiGkiUXoub+gnb2XTYI2P3aiISL+94xgZ1vgz1SXN/N4hthuOoLXarXfBZPUruyjQtfA==}
     dev: true
 
+  /layerr@2.0.1:
+    resolution: {integrity: sha512-z0730CwG/JO24evdORnyDkwG1Q7b7mF2Tp1qRQ0YvrMMARbt1DFG694SOv439Gm7hYKolyZyaB49YIrYIfZBdg==}
+    dev: true
+
   /libaria2@1.0.95(debug@4.3.4):
     resolution: {integrity: sha512-nNITIUahBaZKnJHdKemzaEKGrSCvIJ/zgGrd36hw7uPTKP8igXjafVzqGHd/2/7CHyoxy0qOj+FFlRXo0G+Qgw==}
     dependencies:
@@ -1703,11 +1792,19 @@ packages:
     dependencies:
       '@thaunknown/thirty-two': 1.0.3
       bep53-range: 2.0.0
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
     dev: true
 
-  /memofunc@0.0.5:
-    resolution: {integrity: sha512-9XT4U8FRkhrmcrcmKxcVOQiNSmNfxkw2LBoltBzNGF4MgbZK4TK7YhdWkRJK6rs9bSB3+n+/t4fG9g2Jbuw+Yg==}
+  /md5@2.3.0:
+    resolution: {integrity: sha512-T1GITYmFaKuO91vxyoQMFETst+O71VUPEU3ze5GNzDm0OWdP8v1ziTaAEPUr/3kLsY3Sftgz242A1SetQiDL7g==}
+    dependencies:
+      charenc: 0.0.2
+      crypt: 0.0.2
+      is-buffer: 1.1.6
+    dev: true
+
+  /memofunc@0.0.6:
+    resolution: {integrity: sha512-qTZBsmxET9X4ePx+8lJfB4Iatt/IQJOIoV6K7xx5rZ2jerbHxoZ/9U7c4KBzcNj3wrAYM7OmKfw4leejm2FnPg==}
     dev: true
 
   /memory-chunk-store@1.3.5:
@@ -1767,6 +1864,13 @@ packages:
       brace-expansion: 1.1.11
     dev: true
 
+  /minimatch@7.4.6:
+    resolution: {integrity: sha512-sBz8G/YjVniEz6lKPNpKxXwazJe4c19fEfV2GDMX6AjFz+MX9uDWIZW8XreVhkFW3fkIdTv/gxWr/Kks5FFAVw==}
+    engines: {node: '>=10'}
+    dependencies:
+      brace-expansion: 2.0.1
+    dev: true
+
   /minimist@1.2.8:
     resolution: {integrity: sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==}
     dev: true
@@ -1796,6 +1900,10 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
+
+  /nested-property@4.0.0:
+    resolution: {integrity: sha512-yFehXNWRs4cM0+dz7QxCd06hTbWbSkV0ISsqBfkntU6TOY4Qm3Q88fRRLOddkGh2Qq6dZvnKVAahfhjcUvLnyA==}
+    dev: true
 
   /netmask@2.0.2:
     resolution: {integrity: sha512-dBpDMdxv9Irdq66304OLfEmQ9tbNRFnFTuZiLo+bD+r332bBmMJ8GBLXklIXXgxd3+v9+KUnZaUR5PJMa75Gsg==}
@@ -1871,8 +1979,8 @@ packages:
       mimic-fn: 2.1.0
     dev: true
 
-  /open-editor@4.0.0:
-    resolution: {integrity: sha512-5mKZ98iFdkivozt5XTCOspoKbL3wtYu6oOoVxfWQ0qUX9NYsK8pdkHE7VUHXr+CwyC3nf6mV0S5FPsMS65innw==}
+  /open-editor@4.1.1:
+    resolution: {integrity: sha512-SYtGeZ9Zkzj/naoZaEF9LzwDYEGwuqQ4Fx5E3xdVRN98LFJjvMhG/ElByFEOVOiXepGra/Wi1fA4i/E1fXSBsw==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     dependencies:
       env-editor: 1.1.0
@@ -1943,17 +2051,17 @@ packages:
       aggregate-error: 4.0.1
     dev: true
 
-  /parse-torrent@11.0.12:
-    resolution: {integrity: sha512-eraUrzTwBciRSkDSQhcjp/EVoc1Z0KVO85bQlI6LCGplByXloaul5SnL0qvRO0wK+YSoNjOfJUxTS9xpgjIkdA==}
+  /parse-torrent@11.0.14:
+    resolution: {integrity: sha512-/9Yp1FAx5Qd7JX4/0LPiJ73bxVoUgymRDlyB2xAkJ1r9tKrtc1L4Dr024TZDwp1qzDa+oITsYn0i/SbR+fWm4w==}
     engines: {node: '>=12.20.0'}
     hasBin: true
     dependencies:
-      bencode: 3.0.3
+      bencode: 4.0.0
       cross-fetch-ponyfill: 1.0.3
       get-stdin: 9.0.0
       magnet-uri: 7.0.5
       queue-microtask: 1.2.3
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
     dev: true
 
   /parse5-htmlparser2-tree-adapter@7.0.0:
@@ -1984,6 +2092,10 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
+  /path-posix@1.0.0:
+    resolution: {integrity: sha512-1gJ0WpNIiYcQydgg3Ed8KzvIqTsDpNwq+cjBCssvBtuTWjEqY1AW+i+OepiEMqDCzyro9B2sLAe4RBPajMYFiA==}
+    dev: true
+
   /path-type@3.0.0:
     resolution: {integrity: sha512-T2ZUsdZFHgA3u4e5PfPbjd7HDDpxPnQb5jN0SrDsjNSuVXHJqtwTnWqG0B1jZrgmJ/7lj1EmVIByWt1gxGkWvg==}
     engines: {node: '>=4'}
@@ -1994,6 +2106,10 @@ packages:
   /path-type@4.0.0:
     resolution: {integrity: sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==}
     engines: {node: '>=8'}
+    dev: true
+
+  /pathe@1.1.1:
+    resolution: {integrity: sha512-d+RQGp0MAYTIaDBIMmOfMwz3E+LOZnxx1HZd5R18mmCZY0QBlK0LDZfPc8FW8Ed2DlvsuE6PRjroDY+wg4+j/Q==}
     dev: true
 
   /picocolors@1.0.0:
@@ -2048,6 +2164,10 @@ packages:
     dependencies:
       end-of-stream: 1.4.4
       once: 1.4.0
+    dev: true
+
+  /querystringify@2.2.0:
+    resolution: {integrity: sha512-FIqgj2EUvTa7R50u0rGsyTftzjYmv/a3hO345bZNrqabNqjtgiDMgmo4mkUjd+nzU5oF3dClKqFIPUKybUyqoQ==}
     dev: true
 
   /queue-microtask@1.2.3:
@@ -2112,6 +2232,10 @@ packages:
 
   /regenerator-runtime@0.13.11:
     resolution: {integrity: sha512-kY1AZVr2Ra+t+piVaJ4gxaFaReZVH40AKNo7UCX6W+dEwBo/2oZJzqfuN1qLq1oL45o56cPaTXELwrTh8Fpggg==}
+    dev: true
+
+  /requires-port@1.0.0:
+    resolution: {integrity: sha512-KigOCHcocU3XODJxsu8i/j8T9tzT4adHiecwORRQ0ZZFcp7ahwXuRU1m+yuO90C5ZUyGeGfocHDI14M3L3yDAQ==}
     dev: true
 
   /reusify@1.0.4:
@@ -2211,7 +2335,7 @@ packages:
     resolution: {integrity: sha512-Ax+TbUOho84bWUc3AKqWtkIvAIVws7d6QI4oJkgH4yQ5Yil+lR3vjd/7qd51dHKGzS5bFxg0++QwyNRN7s6rZA==}
     dependencies:
       limiter: 1.1.5
-      streamx: 2.15.0
+      streamx: 2.15.1
     dev: true
 
   /split@1.0.1:
@@ -2225,8 +2349,8 @@ packages:
     engines: {node: '>=10.0.0'}
     dev: true
 
-  /streamx@2.15.0:
-    resolution: {integrity: sha512-HcxY6ncGjjklGs1xsP1aR71INYcsXFJet5CU1CHqihQ2J5nOsbd4OjgjHO42w/4QNv9gZb3BueV+Vxok5pLEXg==}
+  /streamx@2.15.1:
+    resolution: {integrity: sha512-fQMzy2O/Q47rgwErk/eGeLu/roaFWV0jVsogDmrszM9uIw8L5OA+t+V93MgYlufNptfjmYR1tOMWhei/Eh7TQA==}
     dependencies:
       fast-fifo: 1.3.0
       queue-tick: 1.0.1
@@ -2269,6 +2393,10 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
+  /strnum@1.0.5:
+    resolution: {integrity: sha512-J8bbNyKKXl5qYcR36TIO8W3mVGVHrmmxsd5PAItGkmyzwJvybiw2IVq5nqd0i4LSNSkB/sx9VHllbfFdr9k1JA==}
+    dev: true
+
   /supports-color@5.5.0:
     resolution: {integrity: sha512-QjVjwdXIt408MIiAqCX4oUKsgU2EqAGzs2Ppkm4aQYbjm+ZEWEcW4SfFNTr4uMNZma0ey4f5lgLrkB0aX0QMow==}
     engines: {node: '>=4'}
@@ -2306,13 +2434,13 @@ packages:
       is-number: 7.0.0
     dev: true
 
-  /torrent-discovery@10.0.13:
-    resolution: {integrity: sha512-hzAW20/8f2BD6UszXL8yvHw/t53xG5lbHRHnC+y5+sznOOp1zs5ZvK2mI75m5QE5ouTuFTDXgRrx/KI2hP6v3Q==}
+  /torrent-discovery@10.0.16:
+    resolution: {integrity: sha512-HUvCgL3JAyk9VKUfFBOD7Fx/MWVNmjiCjaEOEc6P7ijm2BpPWpdjlXydP+/12f/NB3T4ItuyMjcGdPseGGjNTw==}
     engines: {node: '>=12.20.0'}
     dependencies:
-      bittorrent-dht: 11.0.4
+      bittorrent-dht: 11.0.5
       bittorrent-lsd: 2.0.0
-      bittorrent-tracker: 10.0.10
+      bittorrent-tracker: 10.0.12
       debug: 4.3.4
       run-parallel: 1.2.0
     transitivePeerDependencies:
@@ -2323,7 +2451,7 @@ packages:
     resolution: {integrity: sha512-j0tRX7qq22nIuVFF57Tg/wAvFq79F1eM9pcMxY+b0qCCe7yXJnIrqF+Q5YEJ94tNisDnJzcqDHNrPmD9X/yAIg==}
     engines: {node: '>=12.20.0'}
     dependencies:
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
     dev: true
 
   /trash@8.1.1:
@@ -2349,14 +2477,21 @@ packages:
     resolution: {integrity: sha512-TrY6DsjTQQgyS3E3dBaOXf0TpPD8u9FVrVYmKVegJuFw51n/YB9XPt+U6ydzFG5ZIN7+DIjPbNmXoBj9esYhgQ==}
     dev: true
 
-  /uint8-util@2.1.9:
-    resolution: {integrity: sha512-twtktH1wpZwM8ivYXs2HL3nqHRosKGOxrPnfLxqYnzOR0RrIKbn/GrUZinXJ9n8tWzW8VIW++IpES4LYtGHSDQ==}
+  /uint8-util@2.2.4:
+    resolution: {integrity: sha512-uEI5lLozmKQPYEevfEhP9LY3Je5ZmrQhaWXrzTVqrLNQl36xsRh8NiAxYwB9J+2BAt99TRbmCkROQB2ZKhx4UA==}
     dependencies:
       base64-arraybuffer: 1.0.2
     dev: true
 
   /undici@5.22.1:
     resolution: {integrity: sha512-Ji2IJhFXZY0x/0tVBXeQwgPlLWw13GVzpsWPQ3rV50IFMMof2I55PZZxtm4P6iNq+L5znYN9nSTAq0ZyE6lSJw==}
+    engines: {node: '>=14.0'}
+    dependencies:
+      busboy: 1.6.0
+    dev: true
+
+  /undici@5.25.2:
+    resolution: {integrity: sha512-tch8RbCfn1UUH1PeVCXva4V8gDpGAud/w0WubD6sHC46vYQ3KDxL+xv1A2UxK0N6jrVedutuPHxe1XIoqerwMw==}
     engines: {node: '>=14.0'}
     dependencies:
       busboy: 1.6.0
@@ -2388,6 +2523,18 @@ packages:
       picocolors: 1.0.0
     dev: true
 
+  /url-join@5.0.0:
+    resolution: {integrity: sha512-n2huDr9h9yzd6exQVnH/jU5mr+Pfx08LRXXZhkLLetAMESRj+anQsTAh940iMrIetKAmry9coFuZQ2jY8/p3WA==}
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    dev: true
+
+  /url-parse@1.5.10:
+    resolution: {integrity: sha512-WypcfiRhfeUP9vvF0j6rw0J3hrWrw6iZv3+22h6iRMJ/8z1Tj6XfLP4DsUix5MhMPnXpiHDoKyoZ/bdCkwBCiQ==}
+    dependencies:
+      querystringify: 2.2.0
+      requires-port: 1.0.0
+    dev: true
+
   /user-home@2.0.0:
     resolution: {integrity: sha512-KMWqdlOcjCYdtIJpicDSFBQ8nFwS2i9sslAd6f4+CBGcU4gist2REnr2fxj2YocvJFxSF3ZOHLYLVZnUxv4BZQ==}
     engines: {node: '>=0.10.0'}
@@ -2395,23 +2542,23 @@ packages:
       os-homedir: 1.0.2
     dev: true
 
-  /ut_metadata@4.0.2:
-    resolution: {integrity: sha512-eRGDIdvgjySf2LQMOIjn+RDMVm9qTrer3xSCKhdboMFo2ugihV3hBGOzZQFbqF7QRRtrNJsHaPKfG2CUApJA9Q==}
+  /ut_metadata@4.0.3:
+    resolution: {integrity: sha512-2tovup0VDYpT8t8+EhhhKBmbgIyiYyJQZ+Hf+/61+SvjuRS2MEeA5CiSARP4q+9/83Wu09OsGrUre/Zv6OI5NA==}
     engines: {node: '>=12.20.0'}
     dependencies:
-      bencode: 3.0.3
+      bencode: 4.0.0
       bitfield: 4.1.0
       debug: 4.3.4
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /ut_pex@4.0.3:
-    resolution: {integrity: sha512-u/2pLfKMyBuZ5qMFbyjP8dGw3+zw8NI0r4yR09oJe3LIvSo9lTPmHim47449Wh2Wn0yRO6PAf94OxJV3okRU7w==}
+  /ut_pex@4.0.4:
+    resolution: {integrity: sha512-isVTbp2TKGoMOu+4Zh/i6ijpYr0VG83xjRPgCXaUjKzgXXndjCMWg32/9kZjubD+kxEXcmXMkoS8IttS9FZE8g==}
     engines: {node: '>=12.20.0'}
     dependencies:
-      bencode: 3.0.3
+      bencode: 4.0.0
       compact2string: 1.4.1
       string2compact: 2.0.1
     dev: true
@@ -2460,8 +2607,27 @@ packages:
     engines: {node: '>= 8'}
     dev: true
 
-  /webtorrent@2.1.15:
-    resolution: {integrity: sha512-QdZgJrFbn98YYDTaXv4spL7es9MtJHamlkJsdLGoi2ZgJYVB2GBcARW/B5r1jEqDHhqW4r63MHpb0ZwYuVMYsQ==}
+  /webdav@5.3.0:
+    resolution: {integrity: sha512-xRu/URZGCxDPXmT+9Gu6tNGvlETBwjcuz69lx/6Qlq/0q3Gu2GSVyRt+mP0vTlLFfaY3xZ5O/SPTQ578tC/45Q==}
+    engines: {node: '>=14'}
+    dependencies:
+      '@buttercup/fetch': 0.1.2
+      base-64: 1.0.0
+      byte-length: 1.0.2
+      fast-xml-parser: 4.3.1
+      he: 1.2.0
+      hot-patcher: 2.0.1
+      layerr: 2.0.1
+      md5: 2.3.0
+      minimatch: 7.4.6
+      nested-property: 4.0.0
+      path-posix: 1.0.0
+      url-join: 5.0.0
+      url-parse: 1.5.10
+    dev: true
+
+  /webtorrent@2.1.25:
+    resolution: {integrity: sha512-mk+drIsQTktgNSygYj7fqT6FIWBjZbb2oWulZHumgVGp5tqTKay28ejNpxPKC4zr7nJZDI2F80PSC/i/fYa7aw==}
     engines: {node: '>=14'}
     dependencies:
       '@silentbot1/nat-api': 0.4.7
@@ -2469,12 +2635,12 @@ packages:
       '@webtorrent/http-node': 1.3.0
       addr-to-ip-port: 2.0.0
       bitfield: 4.1.0
-      bittorrent-dht: 11.0.4
-      bittorrent-protocol: 4.1.8
+      bittorrent-dht: 11.0.5
+      bittorrent-protocol: 4.1.11
       cache-chunk-store: 3.2.2
       chunk-store-iterator: 1.0.3
       cpus: 1.0.3
-      create-torrent: 6.0.12
+      create-torrent: 6.0.15
       cross-fetch-ponyfill: 1.0.3
       debug: 4.3.4
       escape-html: 1.0.3
@@ -2487,7 +2653,7 @@ packages:
       memory-chunk-store: 1.3.5
       mime: 3.0.0
       once: 1.4.0
-      parse-torrent: 11.0.12
+      parse-torrent: 11.0.14
       pump: 3.0.0
       queue-microtask: 1.2.3
       random-iterate: 1.0.1
@@ -2495,14 +2661,14 @@ packages:
       run-parallel: 1.2.0
       run-parallel-limit: 1.1.0
       speed-limiter: 1.0.2
-      streamx: 2.15.0
+      streamx: 2.15.1
       throughput: 1.0.1
-      torrent-discovery: 10.0.13
+      torrent-discovery: 10.0.16
       torrent-piece: 3.0.0
-      uint8-util: 2.1.9
+      uint8-util: 2.2.4
       unordered-array-remove: 1.0.2
-      ut_metadata: 4.0.2
-      ut_pex: 4.0.3
+      ut_metadata: 4.0.3
+      ut_pex: 4.0.4
     optionalDependencies:
       utp-native: 2.5.3
     transitivePeerDependencies:
@@ -2569,8 +2735,8 @@ packages:
     resolution: {integrity: sha512-a4UGQaWPH59mOXUYnAG2ewncQS4i4F43Tv3JoAM+s2VDAmS9NsK8GpDMLrCHPksFT7h3K6TOoUNn2pb7RoXx4g==}
     dev: true
 
-  /yaml@2.3.1:
-    resolution: {integrity: sha512-2eHWfjaoXgTBC2jNM1LRef62VQa0umtvRiDSk6HSzW7RvS5YtkabJrwYLLEKWBc8a5U2PTSCs+dJjUTJdlHsWQ==}
+  /yaml@2.3.2:
+    resolution: {integrity: sha512-N/lyzTPaJasoDmfV7YTrYCI0G/3ivm/9wdG0aHuheKowWQwGTsK0Eoiw6utmzAnI6pkJa0DUVygvp3spqqEKXg==}
     engines: {node: '>= 14'}
     dev: true
 
@@ -2579,6 +2745,6 @@ packages:
     engines: {node: '>=12.20'}
     dev: true
 
-  /zod@3.21.4:
-    resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
+  /zod@3.22.2:
+    resolution: {integrity: sha512-wvWkphh5WQsJbVk1tbx1l1Ly4yg+XecD+Mq280uBGt9wa5BKSWf4Mhp6GmrkPixhMxmabYY7RbzlwVP32pbGCg==}
     dev: true

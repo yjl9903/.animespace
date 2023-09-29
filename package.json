@@ -5,13 +5,12 @@
     "commit": "optc commit.ts"
   },
   "devDependencies": {
-    "@animespace/core": "0.1.0-beta.11",
-    "animespace": "0.1.0-beta.11",
+    "animespace": "0.1.0-beta.13",
     "bgmc": "^0.0.4",
     "optc": "^0.6.3",
     "undici": "^5.22.1"
   },
-  "packageManager": "pnpm@8.6.10",
+  "packageManager": "pnpm@8.8.0",
   "engines": {
     "node": ">=v20.0.0"
   }

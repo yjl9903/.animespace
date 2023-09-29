@@ -11,6 +11,7 @@ onair:
     translations:
       - It's MyGO!!!!!
     bgm: '428735'
+    status: finish
     fansub:
       - Pharos of MyGO
       - 千城忆梦
@@ -34,6 +35,7 @@ onair:
       - 'ライアー・ライアー'
       - 'Liar Liar'
       - 'LIAR·LIAR'
+    status: finish
     bgm: '333979'
     fansub:
       - LoliHouse
@@ -72,6 +74,7 @@ onair:
   - title: 总之就是非常可爱 女子高中篇
     translations:
       - 'トニカクカワイイ 女子高編'
+    status: finish
     bgm: '441233'
     season: 3
     rewrite:
@@ -103,6 +106,7 @@ onair:
       - '無職転生Ⅱ ～異世界行ったら本気だす～'
       - '无职转生Ⅱ ～在异世界认真地活下去～'
       - 'Mushoku Tensei'
+    status: finish
     season: 2
     bgm: '373247'
     fansub:
@@ -229,6 +233,7 @@ onair:
       - '我的美好婚事'
       - 'Watashi no Shiawase na Kekkon'
       - 'My Happy Marriage'
+    status: finish
     bgm: '377125'
     fansub:
       - 喵萌奶茶屋

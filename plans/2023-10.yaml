@@ -1,0 +1,179 @@
+title: 2023 年 7 月新番放送计划
+
+date: 2023-09-28 12:00
+
+status: onair
+
+onair:
+  - title: 葬送的芙莉莲
+    translations:
+      - '葬送のフリーレン'
+      - 'Frieren: Beyond Journey''s End'
+      - 'Sousou no Frieren'
+      - '葬送的芙莉蓮'
+      - 'FRIEREN'
+    bgm: '400602'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22葬送的芙莉莲%22%2C%22葬送のフリーレン%22%2C%22Frieren:%20Beyond%20Journey's%20End%22%2C%22Sousou%20no%20Frieren%22%2C%22葬送的芙莉蓮%22%2C%22FRIEREN%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 星灵感应
+    translations:
+      - '星屑テレパス'
+      - 'Hoshikuzu Telepath'
+    bgm: '404115'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22星灵感应%22%2C%22星屑テレパス%22%2C%22Hoshikuzu%20Telepath%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 圣剑学院的魔剑使
+    translations:
+      - '聖剣学院の魔剣使い'
+      - 'Seiken Gakuin no Maken Tsukai'
+    bgm: '353819'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22圣剑学院的魔剑使%22%2C%22聖剣学院の魔剣使い%22%2C%22Seiken%20Gakuin%20no%20Maken%20Tsukai%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 偶像大师 百万现场！
+    translations:
+      - 'アイドルマスター ミリオンライブ！'
+    bgm: '309807'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22偶像大师%20百万现场！%22%2C%22アイドルマスター%20ミリオンライブ！%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 赛马娘 Pretty Derby 第三季
+    translations:
+      - 'ウマ娘 プリティーダービー Season 3'
+      - '赛马娘 第三季'
+      - 'Uma Musume: Pretty Derby Season 3'
+    season: 3
+    bgm: '407332'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22赛马娘%20Pretty%20Derby%20第三季%22%2C%22ウマ娘%20プリティーダービー%20Season%203%22%2C%22赛马娘%20第三季%22%2C%22Uma%20Musume:%20Pretty%20Derby%20Season%203%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 经验丰富的你和经验为零的我交往的故事
+    translations:
+      - '経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。'
+      - '位于恋爱光谱极端的我们'
+    bgm: '400595'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22经验丰富的你和经验为零的我交往的故事%22%2C%22経験済みなキミと、%20経験ゼロなオレが、%20お付き合いする話。%22%2C%22位于恋爱光谱极端的我们%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 药屋少女的呢喃
+    translations:
+      - '薬屋のひとりごと'
+      - '药师少女的独语'
+      - 'Kusuriya no Hitorigoto'
+    bgm: '420628'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22药屋少女的呢喃%22%2C%22薬屋のひとりごと%22%2C%22药师少女的独语%22%2C%22Kusuriya%20no%20Hitorigoto%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 想要成为影之实力者！ 第二季
+    translations:
+      - '陰の実力者になりたくて！ 2nd season'
+      - '我想成為影之強者！第二季'
+      - 'Kage no Jitsuryokusha ni Naritakute! 2nd Season'
+      - 'The Eminence in Shadow 2nd Season'
+    season: 2
+    bgm: '419846'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22想要成为影之实力者！%20第二季%22%2C%22陰の実力者になりたくて！%202nd%20season%22%2C%22我想成為影之強者！第二季%22%2C%22Kage%20no%20Jitsuryokusha%20ni%20Naritakute!%202nd%20Season%22%2C%22The%20Eminence%20in%20Shadow%202nd%20Season%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 盾之勇者成名录 第三季
+    translations:
+      - '盾の勇者の成り上がり Season 3'
+      - '盾勇 3'
+      - 'Tate no Yuusha no Nariagari Season 3'
+      - 'The Rising of the Shield Hero Season 3'
+    season: 3
+    bgm: '289907'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22盾之勇者成名录%20第三季%22%2C%22盾の勇者の成り上がり%20Season%203%22%2C%22盾勇%203%22%2C%22Tate%20no%20Yuusha%20no%20Nariagari%20Season%203%22%2C%22The%20Rising%20of%20the%20Shield%20Hero%20Season%203%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 米奇与达利
+    translations:
+      - 'ミギとダリ'
+      - '米奇与达利 恶童物语'
+      - '基米与达利'
+      - 'Migi to Dali'
+      - 'Migi &amp; Dali'
+    bgm: '362255'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22米奇与达利%22%2C%22ミギとダリ%22%2C%22米奇与达利%20恶童物语%22%2C%22基米与达利%22%2C%22Migi%20to%20Dali%22%2C%22Migi%20&amp;%20Dali%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 16bit的感动 ANOTHER LAYER
+    translations:
+      - '16bitセンセーション ANOTHER LAYER'
+      - '16bit Sensation: Another Layer'
+    bgm: '413741'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%2216bit的感动%20ANOTHER%20LAYER%22%2C%2216bitセンセーション%20ANOTHER%20LAYER%22%2C%2216bit%20Sensation:%20Another%20Layer%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+
+  - title: 地下忍者
+    translations:
+      - 'アンダーニンジャ'
+      - 'Under Ninja'
+    bgm: '348220'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22地下忍者%22%2C%22アンダーニンジャ%22%2C%22Under%20Ninja%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 冥王
+    translations:
+      - 'PLUTO'
+    status: finish
+    bgm: '217021'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22冥王%22%2C%22PLUTO%22%2C%22普鲁托%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 极速车魂
+    translations:
+      - 'MFゴースト'
+      - '燃油車鬥魂'
+      - 'MF GHOST'
+    bgm: '364252'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22极速车魂%22%2C%22MFゴースト%22%2C%22燃油車鬥魂%22%2C%22MF%20GHOST%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 女友成双 第二季
+    directory: 女友成双/Season 2
+    translations:
+      - 'カノジョも彼女 Season 2'
+    season: 2
+    bgm: '398949'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22女友成双%20第二季%22%2C%22カノジョも彼女%20Season%202%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 新石纪 NEW WORLD 第2部分
+    translations:
+      - 'Dr.STONE NEW WORLD 第2クール'
+      - 'Dr.STONE NEW WORLD part 2'
+      - 'Dr.STONE 第3期 part 2'
+      - 'Dr.STONE 3 part 2'
+      - '新石纪 第三季 第2部分'
+      - '石纪元 第三季 第2部分'
+      - 'ドクターストーン 第3期 第2部分'
+    season: 3
+    bgm: '424372'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22新石纪%20NEW%20WORLD%20第2部分%22%2C%22Dr.STONE%20NEW%20WORLD%20第2クール%22%2C%22Dr.STONE%20NEW%20WORLD%20part%202%22%2C%22Dr.STONE%20第3期%20part%202%22%2C%22Dr.STONE%203%20part%202%22%2C%22新石纪%20第三季%20第2部分%22%2C%22石纪元%20第三季%20第2部分%22%2C%22ドクターストーン%20第3期%20第2部分%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 间谍过家家 第二季
+    translations:
+      - 'SPY×FAMILY Season 2'
+      - 'Spy x Family (2023)'
+    season: 2
+    bgm: '411427'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22间谍过家家%20第二季%22%2C%22SPY×FAMILY%20Season%202%22%2C%22Spy%20x%20Family%20(2023)%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 我们的雨色协议
+    translations:
+      - '僕らの雨いろプロトコル'
+      - 'Bokura no Ame-iro Protocol'
+    bgm: '444634'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22我们的雨色协议%22%2C%22僕らの雨いろプロトコル%22%2C%22Bokura%20no%20Ame-iro%20Protocol%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 神选
+    translations:
+      - 'カミエラビ'
+      - 'GOD.app'
+      - 'Kamierabi'
+    bgm: '425601'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22神选%22%2C%22カミエラビ%22%2C%22GOD.app%22%2C%22Kamierabi%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: オーバーテイク！
+    translations:
+      - 'Overtake!'
+      - 'OVERTAKE！'
+    bgm: '416534'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22オーバーテイク！%22%2C%22Overtake!%22%2C%22OVERTAKE！%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 晚安 世界
+    translations:
+      - 'グッド・ナイト・ワールド'
+      - 'Good Night World'
+      - 'GOOD NIGHT WORLD'
+    bgm: '448114'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22晚安%20世界%22%2C%22グッド・ナイト・ワールド%22%2C%22Good%20Night%20World%22%2C%22GOOD%20NIGHT%20WORLD%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
