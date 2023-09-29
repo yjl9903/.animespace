@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   animespace:
-    specifier: 0.1.0-beta.13
-    version: 0.1.0-beta.13
+    specifier: 0.1.0-beta.14
+    version: 0.1.0-beta.14
   bgmc:
     specifier: ^0.0.4
     version: 0.0.4
@@ -28,11 +28,11 @@ packages:
       '@jridgewell/trace-mapping': 0.3.18
     dev: true
 
-  /@animespace/animegarden@0.1.0-beta.13:
-    resolution: {integrity: sha512-OoSAEocKTB8+yQ8tZ55m6t5uIIaLYGzBl5DpxM89D0JdZjGT7RN/sS9Ru3xiFBOy92gf76MZPy030bAF4QWnNw==}
+  /@animespace/animegarden@0.1.0-beta.14:
+    resolution: {integrity: sha512-TWwsdX2nSWaCZQPrYVewjpQPi3FGjv2vra77GvQb451ZP8x4N7plVloNBteyZ92CGR0qti9aINMqHAV5NSgxiw==}
     engines: {node: '>=v20.7.0'}
     dependencies:
-      '@animespace/core': 0.1.0-beta.13
+      '@animespace/core': 0.1.0-beta.14
       '@breadc/color': 0.9.6
       '@onekuma/map': 0.1.10
       animegarden: 0.0.28
@@ -52,11 +52,11 @@ packages:
       - utf-8-validate
     dev: true
 
-  /@animespace/bangumi@0.1.0-beta.13:
-    resolution: {integrity: sha512-g4ov1K9ijHrUWXV+lvwHe1f6+yAJ7Us5tLySY+7oXwakJQbiQ7jhW4OPzjjNQougD9wfa41UxhwaS6nW6uyg7w==}
+  /@animespace/bangumi@0.1.0-beta.14:
+    resolution: {integrity: sha512-eLotyebCou51yaa68tVsKeGAALVceKHvZuTyd4xeKCQONh6C9h2kmbvE83xN7lRn49PG44CjNLqEZX5uLmwPRA==}
     engines: {node: '>=v20.7.0'}
     dependencies:
-      '@animespace/core': 0.1.0-beta.13
+      '@animespace/core': 0.1.0-beta.14
       '@breadc/color': 0.9.6
       animegarden: 0.0.28
       bgmc: 0.0.4
@@ -67,8 +67,8 @@ packages:
       - supports-color
     dev: true
 
-  /@animespace/core@0.1.0-beta.13:
-    resolution: {integrity: sha512-bJrpJoD7V8T/97A8wqRwFt9mwCGoykITepolrhH59JzA2xTXpdFkEfaAl5hroRDpKntbEyrYjIF225LcsMAJZw==}
+  /@animespace/core@0.1.0-beta.14:
+    resolution: {integrity: sha512-PDnUTI+Z4UAablDWgOooTUNawvefsr9RO7ag44NtjulmBip0f5Lv2ZEebEzxk3JI9w9ksBjscYn1JOuPJNSjew==}
     engines: {node: '>=v20.7.0'}
     dependencies:
       '@breadc/color': 0.9.6
@@ -92,11 +92,11 @@ packages:
       - supports-color
     dev: true
 
-  /@animespace/local@0.1.0-beta.13:
-    resolution: {integrity: sha512-T9jEzA/USQMZ6y7qNEl9YquaUCdLVezfX7aftMsmWD6YK1FuFrwDkx9yxy6cnlUI+ROtukp3/MDcf3lUeienug==}
+  /@animespace/local@0.1.0-beta.14:
+    resolution: {integrity: sha512-Vbc6H/ZcGRUt0zJ3qVOtm3SLhh/fFjBuW3gfr9cegzEcnm2oBQgEZRXS0FqtWQCb/kBkb3Ik7SS+iYyi0IuNEw==}
     engines: {node: '>=v20.7.0'}
     dependencies:
-      '@animespace/core': 0.1.0-beta.13
+      '@animespace/core': 0.1.0-beta.14
       '@breadc/color': 0.9.6
       anitomy: 0.0.28
       breadfs: 0.0.7
@@ -636,15 +636,15 @@ packages:
       zod: 3.22.2
     dev: true
 
-  /animespace@0.1.0-beta.13:
-    resolution: {integrity: sha512-Tl5G+5d8Tv5yGkT7AHk3Ud36naQ319iSk+2+aHG9oo3pk2VmkU8byeyhyoGLMU8oTPAawBhE68kQTATR8L3Giw==}
+  /animespace@0.1.0-beta.14:
+    resolution: {integrity: sha512-uetCs/jzMnBxSftL6e/vyYJ5Wg2GOhEM0LLGFLkmoY0ZgJebmUlIdkgmNorNlkNw8naEwM/qOya0inH6YiHy2A==}
     engines: {node: '>=v20.7.0'}
     hasBin: true
     dependencies:
-      '@animespace/animegarden': 0.1.0-beta.13
-      '@animespace/bangumi': 0.1.0-beta.13
-      '@animespace/core': 0.1.0-beta.13
-      '@animespace/local': 0.1.0-beta.13
+      '@animespace/animegarden': 0.1.0-beta.14
+      '@animespace/bangumi': 0.1.0-beta.14
+      '@animespace/core': 0.1.0-beta.14
+      '@animespace/local': 0.1.0-beta.14
       '@breadc/color': 0.9.6
       '@onekuma/map': 0.1.10
       breadc: 0.9.6

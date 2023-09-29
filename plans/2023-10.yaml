@@ -13,6 +13,8 @@ onair:
       - '葬送的芙莉蓮'
       - 'FRIEREN'
     bgm: '400602'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22葬送的芙莉莲%22%2C%22葬送のフリーレン%22%2C%22Frieren:%20Beyond%20Journey's%20End%22%2C%22Sousou%20no%20Frieren%22%2C%22葬送的芙莉蓮%22%2C%22FRIEREN%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 星灵感应
@@ -163,11 +165,11 @@ onair:
     bgm: '425601'
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22神选%22%2C%22カミエラビ%22%2C%22GOD.app%22%2C%22Kamierabi%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
-  - title: オーバーテイク！
-    translations:
-      - 'Overtake!'
-      - 'OVERTAKE！'
-    bgm: '416534'
+  # - title: オーバーテイク！
+  #   translations:
+  #     - 'Overtake!'
+  #     - 'OVERTAKE！'
+  #   bgm: '416534'
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22オーバーテイク！%22%2C%22Overtake!%22%2C%22OVERTAKE！%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 晚安 世界
