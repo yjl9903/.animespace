@@ -1,3 +1,30 @@
-# Generated at 2023-09-29 10:39
+# Generated at 2023-09-30 12:20
 
-videos: []
+videos:
+  - filename: 葬送的芙莉莲 S01E01 {ANi}.mp4
+    fansub: ANi
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/652221_ANi_S_s_no_Frieren_-_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 葬送的芙莉莲 S01E02 {ANi}.mp4
+    fansub: ANi
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/652222_ANi_S_s_no_Frieren_-_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 葬送的芙莉莲 S01E03 {ANi}.mp4
+    fansub: ANi
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/652223_ANi_S_s_no_Frieren_-_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 葬送的芙莉莲 S01E04 {ANi}.mp4
+    fansub: ANi
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/652224_ANi_S_s_no_Frieren_-_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
