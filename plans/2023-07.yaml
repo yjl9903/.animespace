@@ -25,6 +25,7 @@ onair:
       - '夢見る男子は現実主義者'
       - '幻想男子变成了现实主义者'
       - 'Yumemiru Danshi wa Genjitsushugisha'
+    status: finish
     bgm: '408351'
     fansub:
       - Lilith-Raws
@@ -119,6 +120,7 @@ onair:
     translations:
       - 莱莎的炼金工房 ～常暗女王与秘密藏身处～
       - 'ライザのアトリエ ～常闇の女王と秘密の隠れ家～'
+    status: finish
     bgm: '425236'
     fansub:
       - 桜都字幕组
@@ -156,6 +158,7 @@ onair:
       - '特工教室'
       - 'Spy Room'
       - 'Spy Kyoushitsu'
+    status: finish
     season: 1
     bgm: '428418'
     rewrite:

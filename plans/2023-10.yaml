@@ -119,6 +119,8 @@ onair:
       - '燃油車鬥魂'
       - 'MF GHOST'
     bgm: '364252'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22极速车魂%22%2C%22MFゴースト%22%2C%22燃油車鬥魂%22%2C%22MF%20GHOST%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 女友成双 第二季
