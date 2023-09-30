@@ -8,12 +8,13 @@ onair:
   - title: 葬送的芙莉莲
     translations:
       - '葬送のフリーレン'
-      - 'Frieren: Beyond Journey''s End'
+      - "Frieren: Beyond Journey's End"
       - 'Sousou no Frieren'
       - '葬送的芙莉蓮'
       - 'FRIEREN'
     bgm: '400602'
     fansub:
+      - 北宇治字幕组
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22葬送的芙莉莲%22%2C%22葬送のフリーレン%22%2C%22Frieren:%20Beyond%20Journey's%20End%22%2C%22Sousou%20no%20Frieren%22%2C%22葬送的芙莉蓮%22%2C%22FRIEREN%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
@@ -98,7 +99,6 @@ onair:
     bgm: '413741'
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%2216bit的感动%20ANOTHER%20LAYER%22%2C%2216bitセンセーション%20ANOTHER%20LAYER%22%2C%2216bit%20Sensation:%20Another%20Layer%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
-
   - title: 地下忍者
     translations:
       - 'アンダーニンジャ'
@@ -170,8 +170,7 @@ onair:
   #     - 'Overtake!'
   #     - 'OVERTAKE！'
   #   bgm: '416534'
-    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22オーバーテイク！%22%2C%22Overtake!%22%2C%22OVERTAKE！%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
-
+  # https://garden.onekuma.cn/resources/1?include=%5B%5B%22オーバーテイク！%22%2C%22Overtake!%22%2C%22OVERTAKE！%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
   - title: 晚安 世界
     translations:
       - 'グッド・ナイト・ワールド'
@@ -179,3 +178,15 @@ onair:
       - 'GOOD NIGHT WORLD'
     bgm: '448114'
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22晚安%20世界%22%2C%22グッド・ナイト・ワールド%22%2C%22Good%20Night%20World%22%2C%22GOOD%20NIGHT%20WORLD%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 特搜组大吾 救国的橘色部队
+    translations:
+      - 'め組の大吾 救国のオレンジ'
+      - 'Me-gumi no Daigo: Kyuukoku no Orange'
+      - 'Firefighter Daigo: Rescuer in Orange'
+      - '消防员的故事 救国的橘色部队'
+      - '烈焰先鋒 救國的橘衣消防員'
+    bgm: '411106'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22特搜组大吾%20救国的橘色部队%22%2C%22め組の大吾%20救国のオレンジ%22%2C%22Me-gumi%20no%20Daigo:%20Kyuukoku%20no%20Orange%22%2C%22Firefighter%20Daigo:%20Rescuer%20in%20Orange%22%2C%22消防员的故事%20救国的橘色部队%22%2C%22烈焰先鋒%20救國的橘衣消防員%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z

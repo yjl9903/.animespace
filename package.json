@@ -7,6 +7,7 @@
   "devDependencies": {
     "animespace": "0.1.0-beta.14",
     "bgmc": "^0.0.4",
+    "naria2c": "0.0.9-beta.4",
     "optc": "^0.6.3",
     "undici": "^5.22.1"
   },

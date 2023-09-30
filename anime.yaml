@@ -45,6 +45,7 @@ plans:
 plugins:
   - name: animegarden
     provider: aria2
+    binary: node_modules/.bin/naria2c
     trackers:
       - udp://93.158.213.92:1337/announce
       - udp://102.223.180.235:6969/announce
@@ -82,8 +83,8 @@ plugins:
       - udp://tracker1.bt.moack.co.kr:80/announce
       - udp://tracker.theoks.net:6969/announce
     # proxy: http://127.0.0.1:7890
-    # debug:
-    #   log: ./aria2.log
+    debug:
+      log: ./aria2.log
 
   - name: local
     directory: ./local
