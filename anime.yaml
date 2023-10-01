@@ -83,8 +83,8 @@ plugins:
       - udp://tracker1.bt.moack.co.kr:80/announce
       - udp://tracker.theoks.net:6969/announce
     # proxy: http://127.0.0.1:7890
-    debug:
-      log: ./aria2.log
+    # debug:
+    #   log: ./aria2.log
 
   - name: local
     directory: ./local
