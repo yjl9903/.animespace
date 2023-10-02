@@ -30,6 +30,8 @@ onair:
       - '聖剣学院の魔剣使い'
       - 'Seiken Gakuin no Maken Tsukai'
     bgm: '353819'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22圣剑学院的魔剑使%22%2C%22聖剣学院の魔剣使い%22%2C%22Seiken%20Gakuin%20no%20Maken%20Tsukai%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 偶像大师 百万现场！
@@ -90,6 +92,8 @@ onair:
       - 'Migi to Dali'
       - 'Migi &amp; Dali'
     bgm: '362255'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22米奇与达利%22%2C%22ミギとダリ%22%2C%22米奇与达利%20恶童物语%22%2C%22基米与达利%22%2C%22Migi%20to%20Dali%22%2C%22Migi%20&amp;%20Dali%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 16bit的感动 ANOTHER LAYER
@@ -167,12 +171,24 @@ onair:
     bgm: '425601'
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22神选%22%2C%22カミエラビ%22%2C%22GOD.app%22%2C%22Kamierabi%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
-  # - title: オーバーテイク！
-  #   translations:
-  #     - 'Overtake!'
-  #     - 'OVERTAKE！'
-  #   bgm: '416534'
-  # https://garden.onekuma.cn/resources/1?include=%5B%5B%22オーバーテイク！%22%2C%22Overtake!%22%2C%22OVERTAKE！%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+  - title: Overtake!
+    translations:
+      - 'オーバーテイク！'
+      - 'OVERTAKE！'
+    bgm: '416534'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22Overtake!%22%2C%22オーバーテイク！%22%2C%22OVERTAKE！%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 鸭乃桥论的禁忌推理
+    translations:
+      - '鴨乃橋ロンの禁断推理'
+      - 'Kamonohashi Ron no Kindan Suiri'
+    bgm: '411426'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22鸭乃桥论的禁忌推理%22%2C%22鴨乃橋ロンの禁断推理%22%2C%22Kamonohashi%20Ron%20no%20Kindan%20Suiri%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
   - title: 晚安 世界
     translations:
       - 'グッド・ナイト・ワールド'
