@@ -1,3 +1,9 @@
-# Generated at 2023-09-29 10:39
+# Generated at 2023-10-03 02:42
 
-videos: []
+videos:
+  - filename: 圣剑学院的魔剑使 S01E01 {ANi}.mp4
+    fansub: ANi
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/652519_ANi_Seiken_Gakuin_no_Maken_Tsukai_-_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
