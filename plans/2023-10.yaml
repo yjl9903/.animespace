@@ -47,6 +47,10 @@ onair:
       - 'Uma Musume: Pretty Derby Season 3'
     season: 3
     bgm: '407332'
+    rewrite:
+      title: '赛马娘 Pretty Derby'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22赛马娘%20Pretty%20Derby%20第三季%22%2C%22ウマ娘%20プリティーダービー%20Season%203%22%2C%22赛马娘%20第三季%22%2C%22Uma%20Musume:%20Pretty%20Derby%20Season%203%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 经验丰富的你和经验为零的我交往的故事
@@ -72,6 +76,10 @@ onair:
       - 'The Eminence in Shadow 2nd Season'
     season: 2
     bgm: '419846'
+    rewrite:
+      title: '想要成为影之实力者！'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22想要成为影之实力者！%20第二季%22%2C%22陰の実力者になりたくて！%202nd%20season%22%2C%22我想成為影之強者！第二季%22%2C%22Kage%20no%20Jitsuryokusha%20ni%20Naritakute!%202nd%20Season%22%2C%22The%20Eminence%20in%20Shadow%202nd%20Season%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 盾之勇者成名录 第三季

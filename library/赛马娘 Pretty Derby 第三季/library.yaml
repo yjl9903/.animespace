@@ -1,3 +1,9 @@
-# Generated at 2023-09-29 10:39
+# Generated at 2023-10-05 12:56
 
-videos: []
+videos:
+  - filename: 赛马娘 Pretty Derby S03E01 {ANi}.mp4
+    fansub: ANi
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/652689_ANi_Pretty_Derby_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
