@@ -180,6 +180,8 @@ onair:
       - 'GOD.app'
       - 'Kamierabi'
     bgm: '425601'
+    rewrite:
+      title: 'GOD.app'
     fansub:
       - 喵萌奶茶屋
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22神选%22%2C%22カミエラビ%22%2C%22GOD.app%22%2C%22Kamierabi%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
