@@ -23,6 +23,8 @@ onair:
       - '星屑テレパス'
       - 'Hoshikuzu Telepath'
     bgm: '404115'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22星灵感应%22%2C%22星屑テレパス%22%2C%22Hoshikuzu%20Telepath%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 圣剑学院的魔剑使
@@ -90,6 +92,10 @@ onair:
       - 'The Rising of the Shield Hero Season 3'
     season: 3
     bgm: '289907'
+    rewrite:
+      title: 盾之勇者成名录
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22盾之勇者成名录%20第三季%22%2C%22盾の勇者の成り上がり%20Season%203%22%2C%22盾勇%203%22%2C%22Tate%20no%20Yuusha%20no%20Nariagari%20Season%203%22%2C%22The%20Rising%20of%20the%20Shield%20Hero%20Season%203%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 米奇与达利
@@ -144,6 +150,8 @@ onair:
       - 'カノジョも彼女 Season 2'
     season: 2
     bgm: '398949'
+    rewrite:
+      title: 女友成双
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22女友成双%20第二季%22%2C%22カノジョも彼女%20Season%202%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 新石纪 NEW WORLD 第2部分
@@ -156,6 +164,8 @@ onair:
       - '石纪元 第三季 第2部分'
       - 'ドクターストーン 第3期 第2部分'
     season: 3
+    rewrite:
+      title: 新石纪 NEW WORLD
     bgm: '424372'
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22新石纪%20NEW%20WORLD%20第2部分%22%2C%22Dr.STONE%20NEW%20WORLD%20第2クール%22%2C%22Dr.STONE%20NEW%20WORLD%20part%202%22%2C%22Dr.STONE%20第3期%20part%202%22%2C%22Dr.STONE%203%20part%202%22%2C%22新石纪%20第三季%20第2部分%22%2C%22石纪元%20第三季%20第2部分%22%2C%22ドクターストーン%20第3期%20第2部分%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
@@ -165,6 +175,8 @@ onair:
       - 'Spy x Family (2023)'
     season: 2
     bgm: '411427'
+    rewrite:
+      title: 间谍过家家
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22间谍过家家%20第二季%22%2C%22SPY×FAMILY%20Season%202%22%2C%22Spy%20x%20Family%20(2023)%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 我们的雨色协议
@@ -248,3 +260,14 @@ onair:
       - LoliHouse
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22大小姐和看门犬%22%2C%22お嬢と番犬くん%22%2C%22A%20Girl%20&amp;%20Her%20Guard%20Dog%22%2C%22Ojou%20to%20Banken-kun%22%2C%22大小姐与看门狗%22%2C%22大小姐和看門犬%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 捡走被人悔婚的千金，教会她坏坏的幸福生活
+    translations:
+      - '婚約破棄された令嬢を拾った俺が、イケナイことを教え込む'
+      - 'I`m Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness'
+      - 'Kon`yakuhaki Sareta Reijou o Hirotta Ore ga, Ikenai Koto o Oshiekomu'
+      - '捡到被退婚大小姐的我，教会她做坏坏的事'
+    bgm: '398922'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22捡走被人悔婚的千金，教会她坏坏的幸福生活%22%2C%22婚約破棄された令嬢を拾った俺が、イケナイことを教え込む%22%2C%22I`m%20Giving%20the%20Disgraced%20Noble%20Lady%20I%20Rescued%20a%20Crash%20Course%20in%20Naughtiness%22%2C%22Kon`yakuhaki%20Sareta%20Reijou%20o%20Hirotta%20Ore%20ga%2C%20Ikenai%20Koto%20o%20Oshiekomu%22%2C%22捡到被退婚大小姐的我，教会她做坏坏的事%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
