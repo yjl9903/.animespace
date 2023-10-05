@@ -1,3 +1,9 @@
-# Generated at 2023-09-29 10:39
+# Generated at 2023-10-05 02:30
 
-videos: []
+videos:
+  - filename: 神选 S01E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/652705_10_KamiErabi_GOD_app_01_1080p.html
