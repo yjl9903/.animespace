@@ -5,7 +5,7 @@
     "commit": "optc commit.ts"
   },
   "devDependencies": {
-    "animespace": "0.1.0-beta.14",
+    "animespace": "0.1.0-beta.15",
     "bgmc": "^0.0.4",
     "naria2c": "0.0.10",
     "optc": "^0.6.3",
