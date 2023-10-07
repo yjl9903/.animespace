@@ -46,12 +46,14 @@ onair:
     translations:
       - 'ウマ娘 プリティーダービー Season 3'
       - '赛马娘 第三季'
+      - '赛马娘 Pretty Derby Season 3'
       - 'Uma Musume: Pretty Derby Season 3'
     season: 3
     bgm: '407332'
     rewrite:
       title: '赛马娘 Pretty Derby'
     fansub:
+      - 桜都字幕组
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22赛马娘%20Pretty%20Derby%20第三季%22%2C%22ウマ娘%20プリティーダービー%20Season%203%22%2C%22赛马娘%20第三季%22%2C%22Uma%20Musume:%20Pretty%20Derby%20Season%203%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
@@ -259,7 +261,7 @@ onair:
       - '我的推是壞人大小姐。'
       - '我的推是恶役大小姐'
       - 'Watashi no Oshi wa Akuyaku Reijou.'
-      - 'I''m in Love with the Villainess'
+      - "I'm in Love with the Villainess"
     bgm: '410928'
     fansub:
       - ANi
@@ -288,3 +290,25 @@ onair:
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22捡走被人悔婚的千金，教会她坏坏的幸福生活%22%2C%22婚約破棄された令嬢を拾った俺が、イケナイことを教え込む%22%2C%22I`m%20Giving%20the%20Disgraced%20Noble%20Lady%20I%20Rescued%20a%20Crash%20Course%20in%20Naughtiness%22%2C%22Kon`yakuhaki%20Sareta%20Reijou%20o%20Hirotta%20Ore%20ga%2C%20Ikenai%20Koto%20o%20Oshiekomu%22%2C%22捡到被退婚大小姐的我，教会她做坏坏的事%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 迪阿姆帝国物语～从断头台开始的，公主转生逆转传～
+    translations:
+      - 'ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～'
+      - '堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～'
+      - 'Tearmoon Empire'
+      - 'Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story'
+    bgm: '400114'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22迪阿姆帝国物语～从断头台开始的，公主转生逆转传～%22%2C%22ティアムーン帝国物語～断頭台から始まる、姫の転生逆 転ストーリー～%22%2C%22堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～%22%2C%22Tearmoon%20Empire%22%2C%22Tearmoon%20Teikoku%20Monogatari:%20Dantoudai%20kara%20Hajimaru%2C%20Hime%20no%20Tensei%20Gyakuten%20Story%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 猪肝记得煮熟再吃
+    translations:
+      - '豚のレバーは加熱しろ'
+      - '猪肝倒是热热再吃啊'
+      - 'Heat the pig liver: the story of a man turned into a pig.'
+      - 'Buta no Liver wa Kanetsu Shiro'
+    bgm: '362005'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22猪肝记得煮熟再吃%22%2C%22豚のレバーは加熱しろ%22%2C%22猪肝倒是热热再吃啊%22%2C%22Heat%20the%20pig%20liver:%20the%20story%20of%20a%20man%20turned%20into%20a%20pig.%22%2C%22Buta%20no%20Liver%20wa%20Kanetsu%20Shiro%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
