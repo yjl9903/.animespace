@@ -182,12 +182,18 @@ onair:
 
   - title: 间谍过家家 第二季
     translations:
+      - 'SPY x FAMILY 間諜家家酒 Season 2'
       - 'SPY×FAMILY Season 2'
       - 'Spy x Family (2023)'
     season: 2
     bgm: '411427'
     rewrite:
       title: 间谍过家家
+      episode:
+        gte: 26
+        offset: -25
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22间谍过家家%20第二季%22%2C%22SPY×FAMILY%20Season%202%22%2C%22Spy%20x%20Family%20(2023)%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 我们的雨色协议
