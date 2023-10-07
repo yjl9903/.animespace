@@ -45,7 +45,6 @@ plans:
 plugins:
   - name: animegarden
     provider: aria2
-    binary: node_modules/.bin/naria2c
     trackers:
       - udp://93.158.213.92:1337/announce
       - udp://102.223.180.235:6969/announce

@@ -12,8 +12,8 @@ devDependencies:
     specifier: ^0.0.4
     version: 0.0.4
   naria2c:
-    specifier: 0.0.9-beta.4
-    version: 0.0.9-beta.4(uuid@8.3.2)
+    specifier: 0.0.10
+    version: 0.0.10(uuid@8.3.2)
   optc:
     specifier: ^0.6.3
     version: 0.6.3
@@ -497,17 +497,17 @@ packages:
     dev: true
     optional: true
 
-  /@naria2/node@0.0.9-beta.4(uuid@8.3.2):
-    resolution: {integrity: sha512-GKqmS6Qk4HylbHQcmagILLmC3Xq4VNVPedddLo67EMww4wKGSeCFPqycRR8g0FLcUoPFCQEXZI2LqITmxq0Sig==}
+  /@naria2/node@0.0.10(uuid@8.3.2):
+    resolution: {integrity: sha512-qsdxZz79AWtEcuE1bhMtift2ANjPY8/iQ2CP+9xZ0r7Ex+GTBrHNn/6RmhqyLmwBiaVcF5RLxfuEV3zKKUYvYQ==}
     engines: {node: '>=v20.1.0'}
     requiresBuild: true
     dependencies:
-      '@naria2/options': 0.0.9-beta.4(uuid@8.3.2)(ws@8.13.0)
-      execa: 7.2.0
-      maria2: 0.3.2(uuid@8.3.2)(ws@8.13.0)
+      '@naria2/options': 0.0.10(uuid@8.3.2)(ws@8.14.2)
+      execa: 8.0.1
+      maria2: 0.3.2(uuid@8.3.2)(ws@8.14.2)
       portfinder: 1.0.32
-      type-fest: 4.3.2
-      ws: 8.13.0(bufferutil@4.0.7)(utf-8-validate@5.0.10)
+      type-fest: 4.4.0
+      ws: 8.14.2
     optionalDependencies:
       '@naria2/darwin-arm64': 0.1.0-beta.0
       '@naria2/darwin-x64': 0.1.0-beta.0
@@ -522,12 +522,12 @@ packages:
       - uuid
     dev: true
 
-  /@naria2/options@0.0.9-beta.4(uuid@8.3.2)(ws@8.13.0):
-    resolution: {integrity: sha512-9fVX5ivi/yH5UK2tvEZwl8Ch3WezebhrtkkQ73JYvy4TqNUO+n9Kky4OPVtXvQvwztj/oxBSGenTejBvcHVaNQ==}
+  /@naria2/options@0.0.10(uuid@8.3.2)(ws@8.14.2):
+    resolution: {integrity: sha512-KpZygWZd2E4pAZp/LL1e/4VmXn84dpIVRf3o0e5DfClie7WBNCaOWCDy3jXCc8f16AKxbLVwLWeN8sJBykwY3g==}
     engines: {node: '>=v20.1.0'}
     dependencies:
-      maria2: 0.3.2(uuid@8.3.2)(ws@8.13.0)
-      type-fest: 4.3.2
+      maria2: 0.3.2(uuid@8.3.2)(ws@8.14.2)
+      type-fest: 4.4.0
     transitivePeerDependencies:
       - uuid
       - ws
@@ -1379,18 +1379,18 @@ packages:
       strip-final-newline: 2.0.0
     dev: true
 
-  /execa@7.2.0:
-    resolution: {integrity: sha512-UduyVP7TLB5IcAQl+OzLyLcS/l32W/GLg+AhHJ+ow40FOk2U3SAllPwR44v4vmdFwIWqpdwxxpQbF1n5ta9seA==}
-    engines: {node: ^14.18.0 || ^16.14.0 || >=18.0.0}
+  /execa@8.0.1:
+    resolution: {integrity: sha512-VyhnebXciFV2DESc+p6B+y0LjSm0krU4OgJN44qFAhBY0TJ+1V61tYD2+wHusZ6F9n5K+vl8k0sTy7PEfV4qpg==}
+    engines: {node: '>=16.17'}
     dependencies:
       cross-spawn: 7.0.3
-      get-stream: 6.0.1
-      human-signals: 4.3.1
+      get-stream: 8.0.1
+      human-signals: 5.0.0
       is-stream: 3.0.0
       merge-stream: 2.0.0
       npm-run-path: 5.1.0
       onetime: 6.0.0
-      signal-exit: 3.0.7
+      signal-exit: 4.1.0
       strip-final-newline: 3.0.0
     dev: true
 
@@ -1555,6 +1555,11 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
+  /get-stream@8.0.1:
+    resolution: {integrity: sha512-VaUJspBffn/LMCJVoMvSAdmscJyS1auj5Zulnn5UoYcY531UWmdwhRWkcGKnGU93m5HSXP9LP2usOryrBtQowA==}
+    engines: {node: '>=16'}
+    dev: true
+
   /glob-parent@5.1.2:
     resolution: {integrity: sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==}
     engines: {node: '>= 6'}
@@ -1637,9 +1642,9 @@ packages:
     engines: {node: '>=10.17.0'}
     dev: true
 
-  /human-signals@4.3.1:
-    resolution: {integrity: sha512-nZXjEF2nbo7lIw3mgYjItAfgQXog3OjJogSbKa2CQIIvSGWcKgeJnQlNXip6NglNzYH45nSRiEVimMvYL8DDqQ==}
-    engines: {node: '>=14.18.0'}
+  /human-signals@5.0.0:
+    resolution: {integrity: sha512-AXcZb6vzzrFAUE61HnN4mpLqd/cSIwNQjtNWR0euPm6y0iqx3G4gOXaIDdtdDwZmhwe82LA6+zinmW4UBWVePQ==}
+    engines: {node: '>=16.17.0'}
     dev: true
 
   /hybrid-chunk-store@1.2.2:
@@ -1931,7 +1936,7 @@ packages:
       uint8-util: 2.2.4
     dev: true
 
-  /maria2@0.3.2(uuid@8.3.2)(ws@8.13.0):
+  /maria2@0.3.2(uuid@8.3.2)(ws@8.14.2):
     resolution: {integrity: sha512-PspS1gxdZeRLBmelwC78dsUxM8bb7pHCairIOzfVAIPrpJw0u0dYAx7X+4Ahm+QE9p7YDZ8TuOGA4ewXcVTvTw==}
     engines: {node: '>= 14.8.0'}
     peerDependencies:
@@ -1939,7 +1944,7 @@ packages:
       ws: '*'
     dependencies:
       uuid: 8.3.2
-      ws: 8.13.0(bufferutil@4.0.7)(utf-8-validate@5.0.10)
+      ws: 8.14.2
     dev: true
 
   /md5@2.3.0:
@@ -2060,12 +2065,13 @@ packages:
     dev: true
     optional: true
 
-  /naria2c@0.0.9-beta.4(uuid@8.3.2):
-    resolution: {integrity: sha512-Wf3Bsu7PYjbX5OJUSwtm5iglD3y9TgLGQwVl/9/RRD/lg0b2N3iKGlfNF82v6E2FbFNkoaXuJwcPTYhXHpcE+g==}
+  /naria2c@0.0.10(uuid@8.3.2):
+    resolution: {integrity: sha512-/ly4c2YNnfV6t1n4uoD3rHi82MJbNhznRMApNUvoRAIBbkLPkCXdbGFcYh1wP4C5nyeqs1PFk74Ul4M7uFSPXw==}
     engines: {node: '>=v20.1.0'}
     hasBin: true
     dependencies:
-      '@naria2/node': 0.0.9-beta.4(uuid@8.3.2)
+      '@breadc/death': 0.9.6
+      '@naria2/node': 0.0.10(uuid@8.3.2)
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -2491,6 +2497,11 @@ packages:
     resolution: {integrity: sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==}
     dev: true
 
+  /signal-exit@4.1.0:
+    resolution: {integrity: sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==}
+    engines: {node: '>=14'}
+    dev: true
+
   /simple-concat@1.0.1:
     resolution: {integrity: sha512-cSFtAPtRhljv69IK0hTVZQ+OfE9nePi/rtJmw5UjHeVyVroEqJXP1sFztKUy1qU+xvz3u/sfYJLa947b7nAN2Q==}
     dev: true
@@ -2681,8 +2692,8 @@ packages:
     engines: {node: '>=12.20'}
     dev: true
 
-  /type-fest@4.3.2:
-    resolution: {integrity: sha512-VpwuOgnTsQUUWi0id8Hl4/xiQ+OoaeJGe8dnFjzubJYe/lOc2/d1Qx/d3FqWR0FlpOG/cvukAXfB12A49Y4iiA==}
+  /type-fest@4.4.0:
+    resolution: {integrity: sha512-HT3RRs7sTfY22KuPQJkD/XjbTbxgP2Je5HPt6H6JEGvcjHd5Lqru75EbrP3tb4FYjNJ+DjLp+MNQTFQU0mhXNw==}
     engines: {node: '>=16'}
     dev: true
 
@@ -2915,6 +2926,19 @@ packages:
     dependencies:
       bufferutil: 4.0.7
       utf-8-validate: 5.0.10
+    dev: true
+
+  /ws@8.14.2:
+    resolution: {integrity: sha512-wEBG1ftX4jcglPxgFCMJmZ2PLtSbJ2Peg6TmpJFTbe9GZYOQCDPdMYu/Tm0/bGZkw8paZnJY45J4K2PZrLYq8g==}
+    engines: {node: '>=10.0.0'}
+    peerDependencies:
+      bufferutil: ^4.0.1
+      utf-8-validate: '>=5.0.2'
+    peerDependenciesMeta:
+      bufferutil:
+        optional: true
+      utf-8-validate:
+        optional: true
     dev: true
 
   /xdg-basedir@4.0.0:
