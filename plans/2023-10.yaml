@@ -55,11 +55,14 @@ onair:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22赛马娘%20Pretty%20Derby%20第三季%22%2C%22ウマ娘%20プリティーダービー%20Season%203%22%2C%22赛马娘%20第三季%22%2C%22Uma%20Musume:%20Pretty%20Derby%20Season%203%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
-  - title: 经验丰富的你和经验为零的我交往的故事
+  - title: 经验丰富的你与经验为零的我交往的故事
     translations:
+      - '经验丰富的你和经验为零的我交往的故事'
       - '経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。'
       - '位于恋爱光谱极端的我们'
     bgm: '400595'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22经验丰富的你和经验为零的我交往的故事%22%2C%22経験済みなキミと、%20経験ゼロなオレが、%20お付き合いする話。%22%2C%22位于恋爱光谱极端的我们%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 药屋少女的呢喃
@@ -86,6 +89,7 @@ onair:
 
   - title: 盾之勇者成名录 第三季
     translations:
+      - '盾之勇者成名录 Season 3'
       - '盾の勇者の成り上がり Season 3'
       - '盾勇 3'
       - 'Tate no Yuusha no Nariagari Season 3'
@@ -148,10 +152,17 @@ onair:
     directory: 女友成双/Season 2
     translations:
       - 'カノジョも彼女 Season 2'
+      - 'Kanojo mo Kanojo S02'
+      - '女朋友 and 女朋友 第二季'
     season: 2
     bgm: '398949'
     rewrite:
       title: 女友成双
+      episode:
+        gte: 13
+        offset: -12
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22女友成双%20第二季%22%2C%22カノジョも彼女%20Season%202%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 新石纪 NEW WORLD 第2部分
