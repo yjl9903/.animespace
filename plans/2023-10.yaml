@@ -131,6 +131,8 @@ onair:
       - 'アンダーニンジャ'
       - 'Under Ninja'
     bgm: '348220'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22地下忍者%22%2C%22アンダーニンジャ%22%2C%22Under%20Ninja%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 冥王
@@ -203,6 +205,8 @@ onair:
       - '僕らの雨いろプロトコル'
       - 'Bokura no Ame-iro Protocol'
     bgm: '444634'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22我们的雨色协议%22%2C%22僕らの雨いろプロトコル%22%2C%22Bokura%20no%20Ame-iro%20Protocol%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 神选
