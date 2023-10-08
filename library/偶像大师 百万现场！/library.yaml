@@ -1,3 +1,9 @@
-# Generated at 2023-09-29 10:39
+# Generated at 2023-10-09 12:08
 
-videos: []
+videos:
+  - filename: 偶像大师 百万现场！ S01E01 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/653067_THE_iDOLM_STER_MILLION_LIVE%21_01_WebRip_1080p_AVC_AAC.html
