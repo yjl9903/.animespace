@@ -282,7 +282,6 @@ onair:
       - '大小姐和看門犬'
     bgm: '403631'
     fansub:
-      - LoliHouse
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22大小姐和看门犬%22%2C%22お嬢と番犬くん%22%2C%22A%20Girl%20&amp;%20Her%20Guard%20Dog%22%2C%22Ojou%20to%20Banken-kun%22%2C%22大小姐与看门狗%22%2C%22大小姐和看門犬%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
@@ -319,8 +318,9 @@ onair:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22猪肝记得煮熟再吃%22%2C%22豚のレバーは加熱しろ%22%2C%22猪肝倒是热热再吃啊%22%2C%22Heat%20the%20pig%20liver:%20the%20story%20of%20a%20man%20turned%20into%20a%20pig.%22%2C%22Buta%20no%20Liver%20wa%20Kanetsu%20Shiro%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
-  - title: 超超超超喜欢你的100个女孩子
+  - title: 超超超超超喜欢你的100个女朋友
     translations:
+      - '超超超超喜欢你的100个女孩子'
       - '超超超超超喜歡你的 100 個女朋友'
       - '君のことが大大大大大好きな100人の彼女'
       - '百人女友'
@@ -329,3 +329,13 @@ onair:
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22超超超超喜欢你的100个女孩子%22%2C%22君のことが大大大大大好 きな100人の彼女%22%2C%22百人女友%22%2C%22Kimi%20no%20Koto%20ga%20Dai%20Dai%20Dai%20Dai%20Daisuki%20na%20100%20Nin%20no%20Kanojo%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 家里蹲吸血姬的苦闷
+    translations:
+      - '家裡蹲吸血姬的鬱悶'
+      - 'ひきこまり吸血姫の悶々'
+      - 'Hikikomari Kyuuketsu Hime no Monmon'
+    bgm: '414214'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22家里蹲吸血姬的苦闷%22%2C%22ひきこまり吸血姫の悶々%22%2C%22Hikikomari%20Kyuuketsu%20Hime%20no%20Monmon%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z

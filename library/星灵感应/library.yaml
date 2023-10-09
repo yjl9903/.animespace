@@ -1,3 +1,9 @@
-# Generated at 2023-09-29 10:39
+# Generated at 2023-10-09 10:39
 
-videos: []
+videos:
+  - filename: 星灵感应 S01E01 {ANi}.mp4
+    fansub: ANi
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/653153_ANi_Hoshikuzu_Telepath_-_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
