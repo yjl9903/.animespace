@@ -46,6 +46,7 @@ onair:
 
   - title: 赛马娘 Pretty Derby 第三季
     translations:
+      - '赛马娘 Pretty Derby 第3季'
       - 'ウマ娘 プリティーダービー Season 3'
       - '赛马娘 第三季'
       - '赛马娘 Pretty Derby Season 3'
@@ -55,7 +56,7 @@ onair:
     rewrite:
       title: '赛马娘 Pretty Derby'
     fansub:
-      - 桜都字幕组
+      - 肥猫压制
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22赛马娘%20Pretty%20Derby%20第三季%22%2C%22ウマ娘%20プリティーダービー%20Season%203%22%2C%22赛马娘%20第三季%22%2C%22Uma%20Musume:%20Pretty%20Derby%20Season%203%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
