@@ -1,3 +1,9 @@
-# Generated at 2023-09-29 10:39
+# Generated at 2023-10-12 11:57
 
-videos: []
+videos:
+  - filename: 新石纪 NEW WORLD S03E12 {ANi}.mp4
+    fansub: ANi
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/653407_ANi_Dr_STONE_S03_-_Dr_STONE_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
