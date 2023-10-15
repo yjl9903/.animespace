@@ -1,4 +1,4 @@
-# Generated at 2023-10-07 11:34
+# Generated at 2023-10-15 12:04
 
 videos:
   - filename: 间谍过家家 S02E01 {ANi}.mp4
@@ -7,3 +7,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/652981_ANi_SPY_x_FAMILY_Season_2_-_26_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 间谍过家家 S02E02 {ANi}.mp4
+    fansub: ANi
+    episode: 27
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/653600_ANi_SPY_x_FAMILY_-_SPY_x_FAMILY_Season_2_-_27_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
