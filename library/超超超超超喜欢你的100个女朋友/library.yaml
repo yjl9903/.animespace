@@ -1,4 +1,4 @@
-# Generated at 2023-10-10 12:36
+# Generated at 2023-10-16 12:31
 
 videos:
   - filename: 超超超超超喜欢你的100个女朋友 S01E01 {ANi}.mp4
@@ -7,3 +7,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/653093_ANi_100_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 超超超超超喜欢你的100个女朋友 S01E02 {ANi}.mp4
+    fansub: ANi
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/653699_ANi_100_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
