@@ -1,4 +1,4 @@
-# Generated at 2023-10-11 10:55
+# Generated at 2023-10-19 01:30
 
 videos:
   - filename: 想要成为影之实力者！ S02E01 {ANi}.mp4
@@ -14,3 +14,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/653341_ANi_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 想要成为影之实力者！ S02E03 {ANi}.mp4
+    fansub: ANi
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/653952_ANi_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
