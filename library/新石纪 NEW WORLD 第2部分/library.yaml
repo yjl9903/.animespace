@@ -1,4 +1,4 @@
-# Generated at 2023-10-12 11:57
+# Generated at 2023-10-20 12:49
 
 videos:
   - filename: 新石纪 NEW WORLD S03E12 {ANi}.mp4
@@ -7,3 +7,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/653407_ANi_Dr_STONE_S03_-_Dr_STONE_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 新石纪 NEW WORLD S03E13 {ANi}.mp4
+    fansub: ANi
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/654039_ANi_Dr_STONE_S03_-_Dr_STONE_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
