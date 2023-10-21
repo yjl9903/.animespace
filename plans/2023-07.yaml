@@ -138,6 +138,7 @@ onair:
       - 'Reign of the Seven Spellblades'
       - 'Nanatsu no Maken ga Shihai Suru'
     bgm: '362006'
+    status: finish
     fansub:
       - Lilith-Raws
       - ANi
@@ -149,6 +150,7 @@ onair:
       - 'AI no Idenshi'
       - 'AI的遗电子'
     bgm: '410203'
+    status: finish
     fansub:
       - Lilith-Raws
       - ANi
@@ -233,6 +235,7 @@ onair:
       - 'SYNDUALITY Noir'
       - 'シンデュアリティ'
     bgm: '401301'
+    status: finish
     fansub: 喵萌奶茶屋
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22奇异贤伴%20黑色天使%22%2C%22SYNDUALITY%20Noir%22%2C%22シン デュアリティ%22%5D%5D&after=2023-06-30T16%3A00%3A00.000Z
 

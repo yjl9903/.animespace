@@ -78,6 +78,8 @@ onair:
       - '药师少女的独语'
       - 'Kusuriya no Hitorigoto'
     bgm: '420628'
+    fansub:
+      - 天月動漫&發佈組
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22药屋少女的呢喃%22%2C%22薬屋のひとりごと%22%2C%22药师少女的独语%22%2C%22Kusuriya%20no%20Hitorigoto%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 想要成为影之实力者！ 第二季
@@ -345,3 +347,14 @@ onair:
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22家里蹲吸血姬的苦闷%22%2C%22ひきこまり吸血姫の悶々%22%2C%22Hikikomari%20Kyuuketsu%20Hime%20no%20Monmon%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 仙魔大战
+    translations:
+      - '仙魔大战'
+      - 'ビックリメン'
+      - '仙魔大战'
+      - 'Bikkurimen'
+    bgm: '427568'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22圣魔大战%22%2C%22ビックリメン%22%2C%22仙魔大战%22%2C%22Bikkurimen%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
