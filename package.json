@@ -2,7 +2,8 @@
   "name": "@onekuma/animespace",
   "private": true,
   "scripts": {
-    "commit": "optc commit.ts"
+    "commit": "optc commit.ts",
+    "pull": "git pull"
   },
   "devDependencies": {
     "animespace": "0.1.0-beta.15",
