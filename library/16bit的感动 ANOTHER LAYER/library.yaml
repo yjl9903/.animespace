@@ -1,4 +1,4 @@
-# Generated at 2023-10-19 01:35
+# Generated at 2023-10-26 01:46
 
 videos:
   - filename: 16bit的感动 ANOTHER LAYER S01E01 {ANi}.mp4
@@ -21,3 +21,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/653966_ANi_16bit_ANOTHER_LAYER_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 16bit的感动 ANOTHER LAYER S01E04 {ANi}.mp4
+    fansub: ANi
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://share.dmhy.org/topics/view/654727_ANi_16bit_ANOTHER_LAYER_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
