@@ -47,3 +47,14 @@ onair:
     date: 2020-05-20 08:00
     type: 电影
     fansub: 千夏字幕组
+
+  - title: 古立特宇宙
+    translations:
+      - 'グリッドマン ユニバース'
+      - 'Gridman Universe'
+      - 'GRIDMAN×DYNAZENON'
+    bgm: '362335'
+    status: onair
+    # date: 2023-10-24
+    type: 电影
+    fansub: 星空字幕组
