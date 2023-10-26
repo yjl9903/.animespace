@@ -56,9 +56,10 @@ videos:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/640923_U149_THE_iDOLM_STER_CINDERELLA_GIRLS_U149_07_Webrip_1080p_HEVC_AAC.html
 
-  - filename: 偶像大师 灰姑娘女孩 U149 S01E07.5 {北宇治字幕组}.mp4
+  - filename: 偶像大师 灰姑娘女孩 U149 S00E01 {北宇治字幕组}.mp4
     fansub: 北宇治字幕组
-    episode: 7.5
+    season: 0
+    episode: 1
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/641970_U149_THE_iDOLM_STER_CINDERELLA_GIRLS_U149_7_5_Webrip_1080p_HEVC_AAC.html
