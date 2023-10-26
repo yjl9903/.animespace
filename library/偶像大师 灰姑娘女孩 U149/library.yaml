@@ -1,4 +1,4 @@
-# Generated at 2023-06-29 11:43
+# Generated at 2023-10-27 01:51
 
 title: 偶像大师 灰姑娘女孩 U149
 
@@ -7,12 +7,12 @@ season: 1
 date: 2023-04-01T13:00:00.000Z
 
 videos:
-  - filename: 偶像大师 灰姑娘女孩 U149 S01E01 {北宇治字幕组}.mp4
-    fansub: 北宇治字幕组
-    episode: 1
+  - filename: 偶像大师 灰姑娘女孩 U149 S00E02 {千夏字幕组}.mkv
+    fansub: 千夏字幕组
+    naming: manual
     source:
       type: AnimeGarden
-      magnet: https://share.dmhy.org/topics/view/636627_U149_The_Idolmaster_Cinderella_Girls_U149_01_TVrip_1080p_HEVC_AAC.html
+      magnet: https://garden.onekuma.cn/resource/654768_U149_THE_IDOLM_STER_CINDERELLA_GIRLS_U149_BDRip_1080p_HEVC.html
 
   - filename: 偶像大师 灰姑娘女孩 U149 S01E02 {喵萌奶茶屋}.mp4
     fansub: 喵萌奶茶屋
@@ -91,9 +91,9 @@ videos:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/643856_U149_THE_iDOLM_STER_CINDERELLA_GIRLS_U149_11_Webrip_1080p_HEVC_AAC.html
 
-  - filename: 偶像大师 灰姑娘女孩 U149 S01E12 {喵萌奶茶屋}.mp4
-    fansub: 喵萌奶茶屋
+  - filename: 偶像大师 灰姑娘女孩 U149 S01E12 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
     episode: 12
     source:
       type: AnimeGarden
-      magnet: https://share.dmhy.org/topics/view/644296_Production_04_U149_THE_IDOLM_STER_CINDERELLA_GIRLS_U149_12_1080p.html
+      magnet: https://garden.onekuma.cn/resource/644716_U149_THE_iDOLM_STER_CINDERELLA_GIRLS_U149_12_Webrip_1080p_HEVC_AAC.html
