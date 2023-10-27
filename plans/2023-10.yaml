@@ -358,3 +358,10 @@ onair:
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22圣魔大战%22%2C%22ビックリメン%22%2C%22仙魔大战%22%2C%22Bikkurimen%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
+
+  - title: 拾荒者的统治
+    translations:
+      - 'Scavengers Reign'
+    bgm: '443179'
+    fansub: 天月動漫&發佈組
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22拾荒者的统治%22%2C%22Scavengers%20Reign%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
