@@ -1,4 +1,4 @@
-# Generated at 2023-10-28 01:27
+# Generated at 2023-10-28 02:01
 
 videos:
   - filename: 拾荒者的统治 S01E01 {天月動漫&發佈組}.mp4
@@ -21,3 +21,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/654905_Skymoon-Raws_Scavengers_Reign_-_03_HBO-Max_Web-DL_1080p_AVC_AAC_CHS_MP4.html
+
+  - filename: 拾荒者的统治 S01E04 {天月動漫&發佈組}.mp4
+    fansub: 天月動漫&發佈組
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/654907_Skymoon-Raws_Scavengers_Reign_-_04_HBO-Max_Web-DL_1080p_AVC_AAC_CHS_MP4.html
