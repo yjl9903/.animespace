@@ -1,4 +1,4 @@
-# Generated at 2023-10-22 01:23
+# Generated at 2023-10-29 01:24
 
 videos:
   - filename: 猪肝记得煮熟再吃 S01E01 {ANi}.mp4
@@ -21,3 +21,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/654301_ANi_Buta_no_Liver_wa_Kanetsu_Shiro_-_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 猪肝记得煮熟再吃 S01E04 {ANi}.mp4
+    fansub: ANi
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/655000_ANi_Buta_no_Liver_wa_Kanetsu_Shiro_-_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

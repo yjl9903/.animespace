@@ -1,4 +1,4 @@
-# Generated at 2023-10-22 02:19
+# Generated at 2023-10-29 02:13
 
 videos:
   - filename: 我们的雨色协议 S01E01 {ANi}.mp4
@@ -21,3 +21,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/654302_ANi_Bokura_no_Ameiro_Protocol_-_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我们的雨色协议 S01E04 {ANi}.mp4
+    fansub: ANi
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/655010_ANi_Bokura_no_Ameiro_Protocol_-_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
