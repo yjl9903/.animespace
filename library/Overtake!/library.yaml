@@ -1,4 +1,4 @@
-# Generated at 2023-10-22 10:58
+# Generated at 2023-10-29 11:02
 
 videos:
   - filename: Overtake! S01E01 {ANi}.mp4
@@ -28,3 +28,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/654410_ANi_OVERTAKE_-_OVERTAKE%21_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: Overtake! S01E05 {ANi}.mp4
+    fansub: ANi
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/655093_ANi_OVERTAKE_-_OVERTAKE%21_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
