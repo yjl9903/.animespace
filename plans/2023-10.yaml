@@ -79,6 +79,7 @@ onair:
       - 'Kusuriya no Hitorigoto'
     bgm: '420628'
     fansub:
+      - 喵萌奶茶屋
       - 天月動漫&發佈組
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22药屋少女的呢喃%22%2C%22薬屋のひとりごと%22%2C%22药师少女的独语%22%2C%22Kusuriya%20no%20Hitorigoto%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
@@ -249,12 +250,12 @@ onair:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22鸭乃桥论的禁忌推理%22%2C%22鴨乃橋ロンの禁断推理%22%2C%22Kamonohashi%20Ron%20no%20Kindan%20Suiri%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
-  - title: 晚安 世界
-    translations:
-      - 'グッド・ナイト・ワールド'
-      - 'Good Night World'
-      - 'GOOD NIGHT WORLD'
-    bgm: '448114'
+  # - title: 晚安 世界
+  #   translations:
+  #     - 'グッド・ナイト・ワールド'
+  #     - 'Good Night World'
+  #     - 'GOOD NIGHT WORLD'
+  #   bgm: '448114'
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22晚安%20世界%22%2C%22グッド・ナイト・ワールド%22%2C%22Good%20Night%20World%22%2C%22GOOD%20NIGHT%20WORLD%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 特搜组大吾 救国的橘色部队
