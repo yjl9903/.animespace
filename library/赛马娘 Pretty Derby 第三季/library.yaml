@@ -1,4 +1,4 @@
-# Generated at 2023-10-28 12:21
+# Generated at 2023-11-02 12:28
 
 videos:
   - filename: 赛马娘 Pretty Derby S03E01 {肥猫压制}.mp4
@@ -28,3 +28,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/654722_ANi_Pretty_Derby_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 赛马娘 Pretty Derby S03E05 {ANi}.mp4
+    fansub: ANi
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/655343_ANi_Pretty_Derby_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
