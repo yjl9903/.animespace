@@ -1,4 +1,4 @@
-# Generated at 2023-10-28 01:40
+# Generated at 2023-11-04 01:53
 
 videos:
   - filename: 女友成双 S02E01 {ANi}.mp4
@@ -28,3 +28,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/654911_ANi_Kanojo_mo_Kanojo_S02_-_and_-_16_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 女友成双 S02E05 {ANi}.mp4
+    fansub: ANi
+    episode: 17
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/655485_ANi_Kanojo_mo_Kanojo_S02_-_and_-_17_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
