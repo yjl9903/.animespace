@@ -1,4 +1,4 @@
-# Generated at 2023-10-31 11:11
+# Generated at 2023-11-09 12:35
 
 videos:
   - filename: 药屋少女的呢喃 S01E01 {喵萌奶茶屋}.mp4
@@ -28,3 +28,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/655237_10_Kusuriya_no_Hitorigoto_04_1080p.html
+
+  - filename: 药屋少女的呢喃 S01E05 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/655810_10_Kusuriya_no_Hitorigoto_05_1080p.html
