@@ -1,4 +1,4 @@
-# Generated at 2023-11-03 02:01
+# Generated at 2023-11-10 03:12
 
 videos:
   - filename: 地下忍者 S01E01 {ANi}.mp4
@@ -35,3 +35,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/655420_ANi_UNDER_NINJA_-_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 地下忍者 S01E06 {ANi}.mp4
+    fansub: ANi
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/655923_ANi_UNDER_NINJA_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
