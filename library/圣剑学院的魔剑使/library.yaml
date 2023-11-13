@@ -1,4 +1,4 @@
-# Generated at 2023-11-07 11:10
+# Generated at 2023-11-14 01:23
 
 videos:
   - filename: 圣剑学院的魔剑使 S01E01 {ANi}.mp4
@@ -42,3 +42,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/655708_ANi_Seiken_Gakuin_no_Maken_Tsukai_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 圣剑学院的魔剑使 S01E07 {ANi}.mp4
+    fansub: ANi
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/656141_ANi_Seiken_Gakuin_no_Maken_Tsukai_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

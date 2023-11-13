@@ -1,4 +1,4 @@
-# Generated at 2023-11-06 11:37
+# Generated at 2023-11-14 12:32
 
 videos:
   - filename: 米奇与达利 S01E01 {ANi}.mp4
@@ -42,3 +42,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/655691_ANi_MigiDali_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 米奇与达利 S01E07 {ANi}.mp4
+    fansub: ANi
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/656129_ANi_MigiDali_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

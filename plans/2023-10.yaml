@@ -197,6 +197,7 @@ onair:
 
   - title: 间谍过家家 第二季
     translations:
+      - '间谍过家家 Season 2'
       - 'SPY x FAMILY 間諜家家酒 Season 2'
       - 'SPY×FAMILY Season 2'
       - 'Spy x Family (2023)'
@@ -208,6 +209,7 @@ onair:
         gte: 26
         offset: -25
     fansub:
+      - 桜都字幕组
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22间谍过家家%20第二季%22%2C%22SPY×FAMILY%20Season%202%22%2C%22Spy%20x%20Family%20(2023)%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
@@ -325,6 +327,7 @@ onair:
     bgm: '362005'
     fansub:
       - ANi
+      - LoliHouse
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22猪肝记得煮熟再吃%22%2C%22豚のレバーは加熱しろ%22%2C%22猪肝倒是热热再吃啊%22%2C%22Heat%20the%20pig%20liver:%20the%20story%20of%20a%20man%20turned%20into%20a%20pig.%22%2C%22Buta%20no%20Liver%20wa%20Kanetsu%20Shiro%22%5D%5D&after=2023-09-30T16%3A00%3A00.000Z
 
   - title: 超超超超超喜欢你的100个女朋友
