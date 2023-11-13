@@ -1,4 +1,4 @@
-# Generated at 2023-11-11 12:06
+# Generated at 2023-11-13 02:12
 
 videos:
   - filename: 葬送的芙莉莲 S01E01 {北宇治字幕组}.mkv
@@ -64,9 +64,9 @@ videos:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/655555_Sousou_no_Frieren_09_WebRip_1080p_HEVC_AAC.html
 
-  - filename: 葬送的芙莉莲 S01E10 {ANi}.mp4
-    fansub: ANi
+  - filename: 葬送的芙莉莲 S01E10 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
     episode: 10
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/655968_ANi_S_s_no_Frieren_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/resource/656091_Sousou_no_Frieren_10_WebRip_1080p_HEVC_AAC.html
