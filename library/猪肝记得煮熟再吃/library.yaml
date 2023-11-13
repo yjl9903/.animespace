@@ -1,4 +1,4 @@
-# Generated at 2023-11-05 01:11
+# Generated at 2023-11-14 02:45
 
 videos:
   - filename: 猪肝记得煮熟再吃 S01E01 {ANi}.mp4
@@ -35,3 +35,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/655556_ANi_Buta_no_Liver_wa_Kanetsu_Shiro_-_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 猪肝记得煮熟再吃 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/656022_LoliHouse_Buta_no_Liver_wa_Kanetsu_Shiro_-_06_WebRip_1080p_HEVC-10bit_AAC.html
