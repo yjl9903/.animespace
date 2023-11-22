@@ -1,4 +1,4 @@
-# Generated at 2023-11-16 06:41
+# Generated at 2023-11-22 10:46
 
 videos:
   - filename: 想要成为影之实力者！ S02E01 {ANi}.mp4
@@ -49,3 +49,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/656409_LoliHouse_Kage_no_Jitsuryokusha_ni_Naritakute%21_S2_-_07_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 想要成为影之实力者！ S02E08 {ANi}.mp4
+    fansub: ANi
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/656873_ANi_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
