@@ -1,4 +1,4 @@
-# Generated at 2023-11-21 02:03
+# Generated at 2023-11-27 12:01
 
 videos:
   - filename: 超超超超超喜欢你的100个女朋友 S01E01 {喵萌奶茶屋}.mp4
@@ -43,9 +43,16 @@ videos:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/656768_10_100_Hyakkano_06_1080p.html
 
-  - filename: 超超超超超喜欢你的100个女朋友 S01E07 {ANi}.mp4
-    fansub: ANi
+  - filename: 超超超超超喜欢你的100个女朋友 S01E07 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
     episode: 7
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/656694_ANi_100_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/resource/657089_10_100_Hyakkano_07_1080p.html
+
+  - filename: 超超超超超喜欢你的100个女朋友 S01E08 {ANi}.mp4
+    fansub: ANi
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/657074_ANi_100_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
