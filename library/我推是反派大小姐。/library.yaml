@@ -1,4 +1,4 @@
-# Generated at 2023-11-21 12:23
+# Generated at 2023-11-28 12:20
 
 videos:
   - filename: 我推是反派大小姐。 S01E01 {ANi}.mp4
@@ -56,3 +56,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/656758_ANi_Watashi_no_Oshi_wa_Akuyaku_Reijou_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我推是反派大小姐。 S01E09 {ANi}.mp4
+    fansub: ANi
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/657151_ANi_Watashi_no_Oshi_wa_Akuyaku_Reijou_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
