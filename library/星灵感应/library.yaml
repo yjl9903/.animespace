@@ -1,4 +1,4 @@
-# Generated at 2023-11-20 08:47
+# Generated at 2023-11-27 09:39
 
 videos:
   - filename: 星灵感应 S01E01 {爱恋字幕社}.mp4
@@ -49,3 +49,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/656737_ANi_Hoshikuzu_Telepath_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 星灵感应 S01E08 {ANi}.mp4
+    fansub: ANi
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/657131_ANi_Hoshikuzu_Telepath_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
