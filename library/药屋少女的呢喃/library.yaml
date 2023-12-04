@@ -1,4 +1,4 @@
-# Generated at 2023-12-03 02:13
+# Generated at 2023-12-04 06:12
 
 videos:
   - filename: 药屋少女的呢喃 S01E01 {喵萌奶茶屋}.mp4
@@ -56,3 +56,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/657433_10_Kusuriya_no_Hitorigoto_08_1080p.html
+
+  - filename: 药屋少女的呢喃 S01E09 {Amor字幕组}.mkv
+    fansub: Amor字幕组
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/657515_Amor_Kusuriya_no_Hitorigoto_09_WEB-DL_Netflix_1080P_MKV.html
