@@ -1,4 +1,4 @@
-# Generated at 2023-11-29 10:46
+# Generated at 2023-12-06 10:51
 
 videos:
   - filename: 想要成为影之实力者！ S02E01 {ANi}.mp4
@@ -63,3 +63,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/657232_ANi_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 想要成为影之实力者！ S02E10 {ANi}.mp4
+    fansub: ANi
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/657653_ANi_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
