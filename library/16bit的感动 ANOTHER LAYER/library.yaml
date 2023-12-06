@@ -1,4 +1,4 @@
-# Generated at 2023-11-30 10:34
+# Generated at 2023-12-07 01:12
 
 videos:
   - filename: 16bit的感动 ANOTHER LAYER S01E01 {ANi}.mp4
@@ -63,3 +63,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/657292_ANi_16bit_ANOTHER_LAYER_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_V2_MP4.html
+
+  - filename: 16bit的感动 ANOTHER LAYER S01E10 {ANi}.mp4
+    fansub: ANi
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/657658_ANi_16bit_ANOTHER_LAYER_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
