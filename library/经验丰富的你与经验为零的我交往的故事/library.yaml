@@ -1,4 +1,4 @@
-# Generated at 2023-12-02 12:18
+# Generated at 2023-12-08 10:42
 
 videos:
   - filename: 经验丰富的你与经验为零的我交往的故事 S01E01 {ANi}.mp4
@@ -63,3 +63,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/657338_ANi_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 经验丰富的你与经验为零的我交往的故事 S01E10 {ANi}.mp4
+    fansub: ANi
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/657750_ANi_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

@@ -1,4 +1,4 @@
-# Generated at 2023-12-02 12:21
+# Generated at 2023-12-08 08:19
 
 videos:
   - filename: 盾之勇者成名录 S03E01 {ANi}.mp4
@@ -63,3 +63,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/657328_ANi_Tate_no_Yuusha_no_Nariagari_Season_3_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 盾之勇者成名录 S03E10 {ANi}.mp4
+    fansub: ANi
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/657743_ANi_Tate_no_Yuusha_no_Nariagari_Season_3_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
