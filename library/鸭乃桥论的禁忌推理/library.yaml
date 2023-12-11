@@ -1,4 +1,4 @@
-# Generated at 2023-11-28 12:51
+# Generated at 2023-12-11 10:50
 
 videos:
   - filename: 鸭乃桥论的禁忌推理 S01E01 {ANi}.mp4
@@ -69,4 +69,11 @@ videos:
     episode: 10
     source:
       type: Local
-      from: '[ANi] 鴨乃橋論的禁忌推理 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4'
+      from: "[ANi] 鴨乃橋論的禁忌推理 - 10 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4"
+
+  - filename: 鸭乃桥论的禁忌推理 S01E11 {ANi}.mp4
+    fansub: ANi
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/658226_ANi_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
