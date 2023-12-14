@@ -1,6 +1,6 @@
 # .animespace
 
-XLor's personal anime following list used for [AnimeSpace](https://github.com/yjl9903/AnimeSpace).
+OneKuma's personal anime following list used for [AnimeSpace](https://github.com/yjl9903/AnimeSpace).
 
 ## 使用
 
