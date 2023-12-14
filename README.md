@@ -6,13 +6,13 @@ XLor's personal anime following list used for [AnimeSpace](https://github.com/yj
 
 1. Clone this repo and install [AnimeSpace](https://github.com/yjl9903/AnimeSpace) globally.
   
-```bash
-$ gh repo clone yjl9903/.animespace ~/.animespace
+   ```bash
+   $ gh repo clone yjl9903/.animespace ~/.animespace
 
-$ npm i -g animespace
-# or pnpm i -g animespace
-# or any package manager you prefer
-```
+   $ npm i -g animespace
+   # or pnpm i -g animespace
+   # or any package manager you prefer
+   ```
 
 2. Change the configuration in the `anime.yml`.
 
@@ -20,9 +20,9 @@ $ npm i -g animespace
 
    Note that the first time introspect will download all the onair animes stored in the library, so that it may take quite long time.
 
-```bash
-anime introspect
-```
+   ```bash
+   anime introspect
+   ```
 
 ## 动画
 
