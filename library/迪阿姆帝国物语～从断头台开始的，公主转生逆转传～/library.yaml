@@ -1,4 +1,4 @@
-# Generated at 2023-12-10 12:15
+# Generated at 2023-12-17 12:14
 
 videos:
   - filename: 迪阿姆帝国物语～从断头台开始的，公主转生逆转传～ S01E01 {ANi}.mp4
@@ -63,3 +63,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/658006_ANi_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 迪阿姆帝国物语～从断头台开始的，公主转生逆转传～ S01E11 {ANi}.mp4
+    fansub: ANi
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/658624_ANi_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
