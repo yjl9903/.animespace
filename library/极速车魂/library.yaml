@@ -1,4 +1,4 @@
-# Generated at 2023-12-11 12:16
+# Generated at 2023-12-18 12:15
 
 videos:
   - filename: 极速车魂 S01E01 {ANi}.mp4
@@ -77,3 +77,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/658170_ANi_MF_Ghost_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 极速车魂 S01E12 {ANi}.mp4
+    fansub: ANi
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/658713_ANi_MF_Ghost_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
