@@ -1,4 +1,4 @@
-# Generated at 2023-12-15 12:16
+# Generated at 2023-12-22 01:33
 
 videos:
   - filename: GOD.app S01E01 {喵萌奶茶屋}.mp4
@@ -77,3 +77,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/658455_10_KamiErabi_GOD_app_11_1080p.html
+
+  - filename: GOD.app S01E12 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/659012_10_KamiErabi_GOD_app_12_1080p.html
