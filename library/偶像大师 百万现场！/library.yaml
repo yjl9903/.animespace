@@ -1,4 +1,4 @@
-# Generated at 2023-12-18 11:10
+# Generated at 2023-12-25 12:10
 
 videos:
   - filename: 偶像大师 百万现场！ S01E01 {北宇治字幕组}.mp4
@@ -77,3 +77,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/658736_THE_iDOLM_STER_MILLION_LIVE%21_11_WebRip_1080p_HEVC_AAC.html
+
+  - filename: 偶像大师 百万现场！ S01E12 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/659251_THE_iDOLM_STER_MILLION_LIVE%21_12_WebRip_1080p_HEVC_AAC.html
