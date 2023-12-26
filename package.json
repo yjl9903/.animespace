@@ -8,9 +8,9 @@
   "devDependencies": {
     "animespace": "0.1.0-beta.16",
     "bgmc": "^0.0.5",
-    "naria2c": "0.0.23",
-    "optc": "^0.6.3",
-    "undici": "^5.27.2"
+    "naria2c": "0.0.24",
+    "optc": "^0.6.4",
+    "undici": "^6.2.1"
   },
   "packageManager": "pnpm@8.8.0",
   "engines": {
