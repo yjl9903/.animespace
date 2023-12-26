@@ -1,4 +1,4 @@
-# Generated at 2023-12-24 01:21
+# Generated at 2023-12-27 04:04
 
 videos:
   - filename: 间谍过家家 S02E01 {桜都字幕组}.mkv
@@ -78,9 +78,9 @@ videos:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/658814_Season_2_Spy_x_Family_Season_2_11_1080p.html
 
-  - filename: 间谍过家家 S02E12 {ANi}.mp4
-    fansub: ANi
-    episode: 37
+  - filename: 间谍过家家 S02E12 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    episode: 12
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/659163_ANi_SPY_x_FAMILY_SPY_x_FAMILY_Season_2_-_37_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/resource/659338_Season_2_Spy_x_Family_Season_2_12_1080p.html
