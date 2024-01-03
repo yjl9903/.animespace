@@ -1,0 +1,158 @@
+title: 2024 年 1 月新番放送计划
+
+date: 2024-01-01 12:00
+
+status: onair
+
+onair:
+  - title: 指尖相触，恋恋不舍
+    alias:
+      - 'ゆびさきと恋々'
+      - 'Yubisaki to Renren'
+      - 'Signos de afecto'
+    bgm: '444334'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22指尖相触，恋恋不舍%22%2C%22ゆびさきと恋々%22%2C%22Yubisaki%20to%20Renren%22%2C%22Signos%20de%20afecto%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 北海道辣妹贼拉可爱
+    alias:
+      - '道産子ギャルはなまらめんこい'
+      - 'Dosanko Gal wa Namara Menkoi'
+    bgm: '406119'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22北海道辣妹贼拉可爱%22%2C%22道産子ギャルはなまらめんこい%22%2C%22Dosanko%20Gal%20wa%20Namara%20Menkoi%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 愚蠢天使与恶魔共舞
+    alias:
+      - '愚かな天使は悪魔と踊る'
+      - 'The Foolish Angel Dances with the Devil'
+      - 'Oroka na Tenshi wa Akuma to Odoru'
+    bgm: '431839'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22愚蠢天使与恶魔共舞%22%2C%22愚かな天使は悪魔と踊る%22%2C%22The%20Foolish%20Angel%20Dances%20with%20the%20Devil%22%2C%22Oroka%20na%20Tenshi%20wa%20Akuma%20to%20Odoru%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 奇异贤伴 黑色天使 第2部分
+    alias:
+      - 'SYNDUALITY Noir 第2クール'
+      - 'シンデュアリティ 第2クール'
+    season: 2
+    status: finish
+    rewrite:
+      title: 奇异贤伴 黑色天使
+    bgm: '456042'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22奇异贤伴%20黑色天使%20第2部分%22%2C%22SYNDUALITY%20Noir%20 第2クール%22%2C%22シンデュアリティ%20第2クール%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 秒杀外挂太强了，异世界的家伙们根本就不是对手。
+    alias:
+      - '即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。'
+      - 'Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranaindesu ga.'
+    bgm: '409441'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22秒杀外挂太强了，异世界的家伙们根本就不是对手。%22%2C%22即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。%22%2C%22Sokushi%20Cheat%20ga%20Saikyou%20Sugite%2C%20Isekai%20no%20Yatsura%20ga%20Marude%20Aite%20ni%20Naranaindesu%20ga.%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 佐佐木与文鸟小哔
+    alias:
+      - '佐々木とピーちゃん'
+      - '佐佐木大叔与小哔'
+    bgm: '393038'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22佐佐木与文鸟小哔%22%2C%22佐々木とピーちゃん%22%2C%22佐佐木 大叔与小哔%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 公主大人“拷问”的时间到了
+    alias:
+      - '姫様“拷問”の時間です'
+      - 'Hime-sama &quot;Goumon&quot; no Jikan Desu'
+      - 'Tis Time for &quot;Torture,&quot; Princess'
+      - '公主大人，接下来是“拷问”时间'
+    bgm: '443112'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22公主大人“拷问”的时间到了%22%2C%22姫様“拷問”の時間です%22%2C%22Hime-sama%20&quot;Goumon&quot;%20no%20Jikan%20Desu%22%2C%22Tis%20Time%20for%20&quot;Torture%2C&quot;%20Princess%22%2C%22公主大人，接下来是“拷问”时间%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 至高之牌 第二季
+    alias:
+      - 'HIGH CARD season2'
+    rewrite:
+      title: 至高之牌
+    season: 2
+    bgm: '426156'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22至高之牌%20第二季%22%2C%22HIGH%20CARD%20season2%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 碰之道
+    alias:
+      - 'ぽんのみち'
+      - 'Pon no Michi'
+    bgm: '437206'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22碰之道%22%2C%22ぽんのみち%22%2C%22Pon%20no%20Michi%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 月刊妄想科学
+    alias:
+      - '月刊モー想科学'
+      - '月刊MOU想科学'
+      - 'Gekkan Mousou Kagaku'
+    bgm: '455355'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22月刊妄想科学%22%2C%22月刊モー想科学%22%2C%22月刊MOU想科学%22%2C%22Gekkan%20Mousou%20Kagaku%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 金属胭脂
+    alias:
+      - 'メタリックルージュ'
+      - '金属口红'
+      - 'METALLIC ROUGE'
+    bgm: '425595'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22金属胭脂%22%2C%22メタリックルージュ%22%2C%22金属口红%22%2C%22METALLIC%20ROUGE%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 欢迎来到实力至上主义教室 第三季
+    alias:
+      - '歡迎來到實力至上主義的教室 第三季'
+      - 'ようこそ実力至上主義の教室へ 3rd Season'
+      - 'Classroom of the Elite III'
+      - 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3nd Season'
+    season: 3
+    rewrite:
+      title: 欢迎来到实力至上主义教室
+    bgm: '373266'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22欢迎来到实力至上主义教室%20第三季%22%2C%22ようこそ実力至上 主義の教室へ%203rd%20Season%22%2C%22Classroom%20of%20the%20Elite%20III%22%2C%22Youkoso%20Jitsuryoku%20Shijou%20Shugi%20no%20Kyoushitsu%20e%203nd%20Season%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 迷宫饭
+    alias:
+      - 'ダンジョン飯'
+      - 'Dungeon Meshi'
+    bgm: '395378'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22迷宫饭%22%2C%22ダンジョン飯%22%2C%22Dungeon%20Meshi%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 我心里危险的东西 第二季
+    alias:
+      - '僕の心のヤバイやつ 第2期'
+      - '我内心的糟糕念头 第二季'
+      - '我心中的野兽 第二季'
+      - 'The Dangers in My Heart 2nd Season'
+      - 'Boku no Kokoro no Yabai Yatsu 2nd Season'
+    rewrite:
+      title: 我心里危险的东西
+    season: 2
+    bgm: '441795'
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22我心里危险的东西%20第二季%22%2C%22僕の心のヤバイやつ%20第2 期%22%2C%22我内心的糟糕念头%20第二季%22%2C%22我心中的野兽%20第二季%22%2C%22The%20Dangers%20in%20My%20Heart%202nd%20Season%22%2C%22Boku%20no%20Kokoro%20no%20Yabai%20Yatsu%202nd%20Season%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 弱角友崎同学 2nd STAGE
+    alias:
+      - '弱キャラ友崎くん 2nd STAGE'
+      - '弱势角色友崎君 第二季'
+      - '弱势角色友崎同学 第二季'
+      - '弱气角色友崎君 第二季'
+      - '弱小角色友崎君 第二季'
+      - '弱角友崎君 第二季'
+      - '弱キャラ友崎くん 第2期'
+      - 'Bottom-Tier Character Tomozaki'
+      - 'Jaku Chara Tomozaki-kun 2nd Stage'
+    season: 2
+    rewrite:
+      title: 弱角友崎同学
+    bgm: '365572'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22弱角友崎同学%202nd%20STAGE%22%2C%22弱キャラ友崎くん%202nd%20STAGE%22%2C%22弱势角色友崎君%20第二季%22%2C%22弱势角色友崎同学%20第二季%22%2C%22弱气角色友崎君%20第二季%22%2C%22弱小角 色友崎君%20第二季%22%2C%22弱角友崎君%20第二季%22%2C%22弱キャラ友崎くん%20第2期%22%2C%22Bottom-Tier%20Character%20Tomozaki%22%2C%22Jaku%20Chara%20Tomozaki-kun%202nd%20Stage%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 梦想成为魔法少女
+    alias:
+      - '魔法少女にあこがれて'
+      - '憧憬成为魔法少女'
+      - 'Mahou Shoujo ni Akogarete'
+    bgm: '424663'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22梦想成为魔法少女%22%2C%22魔法少女にあこがれて%22%2C%22憧憬 成为魔法少女%22%2C%22Mahou%20Shoujo%20ni%20Akogarete%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z

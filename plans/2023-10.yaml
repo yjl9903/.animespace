@@ -1,8 +1,8 @@
-title: 2023 年 7 月新番放送计划
+title: 2023 年 10 月新番放送计划
 
 date: 2023-09-28 12:00
 
-status: onair
+status: finish
 
 onair:
   - title: 葬送的芙莉莲
@@ -12,6 +12,7 @@ onair:
       - 'Sousou no Frieren'
       - '葬送的芙莉蓮'
       - 'FRIEREN'
+    status: onair
     bgm: '400602'
     fansub:
       - 北宇治字幕组
@@ -78,6 +79,7 @@ onair:
       - '药师少女的独语'
       - 'Kusuriya no Hitorigoto'
     bgm: '420628'
+    status: onair
     fansub:
       - 喵萌奶茶屋
       - 天月動漫&發佈組
