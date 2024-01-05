@@ -54,6 +54,8 @@ onair:
       - '佐々木とピーちゃん'
       - '佐佐木大叔与小哔'
     bgm: '393038'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22佐佐木与文鸟小哔%22%2C%22佐々木とピーちゃん%22%2C%22佐佐木 大叔与小哔%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 公主大人“拷问”的时间到了
@@ -116,6 +118,8 @@ onair:
       - 'ダンジョン飯'
       - 'Dungeon Meshi'
     bgm: '395378'
+    fansub:
+      - 喵萌奶茶屋
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22迷宫饭%22%2C%22ダンジョン飯%22%2C%22Dungeon%20Meshi%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 我心里危险的东西 第二季
