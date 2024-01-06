@@ -9,7 +9,6 @@ storage:
 
 preference:
   format:
-    anime: '{title}'
     episode: '{title} S{season}E{ep} {{fansub}}.{extension}'
     film: '{title} {{fansub}}.{extension}'
     ova: '{title} {{fansub}}.{extension}'
@@ -32,12 +31,9 @@ preference:
       fansub:
         - '内嵌'
         - '内封'
-    # exclude:
-    #   - 外挂
-    #   - 外掛
-  fansub:
-    order: []
-    exclude: []
+    exclude:
+      - 外挂
+      - 外掛
 
 plans:
   - ./plans/*.yaml

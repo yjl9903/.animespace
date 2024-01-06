@@ -47,6 +47,9 @@ onair:
       - '即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。'
       - 'Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranaindesu ga.'
     bgm: '409441'
+    preference:
+      keyword:
+        exclude: []
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22秒杀外挂太强了，异世界的家伙们根本就不是对手。%22%2C%22即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。%22%2C%22Sokushi%20Cheat%20ga%20Saikyou%20Sugite%2C%20Isekai%20no%20Yatsura%20ga%20Marude%20Aite%20ni%20Naranaindesu%20ga.%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
