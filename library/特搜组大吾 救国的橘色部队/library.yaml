@@ -1,4 +1,4 @@
-# Generated at 2023-12-24 01:52
+# Generated at 2024-01-06 11:14
 
 videos:
   - filename: 特搜组大吾 救国的橘色部队 S01E01 {ANi}.mp4
@@ -91,3 +91,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/659144_ANi_-_12_5_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 特搜组大吾 救国的橘色部队 S01E13 {ANi}.mp4
+    fansub: ANi
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/659955_ANi_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
