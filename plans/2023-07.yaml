@@ -167,10 +167,6 @@ onair:
     status: finish
     season: 1
     bgm: '428418'
-    rewrite:
-      episode:
-        lte: 12
-        offset: +12
     fansub:
       - Lilith-Raws
       - ANi
