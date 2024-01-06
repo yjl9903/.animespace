@@ -136,8 +136,13 @@ onair:
       - 'Boku no Kokoro no Yabai Yatsu 2nd Season'
     rewrite:
       title: 我心里危险的东西
+      episode:
+        offset: -12
+        fansub: ANi
     season: 2
     bgm: '441795'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22我心里危险的东西%20第二季%22%2C%22僕の心のヤバイやつ%20第2 期%22%2C%22我内心的糟糕念头%20第二季%22%2C%22我心中的野兽%20第二季%22%2C%22The%20Dangers%20in%20My%20Heart%202nd%20Season%22%2C%22Boku%20no%20Kokoro%20no%20Yabai%20Yatsu%202nd%20Season%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 弱角友崎同学 2nd STAGE
