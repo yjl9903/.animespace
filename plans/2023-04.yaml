@@ -81,17 +81,11 @@ onair:
     directory: 机动战士高达 水星的魔女 Season2
     bgm: '403238'
     season: 1
-    rewrite:
-      episode:
-        lte: 12
-        offset: +12
     keywords:
       - 水星的魔女
     fansub:
       - LoliHouse
-      - 喵萌奶茶屋
       - 白恋字幕组
-      - Lilith-Raws
 
   - title: 地狱乐
     bgm: '325808'
@@ -143,13 +137,11 @@ onair:
     season: 1
     rewrite:
       episode:
-        lte: 13
         offset: +13
     keywords:
       - 小鸟之翼 第二季
     fansub:
       - 北宇治字幕组
-      - ANi
 
   - title: 邻人似银河
     translations:
