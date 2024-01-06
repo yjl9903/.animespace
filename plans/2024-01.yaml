@@ -11,6 +11,8 @@ onair:
       - 'Yubisaki to Renren'
       - 'Signos de afecto'
     bgm: '444334'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22指尖相触，恋恋不舍%22%2C%22ゆびさきと恋々%22%2C%22Yubisaki%20to%20Renren%22%2C%22Signos%20de%20afecto%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 北海道辣妹贼拉可爱
@@ -81,6 +83,8 @@ onair:
       - 'ぽんのみち'
       - 'Pon no Michi'
     bgm: '437206'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22碰之道%22%2C%22ぽんのみち%22%2C%22Pon%20no%20Michi%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 月刊妄想科学
@@ -119,7 +123,8 @@ onair:
       - 'Dungeon Meshi'
     bgm: '395378'
     fansub:
-      - 喵萌奶茶屋
+      - 桜都字幕组
+      # - 喵萌奶茶屋
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22迷宫饭%22%2C%22ダンジョン飯%22%2C%22Dungeon%20Meshi%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 我心里危险的东西 第二季
