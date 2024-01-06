@@ -14,6 +14,11 @@ onair:
       - 'FRIEREN'
     status: onair
     bgm: '400602'
+    preference:
+      keyword:
+        exclude:
+          - 沸羊羊字幕组
+          - B站沸羊羊都得叫我师傅
     fansub:
       - 北宇治字幕组
       - ANi
