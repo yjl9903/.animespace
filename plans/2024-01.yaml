@@ -188,3 +188,15 @@ onair:
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22我独自升级%22%2C%22俺だけレベルアップな件%22%2C%22나%20혼자만%20레벨업%22%2C%22Ore%20dake%20Level%20Up%20na%20Ken%22%2C%22Na%20Honjaman%20Level%20Up%22%2C%22Solo%20Leveling%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 挣扎吧，亚当
+    bgm: '469072'
+    preference:
+      keyword:
+        order:
+          level:
+            - Premium
+            - Onair
+            - Uncensored
+    fansub:
+      - 永恒の光
