@@ -1,7 +1,7 @@
 # AnimeSpace
 anime
-cache
 download
+.cache
 *.mp4
 *.mkv
 *.aria2

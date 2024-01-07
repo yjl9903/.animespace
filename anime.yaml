@@ -5,6 +5,12 @@ storage:
     directory: /aliyundriver/anime
     username: admin
     password: abcdef
+  pikpak:
+    provider: webdav
+    url: http://localhost:5244/dav
+    directory: /pikpak/anime
+    username: admin
+    password: abcdef
   library: './library'
 
 preference:
