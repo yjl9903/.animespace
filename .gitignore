@@ -2,6 +2,7 @@
 anime
 download
 .cache
+.trash
 *.mp4
 *.mkv
 *.aria2
