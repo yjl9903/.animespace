@@ -1,30 +1,40 @@
-# Generated at 2023-08-31 09:41
+# Generated at 2024-01-08 07:44
+
+season: 3
+
+date: 2023-06-25T04:00:00.000Z
+
+storage: anime
 
 videos:
-  - filename: 总之就是非常可爱 S03E01 {云光字幕组}.mp4
+  - filename: 总之就是非常可爱 S00E16 {云光字幕组}.mp4
     fansub: 云光字幕组
-    episode: 1
+    season: 0
+    episode: 16
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/646116_Tonikaku_Kawaii_-_Joshikou-hen_01_1080p.html
 
-  - filename: 总之就是非常可爱 S03E02 {云光字幕组}.mp4
+  - filename: 总之就是非常可爱 S00E17 {云光字幕组}.mp4
     fansub: 云光字幕组
-    episode: 2
+    season: 0
+    episode: 17
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/647322_Tonikaku_Kawaii_-_Joshikou-hen_02_1080p.html
 
-  - filename: 总之就是非常可爱 S03E03 {云光字幕组}.mp4
+  - filename: 总之就是非常可爱 S00E18 {云光字幕组}.mp4
     fansub: 云光字幕组
-    episode: 3
+    season: 0
+    episode: 18
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/648523_Tonikaku_Kawaii_-_Joshikou-hen_03_1080p.html
 
-  - filename: 总之就是非常可爱 S03E04 {云光字幕组}.mp4
+  - filename: 总之就是非常可爱 S00E19 {云光字幕组}.mp4
     fansub: 云光字幕组
-    episode: 4
+    season: 0
+    episode: 19
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/649804_Tonikaku_Kawaii_-_Joshikou-hen_04_END_1080p_mp4.html
