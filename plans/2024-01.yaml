@@ -139,9 +139,9 @@ onair:
       - 'Boku no Kokoro no Yabai Yatsu 2nd Season'
     rewrite:
       title: 我心里危险的东西
-      episode:
-        offset: -12
-        fansub: ANi
+      # episode:
+      #   offset: -12
+      #   fansub: ANi
     season: 2
     bgm: '441795'
     fansub:
