@@ -1,4 +1,10 @@
-# Generated at 2023-12-28 09:11
+# Generated at 2024-01-09 12:55
+
+season: 1
+
+date: 2023-09-28T04:00:00.000Z
+
+storage: anime
 
 videos:
   - filename: 药屋少女的呢喃 S01E01 {喵萌奶茶屋}.mp4
@@ -84,3 +90,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/659412_10_Kusuriya_no_Hitorigoto_12_1080p.html
+
+  - filename: 药屋少女的呢喃 S01E13 {天月動漫&發佈組}.mkv
+    fansub: 天月動漫&發佈組
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/660070_Kusuriya_no_Hitorigoto_-_13_NetFlix_1920x1080_AVC_AAC_MKV.html
