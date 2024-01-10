@@ -113,6 +113,8 @@ onair:
       - '金属口红'
       - 'METALLIC ROUGE'
     bgm: '425595'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22金属胭脂%22%2C%22メタリックルージュ%22%2C%22金属口红%22%2C%22METALLIC%20ROUGE%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 欢迎来到实力至上主义教室 第三季
