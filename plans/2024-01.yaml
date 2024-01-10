@@ -20,6 +20,8 @@ onair:
       - '道産子ギャルはなまらめんこい'
       - 'Dosanko Gal wa Namara Menkoi'
     bgm: '406119'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22北海道辣妹贼拉可爱%22%2C%22道産子ギャルはなまらめんこい%22%2C%22Dosanko%20Gal%20wa%20Namara%20Menkoi%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 愚蠢天使与恶魔共舞
@@ -28,6 +30,8 @@ onair:
       - 'The Foolish Angel Dances with the Devil'
       - 'Oroka na Tenshi wa Akuma to Odoru'
     bgm: '431839'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22愚蠢天使与恶魔共舞%22%2C%22愚かな天使は悪魔と踊る%22%2C%22The%20Foolish%20Angel%20Dances%20with%20the%20Devil%22%2C%22Oroka%20na%20Tenshi%20wa%20Akuma%20to%20Odoru%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 奇异贤伴 黑色天使 第2部分
@@ -39,6 +43,8 @@ onair:
     rewrite:
       title: 奇异贤伴 黑色天使
     bgm: '456042'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22奇异贤伴%20黑色天使%20第2部分%22%2C%22SYNDUALITY%20Noir%20 第2クール%22%2C%22シンデュアリティ%20第2クール%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 秒杀外挂太强了，异世界的家伙们根本就不是对手。
@@ -66,10 +72,11 @@ onair:
   - title: 公主大人“拷问”的时间到了
     alias:
       - '姫様“拷問”の時間です'
-      - 'Hime-sama &quot;Goumon&quot; no Jikan Desu'
-      - 'Tis Time for &quot;Torture,&quot; Princess'
+      - 'Himesama Goumon no Jikan desu'
       - '公主大人，接下来是“拷问”时间'
     bgm: '443112'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22公主大人“拷问”的时间到了%22%2C%22姫様“拷問”の時間です%22%2C%22Hime-sama%20&quot;Goumon&quot;%20no%20Jikan%20Desu%22%2C%22Tis%20Time%20for%20&quot;Torture%2C&quot;%20Princess%22%2C%22公主大人，接下来是“拷问”时间%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 至高之牌 第二季
@@ -79,6 +86,8 @@ onair:
       title: 至高之牌
     season: 2
     bgm: '426156'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22至高之牌%20第二季%22%2C%22HIGH%20CARD%20season2%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 碰之道

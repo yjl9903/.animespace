@@ -1,3 +1,15 @@
-# Generated at 2024-01-04 01:03
+# Generated at 2024-01-09 01:00
 
-videos: []
+season: 2
+
+date: 2024-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 至高之牌 S02E01 {ANi}.mp4
+    fansub: ANi
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/660097_ANi_HIGH_CARD_S02_HIGH_CARD_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
