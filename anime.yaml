@@ -37,9 +37,9 @@ preference:
       fansub:
         - '内嵌'
         - '内封'
-    exclude:
-      - 外挂
-      - 外掛
+    # exclude:
+    #   - 外挂
+    #   - 外掛
 
 plans:
   - ./plans/*.yaml

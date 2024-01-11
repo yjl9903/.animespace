@@ -1,3 +1,15 @@
-# Generated at 2024-01-04 01:03
+# Generated at 2024-01-12 03:38
 
-videos: []
+season: 1
+
+date: 2024-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 北海道辣妹贼拉可爱 S01E01 {爱恋字幕社}.mp4
+    fansub: 爱恋字幕社
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/660314_1_Dosanko_Gal_wa_Namara_Menkoi_01_1080p_MP4_GB.html

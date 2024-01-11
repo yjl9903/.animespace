@@ -21,7 +21,7 @@ onair:
       - 'Dosanko Gal wa Namara Menkoi'
     bgm: '406119'
     fansub:
-      - ANi
+      - 爱恋字幕社
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22北海道辣妹贼拉可爱%22%2C%22道産子ギャルはなまらめんこい%22%2C%22Dosanko%20Gal%20wa%20Namara%20Menkoi%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 愚蠢天使与恶魔共舞
@@ -105,6 +105,8 @@ onair:
       - '月刊MOU想科学'
       - 'Gekkan Mousou Kagaku'
     bgm: '455355'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22月刊妄想科学%22%2C%22月刊モー想科学%22%2C%22月刊MOU想科学%22%2C%22Gekkan%20Mousou%20Kagaku%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 金属胭脂
