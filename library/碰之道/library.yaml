@@ -1,4 +1,10 @@
-# Generated at 2024-01-06 02:50
+# Generated at 2024-01-14 09:31
+
+season: 1
+
+date: 2024-01-01T04:00:00.000Z
+
+storage: anime
 
 videos:
   - filename: 碰之道 S01E01 {ANi}.mp4
@@ -7,3 +13,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/659926_ANi_Pon_no_Michi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 碰之道 S01E02 {ANi}.mp4
+    fansub: ANi
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/660376_ANi_Pon_no_Michi_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
