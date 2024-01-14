@@ -1,0 +1,11 @@
+# Generated at 2024-01-14 09:51
+
+storage: anime
+
+videos:
+  - filename: 勇气爆发 S01E01 {ANi}.mp4
+    fansub: ANi
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/660303_ANi_BANG_BRAVERN_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
