@@ -1,4 +1,8 @@
-# Generated at 2024-01-07 02:35
+# Generated at 2024-01-16 01:20
+
+season: 1
+
+date: 2024-01-01T04:00:00.000Z
 
 storage: pikpak
 
@@ -9,3 +13,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/659857_1_Modaete_yo_Adam-kun_01_Premium_GB_720P_MP4.html
+
+  - filename: 挣扎吧，亚当 S01E02 {永恒の光}.mp4
+    fansub: 永恒の光
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/660605_1_Modaete_yo_Adam-kun_02_Premium_GB_720P_MP4.html
