@@ -1,4 +1,4 @@
-# Generated at 2024-01-09 01:28
+# Generated at 2024-01-16 01:16
 
 season: 1
 
@@ -13,3 +13,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/660124_ANi_Himesama_Goumon_no_Jikan_desu_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 公主大人“拷问”的时间到了 S01E02 {ANi}.mp4
+    fansub: ANi
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/660630_ANi_Himesama_Goumon_no_Jikan_desu_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
