@@ -1,4 +1,4 @@
-# Generated at 2024-01-16 01:12
+# Generated at 2024-01-23 01:02
 
 season: 1
 
@@ -20,3 +20,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/660631_ANi_Oroka_na_Tenshi_wa_Akuma_to_Odoru_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 愚蠢天使与恶魔共舞 S01E03 {ANi}.mp4
+    fansub: ANi
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/661218_ANi_Oroka_na_Tenshi_wa_Akuma_to_Odoru_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
