@@ -1,4 +1,4 @@
-# Generated at 2024-01-17 11:27
+# Generated at 2024-01-25 01:59
 
 season: 2
 
@@ -27,3 +27,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/660742_ANi_Yowai_Character_Tomozakikun_2nd_STAGE_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 弱角友崎同学 S02E04 {ANi}.mp4
+    fansub: ANi
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/661354_ANi_Yowai_Character_Tomozakikun_2nd_STAGE_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
