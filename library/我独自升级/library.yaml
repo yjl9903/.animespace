@@ -1,4 +1,4 @@
-# Generated at 2024-01-21 01:13
+# Generated at 2024-01-28 12:57
 
 season: 1
 
@@ -27,3 +27,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/661022_ANi_Ore_Dake_Level_Up_na_Ken_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我独自升级 S01E04 {ANi}.mp4
+    fansub: ANi
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/661608_ANi_Ore_Dake_Level_Up_na_Ken_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
