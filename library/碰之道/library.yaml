@@ -1,4 +1,4 @@
-# Generated at 2024-01-27 02:12
+# Generated at 2024-02-03 02:19
 
 season: 1
 
@@ -34,3 +34,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/661541_ANi_Pon_no_Michi_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 碰之道 S01E05 {ANi}.mp4
+    fansub: ANi
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/661952_ANi_Pon_no_Michi_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
