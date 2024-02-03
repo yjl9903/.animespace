@@ -187,7 +187,9 @@ onair:
       - 'Mahou Shoujo ni Akogarete'
     bgm: '424663'
     fansub:
+      - 桜都字幕组
       - ANi
+    storage: pikpak
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22梦想成为魔法少女%22%2C%22魔法少女にあこがれて%22%2C%22憧憬 成为魔法少女%22%2C%22Mahou%20Shoujo%20ni%20Akogarete%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 我独自升级

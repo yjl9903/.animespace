@@ -1,39 +1,39 @@
-# Generated at 2024-02-01 12:34
+# Generated at 2024-02-04 03:20
 
 season: 1
 
 date: 2024-01-01T04:00:00.000Z
 
-storage: anime
+storage: pikpak
 
 videos:
-  - filename: 梦想成为魔法少女 S01E01 {ANi}.mp4
-    fansub: ANi
+  - filename: 梦想成为魔法少女 S01E01 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/659825_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/resource/659929_Mahou_Shoujo_ni_Akogarete_01_1080p.html
 
-  - filename: 梦想成为魔法少女 S01E02 {ANi}.mp4
-    fansub: ANi
+  - filename: 梦想成为魔法少女 S01E02 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/660232_ANi_Mahou_Shoujo_ni_Akogarete_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/resource/660430_Mahou_Shoujo_ni_Akogarete_02_1080p.html
 
-  - filename: 梦想成为魔法少女 S01E03 {ANi}.mp4
-    fansub: ANi
+  - filename: 梦想成为魔法少女 S01E03 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
     episode: 3
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/660768_ANi_Mahou_Shoujo_ni_Akogarete_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/resource/661089_Mahou_Shoujo_ni_Akogarete_03_1080p.html
 
-  - filename: 梦想成为魔法少女 S01E04 {ANi}.mp4
-    fansub: ANi
+  - filename: 梦想成为魔法少女 S01E04 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
     episode: 4
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/661377_ANi_Mahou_Shoujo_ni_Akogarete_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/resource/661626_Mahou_Shoujo_ni_Akogarete_04_1080p.html
 
   - filename: 梦想成为魔法少女 S01E05 {ANi}.mp4
     fansub: ANi

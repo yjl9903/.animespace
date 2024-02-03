@@ -1,4 +1,4 @@
-# Generated at 2024-01-28 10:20
+# Generated at 2024-02-04 01:06
 
 season: 1
 
@@ -118,3 +118,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/661674_Amor_Kusuriya_no_Hitorigoto_16_U-NEXTDL_NetflixSub_1080P_MKV.html
+
+  - filename: 药屋少女的呢喃 S01E17 {Amor字幕组}.mkv
+    fansub: Amor字幕组
+    episode: 17
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/662050_Amor_Kusuriya_no_Hitorigoto_17_U-NEXTDL_NetflixSub_1080P_MKV.html
