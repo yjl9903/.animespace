@@ -1,84 +1,90 @@
-# Generated at 2023-09-17 09:14
+# Generated at 2024-02-04 01:11
+
+season: 1
+
+date: 2023-06-25T04:00:00.000Z
+
+storage: anime
 
 videos:
-  - filename: 谎言游戏 S01E01 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E01 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 1
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/645085_LoliHouse_Liar_Liar_-_01_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E02 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E02 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 2
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/645086_LoliHouse_Liar_Liar_-_02_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E03 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E03 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 3
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/645700_LoliHouse_Liar_Liar_-_03_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E04 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E04 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 4
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/646460_LoliHouse_Liar_Liar_-_04_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E05 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E05 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 5
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/647089_LoliHouse_Liar_Liar_-_05_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E06 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E06 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 6
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/647805_LoliHouse_Liar_Liar_-_06_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E07 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E07 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 7
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/648258_LoliHouse_Liar_Liar_-_07_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E08 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E08 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 8
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/648900_LoliHouse_Liar_Liar_-_08_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E09 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E09 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 9
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/649519_LoliHouse_Liar_Liar_-_09_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E10 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E10 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 10
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/650076_LoliHouse_Liar_Liar_-_10_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E11 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E11 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 11
     source:
       type: AnimeGarden
       magnet: https://share.dmhy.org/topics/view/650678_LoliHouse_Liar_Liar_-_11_WebRip_1080p_HEVC-10bit_AAC.html
 
-  - filename: 谎言游戏 S01E12 {LoliHouse}.mkv
+  - filename: 谎言游戏 S01E12 (2023) {LoliHouse}.mkv
     fansub: LoliHouse
     episode: 12
     source:
