@@ -365,6 +365,9 @@ onair:
       - 'ビックリメン'
       - '仙魔大战'
       - 'Bikkurimen'
+    preference:
+      format:
+        episode: '{title}.S{season}E{ep}.2023.{fansub}.{extension}'
     bgm: '427568'
     fansub:
       - ANi

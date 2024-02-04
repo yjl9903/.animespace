@@ -36,6 +36,9 @@ onair:
       - 'ライアー・ライアー'
       - 'Liar Liar'
       - 'LIAR·LIAR'
+    preference:
+      format:
+        episode: '{title} S{season}E{ep} (2023) {{fansub}}.{extension}'
     status: finish
     bgm: '333979'
     fansub:
@@ -68,6 +71,9 @@ onair:
   - title: 堀与宫村 -piece-
     translations:
       - 'ホリミヤ -piece-'
+    preference:
+      format:
+        episode: '{title}.S{season}E{ep}.2023.{fansub}.{extension}'
     bgm: '425992'
     status: finish
     fansub:
