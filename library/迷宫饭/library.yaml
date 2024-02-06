@@ -1,4 +1,4 @@
-# Generated at 2024-01-28 10:25
+# Generated at 2024-02-04 05:55
 
 season: 1
 
@@ -34,3 +34,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/661672_Dungeon_Meshi_04_1080p.html
+
+  - filename: 迷宫饭 S01E05 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/662096_Dungeon_Meshi_05_1080p.html
