@@ -1,4 +1,4 @@
-# Generated at 2024-02-04 03:04
+# Generated at 2024-02-11 02:09
 
 season: 2
 
@@ -41,3 +41,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662057_ANi_-_17_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我心里危险的东西 S01E18 {ANi}.mp4
+    fansub: ANi
+    episode: 18
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/662534_ANi_-_18_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
