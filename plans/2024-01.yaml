@@ -239,3 +239,14 @@ onair:
       - 極彩字幕组
     storage: pikpak
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22人气温泉『异世界温泉』开拓记%20～40岁左右的温泉爱好者转世到了悠闲的温泉天堂～%22%2C%22名湯『異世界の湯』開拓記%20～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～%22%2C%22Meitou%20&quot;Isekai%20no%20Yu&quot;%20Kaitaku-ki:%20Arafou%20Onsen%20Mania%20no%20Tensei%20Saki%20wa%2C%20Nonbiri%20Onsen%20Tengoku%20Deshita%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
+
+  - title: 卡片战斗先导者 DivineZ
+    alias:
+      - '卡片戰鬥!! 先導者 Divinez '
+      - 'カードファイト!! ヴァンガード DivineZ'
+    bgm: '440878'
+    season: 5
+    rewrite:
+      title: 卡片战斗先导者overDress
+    fansub: ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22卡片战斗先导者%20DivineZ%22%2C%22カードファイト!!%20ヴァン ガード%20DivineZ%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
