@@ -1,4 +1,4 @@
-# Generated at 2024-02-08 03:18
+# Generated at 2024-02-15 11:58
 
 season: 1
 
@@ -41,3 +41,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662322_ANi_Metallic_Rouge_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 金属胭脂 S01E06 {ANi}.mp4
+    fansub: ANi
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/662801_ANi_Metallic_Rouge_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

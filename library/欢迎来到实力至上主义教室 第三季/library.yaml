@@ -1,4 +1,4 @@
-# Generated at 2024-02-08 03:20
+# Generated at 2024-02-15 12:01
 
 season: 3
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662310_ANi_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 欢迎来到实力至上主义教室 S03E07 {ANi}.mp4
+    fansub: ANi
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/662790_ANi_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
