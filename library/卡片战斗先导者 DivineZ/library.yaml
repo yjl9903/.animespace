@@ -1,4 +1,6 @@
-# Generated at 2024-02-15 09:33
+# Generated at 2024-02-17 07:29
+
+season: 5
 
 date: 2024-01-01T04:00:00.000Z
 
@@ -32,3 +34,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662012_ANi_CARDFIGHT_VANGUARD_%21%21_Divinez_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S05E06 {ANi}.mp4
+    fansub: ANi
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/662942_ANi_CARDFIGHT_VANGUARD_%21%21_Divinez_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
