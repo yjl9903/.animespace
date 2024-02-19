@@ -1,4 +1,4 @@
-# Generated at 2024-02-15 12:03
+# Generated at 2024-02-19 11:31
 
 season: 1
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662800_Dungeon_Meshi_06_1080p.html
+
+  - filename: 迷宫饭 S01E07 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/663106_Dungeon_Meshi_07_1080p.html
