@@ -1,4 +1,4 @@
-# Generated at 2024-02-15 09:10
+# Generated at 2024-02-21 12:36
 
 season: 1
 
@@ -49,3 +49,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662672_1_Modaete_yo_Adam-kun_05_Premium_GB_720P_MP4.html
+
+  - filename: 挣扎吧，亚当 S01E06 {永恒の光}.mp4
+    fansub: 永恒の光
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/663225_1_Modaete_yo_Adam-kun_06_Premium_GB_720P_MP4.html
