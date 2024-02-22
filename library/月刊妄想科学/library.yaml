@@ -1,4 +1,4 @@
-# Generated at 2024-02-16 01:08
+# Generated at 2024-02-23 12:55
 
 season: 1
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662851_ANi_Delusional_Monthly_Magazine_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 月刊妄想科学 S01E07 {ANi}.mp4
+    fansub: ANi
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/663345_ANi_Delusional_Monthly_Magazine_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
