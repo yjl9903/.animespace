@@ -1,4 +1,4 @@
-# Generated at 2024-02-18 02:28
+# Generated at 2024-02-25 02:30
 
 season: 2
 
@@ -55,3 +55,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662973_ANi_-_19_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我心里危险的东西 S01E20 {ANi}.mp4
+    fansub: ANi
+    episode: 20
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/663470_ANi_-_20_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
