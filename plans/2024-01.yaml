@@ -82,6 +82,7 @@ onair:
   - title: 至高之牌 第二季
     alias:
       - 'HIGH CARD season2'
+      - 'HIGH CARD 至高之牌 2'
     rewrite:
       title: 至高之牌
     season: 2
