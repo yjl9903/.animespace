@@ -1,4 +1,4 @@
-# Generated at 2024-02-16 02:03
+# Generated at 2024-02-26 11:14
 
 season: 1
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662855_40_Isekai_Onsen_Paradise_06_720P_WEB-DL.html
+
+  - filename: 人气温泉『异世界温泉』开拓记 ～40岁左右的温泉爱好者转世到了悠闲的温泉天堂～ S01E07 {極彩字幕组}.mp4
+    fansub: 極彩字幕组
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/663591_40_Isekai_Onsen_Paradise_07_720P_WEB-DL.html
