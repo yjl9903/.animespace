@@ -1,4 +1,4 @@
-# Generated at 2024-02-22 01:16
+# Generated at 2024-02-29 01:14
 
 season: 1
 
@@ -55,3 +55,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/663293_ANi_Metallic_Rouge_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 金属胭脂 S01E08 {ANi}.mp4
+    fansub: ANi
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/663782_ANi_Metallic_Rouge_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
