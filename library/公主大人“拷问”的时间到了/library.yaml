@@ -1,4 +1,4 @@
-# Generated at 2024-02-21 12:29
+# Generated at 2024-02-27 11:55
 
 season: 1
 
@@ -55,3 +55,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/663137_ANi_Himesama_Goumon_no_Jikan_desu_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 公主大人“拷问”的时间到了 S01E08 {ANi}.mp4
+    fansub: ANi
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/663628_ANi_Himesama_Goumon_no_Jikan_desu_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

@@ -1,0 +1,11 @@
+# Generated at 2024-02-28 12:36
+
+storage: anime
+
+videos:
+  - filename: 大欺诈师 razbliuto {SweetSub}.mp4
+    fansub: SweetSub
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/663724_SweetSub_razbliuto_GREAT_PRETENDER_razbliuto_ep_BDRip_1080P_AVC_8bit.html
