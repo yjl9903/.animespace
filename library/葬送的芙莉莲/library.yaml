@@ -1,4 +1,4 @@
-# Generated at 2024-02-26 11:10
+# Generated at 2024-03-02 12:10
 
 season: 1
 
@@ -174,3 +174,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/663590_Sousou_no_Frieren_24_WebRip_1080p_HEVC_AAC.html
+
+  - filename: 葬送的芙莉莲 S01E25 {ANi}.mp4
+    fansub: ANi
+    episode: 25
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/663903_ANi_S_s_no_Frieren_-_25_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
