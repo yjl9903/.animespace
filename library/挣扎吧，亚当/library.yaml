@@ -1,4 +1,4 @@
-# Generated at 2024-03-05 12:00
+# Generated at 2024-03-08 08:45
 
 season: 1
 
@@ -14,6 +14,14 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/662058_1_Modaete_yo_Adam-kun_03_5_Onair_GB_720P_MP4.html
+
+  - filename: 挣扎吧，亚当 S00E02 {永恒の光}.mp4
+    fansub: 永恒の光
+    season: 0
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/664120_1_Modaete_yo_Adam-kun_06_5_Onair_GB_720P_MP4.html
 
   - filename: 挣扎吧，亚当 S01E01 {永恒の光}.mp4
     fansub: 永恒の光
@@ -56,13 +64,6 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/663225_1_Modaete_yo_Adam-kun_06_Premium_GB_720P_MP4.html
-
-  - filename: 挣扎吧，亚当 S01E06.5 {永恒の光}.mp4
-    fansub: 永恒の光
-    episode: 6.5
-    source:
-      type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/664120_1_Modaete_yo_Adam-kun_06_5_Onair_GB_720P_MP4.html
 
   - filename: 挣扎吧，亚当 S01E07 {永恒の光}.mp4
     fansub: 永恒の光
