@@ -1,4 +1,4 @@
-# Generated at 2024-03-02 10:12
+# Generated at 2024-03-10 12:49
 
 season: 1
 
@@ -69,3 +69,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/663988_ANi_Yubisaki_to_Renren_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 指尖相触，恋恋不舍 S01E10 {ANi}.mp4
+    fansub: ANi
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/664535_ANi_Yubisaki_to_Renren_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
