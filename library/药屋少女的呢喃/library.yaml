@@ -1,4 +1,4 @@
-# Generated at 2024-03-08 08:37
+# Generated at 2024-03-10 01:11
 
 season: 1
 
@@ -153,3 +153,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/664365_10_Kusuriya_no_Hitorigoto_21_1080p.html
+
+  - filename: 药屋少女的呢喃 S01E22 {Amor字幕组}.mkv
+    fansub: Amor字幕组
+    episode: 22
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/664560_Amor_Kusuriya_no_Hitorigoto_22_U-NEXTDL_NetflixSub_1080P_MKV.html
