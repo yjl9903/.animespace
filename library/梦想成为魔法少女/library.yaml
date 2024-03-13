@@ -1,4 +1,4 @@
-# Generated at 2024-03-12 03:18
+# Generated at 2024-03-14 12:59
 
 season: 1
 
@@ -76,3 +76,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/664706_Mahou_Shoujo_ni_Akogarete_10_1080p.html
+
+  - filename: 梦想成为魔法少女 S01E11 {ANi}.mp4
+    fansub: ANi
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/664785_ANi_Mahou_Shoujo_ni_Akogarete_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
