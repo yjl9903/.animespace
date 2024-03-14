@@ -1,4 +1,4 @@
-# Generated at 2024-03-08 01:24
+# Generated at 2024-03-14 02:35
 
 season: 1
 
@@ -69,3 +69,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/664362_ANi_Metallic_Rouge_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 金属胭脂 S01E10 {ANi}.mp4
+    fansub: ANi
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/664791_ANi_Metallic_Rouge_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
