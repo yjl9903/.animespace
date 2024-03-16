@@ -1,4 +1,4 @@
-# Generated at 2024-03-10 02:15
+# Generated at 2024-03-17 02:14
 
 season: 2
 
@@ -76,3 +76,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/664567_ANi_-_22_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我心里危险的东西 S01E23 {ANi}.mp4
+    fansub: ANi
+    episode: 23
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/664961_ANi_-_23_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
