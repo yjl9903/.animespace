@@ -256,6 +256,9 @@ onair:
     alias:
       - 'GREAT PRETENDER razbliuto'
       - 'グレートプリテンダー ラズブリウト'
+    season: 2
+    rewrite:
+      title: 大欺诈师
     bgm: '465773'
     fansub:
       - SweetSub
