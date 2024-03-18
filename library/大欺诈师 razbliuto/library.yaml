@@ -1,11 +1,22 @@
-# Generated at 2024-02-28 12:36
+# Generated at 2024-03-18 11:43
+
+season: 1
+
+date: 2024-01-01T04:00:00.000Z
 
 storage: anime
 
 videos:
-  - filename: 大欺诈师 razbliuto {SweetSub}.mp4
+  - filename: 大欺诈师 razbliuto S01E01 {SweetSub}.mp4
     fansub: SweetSub
     episode: 1
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/663724_SweetSub_razbliuto_GREAT_PRETENDER_razbliuto_ep_BDRip_1080P_AVC_8bit.html
+
+  - filename: 大欺诈师 razbliuto S01E02 {SweetSub}.mp4
+    fansub: SweetSub
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665063_SweetSub_razbliuto_GREAT_PRETENDER_razbliuto_02_WebRip_1080P_AVC_8bit.html
