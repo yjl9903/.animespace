@@ -1,4 +1,4 @@
-# Generated at 2024-03-15 01:18
+# Generated at 2024-03-22 12:46
 
 season: 1
 
@@ -83,3 +83,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/664842_ANi_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 秒杀外挂太强了，异世界的家伙们根本就不是对手。 S01E12 {ANi}.mp4
+    fansub: ANi
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665231_ANi_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

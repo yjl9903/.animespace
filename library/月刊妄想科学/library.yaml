@@ -1,4 +1,4 @@
-# Generated at 2024-03-15 01:18
+# Generated at 2024-03-22 12:50
 
 season: 1
 
@@ -76,3 +76,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/664843_ANi_Delusional_Monthly_Magazine_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 月刊妄想科学 S01E11 {ANi}.mp4
+    fansub: ANi
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665232_ANi_Delusional_Monthly_Magazine_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
