@@ -1,4 +1,4 @@
-# Generated at 2024-03-15 01:19
+# Generated at 2024-03-21 11:49
 
 season: 1
 
@@ -76,3 +76,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/664839_ANi_BANG_BRAVERN_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 勇气爆发 S01E11 {ANi}.mp4
+    fansub: ANi
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665223_ANi_BANG_BRAVERN_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
