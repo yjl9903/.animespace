@@ -1,4 +1,4 @@
-# Generated at 2024-03-19 11:37
+# Generated at 2024-03-24 12:47
 
 season: 1
 
@@ -195,3 +195,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/665145_Sousou_no_Frieren_27_WebRip_1080p_HEVC_AAC.html
+
+  - filename: 葬送的芙莉莲 S01E28 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    episode: 28
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665358_Sousou_no_Frieren_28_WebRip_1080p_HEVC_AAC.html
