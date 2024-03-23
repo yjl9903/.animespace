@@ -1,4 +1,4 @@
-# Generated at 2024-03-16 06:16
+# Generated at 2024-03-24 12:55
 
 season: 1
 
@@ -174,3 +174,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/664922_ANi_-_22_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 特搜组大吾 救国的橘色部队 S01E23 {ANi}.mp4
+    fansub: ANi
+    episode: 23
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665328_ANi_-_23_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

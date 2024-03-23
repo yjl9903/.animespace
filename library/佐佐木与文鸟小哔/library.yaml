@@ -1,4 +1,4 @@
-# Generated at 2024-03-16 01:02
+# Generated at 2024-03-23 12:49
 
 season: 1
 
@@ -83,3 +83,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/664872_ANi_Sasaki_to_Pchan_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 佐佐木与文鸟小哔 S01E12 {ANi}.mp4
+    fansub: ANi
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665268_ANi_Sasaki_to_Pchan_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
