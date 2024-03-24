@@ -1,4 +1,4 @@
-# Generated at 2024-03-17 09:05
+# Generated at 2024-03-24 07:21
 
 season: 1
 
@@ -161,9 +161,16 @@ videos:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/665013_10_Kusuriya_no_Hitorigoto_22_1080p.html
 
-  - filename: 药屋少女的呢喃 S01E23 {Amor字幕组}.mkv
-    fansub: Amor字幕组
+  - filename: 药屋少女的呢喃 S01E23 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
     episode: 23
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/664983_Amor_Kusuriya_no_Hitorigoto_23_U-NEXTDL_NetflixSub_1080P_MKV.html
+      magnet: https://garden.onekuma.cn/resource/665420_10_Kusuriya_no_Hitorigoto_23_1080p.html
+
+  - filename: 药屋少女的呢喃 S01E24 {Amor字幕组}.mkv
+    fansub: Amor字幕组
+    episode: 24
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665387_Amor_Kusuriya_no_Hitorigoto_24_FIN_U-NEXTDL_NetflixSub_1080P_MKV.html
