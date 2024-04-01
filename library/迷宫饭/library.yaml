@@ -1,4 +1,4 @@
-# Generated at 2024-03-25 12:27
+# Generated at 2024-03-31 12:43
 
 season: 1
 
@@ -90,3 +90,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/665463_Dungeon_Meshi_12_1080p.html
+
+  - filename: 迷宫饭 S01E13 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665781_Dungeon_Meshi_13_1080p.html
