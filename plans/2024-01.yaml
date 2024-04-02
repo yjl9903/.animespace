@@ -51,6 +51,7 @@ onair:
       - '秒殺外掛太強了，異世界的傢伙們根本就不是對手。'
       - '即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。'
       - 'Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranaindesu ga.'
+    status: finish
     bgm: '409441'
     preference:
       keyword:
@@ -63,6 +64,7 @@ onair:
     alias:
       - '佐々木とピーちゃん'
       - '佐佐木大叔与小哔'
+    status: finish
     bgm: '393038'
     fansub:
       - ANi
@@ -73,6 +75,7 @@ onair:
       - '姫様“拷問”の時間です'
       - 'Himesama Goumon no Jikan desu'
       - '公主大人，接下来是“拷问”时间'
+    status: finish
     bgm: '443112'
     fansub:
       - ANi
@@ -125,6 +128,7 @@ onair:
       - 'ようこそ実力至上主義の教室へ 3rd Season'
       - 'Classroom of the Elite III'
       - 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3nd Season'
+    status: finish
     season: 3
     rewrite:
       title: 欢迎来到实力至上主义教室
@@ -151,6 +155,7 @@ onair:
       - '我心中的野兽 第二季'
       - 'The Dangers in My Heart 2nd Season'
       - 'Boku no Kokoro no Yabai Yatsu 2nd Season'
+    status: finish
     rewrite:
       title: 我心里危险的东西
       # episode:
@@ -173,6 +178,7 @@ onair:
       - '弱キャラ友崎くん 第2期'
       - 'Bottom-Tier Character Tomozaki'
       - 'Jaku Chara Tomozaki-kun 2nd Stage'
+    status: finish
     season: 2
     rewrite:
       title: 弱角友崎同学
@@ -186,6 +192,7 @@ onair:
       - '魔法少女にあこがれて'
       - '憧憬成为魔法少女'
       - 'Mahou Shoujo ni Akogarete'
+    status: finish
     bgm: '424663'
     fansub:
       - 桜都字幕组
@@ -225,6 +232,7 @@ onair:
       - 'Bang Brave Bang Bravern'
       - 'Yuuki Bakuhatsu Bang Bravern'
       - 'ブレバン'
+    status: finish
     bgm: '438187'
     fansub:
       - ANi
@@ -245,6 +253,7 @@ onair:
     alias:
       - '卡片戰鬥!! 先導者 Divinez '
       - 'カードファイト!! ヴァンガード DivineZ'
+    status: onair
     bgm: '440878'
     season: 5
     rewrite:
