@@ -1,5 +1,15 @@
-# Generated at 2024-04-02 12:37
+# Generated at 2024-04-02 11:47
+
+season: 1
+
+date: 2024-03-31T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 狼与香辛料 行商邂逅贤狼 S01E01 {幻之字幕组}.mp4
+    fansub: 幻之字幕组
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/665974_01_MERCHANT_MEETS_THE_WISE_WOLF_-_01_1080p_HEVC.html

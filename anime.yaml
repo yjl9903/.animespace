@@ -30,7 +30,9 @@ preference:
         - mkv
       language:
         - 简
+        - CHS
         - 繁
+        - CHT
       resolution:
         - '1080'
         - '720'

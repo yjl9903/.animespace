@@ -41,6 +41,8 @@ onair:
     rewrite:
       title: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～
     bgm: '455981'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学 校～%20第二季%20第2部分%22%2C%22魔王学院の不適合者%20～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～%20Ⅱ%202ndク ール%22%2C%22Maou%20Gakuin%20no%20Futekigousha:%20Shijou%20Saikyou%20no%20Maou%20no%20Shiso%2C%20Tensei%20shite%20Shison-tachi%20no%20Gakkou%20e%20Kayou%20II%20Part%202%22%2C%22The%20Misfit%20of%20Demon%20King%20Academy%20II%20Part%202%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 魔法科高校的劣等生 第三季
@@ -53,9 +55,11 @@ onair:
     rewrite:
       title: 魔法科高校的劣等生
     bgm: '364522'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22魔法科高校的劣等生%20第三季%22%2C%22魔法科高校の劣等生%20第3シーズン%22%2C%22魔法科高中的劣等生%20第三季%22%2C%22The%20Irregular%20at%20Magic%20High%20School%22%2C%22Mahouka%20Koukou%20no%20Rettousei%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
-  - title: 吹响！悠风号 第三季
+  - title: 吹响！上低音号 第三季
     alias:
       - '響け！ユーフォニアム３'
       - '吹响！上低音号 第三季'
@@ -65,7 +69,7 @@ onair:
       - '京吹部 第三季'
     season: 3
     rewrite:
-      title: 吹响！悠风号
+      title: 吹响！上低音号
     bgm: '283643'
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22吹响！悠风号%20第三季%22%2C%22響け！ユーフォニアム３%22%2C%22吹响！上低音号%20第三季%22%2C%22響け！ユーフォニアム%20久美子3年生編%22%2C%22吹响！悠风号%20久美子3年生篇%22%2C%22Sound!%20Euphonium%203%22%2C%22京吹部%20第三季%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
@@ -80,16 +84,19 @@ onair:
     rewrite:
       title: 关于我转生变成史莱姆这档事
     bgm: '407573'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22关于我转生变成史莱姆这档事%20第三季%22%2C%22転生したらスラ イムだった件%20第3期%22%2C%22Tensei%20Shitara%20Slime%20Datta%20Ken%20(2024)%22%2C%22That%20Time%20I%20Got%20Reincarnated%20as%20a%20Slime%20(2024)%22%2C%22Tensei%20Shitara%20Slime%20Datta%20Ken%203rd%20Season%22%2C%22That%20Time%20I%20Got%20Reincarnated%20as%20a%20Slime%20Season%203%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 末班列车去哪里了？
     alias:
       - '終末トレインどこへいく？'
       - '终末的火车前往何方？'
+      - 'Shumatsu Torein Dokoe Iku'
       - 'Shuumatsu Train Doko e Iku?'
     bgm: '404809'
     fansub:
-      - ANi
+      - 亿次研同好会
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22末班列车去哪里了？%22%2C%22終末トレインどこへいく？%22%2C%22终末的火车前往何方？%22%2C%22Shuumatsu%20Train%20Doko%20e%20Iku?%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 神渴望着游戏。
@@ -112,6 +119,8 @@ onair:
       - 'Spice and Wolf: Merchant Meets the Wise Wolf'
       - 'Ookami to Koushinryou: Merchant Meets the Wise Wolf'
     bgm: '372010'
+    fansub:
+      - 幻之字幕组
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22狼与香辛料%20行商邂逅贤狼%22%2C%22狼と香辛料%20MERCHANT%20MEETS%20THE%20WISE%20WOLF%22%2C%22狼与香辛料%20MERCHANT%20MEETS%20THE%20WISE%20WOLF%22%2C%22Spice%20and%20Wolf:%20Merchant%20Meets%20the%20Wise%20Wolf%22%2C%22Ookami%20to%20Koushinryou:%20Merchant%20Meets%20the%20Wise%20Wolf%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分
@@ -215,6 +224,8 @@ onair:
     rewrite:
       title: 为美好的世界献上祝福！
     bgm: '342667'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22为美好的世界献上祝福！第三季%22%2C%22この素晴らしい世界に祝福を！3%22%2C%22Kono%20Subarashii%20Sekai%20ni%20Shukufuku%20o!%203%22%2C%22Konosuba:%20God`s%20Blessing%20on%20This%20Wonderful%20World!%203%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 极速星舞
