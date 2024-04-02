@@ -36,15 +36,14 @@ onair:
 
   - title: 奇异贤伴 黑色天使 第2部分
     alias:
-      - 'SYNDUALITY Noir 第2クール'
-      - 'シンデュアリティ 第2クール'
-    season: 2
-    status: finish
+      - 'SYNDUALITY Noir'
+      - 'シンデュアリティ'
+    season: 1
     rewrite:
       title: 奇异贤伴 黑色天使
     bgm: '456042'
     fansub:
-      - ANi
+      - 喵萌奶茶屋
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22奇异贤伴%20黑色天使%20第2部分%22%2C%22SYNDUALITY%20Noir%20 第2クール%22%2C%22シンデュアリティ%20第2クール%22%5D%5D&after=2023-12-31T16%3A00%3A00.000Z
 
   - title: 秒杀外挂太强了，异世界的家伙们根本就不是对手。
@@ -139,6 +138,7 @@ onair:
       - 'ダンジョン飯'
       - 'Dungeon Meshi'
     bgm: '395378'
+    status: onair
     fansub:
       - 桜都字幕组
       # - 喵萌奶茶屋
@@ -260,6 +260,7 @@ onair:
     rewrite:
       title: 大欺诈师
     bgm: '465773'
+    status: onair
     fansub:
       - SweetSub
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22大欺诈师%20razbliuto%22%2C%22GREAT%20PRETENDER%20razbliuto%22%2C%22グレートプリテンダー%20ラズブリウト%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
