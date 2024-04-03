@@ -1,4 +1,4 @@
-# Generated at 2024-03-28 02:42
+# Generated at 2024-04-04 02:08
 
 season: 1
 
@@ -90,3 +90,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/665625_ANi_Metallic_Rouge_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 金属胭脂 S01E13 {ANi}.mp4
+    fansub: ANi
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/666073_ANi_Metallic_Rouge_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

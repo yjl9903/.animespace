@@ -59,8 +59,9 @@ onair:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22魔法科高校的劣等生%20第三季%22%2C%22魔法科高校の劣等生%20第3シーズン%22%2C%22魔法科高中的劣等生%20第三季%22%2C%22The%20Irregular%20at%20Magic%20High%20School%22%2C%22Mahouka%20Koukou%20no%20Rettousei%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
-  - title: 吹响！上低音号 第三季
+  - title: 吹响吧！上低音号 第三季
     alias:
+      - '吹响吧！上低音号'
       - '響け！ユーフォニアム３'
       - '吹响！上低音号 第三季'
       - '響け！ユーフォニアム 久美子3年生編'
@@ -71,6 +72,8 @@ onair:
     rewrite:
       title: 吹响！上低音号
     bgm: '283643'
+    fansub:
+      - 北宇治字幕组
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22吹响！悠风号%20第三季%22%2C%22響け！ユーフォニアム３%22%2C%22吹响！上低音号%20第三季%22%2C%22響け！ユーフォニアム%20久美子3年生編%22%2C%22吹响！悠风号%20久美子3年生篇%22%2C%22Sound!%20Euphonium%203%22%2C%22京吹部%20第三季%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 关于我转生变成史莱姆这档事 第三季
@@ -90,12 +93,14 @@ onair:
 
   - title: 末班列车去哪里了？
     alias:
+      - '终末列车去往何方?'
       - '終末トレインどこへいく？'
       - '终末的火车前往何方？'
       - 'Shumatsu Torein Dokoe Iku'
       - 'Shuumatsu Train Doko e Iku?'
     bgm: '404809'
     fansub:
+      # - 北宇治字幕组
       - 亿次研同好会
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22末班列车去哪里了？%22%2C%22終末トレインどこへいく？%22%2C%22终末的火车前往何方？%22%2C%22Shuumatsu%20Train%20Doko%20e%20Iku?%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
