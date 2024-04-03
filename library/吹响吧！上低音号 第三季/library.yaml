@@ -1,0 +1,11 @@
+# Generated at 2024-04-04 02:13
+
+storage: anime
+
+videos:
+  - filename: 吹响！上低音号 S03E01 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/666027_Hibike%21_Euphonium_3_01_WebRip_HEVC_AAC_CHS_EN.html
