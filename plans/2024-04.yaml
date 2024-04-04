@@ -201,6 +201,8 @@ onair:
     rewrite:
       title: 摇曳露营△
     bgm: '405785'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22摇曳露营△%20第三季%22%2C%22ゆるキャン△%20SEASON%203%22%2C%22Yuru%20Camp△%20SEASON%203%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 雀魂 杠！！
