@@ -1,5 +1,15 @@
-# Generated at 2024-04-02 12:37
+# Generated at 2024-04-07 12:15
+
+season: 1
+
+date: 2024-03-31T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 花野井君与相思病 S01E01 {Amor字幕组}.mkv
+    fansub: Amor字幕组
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/666265_Amor_Hananoi-kun_to_Koi_no_Yamai_01_WEBDL_1080P_MKV.html

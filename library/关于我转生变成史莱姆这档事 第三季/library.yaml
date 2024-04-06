@@ -1,5 +1,15 @@
-# Generated at 2024-04-02 12:37
+# Generated at 2024-04-06 03:07
+
+season: 3
+
+date: 2024-03-31T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 关于我转生变成史莱姆这档事 S03E49 {ANi}.mp4
+    fansub: ANi
+    episode: 49
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/666196_ANi_-_49_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

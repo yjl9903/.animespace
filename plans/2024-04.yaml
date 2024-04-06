@@ -10,6 +10,8 @@ onair:
       - '花野井くんと恋の病'
       - 'Hananoi-kun to Koi no Yamai'
     bgm: '439850'
+    fansub:
+      - Amor字幕组
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22花野井君与相思病%22%2C%22花野井くんと恋の病%22%2C%22Hananoi-kun%20to%20Koi%20no%20Yamai%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 爷爷奶奶返老还童
@@ -24,6 +26,8 @@ onair:
       - 'ガールズバンドクライ'
       - '哭泣少女乐队'
     bgm: '431767'
+    fansub:
+      - Alicest
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22GIRLS%20BAND%20CRY%22%2C%22ガールズバンドクライ%22%2C%22哭 泣少女乐队%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 黑执事 -寄宿学校篇-
@@ -140,6 +144,8 @@ onair:
     rewrite:
       title: 无职转生Ⅱ ～到了异世界就拿出真本事～
     bgm: '444557'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22无职转生Ⅱ%20～到了异世界就拿出真本事～%20第2部分%22%2C%22無職転生Ⅱ%20～異世界行ったら本気だす～%20第2クール%22%2C%22无职转生Ⅱ%20～在异世界认真地活下去～%20第2部分%22%2C%22无职转生%20～在异世界认真地活下去～%20第二季%20第2部分%22%2C%22無職転生%20～異世界行ったら本気だす～%20第2期%20第2部分%22%2C%22Mushoku%20Tensei:%20Jobless%20Reincarnation%20Season%202%20part%202%22%2C%22Mushoku%20Tensei%20II:%20Isekai%20Ittara%20Honki%20Dasu%20part%202%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 夜晚的水母不会游泳
@@ -150,6 +156,8 @@ onair:
       - 'Yoru no Kurage wa Oyogenai'
       - "Jellyfish Can't Swim in the Night"
     bgm: '425909'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22夜晚的水母不会游泳%22%2C%22夜のクラゲは泳げない%22%2C%22夜 之水母不会游泳%22%2C%22晚上的水母不会游泳%22%2C%22Yoru%20no%20Kurage%20wa%20Oyogenai%22%2C%22Jellyfish%20Can't%20Swim%20in%20the%20Night%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 声优广播的台前幕后
@@ -165,6 +173,8 @@ onair:
       - 'リンカイ！'
       - 'Rinkai！'
     bgm: '425978'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22竞轮少女！%22%2C%22リンカイ！%22%2C%22Rinkai！%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 蔚蓝档案 The Animation
@@ -176,6 +186,8 @@ onair:
       - 'Blue Archive The Animation'
       - 'ブルアカ'
     bgm: '416777'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22蔚蓝档案%20动画版%22%2C%22ブルーアーカイブ%20The%20Animation%22%2C%22碧蓝档案%20动画版%22%2C%22蔚蓝档案%20The%20Animation%22%2C%22碧蓝档案%20The%20Animation%22%2C%22Blue%20Archive%20The%20Animation%22%2C%22ブルアカ%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 新干线变形机器人 改变世界
@@ -183,6 +195,8 @@ onair:
       - 'シンカリオン チェンジ ザ ワールド'
       - 'SHINKALION CHANGE THE WORLD'
     bgm: '472386'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22新干线变形机器人%20改变世界%22%2C%22シンカリオン%20チェンジ%20ザ%20ワールド%22%2C%22SHINKALION%20CHANGE%20THE%20WORLD%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 偶像大师 闪耀色彩
@@ -191,6 +205,8 @@ onair:
       - 'THE iDOLM@STER SHINY COLORS'
       - 'シャニマス'
     bgm: '425222'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22偶像大师%20闪耀色彩%22%2C%22アイドルマスター%20シャイニーカラーズ%22%2C%22THE%20iDOLM@STER%20SHINY%20COLORS%22%2C%22シャニマス%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 摇曳露营△ 第三季
@@ -210,6 +226,8 @@ onair:
       - 'じゃんたま カン！！'
       - 'MAHJONG SOUL KAN!!'
     bgm: '473805'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22雀魂%20杠！！%22%2C%22じゃんたま%20カン！！%22%2C%22MAHJONG%20SOUL%20KAN!!%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 恋语轻唱
@@ -220,6 +238,8 @@ onair:
       - '宛若呢喃细语般浅唱恋歌'
       - 'Whispering You a Love Song'
     bgm: '415166'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22恋语轻唱%22%2C%22ささやくように恋を唄う%22%2C%22Sasayaku%20You%20ni%20Koi%20o%20Utau%22%2C%22恰如细语般的恋歌%22%2C%22宛若呢喃细语般浅唱恋歌%22%2C%22Whispering%20You%20a%20Love%20Song%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 为美好的世界献上祝福！第三季
@@ -241,4 +261,6 @@ onair:
       - '高速星辰'
       - 'ハイスピードエトワール'
     bgm: '391866'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22极速星舞%22%2C%22HIGHSPEED%20Etoile%22%2C%22高速星辰%22%2C%22ハイスピードエトワール%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z

@@ -1,5 +1,15 @@
-# Generated at 2024-04-02 12:37
+# Generated at 2024-04-07 12:17
+
+season: 1
+
+date: 2024-03-31T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: GIRLS BAND CRY S01E01 {Alicest}.mp4
+    fansub: Alicest
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/666232_S1_Girls_Band_Cry_-_01_WEB-DL_1080p.html
