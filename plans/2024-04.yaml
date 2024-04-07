@@ -19,6 +19,8 @@ onair:
       - 'じいさんばあさん若返る'
       - '老夫老妻重返青春'
     bgm: '449562'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22爷爷奶奶返老还童%22%2C%22じいさんばあさん若返る%22%2C%22老 夫老妻重返青春%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: GIRLS BAND CRY
@@ -34,6 +36,8 @@ onair:
     alias:
       - '黒執事 -寄宿学校編-'
     bgm: '444049'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22黑执事%20-寄宿学校篇-%22%2C%22黒執事%20-寄宿学校編-%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ 第二季 第2部分
@@ -138,6 +142,7 @@ onair:
       - '无职转生Ⅱ ～在异世界认真地活下去～ 第2部分'
       - '无职转生 ～在异世界认真地活下去～ 第二季 第2部分'
       - '無職転生 ～異世界行ったら本気だす～ 第2期 第2部分'
+      - '無職轉生～到了異世界就拿出真本事 第二季'
       - 'Mushoku Tensei: Jobless Reincarnation Season 2 part 2'
       - 'Mushoku Tensei II: Isekai Ittara Honki Dasu part 2'
     season: 2
