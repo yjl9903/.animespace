@@ -94,6 +94,9 @@ onair:
     season: 3
     rewrite:
       title: 关于我转生变成史莱姆这档事
+      episode:
+        offset: -48
+        fansub: ANi
     bgm: '407573'
     fansub:
       - ANi
