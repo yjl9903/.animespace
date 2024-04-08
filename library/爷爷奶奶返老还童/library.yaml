@@ -1,5 +1,15 @@
-# Generated at 2024-04-02 12:37
+# Generated at 2024-04-08 12:57
+
+season: 1
+
+date: 2024-03-31T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 爷爷奶奶返老还童 S01E01 {ANi}.mp4
+    fansub: ANi
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/666348_ANi_Jiisan_Baasan_Wakagaeru_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
