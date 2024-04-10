@@ -1,4 +1,4 @@
-# Generated at 2024-04-03 12:11
+# Generated at 2024-04-10 02:03
 
 season: 1
 
@@ -7,9 +7,16 @@ date: 2024-03-31T04:00:00.000Z
 storage: anime
 
 videos:
-  - filename: 末班列车去哪里了？ S01E01 {亿次研同好会}.mkv
-    fansub: 亿次研同好会
+  - filename: 末班列车去哪里了？ S01E01 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/665985_BML_Shumatsu_Torein_Dokoe_Iku_01_1080_HEVC_10bit_CHS_CHT_v2.html
+      magnet: https://garden.onekuma.cn/resource/666212_Shuumatsu_Train_Doko_e_Iku_01v2_WebRip_HEVC_AAC.html
+
+  - filename: 末班列车去哪里了？ S01E02 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/666692_Shuumatsu_Train_Doko_e_Iku_02_WebRip_HEVC_AAC.html
