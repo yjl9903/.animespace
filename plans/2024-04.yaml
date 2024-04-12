@@ -165,6 +165,7 @@ onair:
       - "Jellyfish Can't Swim in the Night"
     bgm: '425909'
     fansub:
+      - 桜都字幕组
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22夜晚的水母不会游泳%22%2C%22夜のクラゲは泳げない%22%2C%22夜 之水母不会游泳%22%2C%22晚上的水母不会游泳%22%2C%22Yoru%20no%20Kurage%20wa%20Oyogenai%22%2C%22Jellyfish%20Can't%20Swim%20in%20the%20Night%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
@@ -174,6 +175,8 @@ onair:
       - '声优广播的幕前幕后'
       - 'Seiyuu Radio no Uraomote'
     bgm: '411974'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22声优广播的台前幕后%22%2C%22声優ラジオのウラオモテ%22%2C%22 声优广播的幕前幕后%22%2C%22Seiyuu%20Radio%20no%20Uraomote%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
   - title: 竞轮少女！
@@ -252,6 +255,7 @@ onair:
 
   - title: 为美好的世界献上祝福！第三季
     alias:
+      - '為美好的世界獻上祝福！3'
       - 'この素晴らしい世界に祝福を！3'
       - 'Kono Subarashii Sekai ni Shukufuku o! 3'
       - 'Konosuba: God`s Blessing on This Wonderful World! 3'
