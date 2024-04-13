@@ -97,6 +97,9 @@ onair:
       episode:
         offset: -48
         fansub: ANi
+    preference:
+      keyword:
+        exclude: [特別篇]
     bgm: '407573'
     fansub:
       - ANi

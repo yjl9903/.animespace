@@ -1,4 +1,4 @@
-# Generated at 2024-04-06 02:55
+# Generated at 2024-04-13 09:31
 
 season: 1
 
@@ -13,3 +13,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/666213_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 偶像大师 闪耀色彩 S01E02 {ANi}.mp4
+    fansub: ANi
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667033_ANi_THE_iDOLMSTER_SHINY_COLORS_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
