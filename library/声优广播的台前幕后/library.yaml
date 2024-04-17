@@ -1,4 +1,4 @@
-# Generated at 2024-04-10 11:34
+# Generated at 2024-04-18 12:27
 
 season: 1
 
@@ -13,3 +13,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/666833_ANi_Seiy_Radio_no_Ura_Omote_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 声优广播的台前幕后 S01E02 {ANi}.mp4
+    fansub: ANi
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667514_ANi_Seiy_Radio_no_Ura_Omote_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

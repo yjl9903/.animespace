@@ -1,4 +1,4 @@
-# Generated at 2024-04-10 11:21
+# Generated at 2024-04-18 12:32
 
 season: 3
 
@@ -13,3 +13,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/666844_ANi_3_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 为美好的世界献上祝福！ S03E02 {ANi}.mp4
+    fansub: ANi
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667527_ANi_3_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
