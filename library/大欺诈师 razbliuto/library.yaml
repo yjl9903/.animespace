@@ -1,4 +1,4 @@
-# Generated at 2024-04-05 12:16
+# Generated at 2024-04-15 05:41
 
 season: 2
 
@@ -27,3 +27,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/666090_SweetSub_razbliuto_GREAT_PRETENDER_razbliuto_03_WebRip_1080P_AVC_8bit.html
+
+  - filename: 大欺诈师 S02E04 {SweetSub}.mp4
+    fansub: SweetSub
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667299_SweetSub_razbliuto_GREAT_PRETENDER_razbliuto_04_WebRip_1080P_AVC_8bit.html
