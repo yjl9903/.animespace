@@ -1,4 +1,4 @@
-# Generated at 2024-04-14 12:13
+# Generated at 2024-04-21 12:17
 
 season: 1
 
@@ -13,3 +13,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/667131_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 黑执事 -寄宿学校篇- S01E02 {ANi}.mp4
+    fansub: ANi
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667767_ANi_Black_Butler_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

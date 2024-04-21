@@ -1,4 +1,4 @@
-# Generated at 2024-04-16 02:09
+# Generated at 2024-04-19 11:21
 
 season: 1
 
@@ -20,3 +20,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/666955_Amor_Hananoi-kun_to_Koi_no_Yamai_02_WEBDL_1080P_MKV.html
+
+  - filename: 花野井君与相思病 S01E03 {Amor字幕组}.mkv
+    fansub: Amor字幕组
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667624_Amor_Hananoi-kun_to_Koi_no_Yamai_03_WEBDL_1080P_MKV.html
