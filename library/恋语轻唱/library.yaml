@@ -1,4 +1,4 @@
-# Generated at 2024-04-14 01:58
+# Generated at 2024-04-21 01:41
 
 season: 1
 
@@ -13,3 +13,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/667146_ANi_Sasayaku_y_ni_Koi_wo_Utau_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 恋语轻唱 S01E02 {ANi}.mp4
+    fansub: ANi
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667782_ANi_Sasayaku_Y_ni_Koi_wo_Utau_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

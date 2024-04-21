@@ -1,4 +1,4 @@
-# Generated at 2024-04-13 12:18
+# Generated at 2024-04-20 12:23
 
 season: 3
 
@@ -20,3 +20,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/667011_ANi_Mahouka_Koukou_no_Rettousei_S03_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 魔法科高校的劣等生 S03E03 {ANi}.mp4
+    fansub: ANi
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667670_ANi_Mahouka_Koukou_no_Rettousei_S03_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

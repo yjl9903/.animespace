@@ -1,4 +1,4 @@
-# Generated at 2024-04-13 02:51
+# Generated at 2024-04-20 10:01
 
 season: 1
 
@@ -7,16 +7,23 @@ date: 2024-03-31T04:00:00.000Z
 storage: anime
 
 videos:
-  - filename: GIRLS BAND CRY S01E01 {Alicest}.mp4
-    fansub: Alicest
+  - filename: GIRLS BAND CRY S01E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/666342_S1_Girls_Band_Cry_-_01_1080p_v2.html
+      magnet: https://garden.onekuma.cn/resource/666233_04_GIRLS_BAND_CRY_01_1080p.html
 
-  - filename: GIRLS BAND CRY S01E02 {Alicest}.mkv
-    fansub: Alicest
+  - filename: GIRLS BAND CRY S01E02 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/667039_S1_GIRLS_BAND_CRY_02_WebRip_x264_AAC.html
+      magnet: https://garden.onekuma.cn/resource/667089_Production_04_GIRLS_BAND_CRY_02_1080p.html
+
+  - filename: GIRLS BAND CRY S01E03 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667692_Production_04_GIRLS_BAND_CRY_03_1080p.html
