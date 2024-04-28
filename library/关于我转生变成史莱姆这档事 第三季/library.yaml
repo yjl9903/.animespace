@@ -1,4 +1,4 @@
-# Generated at 2024-04-19 11:34
+# Generated at 2024-04-26 11:37
 
 season: 3
 
@@ -27,3 +27,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/667662_ANi_-_51_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 关于我转生变成史莱姆这档事 S03E04 {ANi}.mp4
+    fansub: ANi
+    episode: 52
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668232_ANi_-_52_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

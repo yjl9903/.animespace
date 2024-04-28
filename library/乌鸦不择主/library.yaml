@@ -1,0 +1,25 @@
+# Generated at 2024-04-27 11:47
+
+storage: anime
+
+videos:
+  - filename: 乌鸦不择主 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668178_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_01_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 乌鸦不择主 S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668179_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_02_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 乌鸦不择主 S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668180_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_03_WebRip_1080p_HEVC-10bit_AAC.html

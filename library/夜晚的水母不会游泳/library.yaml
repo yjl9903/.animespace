@@ -1,4 +1,4 @@
-# Generated at 2024-04-26 12:26
+# Generated at 2024-04-28 12:46
 
 season: 1
 
@@ -27,3 +27,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/668154_Yoru_no_Kurage_wa_Oyogenai_03_1080p.html
+
+  - filename: 夜晚的水母不会游泳 S01E04 {ANi}.mp4
+    fansub: ANi
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668322_ANi_Yoru_no_Kurage_wa_Oyogenai_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

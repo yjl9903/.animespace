@@ -44,6 +44,7 @@ onair:
 
   - title: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ 第二季 第2部分
     alias:
+      - '魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～第二季'
       - '魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ Ⅱ 2ndクール'
       - 'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2'
       - 'The Misfit of Demon King Academy II Part 2'
@@ -237,15 +238,6 @@ onair:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22摇曳露营△%20第三季%22%2C%22ゆるキャン△%20SEASON%203%22%2C%22Yuru%20Camp△%20SEASON%203%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
-  - title: 雀魂 杠！！
-    alias:
-      - 'じゃんたま カン！！'
-      - 'MAHJONG SOUL KAN!!'
-    bgm: '473805'
-    fansub:
-      - ANi
-    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22雀魂%20杠！！%22%2C%22じゃんたま%20カン！！%22%2C%22MAHJONG%20SOUL%20KAN!!%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
-
   - title: 恋语轻唱
     alias:
       - 'ささやくように恋を唄う'
@@ -281,3 +273,15 @@ onair:
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22极速星舞%22%2C%22HIGHSPEED%20Etoile%22%2C%22高速星辰%22%2C%22ハイスピードエトワール%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
+
+  - title: 乌鸦不择主
+    alias:
+      - '烏は主を選ばない'
+      - '良禽不择木'
+      - '乌鸦姬不选择主人'
+      - 'Karasu wa Aruji wo Erabanai'
+      - 'Yatagarasu: The Raven Does Not Choose Its Master'
+    bgm: '461338'
+    fansub:
+      - LoliHouse
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22乌鸦不择主%22%2C%22烏は主を選ばない%22%2C%22良禽不择木%22%2C%22乌鸦姬不选择主人%22%2C%22Karasu%20wa%20Aruji%20wo%20Erabanai%22%2C%22Yatagarasu:%20The%20Raven%20Does%20Not%20Choose%20Its%20Master%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z

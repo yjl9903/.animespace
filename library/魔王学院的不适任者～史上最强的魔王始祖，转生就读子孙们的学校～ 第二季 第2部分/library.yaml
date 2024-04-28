@@ -1,5 +1,29 @@
-# Generated at 2024-04-02 12:37
+# Generated at 2024-04-27 01:07
+
+season: 2
+
+date: 2024-03-31T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ S02E13 {ANi}.mp4
+    fansub: ANi
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667035_ANi_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ S02E14 {ANi}.mp4
+    fansub: ANi
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/667677_ANi_-_14_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ S02E15 {ANi}.mp4
+    fansub: ANi
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668238_ANi_-_15_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
