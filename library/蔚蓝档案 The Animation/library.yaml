@@ -1,4 +1,4 @@
-# Generated at 2024-04-22 03:10
+# Generated at 2024-04-29 12:47
 
 season: 1
 
@@ -27,3 +27,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/667870_ANi_Blue_Archive_the_Animation_The_Animation_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 蔚蓝档案 The Animation S01E04 {ANi}.mp4
+    fansub: ANi
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668384_ANi_Blue_Archive_the_Animation_The_Animation_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
