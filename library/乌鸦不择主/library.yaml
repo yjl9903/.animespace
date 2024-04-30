@@ -1,4 +1,8 @@
-# Generated at 2024-04-27 11:47
+# Generated at 2024-05-01 12:15
+
+season: 1
+
+date: 2024-03-31T04:00:00.000Z
 
 storage: anime
 
@@ -23,3 +27,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/668180_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_03_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 乌鸦不择主 S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668507_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_04_WebRip_1080p_HEVC-10bit_AAC.html

@@ -1,4 +1,4 @@
-# Generated at 2024-04-23 06:06
+# Generated at 2024-04-30 12:43
 
 season: 1
 
@@ -34,3 +34,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/667948_04_MERCHANT_MEETS_THE_WISE_WOLF_-_04_1080p_HEVC.html
+
+  - filename: 狼与香辛料 行商邂逅贤狼 S01E05 {幻之字幕组}.mp4
+    fansub: 幻之字幕组
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668456_05_MERCHANT_MEETS_THE_WISE_WOLF_-_05_1080p_HEVC.html
