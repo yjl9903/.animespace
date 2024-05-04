@@ -1,4 +1,4 @@
-# Generated at 2024-04-27 01:07
+# Generated at 2024-05-04 12:41
 
 season: 2
 
@@ -27,3 +27,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/668238_ANi_-_15_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ S02E16 {ANi}.mp4
+    fansub: ANi
+    episode: 16
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668735_ANi_-_16_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
