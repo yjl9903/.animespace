@@ -1,4 +1,4 @@
-# Generated at 2024-04-28 12:20
+# Generated at 2024-05-05 12:17
 
 season: 1
 
@@ -27,3 +27,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/668320_ANi_Black_Butler_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 黑执事 -寄宿学校篇- S01E04 {ANi}.mp4
+    fansub: ANi
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668817_ANi_Black_Butler_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

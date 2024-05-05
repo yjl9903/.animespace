@@ -1,4 +1,4 @@
-# Generated at 2024-05-02 12:07
+# Generated at 2024-05-06 12:00
 
 season: 1
 
@@ -125,3 +125,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/668567_Dungeon_Meshi_17v2_1080p.html
+
+  - filename: 迷宫饭 S01E18 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    episode: 18
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668901_Dungeon_Meshi_18_1080p.html
