@@ -285,3 +285,11 @@ onair:
     fansub:
       - LoliHouse
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22乌鸦不择主%22%2C%22烏は主を選ばない%22%2C%22良禽不择木%22%2C%22乌鸦姬不选择主人%22%2C%22Karasu%20wa%20Aruji%20wo%20Erabanai%22%2C%22Yatagarasu:%20The%20Raven%20Does%20Not%20Choose%20Its%20Master%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
+
+  - title: 失忆投捕
+    alias:
+      - '忘却バッテリー'
+      - '忘却Battery'
+    bgm: '448478'
+    fansub:
+      - ANi
