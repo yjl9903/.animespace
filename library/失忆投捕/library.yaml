@@ -1,4 +1,8 @@
-# Generated at 2024-05-05 10:53
+# Generated at 2024-05-07 11:10
+
+season: 1
+
+date: 2024-03-31T04:00:00.000Z
 
 storage: anime
 
@@ -30,3 +34,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/668496_ANi_B_kyaku_Battery_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 失忆投捕 S01E05 {ANi}.mp4
+    fansub: ANi
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/669045_ANi_B_kyaku_Battery_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
