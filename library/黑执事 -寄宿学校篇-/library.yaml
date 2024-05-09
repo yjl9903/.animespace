@@ -1,4 +1,4 @@
-# Generated at 2024-05-05 12:17
+# Generated at 2024-05-09 10:50
 
 season: 1
 
@@ -7,28 +7,28 @@ date: 2024-03-31T04:00:00.000Z
 storage: anime
 
 videos:
-  - filename: 黑执事 -寄宿学校篇- S01E01 {ANi}.mp4
+  - filename: 黑执事 S03E01 {ANi}.mp4
     fansub: ANi
     episode: 1
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/667131_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
-  - filename: 黑执事 -寄宿学校篇- S01E02 {ANi}.mp4
+  - filename: 黑执事 S03E02 {ANi}.mp4
     fansub: ANi
     episode: 2
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/667767_ANi_Black_Butler_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
-  - filename: 黑执事 -寄宿学校篇- S01E03 {ANi}.mp4
+  - filename: 黑执事 S03E03 {ANi}.mp4
     fansub: ANi
     episode: 3
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/668320_ANi_Black_Butler_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
-  - filename: 黑执事 -寄宿学校篇- S01E04 {ANi}.mp4
+  - filename: 黑执事 S03E04 {ANi}.mp4
     fansub: ANi
     episode: 4
     source:
