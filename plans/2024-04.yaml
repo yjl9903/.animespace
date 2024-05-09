@@ -38,6 +38,9 @@ onair:
       - '黑執事 寄宿學校篇'
       - '黒執事 -寄宿学校編-'
     bgm: '444049'
+    season: 3
+    rewrite:
+      title: 黑执事
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22黑执事%20-寄宿学校篇-%22%2C%22黒執事%20-寄宿学校編-%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
