@@ -1,4 +1,4 @@
-# Generated at 2024-05-04 01:41
+# Generated at 2024-05-11 01:31
 
 season: 1
 
@@ -41,3 +41,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/668744_ANi_HIGHSPEED_toile_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 极速星舞 S01E06 {ANi}.mp4
+    fansub: ANi
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/669259_ANi_HIGHSPEED_toile_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
