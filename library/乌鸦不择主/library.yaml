@@ -1,4 +1,4 @@
-# Generated at 2024-05-08 11:04
+# Generated at 2024-05-13 01:40
 
 season: 1
 
@@ -41,3 +41,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/669108_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_05_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 乌鸦不择主 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/669447_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_06_WebRip_1080p_HEVC-10bit_AAC.html
