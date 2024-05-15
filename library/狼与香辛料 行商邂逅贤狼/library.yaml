@@ -1,4 +1,4 @@
-# Generated at 2024-05-07 01:24
+# Generated at 2024-05-14 05:05
 
 season: 1
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/668984_06_MERCHANT_MEETS_THE_WISE_WOLF_-_06_1080p_HEVC.html
+
+  - filename: 狼与香辛料 行商邂逅贤狼 S01E07 {幻之字幕组}.mp4
+    fansub: 幻之字幕组
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/669694_07_MERCHANT_MEETS_THE_WISE_WOLF_-_07_1080p_HEVC.html
