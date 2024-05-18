@@ -1,4 +1,4 @@
-# Generated at 2024-05-11 01:05
+# Generated at 2024-05-18 12:54
 
 season: 1
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/669208_Amor_Hananoi-kun_to_Koi_no_Yamai_06_WEBDL_1080P_MKV.html
+
+  - filename: 花野井君与相思病 S01E07 {Amor字幕组}.mkv
+    fansub: Amor字幕组
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/669964_Amor_Hananoi-kun_to_Koi_no_Yamai_07_WEBDL_1080P_MKV.html
