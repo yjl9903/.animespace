@@ -1,4 +1,4 @@
-# Generated at 2024-05-13 12:07
+# Generated at 2024-05-19 10:52
 
 season: 1
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/669426_ANi_Jiisan_Baasan_Wakagaeru_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 爷爷奶奶返老还童 S01E07 {ANi}.mp4
+    fansub: ANi
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670216_ANi_Jiisan_Baasan_Wakagaeru_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
