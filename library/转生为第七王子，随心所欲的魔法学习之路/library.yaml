@@ -1,4 +1,8 @@
-# Generated at 2024-05-14 11:46
+# Generated at 2024-05-21 02:01
+
+season: 1
+
+date: 2024-03-31T04:00:00.000Z
 
 storage: anime
 
@@ -51,3 +55,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/669687_ANi_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 转生为第七王子，随心所欲的魔法学习之路 S01E08 {ANi}.mp4
+    fansub: ANi
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670283_ANi_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
