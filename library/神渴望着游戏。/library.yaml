@@ -1,4 +1,4 @@
-# Generated at 2024-05-13 10:52
+# Generated at 2024-05-20 10:45
 
 season: 1
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/669670_ANi_Kami_wa_Game_ni_Ueteiru_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 神渴望着游戏。 S01E08 {ANi}.mp4
+    fansub: ANi
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670260_ANi_Kami_wa_Game_ni_Ueteiru_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
