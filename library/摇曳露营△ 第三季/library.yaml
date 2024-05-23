@@ -1,4 +1,4 @@
-# Generated at 2024-05-17 09:42
+# Generated at 2024-05-24 12:07
 
 season: 3
 
@@ -55,3 +55,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/669891_ANi_Yurukyan_S03_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 摇曳露营△ S03E08 {ANi}.mp4
+    fansub: ANi
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670466_ANi_Yurukyan_S03_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
