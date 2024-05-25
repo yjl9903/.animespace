@@ -1,4 +1,4 @@
-# Generated at 2024-05-17 11:24
+# Generated at 2024-05-25 01:09
 
 season: 3
 
@@ -55,3 +55,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/669950_ANi_-_55_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 关于我转生变成史莱姆这档事 S03E08 {ANi}.mp4
+    fansub: ANi
+    episode: 56
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670520_ANi_-_56_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
