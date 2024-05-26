@@ -1,4 +1,4 @@
-# Generated at 2024-05-21 01:57
+# Generated at 2024-05-26 10:57
 
 season: 1
 
@@ -55,3 +55,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/670272_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_07_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 乌鸦不择主 S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670678_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_08_WebRip_1080p_HEVC-10bit_AAC.html

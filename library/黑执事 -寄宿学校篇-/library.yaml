@@ -1,4 +1,4 @@
-# Generated at 2024-05-19 12:12
+# Generated at 2024-05-26 12:21
 
 season: 1
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/670032_ANi_Black_Butler_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 黑执事 S04E07 {ANi}.mp4
+    fansub: ANi
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670613_ANi_Black_Butler_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
