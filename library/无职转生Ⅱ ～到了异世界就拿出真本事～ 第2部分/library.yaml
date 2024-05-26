@@ -1,4 +1,4 @@
-# Generated at 2024-05-13 12:15
+# Generated at 2024-05-26 11:20
 
 season: 2
 
@@ -48,3 +48,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/669429_ANi_-_18_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 无职转生 ～到了异世界就拿出真本事～ S02E19 {ANi}.mp4
+    fansub: ANi
+    episode: 19
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670681_ANi_-_19_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
