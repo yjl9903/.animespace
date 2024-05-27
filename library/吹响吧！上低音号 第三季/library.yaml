@@ -1,4 +1,4 @@
-# Generated at 2024-05-21 01:55
+# Generated at 2024-05-28 01:58
 
 season: 3
 
@@ -55,3 +55,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/670276_Hibike%21_Euphonium_3_07_WebRip_HEVC_AAC.html
+
+  - filename: 吹响！上低音号 S03E08 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670772_Hibike%21_Euphonium_3_08_WebRip_HEVC_AAC.html
