@@ -1,4 +1,4 @@
-# Generated at 2024-05-21 02:01
+# Generated at 2024-05-28 01:59
 
 season: 1
 
@@ -62,3 +62,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/670283_ANi_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 转生为第七王子，随心所欲的魔法学习之路 S01E09 {ANi}.mp4
+    fansub: ANi
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670774_ANi_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
