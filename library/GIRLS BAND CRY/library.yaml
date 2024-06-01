@@ -1,4 +1,4 @@
-# Generated at 2024-05-25 01:03
+# Generated at 2024-06-01 10:13
 
 season: 1
 
@@ -62,3 +62,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/670538_Production_04_GIRLS_BAND_CRY_08_1080p.html
+
+  - filename: GIRLS BAND CRY S01E09 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/671086_Production_04_GIRLS_BAND_CRY_09_1080p.html
