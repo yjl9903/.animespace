@@ -1,4 +1,4 @@
-# Generated at 2024-05-30 06:05
+# Generated at 2024-06-06 02:00
 
 season: 1
 
@@ -69,3 +69,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/670998_Shuumatsu_Train_Doko_e_Iku_09_WebRip_HEVC_AAC.html
+
+  - filename: 末班列车去哪里了？ S01E10 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/671444_Shuumatsu_Train_Doko_e_Iku_10_WebRip_HEVC_AAC.html
