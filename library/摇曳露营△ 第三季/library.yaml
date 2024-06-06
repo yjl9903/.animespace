@@ -1,4 +1,4 @@
-# Generated at 2024-06-01 10:21
+# Generated at 2024-06-06 10:43
 
 season: 3
 
@@ -69,3 +69,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/671013_ANi_Yurukyan_S03_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 摇曳露营△ S03E10 {ANi}.mp4
+    fansub: ANi
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/671488_ANi_Yuru_Camp_S03_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
