@@ -1,4 +1,4 @@
-# Generated at 2024-06-01 01:11
+# Generated at 2024-06-08 12:45
 
 season: 2
 
@@ -55,3 +55,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/671080_ANi_-_19_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ S02E20 {ANi}.mp4
+    fansub: ANi
+    episode: 20
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/671543_ANi_-_20_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
