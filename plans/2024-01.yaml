@@ -253,7 +253,6 @@ onair:
     alias:
       - '卡片戰鬥!! 先導者 Divinez '
       - 'カードファイト!! ヴァンガード DivineZ'
-    status: onair
     bgm: '440878'
     season: 5
     rewrite:
@@ -269,7 +268,6 @@ onair:
     rewrite:
       title: 大欺诈师
     bgm: '465773'
-    status: onair
     fansub:
       - SweetSub
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22大欺诈师%20razbliuto%22%2C%22GREAT%20PRETENDER%20razbliuto%22%2C%22グレートプリテンダー%20ラズブリウト%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z

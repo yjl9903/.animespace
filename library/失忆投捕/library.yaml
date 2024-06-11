@@ -1,4 +1,4 @@
-# Generated at 2024-06-05 01:39
+# Generated at 2024-06-11 11:37
 
 season: 1
 
@@ -62,3 +62,10 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/671373_ANi_B_kyaku_Battery_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 失忆投捕 S01E09 {ANi}.mp4
+    fansub: ANi
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/671914_ANi_B_kyaku_Battery_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
