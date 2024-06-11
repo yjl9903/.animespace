@@ -17,7 +17,7 @@ preference:
   format:
     episode: '{title} S{season}E{ep} {{fansub}}.{extension}'
     film: '{title} {{fansub}}.{extension}'
-    ova: '{title} {{fansub}}.{extension}'
+    ova: '{title} S00E{ep} {{fansub}}.{extension}'
   extension:
     include:
       - mp4
