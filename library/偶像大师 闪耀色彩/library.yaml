@@ -1,4 +1,4 @@
-# Generated at 2024-06-08 01:18
+# Generated at 2024-06-16 08:23
 
 season: 1
 
@@ -76,3 +76,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/671544_ANi_THE_iDOLMSTER_SHINY_COLORS_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 偶像大师 闪耀色彩 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672121_ANi_THE_iDOLMSTER_SHINY_COLORS_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
