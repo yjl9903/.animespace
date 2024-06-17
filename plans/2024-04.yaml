@@ -310,3 +310,12 @@ onair:
     bgm: '407133'
     fansub:
       - ANi
+
+  - title: DDDD 恶魔的破坏
+    alias:
+      - 'デッドデッドデーモンズデデデデデストラクション'
+      - "恶魔的破坏 DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION"
+      - 'DEAD DEAD DEMONS DEDEDEDE DESTRUCTION'
+    bgm: '495562'
+    fansub:
+      - 新sub
