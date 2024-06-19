@@ -1,4 +1,4 @@
-# Generated at 2024-06-11 12:03
+# Generated at 2024-06-18 10:11
 
 season: 1
 
@@ -76,3 +76,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/671700_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_10_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 乌鸦不择主 S01E11 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672378_LoliHouse_Karasu_wa_Aruji_wo_Erabanai_-_11_WebRip_1080p_HEVC-10bit_AAC.html
