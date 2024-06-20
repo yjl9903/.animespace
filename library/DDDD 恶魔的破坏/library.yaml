@@ -1,4 +1,4 @@
-# Generated at 2024-06-18 01:16
+# Generated at 2024-06-21 01:12
 
 season: 1
 
@@ -7,19 +7,26 @@ date: 2024-03-31T04:00:00.000Z
 storage: anime
 
 videos:
-  - filename: DDDD 恶魔的破坏 S00E01 {新sub}.mkv
-    fansub: 新sub
+  - filename: DDDD 恶魔的破坏 S01E01 {ANi}.mp4
+    fansub: ANi
     type: 番剧
-    season: 0
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/671760_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_00_CR-WebRip_1080p_HEVC_AAC.html
+      magnet: https://garden.onekuma.cn/resource/672494_ANi_DDDD_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
-  - filename: DDDD 恶魔的破坏 S01E01 {新sub}.mkv
-    fansub: 新sub
-    type: 番剧
+  - filename: DDDD 恶魔的破坏 S00E01 {ANi}.mp4
+    fansub: ANi
+    type: OVA
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/672113_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_01_CR-WebRip_1080p_HEVC_AAC.html
+      magnet: https://garden.onekuma.cn/resource/672496_ANi_DDDD_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: DDDD 恶魔的破坏 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672495_ANi_DDDD_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

@@ -317,5 +317,10 @@ onair:
       - "恶魔的破坏 DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION"
       - 'DEAD DEAD DEMONS DEDEDEDE DESTRUCTION'
     bgm: '495562'
+    preference:
+      keyword:
+        exclude:
+          - DEAD DEAD DEMONS DEDEDEDE DESTRUCTION [00]
     fansub:
+      - ANi
       - 新sub
