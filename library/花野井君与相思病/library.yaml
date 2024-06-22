@@ -1,4 +1,4 @@
-# Generated at 2024-06-16 07:54
+# Generated at 2024-06-22 01:34
 
 season: 1
 
@@ -84,3 +84,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/672133_Amor_Hananoi-kun_to_Koi_no_Yamai_11_WEBDL_1080P_MKV.html
+
+  - filename: 花野井君与相思病 S01E12 {Amor字幕组}.mkv
+    fansub: Amor字幕组
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672569_Amor_Hananoi-kun_to_Koi_no_Yamai_12_END_WEBDL_1080P_MKV.html

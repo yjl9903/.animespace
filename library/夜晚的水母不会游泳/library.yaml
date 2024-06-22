@@ -1,4 +1,4 @@
-# Generated at 2024-06-16 08:18
+# Generated at 2024-06-23 12:48
 
 season: 1
 
@@ -78,10 +78,18 @@ videos:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/671972_Yoru_no_Kurage_wa_Oyogenai_10_1080p.html
 
-  - filename: 夜晚的水母不会游泳 S01E11 {ANi}.mp4
-    fansub: ANi
+  - filename: 夜晚的水母不会游泳 S01E11 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
     type: 番剧
     episode: 11
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/672172_ANi_Yoru_no_Kurage_wa_Oyogenai_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/resource/672531_Yoru_no_Kurage_wa_Oyogenai_11_1080p.html
+
+  - filename: 夜晚的水母不会游泳 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672604_ANi_Yoru_no_Kurage_wa_Oyogenai_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
