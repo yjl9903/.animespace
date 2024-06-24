@@ -1,4 +1,4 @@
-# Generated at 2024-06-16 08:14
+# Generated at 2024-06-24 09:43
 
 season: 3
 
@@ -85,3 +85,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/672108_ANi_-_59_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 关于我转生变成史莱姆这档事 S03E12 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    season: 3
+    episode: 60
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/detail/dmhy/672574
