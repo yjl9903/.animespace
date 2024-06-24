@@ -103,7 +103,9 @@ onair:
       title: 关于我转生变成史莱姆这档事
       episode:
         offset: -48
-        fansub: ANi
+        fansub:
+          - ANi
+          - LoliHouse
     preference:
       keyword:
         exclude: [特別篇]
