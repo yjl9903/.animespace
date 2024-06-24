@@ -1,4 +1,4 @@
-# Generated at 2024-06-17 01:31
+# Generated at 2024-06-23 11:34
 
 season: 2
 
@@ -78,3 +78,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/672249_ANi_-_22_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 无职转生 ～到了异世界就拿出真本事～ S02E23 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 23
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672698_ANi_-_23_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
