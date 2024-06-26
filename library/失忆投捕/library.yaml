@@ -1,4 +1,4 @@
-# Generated at 2024-06-18 11:25
+# Generated at 2024-06-26 05:18
 
 season: 1
 
@@ -77,3 +77,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/672391_ANi_B_kyaku_Battery_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 失忆投捕 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672841_ANi_B_kyaku_Battery_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

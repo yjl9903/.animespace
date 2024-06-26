@@ -1,4 +1,4 @@
-# Generated at 2024-06-18 11:17
+# Generated at 2024-06-26 05:12
 
 season: 1
 
@@ -84,3 +84,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/672392_ANi_Rinkai_RINKAI_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 竞轮少女！ S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672842_ANi_Rinkai_RINKAI_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

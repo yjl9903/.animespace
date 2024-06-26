@@ -1,4 +1,4 @@
-# Generated at 2024-06-21 12:53
+# Generated at 2024-06-26 05:14
 
 season: 3
 
@@ -94,3 +94,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/672489_ANi_Yuru_Camp_S03_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 摇曳露营△ S03E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672889_ANi_Yurukyan_S03_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
