@@ -99,6 +99,7 @@ onair:
       - 'Tensei Shitara Slime Datta Ken 3rd Season'
       - 'That Time I Got Reincarnated as a Slime Season 3'
     season: 3
+    status: onair
     rewrite:
       title: 关于我转生变成史莱姆这档事
       episode:
@@ -122,6 +123,7 @@ onair:
       - '终末列车寻往何方'
       - 'Shumatsu Torein Dokoe Iku'
       - 'Shuumatsu Train Doko e Iku?'
+    status: finish
     bgm: '404809'
     fansub:
       - 北宇治字幕组
@@ -136,6 +138,7 @@ onair:
       - '神は遊戯（ゲーム）に飢えている。'
       - "Gods' Game We Play"
       - 'Kami wa Game ni Ueteiru.'
+    status: finish
     bgm: '365952'
     fansub:
       - ANi
@@ -148,6 +151,7 @@ onair:
       - 'Spice and Wolf: Merchant Meets the Wise Wolf'
       - 'Ookami to Koushinryou: Merchant Meets the Wise Wolf'
     bgm: '372010'
+    status: onair
     fansub:
       - 幻之字幕组
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22狼与香辛料%20行商邂逅贤狼%22%2C%22狼と香辛料%20MERCHANT%20MEETS%20THE%20WISE%20WOLF%22%2C%22狼与香辛料%20MERCHANT%20MEETS%20THE%20WISE%20WOLF%22%2C%22Spice%20and%20Wolf:%20Merchant%20Meets%20the%20Wise%20Wolf%22%2C%22Ookami%20to%20Koushinryou:%20Merchant%20Meets%20the%20Wise%20Wolf%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
@@ -187,6 +191,7 @@ onair:
       - '声優ラジオのウラオモテ'
       - '声优广播的幕前幕后'
       - 'Seiyuu Radio no Uraomote'
+    status: finish
     bgm: '411974'
     fansub:
       - ANi
@@ -253,6 +258,7 @@ onair:
       - '宛若呢喃细语般浅唱恋歌'
       - 'Whispering You a Love Song'
     bgm: '415166'
+    status: onair
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22恋语轻唱%22%2C%22ささやくように恋を唄う%22%2C%22Sasayaku%20You%20ni%20Koi%20o%20Utau%22%2C%22恰如细语般的恋歌%22%2C%22宛若呢喃细语般浅唱恋歌%22%2C%22Whispering%20You%20a%20Love%20Song%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
@@ -263,6 +269,7 @@ onair:
       - 'この素晴らしい世界に祝福を！3'
       - 'Kono Subarashii Sekai ni Shukufuku o! 3'
       - 'Konosuba: God`s Blessing on This Wonderful World! 3'
+    status: finish
     season: 3
     rewrite:
       title: 为美好的世界献上祝福！
@@ -276,6 +283,7 @@ onair:
       - 'HIGHSPEED Etoile'
       - '高速星辰'
       - 'ハイスピードエトワール'
+    status: finish
     bgm: '391866'
     fansub:
       - ANi
@@ -309,6 +317,7 @@ onair:
       - 'Dainanaoji'
       - 'Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu'
       - 'I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability'
+    status: finish
     bgm: '407133'
     fansub:
       - ANi
@@ -318,6 +327,7 @@ onair:
       - 'デッドデッドデーモンズデデデデデストラクション'
       - "恶魔的破坏 DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION"
       - 'DEAD DEAD DEMONS DEDEDEDE DESTRUCTION'
+    status: onair
     bgm: '495562'
     preference:
       keyword:
@@ -326,3 +336,22 @@ onair:
     fansub:
       - ANi
       - 新sub
+
+  - title: 雀魂 KANG!!
+    alias:
+      - 'じゃんたま カン！！'
+      - '雀魂 杠！！'
+      - 'MAHJONG SOUL KAN!!'
+    bgm: '473805'
+    fansub:
+      - 桜都字幕组
+
+  - title: 格林童话变奏曲
+    alias:
+      - 'グリム組曲'
+      - '格林组曲'
+      - 'Grimm Kumikyoku'
+      - 'The Grimm Variations'
+    bgm: '442559'
+    fansub:
+      - 北宇治字幕组

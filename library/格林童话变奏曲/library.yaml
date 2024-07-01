@@ -1,0 +1,52 @@
+# Generated at 2024-07-01 10:23
+
+storage: anime
+
+videos:
+  - filename: 格林童话变奏曲 S01E01 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668592_The_Grimm_Variations_01_WebRip_HEVC_AAC.html
+
+  - filename: 格林童话变奏曲 S01E02 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670637_The_Grimm_Variations_02_WebRip_HEVC_AAC.html
+
+  - filename: 格林童话变奏曲 S01E03 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670638_The_Grimm_Variations_03_WebRip_HEVC_AAC.html
+
+  - filename: 格林童话变奏曲 S01E04 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672960_The_Grimm_Variations_04_WebRip_HEVC_AAC.html
+
+  - filename: 格林童话变奏曲 S01E05 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672961_The_Grimm_Variations_05_WebRip_HEVC_AAC.html
+
+  - filename: 格林童话变奏曲 S01E06 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672962_The_Grimm_Variations_06_WebRip_HEVC_AAC.html
