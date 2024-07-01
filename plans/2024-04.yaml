@@ -343,6 +343,8 @@ onair:
       - '雀魂 杠！！'
       - 'MAHJONG SOUL KAN!!'
     bgm: '473805'
+    rewrite:
+      title: 雀魂
     fansub:
       - 桜都字幕组
 
