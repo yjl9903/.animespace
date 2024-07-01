@@ -1,0 +1,80 @@
+# Generated at 2024-07-01 09:06
+
+season: 1
+
+date: 2024-03-31T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 雀魂 KANG!! S01E01 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668563_KANG%21%21_Jantama_Kan%21%21_01_1080p.html
+
+  - filename: 雀魂 KANG!! S01E02 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/668832_KANG%21%21_Jantama_Kan%21%21_02_1080p.html
+
+  - filename: 雀魂 KANG!! S01E03 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/669381_KANG%21%21_Jantama_Kan%21%21_03_1080p.html
+
+  - filename: 雀魂 KANG!! S01E04 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/669972_KANG%21%21_Jantama_Kan%21%21_04_1080p.html
+
+  - filename: 雀魂 KANG!! S01E05 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/670967_KANG%21%21_Jantama_Kan%21%21_05_1080p.html
+
+  - filename: 雀魂 KANG!! S01E06 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/671239_KANG%21%21_Jantama_Kan%21%21_06_1080p.html
+
+  - filename: 雀魂 KANG!! S01E07 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/671712_KANG%21%21_Jantama_Kan%21%21_07_1080p.html
+
+  - filename: 雀魂 KANG!! S01E08 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672283_KANG%21%21_Jantama_Kan%21%21_08_1080p.html
+
+  - filename: 雀魂 KANG!! S01E09 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672993_KANG%21%21_Jantama_Kan%21%21_09_1080p.html

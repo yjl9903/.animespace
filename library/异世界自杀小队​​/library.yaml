@@ -1,0 +1,32 @@
+# Generated at 2024-07-01 11:06
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 异世界自杀小队​​ S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672966_ANi_Suicide_Squad_ISEKAI_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 异世界自杀小队​​ S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672967_ANi_Suicide_Squad_ISEKAI_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 异世界自杀小队​​ S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/672968_ANi_Suicide_Squad_ISEKAI_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
