@@ -11,6 +11,8 @@ onair:
       - 'VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream'
       - 'VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta'
     bgm: '416320'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22身为VTuber的我因为忘记关台而成了传说%22%2C%22VTuberなんだが配信切り忘れたら伝説になってた%22%2C%22VTuber%20Legend:%20How%20I%20Went%20Viral%20after%20Forgetting%20to%20Turn%20Off%20My%20Stream%22%2C%22VTuber%20Nandaga%20Haishin%20Kiri%20Wasuretara%20Densetsu%20ni%20Natteta%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 恋爱没法用双子除尽
@@ -23,6 +25,8 @@ onair:
       - 'Koi wa Futago de Warikirenai'
       - 'Love Is Indivisible by Twins'
     bgm: '445722'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22恋爱没法用双子除尽%22%2C%22恋は双子で割り切れない%22%2C%22恋爱无法用双子除尽%22%2C%22双子无法用恋爱除尽%22%2C%22双生恋情密不可分%22%2C%22无法割舍恋情的双胞胎%22%2C%22Koi%20wa%20Futago%20de%20Warikirenai%22%2C%22Love%20Is%20Indivisible%20by%20Twins%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 义妹生活
@@ -40,6 +44,8 @@ onair:
       - 'Tokidoki Bosotto Russia-go de Dereru Tonari no Aalya-san'
       - 'Alya Sometimes Hides Her Feelings in Russian'
     bgm: '424883'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22不时用俄语小声说真心话的邻桌艾莉同学%22%2C%22時々ボソッとロシア語でデレる隣のアーリャさん%22%2C%22不时轻声地以俄语遮羞的邻座艾莉同学%22%2C%22Tokidoki%20Bosotto%20Russia-go%20de%20Dereru%20Tonari%20no%20Aalya-san%22%2C%22Alya%20Sometimes%20Hides%20Her%20Feelings%20in%20Russian%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 败犬女主太多了！
@@ -120,13 +126,24 @@ onair:
       - 'Oshi no Ko'
     season: 2
     bgm: '443428'
+    rewrite:
+      title: 我推的孩子
+      episode:
+        offset: -11
+        fansub: ANi
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22【我推的孩子】%20第二季%22%2C%22【推しの子】%20第2期%22%2C%22&quot;Oshi%20no%20Ko&quot;%202%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 卡片战斗先导者 DivineZ 第二季
     alias:
       - 'カードファイト!! ヴァンガード Divinez Season2'
-    season: 2
+    season: 6
     bgm: '440879'
+    rewrite:
+      title: 卡片战斗先导者overDress
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22卡片战斗先导者%20DivineZ%20第二季%22%2C%22カードファイト!!%20ヴァンガード%20Divinez%20Season2%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 深夜重拳
@@ -165,6 +182,8 @@ onair:
       - 'Narenare -Cheer for You!-'
       - 'Na Nare Hana Nare'
     bgm: '464561'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22亦叶亦花%22%2C%22菜なれ花なれ%22%2C%22少女如草花绽放%22%2C%22变成菜%20变成花%22%2C%22菜一般%20花一般%22%2C%22Narenare%20-Cheer%20for%20You!-%22%2C%22Na%20Nare%20Hana%20Nare%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 鹿乃子乃子乃子虎视眈眈
@@ -174,4 +193,6 @@ onair:
       - 'Shikanoko Nokonoko Koshitantan'
       - 'My Deer Friend Nokotan'
     bgm: '484761'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22鹿乃子乃子乃子虎视眈眈%22%2C%22しかのこのこのここしたんたん%22%2C%22鹿乃子乃子虎视眈眈%22%2C%22Shikanoko%20Nokonoko%20Koshitantan%22%2C%22My%20Deer%20Friend%20Nokotan%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z

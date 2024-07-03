@@ -1,5 +1,16 @@
-# Generated at 2024-07-01 08:57
+# Generated at 2024-07-03 11:19
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 不时用俄语小声说真心话的邻桌艾莉同学 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673298_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

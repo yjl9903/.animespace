@@ -166,12 +166,14 @@ onair:
       - '無職轉生～到了異世界就拿出真本事 第二季'
       - 'Mushoku Tensei: Jobless Reincarnation Season 2 part 2'
       - 'Mushoku Tensei II: Isekai Ittara Honki Dasu part 2'
+      - '无职转生～到了异世界就拿出真本事～ S2'
     season: 2
     rewrite:
       title: 无职转生 ～到了异世界就拿出真本事～
     bgm: '444557'
     fansub:
       - ANi
+      - 桜都字幕组
       - 爱恋字幕社
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22无职转生Ⅱ%20～到了异世界就拿出真本事～%20第2部分%22%2C%22無職転生Ⅱ%20～異世界行ったら本気だす～%20第2クール%22%2C%22无职转生Ⅱ%20～在异世界认真地活下去～%20第2部分%22%2C%22无职转生%20～在异世界认真地活下去～%20第二季%20第2部分%22%2C%22無職転生%20～異世界行ったら本気だす～%20第2期%20第2部分%22%2C%22Mushoku%20Tensei:%20Jobless%20Reincarnation%20Season%202%20part%202%22%2C%22Mushoku%20Tensei%20II:%20Isekai%20Ittara%20Honki%20Dasu%20part%202%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
 
@@ -308,6 +310,7 @@ onair:
       - '忘却バッテリー'
       - '忘却Battery'
     bgm: '448478'
+    status: finish
     fansub:
       - ANi
 
