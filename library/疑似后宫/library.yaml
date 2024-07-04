@@ -1,0 +1,12 @@
+# Generated at 2024-07-05 12:54
+
+storage: anime
+
+videos:
+  - filename: 疑似后宫 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673392_ANi_Giji_Harem_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
