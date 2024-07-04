@@ -1,4 +1,4 @@
-# Generated at 2024-06-16 08:05
+# Generated at 2024-07-04 01:16
 
 season: 2
 
@@ -70,3 +70,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/672120_ANi_-_21_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ S02E23 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 23
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673324_ANi_-_23_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

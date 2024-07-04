@@ -1,5 +1,16 @@
-# Generated at 2024-07-01 08:57
+# Generated at 2024-07-04 01:21
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 亚托莉 -我挚爱的时光- S01E01 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673323_-_-_ATRI_-My_Dear_Moments-_01_WebRip_HEVC_AAC.html
