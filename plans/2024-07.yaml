@@ -96,11 +96,14 @@ onair:
 
   - title: 前辈是男孩子
     alias:
+      - '學姊是男孩'
       - '先輩はおとこのこ'
       - '前辈是伪娘'
       - 'Senpai wa Otokonoko'
       - 'Senpai Is an Otokonoko'
     bgm: '425988'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22前辈是男孩子%22%2C%22先輩はおとこのこ%22%2C%22前辈是伪娘%22%2C%22Senpai%20wa%20Otokonoko%22%2C%22Senpai%20Is%20an%20Otokonoko%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 我的妻子没有感情
@@ -194,6 +197,7 @@ onair:
       - 'My Deer Friend Nokotan'
     bgm: '484761'
     fansub:
+      - 北宇治字幕组
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22鹿乃子乃子乃子虎视眈眈%22%2C%22しかのこのこのここしたんたん%22%2C%22鹿乃子乃子虎视眈眈%22%2C%22Shikanoko%20Nokonoko%20Koshitantan%22%2C%22My%20Deer%20Friend%20Nokotan%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 

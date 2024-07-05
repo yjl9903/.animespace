@@ -1,4 +1,4 @@
-# Generated at 2024-07-05 12:45
+# Generated at 2024-07-05 01:34
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/673391_ANi_DDDD_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: DDDD 恶魔的破坏 S01E04 {新sub}.mkv
+    fansub: 新sub
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673399_DDDD_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_04_CR-WebRip_1080p_HEVC_AAC.html
