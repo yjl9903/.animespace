@@ -7,6 +7,7 @@ status: onair
 onair:
   - title: 身为VTuber的我因为忘记关台而成了传说
     alias:
+      - '身為 VTuber 的我因為忘記關台而成了傳說'
       - 'VTuberなんだが配信切り忘れたら伝説になってた'
       - 'VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream'
       - 'VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta'
@@ -35,6 +36,8 @@ onair:
       - 'Days with My Stepsister'
       - 'Gimai Seikatsu'
     bgm: '393037'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22义妹生活%22%2C%22義妹生活%22%2C%22Days%20with%20My%20Stepsister%22%2C%22Gimai%20Seikatsu%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 不时用俄语小声说真心话的邻桌艾莉同学
@@ -56,6 +59,8 @@ onair:
       - 'Make Heroine ga Oosugiru!'
       - 'Toooooo Many Losing Heroines!'
     bgm: '464376'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22败犬女主太多了！%22%2C%22負けヒロインが多すぎる！%22%2C%22败犬女主太多啦！%22%2C%22败北女角太多了！%22%2C%22Make%20Heroine%20ga%20Oosugiru!%22%2C%22Toooooo%20Many%20Losing%20Heroines!%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 小市民系列
@@ -64,15 +69,19 @@ onair:
       - 'How to Become Ordinary'
       - 'Shoushimin Series'
     bgm: '474906'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22小市民系列%22%2C%22小市民シリーズ%22%2C%22How%20to%20Become%20Ordinary%22%2C%22Shoushimin%20Series%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
-  - title: 物语系列 外传季&amp;怪物季
+  - title: 物语系列 外传季&怪物季
     alias:
-      - '〈物語〉シリーズ オフ&amp;モンスターシーズン'
-      - '物语系列 Off&amp;Monster季'
-      - '物语系列 Off&amp;Monster Season'
-      - 'Monogatari Series: Off &amp; Monster Season'
+      - '〈物語〉シリーズ オフ&モンスターシーズン'
+      - '物语系列 Off&Monster季'
+      - '物语系列 Off&Monster Season'
+      - 'Monogatari Series: Off & Monster Season'
     bgm: '475354'
+    fansub:
+      - 猎户手抄部
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22物语系列%20外传季&amp;怪物季%22%2C%22〈物語〉シリーズ%20オフ&amp;モンスターシーズン%22%2C%22物语系列%20Off&amp;Monster季%22%2C%22物语系列%20Off&amp;Monster%20Season%22%2C%22Monogatari%20Series:%20Off%20&amp;%20Monster%20Season%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 为何我的世界被遗忘了？
@@ -84,14 +93,17 @@ onair:
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22为何我的世界被遗忘了？%22%2C%22なぜ僕の世界を誰も覚えていないのか?%22%2C%22Naze%20Boku%20no%20Sekai%20o%20Dare%20mo%20Oboeteinai%20no%20ka?%22%2C%22为何无人记得我的世界？%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 多数欠
-    alias:
     bgm: '477204'
+    fansub:
+      - LoliHouse
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22多数欠%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 黄昏失焦
     alias:
       - '黄昏アウトフォーカス'
     bgm: '443931'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22黄昏失焦%22%2C%22黄昏アウトフォーカス%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 前辈是男孩子
@@ -153,6 +165,8 @@ onair:
     alias:
       - '真夜中ぱんチ'
     bgm: '477207'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22深夜重拳%22%2C%22真夜中ぱんチ%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 异世界自杀小队​​
@@ -211,3 +225,16 @@ onair:
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22疑似后宫%22%2C%22疑似ハーレム%22%2C%22Giji%20Harem%22%2C%22百变的七仓同学%22%2C%22模擬後宮體驗%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
+
+  - title: 天穗之咲稻姬
+    alias:
+      - '天穂のサクナヒメ'
+      - 'てんすいのサクナヒメ'
+      - '天穗之佐久名比命'
+      - '天穗之佐久名姬'
+      - 'Tensui no Sakuna-hime'
+      - 'Sakuna: Of Rice and Ruin'
+    bgm: '478684'
+    fansub:
+      - ANi
+    # https://garden.onekuma.cn/resources/1?include=%5B%5B%22天穗之咲稻姬%22%2C%22天穂のサクナヒメ%22%2C%22てんすいのサ クナヒメ%22%2C%22天穗之佐久名比命%22%2C%22天穗之佐久名姬%22%2C%22Tensui%20no%20Sakuna-hime%22%2C%22Sakuna:%20Of%20Rice%20and%20Ruin%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
