@@ -142,13 +142,10 @@ onair:
     alias:
       - '【推しの子】 第2期'
       - 'Oshi no Ko'
-    season: 2
+    season: 1
     bgm: '443428'
     rewrite:
       title: 我推的孩子
-      episode:
-        offset: -11
-        fansub: ANi
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22【我推的孩子】%20第二季%22%2C%22【推しの子】%20第2期%22%2C%22&quot;Oshi%20no%20Ko&quot;%202%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
