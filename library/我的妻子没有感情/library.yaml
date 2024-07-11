@@ -1,5 +1,24 @@
-# Generated at 2024-07-01 08:57
+# Generated at 2024-07-10 09:37
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 我的妻子没有感情 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673819_LoliHouse_Boku_no_Tsuma_wa_Kanjou_ga_Nai_-_01_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 我的妻子没有感情 S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673869_LoliHouse_Boku_no_Tsuma_wa_Kanjou_ga_Nai_-_02_WebRip_1080p_HEVC-10bit_AAC.html

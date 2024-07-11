@@ -1,0 +1,20 @@
+# Generated at 2024-07-12 12:13
+
+storage: anime
+
+videos:
+  - filename: 黃昏光影 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673386_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 黃昏光影 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673985_ANi_Tasogare_Out_Focus_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

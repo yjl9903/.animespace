@@ -1,4 +1,4 @@
-# Generated at 2024-07-03 02:12
+# Generated at 2024-07-10 11:23
 
 season: 1
 
@@ -86,3 +86,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/673259_KANG%21%21_Jantama_Kan%21%21_10_1080p.html
+
+  - filename: 雀魂 S01E11 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673915_KANG%21%21_Jantama_Kan%21%21_11_1080p.html
