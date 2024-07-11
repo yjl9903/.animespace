@@ -1,4 +1,4 @@
-# Generated at 2024-07-04 01:07
+# Generated at 2024-07-10 11:36
 
 season: 2
 
@@ -14,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/673303_ANi_Oshi_No_Ko_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我推的孩子 S02E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673919_ANi_Oshi_No_Ko_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

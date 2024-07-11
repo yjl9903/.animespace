@@ -98,8 +98,9 @@ onair:
       - LoliHouse
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22多数欠%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
-  - title: 黄昏失焦
+  - title: 黃昏光影
     alias:
+      - '黄昏失焦'
       - '黄昏アウトフォーカス'
     bgm: '443931'
     fansub:
@@ -125,6 +126,8 @@ onair:
       - 'Boku no Tsuma wa Kanjou ga Nai'
       - 'My Wife Has No Emotion'
     bgm: '482776'
+    fansub:
+      - LoliHouse
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22我的妻子没有感情%22%2C%22僕の妻は感情がない%22%2C%22我的妻子不具感情%22%2C%22Boku%20no%20Tsuma%20wa%20Kanjou%20ga%20Nai%22%2C%22My%20Wife%20Has%20No%20Emotion%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 2.5次元的诱惑
@@ -164,6 +167,8 @@ onair:
   - title: 深夜重拳
     alias:
       - '真夜中ぱんチ'
+      - 'Mayonaka Punch'
+      - '深夜 Punch'
     bgm: '477207'
     fansub:
       - ANi
@@ -201,6 +206,7 @@ onair:
     bgm: '464561'
     fansub:
       - ANi
+      - Alicest
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22亦叶亦花%22%2C%22菜なれ花なれ%22%2C%22少女如草花绽放%22%2C%22变成菜%20变成花%22%2C%22菜一般%20花一般%22%2C%22Narenare%20-Cheer%20for%20You!-%22%2C%22Na%20Nare%20Hana%20Nare%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 鹿乃子乃子乃子虎视眈眈
