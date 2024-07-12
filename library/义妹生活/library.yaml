@@ -1,5 +1,24 @@
-# Generated at 2024-07-01 08:57
+# Generated at 2024-07-12 12:55
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 义妹生活 S01E01.mkv
+    fansub: B站沸羊羊都得叫我师傅
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673939_Gimai_Seikatsu_-_01_CR_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 义妹生活 S01E02.mkv
+    fansub: B站沸羊羊都得叫我师傅
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674008_Gimai_Seikatsu_-_02_CR_WebRip_1080p_HEVC-10bit_AAC.html

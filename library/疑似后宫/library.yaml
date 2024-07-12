@@ -1,4 +1,8 @@
-# Generated at 2024-07-05 12:54
+# Generated at 2024-07-12 12:46
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -10,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/673392_ANi_Giji_Harem_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 疑似后宫 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673990_ANi_Giji_Harem_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

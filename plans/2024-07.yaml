@@ -36,8 +36,12 @@ onair:
       - 'Days with My Stepsister'
       - 'Gimai Seikatsu'
     bgm: '393037'
+    preference:
+      format:
+        episode: '{title} S{season}E{ep}.{extension}'
     fansub:
       - ANi
+      - B站沸羊羊都得叫我师傅
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22义妹生活%22%2C%22義妹生活%22%2C%22Days%20with%20My%20Stepsister%22%2C%22Gimai%20Seikatsu%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 不时用俄语小声说真心话的邻桌艾莉同学
@@ -132,10 +136,13 @@ onair:
 
   - title: 2.5次元的诱惑
     alias:
+      - '2.5 次元的诱惑'
       - '2.5次元の誘惑'
       - '2.5 Jigen no Ririsa'
       - '2.5 Dimensional Seduction'
     bgm: '410346'
+    fansub:
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%222.5次元的诱惑%22%2C%222.5次元の誘惑%22%2C%222.5%20Jigen%20no%20Ririsa%22%2C%222.5%20Dimensional%20Seduction%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 【我推的孩子】 第二季
@@ -241,3 +248,9 @@ onair:
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22天穗之咲稻姬%22%2C%22天穂のサクナヒメ%22%2C%22てんすいのサ クナヒメ%22%2C%22天穗之佐久名比命%22%2C%22天穗之佐久名姬%22%2C%22Tensui%20no%20Sakuna-hime%22%2C%22Sakuna:%20Of%20Rice%20and%20Ruin%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
+
+  - title: 魔法少女与恶曾是敌人。
+    bgm: '465884'
+    fansub:
+      - 北宇治字幕组
+      - ANi
