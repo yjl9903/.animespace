@@ -2,7 +2,7 @@ title: 创建于 2024-04-02 12:29
 
 date: 2024-03-31 12:00
 
-status: onair
+status: finish
 
 onair:
   - title: 花野井君与相思病
@@ -52,6 +52,7 @@ onair:
       - '魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ Ⅱ 2ndクール'
       - 'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2'
       - 'The Misfit of Demon King Academy II Part 2'
+    status: onair
     season: 2
     rewrite:
       title: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～
@@ -66,6 +67,7 @@ onair:
       - '魔法科高中的劣等生 第三季'
       - 'The Irregular at Magic High School'
       - 'Mahouka Koukou no Rettousei'
+    status: onair
     season: 3
     rewrite:
       title: 魔法科高校的劣等生
@@ -123,7 +125,6 @@ onair:
       - '终末列车寻往何方'
       - 'Shumatsu Torein Dokoe Iku'
       - 'Shuumatsu Train Doko e Iku?'
-    status: finish
     bgm: '404809'
     fansub:
       - 北宇治字幕组
@@ -138,7 +139,6 @@ onair:
       - '神は遊戯（ゲーム）に飢えている。'
       - "Gods' Game We Play"
       - 'Kami wa Game ni Ueteiru.'
-    status: finish
     bgm: '365952'
     fansub:
       - ANi
@@ -273,7 +273,6 @@ onair:
       - 'この素晴らしい世界に祝福を！3'
       - 'Kono Subarashii Sekai ni Shukufuku o! 3'
       - 'Konosuba: God`s Blessing on This Wonderful World! 3'
-    status: finish
     season: 3
     rewrite:
       title: 为美好的世界献上祝福！
@@ -287,7 +286,6 @@ onair:
       - 'HIGHSPEED Etoile'
       - '高速星辰'
       - 'ハイスピードエトワール'
-    status: finish
     bgm: '391866'
     fansub:
       - ANi
@@ -322,7 +320,6 @@ onair:
       - 'Dainanaoji'
       - 'Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu'
       - 'I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability'
-    status: finish
     bgm: '407133'
     fansub:
       - ANi
@@ -347,6 +344,7 @@ onair:
       - 'じゃんたま カン！！'
       - '雀魂 杠！！'
       - 'MAHJONG SOUL KAN!!'
+    status: onair
     bgm: '473805'
     rewrite:
       title: 雀魂

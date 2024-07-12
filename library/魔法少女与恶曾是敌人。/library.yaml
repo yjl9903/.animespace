@@ -1,0 +1,12 @@
+# Generated at 2024-07-12 12:47
+
+storage: anime
+
+videos:
+  - filename: 魔法少女与恶曾是敌人。 S01E01 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673931_Katsute_Mahou_Shoujo_to_Aku_wa_Tekitai_shiteita_WebRip_HEVC_AAC.html
