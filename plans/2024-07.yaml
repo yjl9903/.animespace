@@ -159,6 +159,7 @@ onair:
 
   - title: 卡片战斗先导者 DivineZ 第二季
     alias:
+      - '卡片戰鬥!! 先導者 Divinez 第二季'
       - 'カードファイト!! ヴァンガード Divinez Season2'
     season: 6
     bgm: '440879'
@@ -195,8 +196,8 @@ onair:
       - 'ATRI -My Dear Moments-'
     bgm: '397604'
     fansub:
-      - ANi
       - 北宇治字幕组
+      - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22亚托莉%20-我挚爱的时光-%22%2C%22ATRI%20-My%20Dear%20Moments-%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 亦叶亦花
@@ -253,4 +254,25 @@ onair:
     bgm: '465884'
     fansub:
       - 北宇治字幕组
+      - ANi
+
+  - title: 杖与剑的魔剑谭
+    alias:
+      - '杖と剣のウィストリア'
+      - '杖與劍的魔劍譚'
+      - '杖与剑的维斯特利亚'
+      - 'Tsue to Tsurugi no Wistoria'
+      - 'Wistoria: Wand and Sword'
+    bgm: '479477'
+    fansub:
+      - ANi
+
+  - title: 擅长逃跑的殿下
+    alias:
+      - '逃げ上手の若君'
+      - 'Nige Jouzu no Wakagimi'
+      - 'The Elusive Samurai'
+      - '少主溜得快'
+    bgm: '424573'
+    fansub:
       - ANi
