@@ -1,5 +1,17 @@
-# Generated at 2024-07-01 08:57
+# Generated at 2024-07-15 10:29
+
+season: 6
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 卡片战斗先导者overDress S06E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674093_ANi_CARDFIGHT_VANGUARD_S02_%21%21_Divinez_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
