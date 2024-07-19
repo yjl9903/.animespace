@@ -6,11 +6,11 @@
     "pull": "git pull"
   },
   "devDependencies": {
-    "animespace": "0.1.0-beta.16",
+    "animespace": "0.1.0-beta.19",
     "bgmc": "^0.0.10",
-    "naria2c": "0.0.24",
-    "optc": "0.6.3",
-    "undici": "^6.15.0"
+    "naria2c": "0.0.25",
+    "optc": "0.6.4",
+    "undici": "^6.19.2"
   },
   "packageManager": "pnpm@9.4.0",
   "engines": {
