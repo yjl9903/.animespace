@@ -1,5 +1,20 @@
-# Generated at 2024-07-15 10:09
+# Generated at 2024-07-15 10:48
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 杖与剑的魔剑谭 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/673622_ANi_Wistoria_Wand_and_Sword_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 杖与剑的魔剑谭 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674186_ANi_Tsue_to_Tsurugi_no_Wistoria_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

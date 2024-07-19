@@ -1,4 +1,4 @@
-# Generated at 2024-07-10 11:27
+# Generated at 2024-07-17 10:56
 
 season: 1
 
@@ -22,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/673916_ANi_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 不时用俄语小声说真心话的邻桌艾莉同学 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674451_ANi_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

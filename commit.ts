@@ -2,10 +2,11 @@
 
 /// <reference types="optc/globals" />
 
-export default async function() {
+export default async function () {
   const date = new Date();
   const commit = `refresh: ${date.toLocaleString()}`;
 
+  console.log(commit);
   await $`git add .`;
   await $`git commit -m ${commit}`;
   await $`git pull --rebase`;

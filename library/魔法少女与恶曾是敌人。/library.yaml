@@ -1,4 +1,8 @@
-# Generated at 2024-07-12 12:47
+# Generated at 2024-07-19 12:50
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -10,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/673931_Katsute_Mahou_Shoujo_to_Aku_wa_Tekitai_shiteita_WebRip_HEVC_AAC.html
+
+  - filename: 魔法少女与恶曾是敌人。 S01E02 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674535_Katsute_Mahou_Shoujo_to_Aku_wa_Tekitai_shiteita_02_WebRip_HEVC_AAC.html
