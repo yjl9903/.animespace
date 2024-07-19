@@ -31,7 +31,7 @@ async function render() {
   const text: string[] = [];
   const client = new BgmClient(fetch as any, { maxRetry: 5 });
   const system = await makeSystem(path.resolve());
-  const animes = await system.load({ filter: () => true });
+  const animes = await system.animes({ filter: () => true });
 
   const render = async (anime: Anime, image = false) => {
     const season =
