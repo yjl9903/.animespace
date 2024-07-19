@@ -1,5 +1,16 @@
-# Generated at 2024-07-01 08:57
+# Generated at 2024-07-17 11:13
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 恋爱没法用双子除尽 S01E01 {云歌字幕组}.mp4
+    fansub: 云歌字幕组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674415_7_01_HEVC_x265_10bit_1080p.html

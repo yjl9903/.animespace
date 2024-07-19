@@ -1,4 +1,4 @@
-# Generated at 2024-07-07 10:58
+# Generated at 2024-07-19 11:22
 
 season: 3
 
@@ -112,3 +112,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/673463_ANi_-_62_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 关于我转生变成史莱姆这档事 S03E15 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 63
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674583_ANi_-_63_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

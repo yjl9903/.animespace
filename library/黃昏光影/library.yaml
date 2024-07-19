@@ -1,4 +1,8 @@
-# Generated at 2024-07-12 12:13
+# Generated at 2024-07-18 11:20
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -18,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/673985_ANi_Tasogare_Out_Focus_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 黃昏光影 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674520_ANi_Tasogare_Out_Focus_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

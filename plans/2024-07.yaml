@@ -27,7 +27,7 @@ onair:
       - 'Love Is Indivisible by Twins'
     bgm: '445722'
     fansub:
-      - ANi
+      - 云歌字幕组
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22恋爱没法用双子除尽%22%2C%22恋は双子で割り切れない%22%2C%22恋爱无法用双子除尽%22%2C%22双子无法用恋爱除尽%22%2C%22双生恋情密不可分%22%2C%22无法割舍恋情的双胞胎%22%2C%22Koi%20wa%20Futago%20de%20Warikirenai%22%2C%22Love%20Is%20Indivisible%20by%20Twins%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 义妹生活
@@ -94,6 +94,8 @@ onair:
       - 'Naze Boku no Sekai o Dare mo Oboeteinai no ka?'
       - '为何无人记得我的世界？'
     bgm: '446615'
+    fansub:
+      - 猎户发布组
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22为何我的世界被遗忘了？%22%2C%22なぜ僕の世界を誰も覚えていないのか?%22%2C%22Naze%20Boku%20no%20Sekai%20o%20Dare%20mo%20Oboeteinai%20no%20ka?%22%2C%22为何无人记得我的世界？%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
   - title: 多数欠
@@ -275,4 +277,5 @@ onair:
       - '少主溜得快'
     bgm: '424573'
     fansub:
+      - LoliHouse
       - ANi

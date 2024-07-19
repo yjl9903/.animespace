@@ -1,5 +1,24 @@
-# Generated at 2024-07-15 10:09
+# Generated at 2024-07-15 11:26
+
+season: 1
+
+date: 2024-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 擅长逃跑的殿下 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674126_LoliHouse_Nige_Jouzu_no_Wakagimi_-_01_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 擅长逃跑的殿下 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674151_ANi_The_Elusive_Samurai_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
