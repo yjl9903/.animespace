@@ -1,4 +1,4 @@
-# Generated at 2024-07-14 11:02
+# Generated at 2024-07-21 11:22
 
 season: 1
 
@@ -22,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/674219_ANi_VTuber_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 身为VTuber的我因为忘记关台而成了传说 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674777_ANi_VTuber_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
