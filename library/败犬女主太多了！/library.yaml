@@ -1,4 +1,4 @@
-# Generated at 2024-07-14 01:17
+# Generated at 2024-07-21 01:14
 
 season: 1
 
@@ -14,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/resource/674153_ANi_Make_Heroine_ga_Oosugiru_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 败犬女主太多了！ S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/resource/674677_ANi_Make_Heroine_ga_Oosugiru_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
