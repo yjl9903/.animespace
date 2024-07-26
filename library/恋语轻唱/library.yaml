@@ -1,4 +1,4 @@
-# Generated at 2024-06-23 07:45
+# Generated at 2024-07-26 02:13
 
 season: 1
 
@@ -87,3 +87,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/detail/dmhy/672627_ANi_Sasayaku_Y_ni_Koi_wo_Utau_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 恋语轻唱 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/66804524bfe5da0007929129

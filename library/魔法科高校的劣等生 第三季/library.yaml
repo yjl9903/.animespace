@@ -1,4 +1,4 @@
-# Generated at 2024-06-16 08:10
+# Generated at 2024-07-26 02:01
 
 season: 3
 
@@ -70,6 +70,15 @@ videos:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/detail/dmhy/671076_ANi_Mahouka_Koukou_no_Rettousei_S03_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
+  - filename: 魔法科高校的劣等生 S03E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/66632eeabfe5da0007edeee5
+
   - filename: 魔法科高校的劣等生 S03E11 {ANi}.mp4
     fansub: ANi
     type: 番剧
@@ -78,3 +87,21 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/detail/dmhy/672115_ANi_Mahouka_Koukou_no_Rettousei_S03_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 魔法科高校的劣等生 S03E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/6675a3ebbfe5da0007574dc2
+
+  - filename: 魔法科高校的劣等生 S03E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/667f0d71bfe5da00078bb978
