@@ -1,4 +1,4 @@
-# Generated at 2024-07-18 10:51
+# Generated at 2024-07-25 01:43
 
 season: 1
 
@@ -13,7 +13,7 @@ videos:
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/673627_LoliHouse_Tasuuketsu_-_01_WebRip_1080p_HEVC-10bit_AAC.html
+      magnet: https://garden.onekuma.cn/detail/dmhy/673627_LoliHouse_Tasuuketsu_-_01_WebRip_1080p_HEVC-10bit_AAC.html
 
   - filename: 多数欠 S01E02 {LoliHouse}.mkv
     fansub: LoliHouse
@@ -21,7 +21,7 @@ videos:
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/673979_LoliHouse_Tasuuketsu_-_02_WebRip_1080p_HEVC-10bit_AAC.html
+      magnet: https://garden.onekuma.cn/detail/dmhy/673979_LoliHouse_Tasuuketsu_-_02_WebRip_1080p_HEVC-10bit_AAC.html
 
   - filename: 多数欠 S01E03 {LoliHouse}.mkv
     fansub: LoliHouse
@@ -29,4 +29,12 @@ videos:
     episode: 3
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/674518_LoliHouse_Tasuuketsu_-_03_WebRip_1080p_HEVC-10bit_AAC.html
+      magnet: https://garden.onekuma.cn/detail/dmhy/674518_LoliHouse_Tasuuketsu_-_03_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 多数欠 S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/674977_LoliHouse_Tasuuketsu_-_04_WebRip_1080p_HEVC-10bit_AAC.html

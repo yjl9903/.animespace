@@ -1,4 +1,4 @@
-# Generated at 2024-07-18 11:20
+# Generated at 2024-07-26 12:53
 
 season: 1
 
@@ -13,7 +13,7 @@ videos:
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/673386_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/detail/dmhy/673386_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
   - filename: 黃昏光影 S01E02 {ANi}.mp4
     fansub: ANi
@@ -21,7 +21,7 @@ videos:
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/673985_ANi_Tasogare_Out_Focus_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.breadio.wiki/detail/dmhy/673985_ANi_Tasogare_Out_Focus_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
   - filename: 黃昏光影 S01E03 {ANi}.mp4
     fansub: ANi
@@ -29,4 +29,4 @@ videos:
     episode: 3
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/674520_ANi_Tasogare_Out_Focus_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.breadio.wiki/detail/dmhy/674520_ANi_Tasogare_Out_Focus_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

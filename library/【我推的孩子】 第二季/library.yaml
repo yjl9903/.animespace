@@ -1,4 +1,4 @@
-# Generated at 2024-07-17 11:27
+# Generated at 2024-07-26 01:00
 
 season: 2
 
@@ -13,7 +13,7 @@ videos:
     episode: 12
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/673303_ANi_Oshi_No_Ko_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/detail/dmhy/673303_ANi_Oshi_No_Ko_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
   - filename: 我推的孩子 S01E13 {ANi}.mp4
     fansub: ANi
@@ -21,7 +21,7 @@ videos:
     episode: 13
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/673919_ANi_Oshi_No_Ko_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.breadio.wiki/detail/dmhy/673919_ANi_Oshi_No_Ko_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
   - filename: 我推的孩子 S01E14 {ANi}.mp4
     fansub: ANi
@@ -29,4 +29,12 @@ videos:
     episode: 14
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/674453_ANi_Oshi_No_Ko_-_14_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+      magnet: https://garden.onekuma.cn/detail/dmhy/674453_ANi_Oshi_No_Ko_-_14_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我推的孩子 S01E15 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/66a11749bfe5da0007544a63

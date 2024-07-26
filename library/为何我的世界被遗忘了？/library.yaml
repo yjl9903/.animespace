@@ -1,4 +1,4 @@
-# Generated at 2024-07-15 11:43
+# Generated at 2024-07-23 10:17
 
 season: 1
 
@@ -13,4 +13,12 @@ videos:
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/resource/674295_Naze_Boku_no_Sekai_wo_Daremo_Oboeteinai_no_ka_01_1080p_2024_7.html
+      magnet: https://garden.onekuma.cn/detail/dmhy/674295_Naze_Boku_no_Sekai_wo_Daremo_Oboeteinai_no_ka_01_1080p_2024_7.html
+
+  - filename: 为何我的世界被遗忘了？ S01E02 {猎户发布组}.mp4
+    fansub: 猎户发布组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.onekuma.cn/detail/dmhy/674904_Naze_Boku_no_Sekai_wo_Daremo_Oboeteinai_no_ka_02_1080p_2024_7.html
