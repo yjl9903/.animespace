@@ -1,4 +1,4 @@
-# Generated at 2024-07-20 12:51
+# Generated at 2024-07-26 10:07
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/detail/dmhy/674575_ANi_25jigen_no_Ririsa_2_5_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 2.5次元的诱惑 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/66a3a53bbfe5da000763943f
