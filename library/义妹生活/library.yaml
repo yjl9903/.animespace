@@ -1,4 +1,4 @@
-# Generated at 2024-07-27 01:01
+# Generated at 2024-08-03 07:18
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/675094_Gimai_Seikatsu_-_04_CR_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 义妹生活 S01E05.mkv
+    fansub: B站沸羊羊都得叫我师傅
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/675590_Gimai_Seikatsu_-_05_CR_WebRip_1080p_HEVC-10bit_AAC.html

@@ -1,4 +1,4 @@
-# Generated at 2024-07-26 12:50
+# Generated at 2024-08-02 12:51
 
 season: 1
 
@@ -63,13 +63,13 @@ videos:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/675025_ANi_DDDD_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
-  - filename: DDDD 恶魔的破坏 S01E07 {新sub}.mkv
-    fansub: 新sub
+  - filename: DDDD 恶魔的破坏 S01E07 {ANi}.mp4
+    fansub: ANi
     type: 番剧
     episode: 7
     source:
       type: AnimeGarden
-      magnet: https://garden.onekuma.cn/detail/dmhy/674847_DDDD_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_07_CR-WebRip_1080p_HEVC_AAC.html
+      magnet: https://garden.breadio.wiki/detail/dmhy/675497_ANi_DDDD_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
   - filename: DDDD 恶魔的破坏 S01E08 {新sub}.mkv
     fansub: 新sub
