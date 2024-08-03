@@ -1,4 +1,4 @@
-# Generated at 2024-07-23 06:04
+# Generated at 2024-07-30 09:49
 
 season: 1
 
@@ -131,3 +131,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.onekuma.cn/detail/dmhy/674875_17_MERCHANT_MEETS_THE_WISE_WOLF_-_17_1080p_HEVC.html
+
+  - filename: 狼与香辛料 行商邂逅贤狼 S01E18 {幻之字幕组}.mp4
+    fansub: 幻之字幕组
+    type: 番剧
+    episode: 18
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/675304_18_MERCHANT_MEETS_THE_WISE_WOLF_-_18_1080p_HEVC.html

@@ -1,4 +1,4 @@
-# Generated at 2024-07-26 12:53
+# Generated at 2024-08-02 07:08
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/674520_ANi_Tasogare_Out_Focus_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 黃昏光影 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/675490_ANi_Tasogare_Out_Focus_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

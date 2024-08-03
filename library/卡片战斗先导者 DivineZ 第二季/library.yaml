@@ -1,4 +1,4 @@
-# Generated at 2024-07-28 12:24
+# Generated at 2024-08-03 06:18
 
 season: 6
 
@@ -10,7 +10,6 @@ videos:
   - filename: 卡片战斗先导者overDress S06E01 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
     episode: 1
     source:
       type: AnimeGarden
@@ -19,7 +18,6 @@ videos:
   - filename: 卡片战斗先导者overDress S06E02 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
     episode: 2
     source:
       type: AnimeGarden
@@ -28,7 +26,6 @@ videos:
   - filename: 卡片战斗先导者overDress S06E03 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
     episode: 3
     source:
       type: AnimeGarden
@@ -37,8 +34,16 @@ videos:
   - filename: 卡片战斗先导者overDress S06E04 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
     episode: 4
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/675158_ANi_CARDFIGHT_VANGUARD_S02_%21%21_Divinez_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S06E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/66ae0069cb60e10007474e0f
