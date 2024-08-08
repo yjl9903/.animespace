@@ -1,4 +1,4 @@
-# Generated at 2024-08-02 12:51
+# Generated at 2024-08-05 07:58
 
 season: 1
 
@@ -78,3 +78,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/675033_DDDD_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_08_CR-WebRip_1080p_HEVC_AAC.html
+
+  - filename: DDDD 恶魔的破坏 S01E09 {新sub}.mkv
+    fansub: 新sub
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/675761_DDDD_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_09_CR-WebRip_1080p_HEVC_AAC.html
