@@ -1,4 +1,4 @@
-# Generated at 2024-08-05 02:11
+# Generated at 2024-08-12 12:44
 
 season: 1
 
@@ -46,3 +46,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/675735_ANi_VTuber_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 身为VTuber的我因为忘记关台而成了传说 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/ani/1858451.torrent

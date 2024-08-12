@@ -40,7 +40,7 @@ onair:
       format:
         episode: '{title} S{season}E{ep}.{extension}'
     fansub:
-      - ANi
+      - 拨雪寻春
       - B站沸羊羊都得叫我师傅
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22义妹生活%22%2C%22義妹生活%22%2C%22Days%20with%20My%20Stepsister%22%2C%22Gimai%20Seikatsu%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
 
