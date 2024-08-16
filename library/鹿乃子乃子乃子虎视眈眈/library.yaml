@@ -1,4 +1,4 @@
-# Generated at 2024-08-11 12:33
+# Generated at 2024-08-15 01:17
 
 season: 1
 
@@ -54,3 +54,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/676702_Shikanoko_Nokonoko_Koshitantan_06_WebRip_HEVC_AAC.html
+
+  - filename: 鹿乃子乃子乃子虎视眈眈 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/676945_ANi_Shikanoko_Nokonoko_Koshitantan_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

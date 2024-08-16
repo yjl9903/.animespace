@@ -1,4 +1,4 @@
-# Generated at 2024-08-08 12:31
+# Generated at 2024-08-13 11:05
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/675938_Naze_Boku_no_Sekai_wo_Daremo_Oboeteinai_no_ka_04_1080p_2024_7.html
+
+  - filename: 为何我的世界被遗忘了？ S01E05 {猎户发布组}.mp4
+    fansub: 猎户发布组
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/676861_Naze_Boku_no_Sekai_wo_Daremo_Oboeteinai_no_ka_05_1080p_2024_7.html

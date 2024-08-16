@@ -1,4 +1,4 @@
-# Generated at 2024-08-02 12:55
+# Generated at 2024-08-16 12:16
 
 season: 1
 
@@ -46,3 +46,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/675516_ANi_Senpai_wa_Otokonoko_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 前辈是男孩子 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677029_ANi_Senpai_wa_Otokonoko_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

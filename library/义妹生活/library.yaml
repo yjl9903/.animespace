@@ -1,4 +1,4 @@
-# Generated at 2024-08-12 01:27
+# Generated at 2024-08-16 07:50
 
 season: 1
 
@@ -54,3 +54,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/676695_Gimai_Seikatsu_-_06_WEBRip_HEVC-10bit_1080p.html
+
+  - filename: 义妹生活 S01E07.mkv
+    fansub: B站沸羊羊都得叫我师傅
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677023_Gimai_Seikatsu_-_07_CR_WebRip_1080p_HEVC-10bit_AAC.html
