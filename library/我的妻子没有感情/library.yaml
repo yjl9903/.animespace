@@ -1,4 +1,4 @@
-# Generated at 2024-08-14 03:30
+# Generated at 2024-08-19 05:07
 
 season: 1
 
@@ -62,3 +62,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/676893_LoliHouse_Boku_no_Tsuma_wa_Kanjou_ga_Nai_-_07_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 我的妻子没有感情 S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677230_LoliHouse_Boku_no_Tsuma_wa_Kanjou_ga_Nai_-_08_WebRip_1080p_HEVC-10bit_AAC.html

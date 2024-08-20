@@ -1,4 +1,4 @@
-# Generated at 2024-08-12 12:47
+# Generated at 2024-08-18 08:01
 
 season: 1
 
@@ -46,3 +46,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/ani/1857980.torrent
+
+  - filename: 败犬女主太多了！ S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677129_ANi_Make_Heroine_ga_Oosugiru_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

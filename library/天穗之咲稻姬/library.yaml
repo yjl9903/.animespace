@@ -1,4 +1,4 @@
-# Generated at 2024-08-12 12:54
+# Generated at 2024-08-17 11:13
 
 season: 1
 
@@ -54,3 +54,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/ani/1857845.torrent
+
+  - filename: 天穗之咲稻姬 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677121_ANi_Sakuna_Of_Rice_and_Ruin_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
