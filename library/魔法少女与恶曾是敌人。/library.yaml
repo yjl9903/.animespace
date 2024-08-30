@@ -1,4 +1,4 @@
-# Generated at 2024-08-20 01:13
+# Generated at 2024-08-24 12:56
 
 season: 1
 
@@ -54,3 +54,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677206_Katsute_Mahou_Shoujo_to_Aku_wa_Tekitai_shiteita_06_WebRip_HEVC_AAC.html
+
+  - filename: 魔法少女与恶曾是敌人。 S01E07 {北宇治字幕组}.mp4
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677457_Katsute_Mahou_Shoujo_to_Aku_wa_Tekitai_shiteita_07v2_WebRip_HEVC_AAC.html

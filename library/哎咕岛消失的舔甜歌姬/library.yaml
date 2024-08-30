@@ -1,4 +1,4 @@
-# Generated at 2024-08-14 02:38
+# Generated at 2024-08-28 12:31
 
 season: 1
 
@@ -54,3 +54,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/676896_LoliHouse_Egumi_Legacy_-_06_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 哎咕岛消失的舔甜歌姬 S01E07 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677553_LoliHouse_Egumi_Legacy_-_07_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 哎咕岛消失的舔甜歌姬 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677776_ANi_Egumi_Legacy_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

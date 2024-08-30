@@ -1,4 +1,4 @@
-# Generated at 2024-08-16 11:25
+# Generated at 2024-08-23 11:35
 
 season: 1
 
@@ -54,3 +54,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677047_ANi_25jigen_no_Ririsa_2_5_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 2.5次元的诱惑 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677509_ANi_25jigen_no_Ririsa_2_5_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

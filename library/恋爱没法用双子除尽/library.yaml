@@ -1,4 +1,4 @@
-# Generated at 2024-08-13 06:20
+# Generated at 2024-08-24 11:18
 
 season: 1
 
@@ -46,3 +46,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/676854_7_05_HEVC_x265_10bit_1080p.html
+
+  - filename: 恋爱没法用双子除尽 S01E06 {云歌字幕组}.mp4
+    fansub: 云歌字幕组
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677359_7_06_HEVC_x265_10bit_1080p.html
+
+  - filename: 恋爱没法用双子除尽 S01E07 {云歌字幕组}.mp4
+    fansub: 云歌字幕组
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677530_7_07_HEVC_x265_10bit_1080p.html

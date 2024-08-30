@@ -1,4 +1,4 @@
-# Generated at 2024-08-20 05:41
+# Generated at 2024-08-29 01:54
 
 season: 1
 
@@ -45,7 +45,7 @@ videos:
     episode: 5
     source:
       type: AnimeGarden
-      magnet: https://garden.breadio.wiki/detail/dmhy/677289_-_-_ATRI_-My_Dear_Moments-_05_WebRip_HEVC_AAC.html
+      magnet: https://garden.breadio.wiki/detail/dmhy/676857_-_-_ATRI_-My_Dear_Moments-_05_WebRip_HEVC_AAC.html
 
   - filename: 亚托莉 -我挚爱的时光- S01E06 {北宇治字幕组}.mkv
     fansub: 北宇治字幕组
@@ -53,4 +53,12 @@ videos:
     episode: 6
     source:
       type: AnimeGarden
-      magnet: https://garden.breadio.wiki/detail/moe/66c4633ee4a8cf00077b3be5
+      magnet: https://garden.breadio.wiki/detail/dmhy/677335_-_-_ATRI_-My_Dear_Moments-_06v2_WebRip_HEVC_AAC.html
+
+  - filename: 亚托莉 -我挚爱的时光- S01E07 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677869_-_-_ATRI_-My_Dear_Moments-_07_WebRip_HEVC_AAC.html

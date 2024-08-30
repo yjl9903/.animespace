@@ -1,4 +1,4 @@
-# Generated at 2024-08-18 06:55
+# Generated at 2024-08-25 06:32
 
 season: 1
 
@@ -54,3 +54,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677171_ANi_Tsue_to_Tsurugi_no_Wistoria_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 杖与剑的魔剑谭 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677651_ANi_Tsue_to_Tsurugi_no_Wistoria_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

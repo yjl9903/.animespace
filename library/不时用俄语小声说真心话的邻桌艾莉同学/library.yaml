@@ -1,4 +1,4 @@
-# Generated at 2024-08-15 01:15
+# Generated at 2024-08-29 01:32
 
 season: 1
 
@@ -62,3 +62,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/676943_ANi_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 不时用俄语小声说真心话的邻桌艾莉同学 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677407_ANi_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 不时用俄语小声说真心话的邻桌艾莉同学 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677855_ANi_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

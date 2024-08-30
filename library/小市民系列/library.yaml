@@ -1,4 +1,4 @@
-# Generated at 2024-08-18 08:02
+# Generated at 2024-08-25 09:19
 
 season: 1
 
@@ -54,3 +54,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677139_ANi_SHOSHIMIN_How_to_Become_Ordinary_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 小市民系列 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677600_ANi_SHOSHIMIN_How_to_Become_Ordinary_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
