@@ -1,4 +1,4 @@
-# Generated at 2024-08-28 11:24
+# Generated at 2024-09-26 01:20
 
 season: 2
 
@@ -78,3 +78,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677857_ANi_Oshi_No_Ko_-_20_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我推的孩子 S01E22 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 22
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679114_ANi_Oshi_No_Ko_-_22_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我推的孩子 S01E23 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 23
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679488_ANi_Oshi_No_Ko_-_23_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

@@ -1,4 +1,4 @@
-# Generated at 2024-08-28 12:30
+# Generated at 2024-09-25 11:36
 
 season: 1
 
@@ -62,3 +62,35 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677818_LoliHouse_Tasuuketsu_-_07_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 多数欠 S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678229_LoliHouse_Tasuuketsu_-_08_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 多数欠 S01E09 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678667_LoliHouse_Tasuuketsu_-_09_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 多数欠 S01E10 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679070_LoliHouse_Tasuuketsu_-_10_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 多数欠 S01E11 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679493_LoliHouse_Tasuuketsu_-_11_WebRip_1080p_HEVC-10bit_AAC.html

@@ -1,4 +1,4 @@
-# Generated at 2024-08-27 12:52
+# Generated at 2024-09-23 10:07
 
 season: 1
 
@@ -70,3 +70,35 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677740_ANi_Mayonaka_Punch_Punch_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 深夜重拳 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678163_ANi_Mayonaka_Punch_Punch_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 深夜重拳 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678565_ANi_Mayonaka_Punch_Punch_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 深夜重拳 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679019_ANi_Mayonaka_Punch_Punch_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 深夜重拳 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679383_ANi_Mayonaka_Punch_Punch_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

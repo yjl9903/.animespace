@@ -1,4 +1,4 @@
-# Generated at 2024-08-30 06:04
+# Generated at 2024-09-25 04:16
 
 season: 1
 
@@ -103,10 +103,50 @@ videos:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677922_ANi_DDDD_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
 
-  - filename: DDDD 恶魔的破坏 S01E12 {新sub}.mkv
-    fansub: 新sub
+  - filename: DDDD 恶魔的破坏 S01E12 {ANi}.mp4
+    fansub: ANi
     type: 番剧
     episode: 12
     source:
       type: AnimeGarden
-      magnet: https://garden.breadio.wiki/detail/dmhy/677935_DDDD_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_12_CR-WebRip_1080p_HEVC_AAC.html
+      magnet: https://garden.breadio.wiki/detail/dmhy/678333_ANi_DDDD_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: DDDD 恶魔的破坏 S01E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678703_ANi_DDDD_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: DDDD 恶魔的破坏 S01E14 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679152_ANi_DDDD_-_14_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: DDDD 恶魔的破坏 S01E15 {新sub}.mkv
+    fansub: 新sub
+    type: 番剧
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679168_DDDD_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_15_CR-WebRip_1080p_HEVC_AAC.html
+
+  - filename: DDDD 恶魔的破坏 S01E16 {新sub}.mkv
+    fansub: 新sub
+    type: 番剧
+    episode: 16
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679429_DDDD_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_16_CR-WebRip_1080p_HEVC_AAC.html
+
+  - filename: DDDD 恶魔的破坏 S01E17 {新sub}.mkv
+    fansub: 新sub
+    type: 番剧
+    episode: 17
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679468_DDDD_DEAD_DEAD_DEMONS_DEDEDEDE_DESTRUCTION_17_CR-WebRip_1080p_HEVC_AAC.html

@@ -1,4 +1,4 @@
-# Generated at 2024-08-23 11:35
+# Generated at 2024-09-21 01:16
 
 season: 1
 
@@ -62,3 +62,35 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677509_ANi_25jigen_no_Ririsa_2_5_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 2.5次元的诱惑 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/677976_ANi_25jigen_no_Ririsa_2_5_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 2.5次元的诱惑 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678384_ANi_25jigen_no_Ririsa_2_5_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 2.5次元的诱惑 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678741_ANi_25jigen_no_Ririsa_2_5_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 2.5次元的诱惑 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679188_ANi_25jigen_no_Ririsa_2_5_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

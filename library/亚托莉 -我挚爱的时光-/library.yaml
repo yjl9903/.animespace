@@ -1,4 +1,4 @@
-# Generated at 2024-08-29 01:54
+# Generated at 2024-09-24 04:09
 
 season: 1
 
@@ -62,3 +62,35 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677869_-_-_ATRI_-My_Dear_Moments-_07_WebRip_HEVC_AAC.html
+
+  - filename: 亚托莉 -我挚爱的时光- S01E08 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678272_-_-_ATRI_-My_Dear_Moments-_08_WebRip_HEVC_AAC.html
+
+  - filename: 亚托莉 -我挚爱的时光- S01E09 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678730_-_-_ATRI_-My_Dear_Moments-_09_WebRip_HEVC_AAC.html
+
+  - filename: 亚托莉 -我挚爱的时光- S01E10 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679399_-_-_ATRI_-My_Dear_Moments-_10_WebRip_HEVC_AAC.html
+
+  - filename: 亚托莉 -我挚爱的时光- S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679265_ANi_ATRI_-My_Dear_Moments-_-_11_1080P_Bilibili_WEB-DL_AAC_AVC_CHT_CHS_MP4.html

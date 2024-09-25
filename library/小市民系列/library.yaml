@@ -1,4 +1,4 @@
-# Generated at 2024-08-25 09:19
+# Generated at 2024-09-15 02:16
 
 season: 1
 
@@ -62,3 +62,27 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677600_ANi_SHOSHIMIN_How_to_Become_Ordinary_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 小市民系列 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678073_ANi_SHOSHIMIN_How_to_Become_Ordinary_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 小市民系列 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678470_ANi_SHOSHIMIN_How_to_Become_Ordinary_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 小市民系列 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678825_ANi_SHOSHIMIN_How_to_Become_Ordinary_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

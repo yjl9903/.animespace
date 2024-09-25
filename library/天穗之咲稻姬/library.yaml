@@ -1,4 +1,4 @@
-# Generated at 2024-08-24 11:23
+# Generated at 2024-09-21 11:27
 
 season: 1
 
@@ -70,3 +70,35 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677583_ANi_Sakuna_Of_Rice_and_Ruin_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 天穗之咲稻姬 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678051_ANi_Sakuna_Of_Rice_and_Ruin_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 天穗之咲稻姬 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678451_ANi_Sakuna_Of_Rice_and_Ruin_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 天穗之咲稻姬 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678809_ANi_Sakuna_Of_Rice_and_Ruin_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 天穗之咲稻姬 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679250_ANi_Sakuna_Of_Rice_and_Ruin_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

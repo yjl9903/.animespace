@@ -1,4 +1,4 @@
-# Generated at 2024-08-28 09:22
+# Generated at 2024-09-20 03:20
 
 season: 1
 
@@ -70,3 +70,27 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677850_S1_Na_Nare_Hana_Nare_08_1080p_WebRip_x264_AAC.html
+
+  - filename: 亦叶亦花 S01E09 {S1百综字幕组}.mkv
+    fansub: S1百综字幕组
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678367_S1_Na_Nare_Hana_Nare_09_1080p_WebRip_x264_AAC.html
+
+  - filename: 亦叶亦花 S01E10 {S1百综字幕组}.mkv
+    fansub: S1百综字幕组
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678775_S1_Na_Nare_Hana_Nare_10_1080p_WebRip_x264_AAC.html
+
+  - filename: 亦叶亦花 S01E11 {S1百综字幕组}.mkv
+    fansub: S1百综字幕组
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679170_S1_Na_Nare_Hana_Nare_11_1080p_WebRip_x264_AAC.html

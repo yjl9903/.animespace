@@ -1,4 +1,4 @@
-# Generated at 2024-08-30 12:51
+# Generated at 2024-09-22 12:23
 
 season: 1
 
@@ -64,17 +64,41 @@ videos:
       magnet: https://garden.breadio.wiki/detail/dmhy/677181_Gimai_Seikatsu_-_07_WEBRip_HEVC-10bit_1080p.html
 
   - filename: 义妹生活 S01E08.mkv
-    fansub: B站沸羊羊都得叫我师傅
+    fansub: 拨雪寻春
     type: 番剧
     episode: 8
     source:
       type: AnimeGarden
-      magnet: https://garden.breadio.wiki/detail/dmhy/677482_Gimai_Seikatsu_-_08_CR_WebRip_1080p_HEVC-10bit_AAC.html
+      magnet: https://garden.breadio.wiki/detail/dmhy/678030_Gimai_Seikatsu_-_08v2_WEBRip_HEVC-10bit_1080p.html
 
-  - filename: 义妹生活 S01E09.mp4
-    fansub: yinghua001
+  - filename: 义妹生活 S01E09.mkv
+    fansub: 拨雪寻春
     type: 番剧
     episode: 9
     source:
       type: AnimeGarden
-      magnet: https://garden.breadio.wiki/detail/moe/66d06ff4e4a8cf0007c12221
+      magnet: https://garden.breadio.wiki/detail/dmhy/678194_Gimai_Seikatsu_-_09_WEBRip_HEVC-10bit_1080p.html
+
+  - filename: 义妹生活 S01E10.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678689_Gimai_Seikatsu_-_10_WEBRip_HEVC-10bit_1080p.html
+
+  - filename: 义妹生活 S01E11.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678801_Gimai_Seikatsu_-_11_WEBRip_HEVC-10bit_1080p.html
+
+  - filename: 义妹生活 S01E12.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679260_Gimai_Seikatsu_-_12_WEBRip_HEVC-10bit_1080p.html

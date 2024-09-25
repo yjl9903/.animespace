@@ -1,4 +1,4 @@
-# Generated at 2024-08-25 06:32
+# Generated at 2024-09-22 09:30
 
 season: 1
 
@@ -62,3 +62,35 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/677651_ANi_Tsue_to_Tsurugi_no_Wistoria_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 杖与剑的魔剑谭 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678101_ANi_Tsue_to_Tsurugi_no_Wistoria_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 杖与剑的魔剑谭 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678503_ANi_Tsue_to_Tsurugi_no_Wistoria_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 杖与剑的魔剑谭 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/678929_ANi_Tsue_to_Tsurugi_no_Wistoria_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 杖与剑的魔剑谭 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679314_ANi_Tsue_to_Tsurugi_no_Wistoria_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
