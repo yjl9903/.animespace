@@ -1,4 +1,4 @@
-# Generated at 2024-09-21 02:10
+# Generated at 2024-09-28 11:35
 
 season: 3
 
@@ -193,3 +193,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/679194_ANi_-_71_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 关于我转生变成史莱姆这档事 S03E24 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 72
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679569_ANi_-_72_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

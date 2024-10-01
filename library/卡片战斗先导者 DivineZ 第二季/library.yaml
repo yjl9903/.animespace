@@ -1,4 +1,4 @@
-# Generated at 2024-09-14 11:17
+# Generated at 2024-09-28 11:41
 
 season: 6
 
@@ -83,3 +83,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/678783_ANi_CARDFIGHT_VANGUARD_S02_%21%21_Divinez_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S06E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679594_ANi_CARDFIGHT_VANGUARD_S02_%21%21_Divinez_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

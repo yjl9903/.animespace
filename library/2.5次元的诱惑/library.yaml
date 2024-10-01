@@ -1,4 +1,4 @@
-# Generated at 2024-09-21 01:16
+# Generated at 2024-09-28 11:39
 
 season: 1
 
@@ -94,3 +94,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/679188_ANi_25jigen_no_Ririsa_2_5_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 2.5次元的诱惑 S01E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679559_ANi_25jigen_no_Ririsa_2_5_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

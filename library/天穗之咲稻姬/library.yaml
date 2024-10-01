@@ -1,4 +1,4 @@
-# Generated at 2024-09-21 11:27
+# Generated at 2024-09-29 03:05
 
 season: 1
 
@@ -102,3 +102,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/679250_ANi_Sakuna_Of_Rice_and_Ruin_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 天穗之咲稻姬 S01E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679604_ANi_Sakuna_Of_Rice_and_Ruin_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
