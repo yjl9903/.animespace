@@ -6,13 +6,13 @@
     "pull": "git pull"
   },
   "devDependencies": {
-    "animespace": "0.1.0-beta.19",
+    "animespace": "0.1.0-beta.20",
     "bgmc": "^0.0.10",
-    "naria2c": "0.0.25",
+    "naria2c": "0.1.0",
     "optc": "0.6.4",
     "undici": "^6.19.2"
   },
-  "packageManager": "pnpm@9.4.0",
+  "packageManager": "pnpm@9.12.0",
   "engines": {
     "node": ">=v20.0.0"
   }
