@@ -1,5 +1,24 @@
-# Generated at 2024-10-03 11:23
+# Generated at 2024-10-06 11:04
+
+season: 1
+
+date: 2024-10-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 蓝箱 S01E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679953_10_Ao_no_Hako_Blue_Box_01_1080p.html
+
+  - filename: 蓝箱 S01E02 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/680045_10_Ao_no_Hako_Blue_Box_02_1080p.html

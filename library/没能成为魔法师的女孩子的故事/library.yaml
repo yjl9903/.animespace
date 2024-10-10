@@ -1,5 +1,16 @@
-# Generated at 2024-10-03 11:23
+# Generated at 2024-10-05 08:07
+
+season: 1
+
+date: 2024-10-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 没能成为魔法师的女孩子的故事 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679885_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

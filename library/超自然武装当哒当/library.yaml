@@ -1,0 +1,12 @@
+# Generated at 2024-10-05 09:41
+
+storage: anime
+
+videos:
+  - filename: 超自然武装当哒当 S01E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679951_10_Dandadan_01_1080p.html

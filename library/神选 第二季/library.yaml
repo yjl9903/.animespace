@@ -1,5 +1,16 @@
-# Generated at 2024-10-03 11:23
+# Generated at 2024-10-06 02:01
+
+season: 1
+
+date: 2024-10-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 神选 S01E13 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679884_10_KamiErabi_GOD_app_13_1080p.html

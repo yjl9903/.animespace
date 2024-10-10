@@ -1,0 +1,12 @@
+# Generated at 2024-10-05 09:31
+
+storage: anime
+
+videos:
+  - filename: 听说你们要结婚！？ S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679874_ANi_Kekkon_Surutte_Hontou_desu_ka_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

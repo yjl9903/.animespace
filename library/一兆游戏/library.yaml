@@ -1,5 +1,24 @@
-# Generated at 2024-10-03 11:23
+# Generated at 2024-10-05 08:19
+
+season: 1
+
+date: 2024-10-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 一兆游戏 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679878_ANi_Trillion_Game_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 一兆游戏 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679879_ANi_Trillion_Game_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

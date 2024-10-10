@@ -1,6 +1,6 @@
 title: 创建于 2024-10-03 11:17
 
-date: 2024-10-01 12:00
+date: 2024-09-28 12:00
 
 status: onair
 
@@ -10,15 +10,25 @@ onair:
       - 'ハミダシクリエイティブ'
       - '灵感满溢的甜蜜创想'
     bgm: '437532'
+    fansub:
+      - MCE汉化组
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22常轨脱离Creative%22%2C%22ハミダシクリエイティブ%22%2C%22灵感满溢的甜蜜创想%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
 
   - title: 极速车魂 第二季
     alias:
+      - 'MF GHOST'
       - 'MFゴースト 2nd Season'
       - 'MF GHOST 2nd Season'
-    season: 2
+    season: 1
+    rewrite:
+      title: 极速车魂
+      season: 1
+      episode:
+        offset: +12
+        fansub: LoliHouse
     bgm: '470738'
     fansub:
+      - LoliHouse
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22极速车魂%20第二季%22%2C%22MFゴースト%202nd%20Season%22%2C%22MF%20GHOST%202nd%20Season%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
 
@@ -34,10 +44,13 @@ onair:
 
   - title: Love Live! Superstar!! 第三季
     alias:
+      - 'LoveLive! SuperStar!! 第三季'
       - 'ラブライブ！スーパースター!! 3期'
       - '爱与演唱会!超级明星!! 第三季'
       - 'Love Live! Superstar!! 3rd Season'
     season: 3
+    rewrite:
+      title: LoveLive! Superstar!!
     bgm: '404480'
     fansub:
       - ANi
@@ -45,12 +58,13 @@ onair:
 
   - title: 地。-关于地球的运动-
     alias:
+      - '地。关于地球的运动'
       - 'チ。―地球の運動について―'
       - 'Chi.: Chikyuu no Undou ni Tsuite'
       - 'Orb: On the Movements of the Earth'
     bgm: '389156'
     fansub:
-      - ANi
+      - 猎户发布组
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22地。-关于地球的运动-%22%2C%22チ。―地球の運動について―%22%2C%22Chi.:%20Chikyuu%20no%20Undou%20ni%20Tsuite%22%2C%22Orb:%20On%20the%20Movements%20of%20the%20Earth%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
 
   - title: 重来吧、魔王大人！R
@@ -59,7 +73,11 @@ onair:
       - '魔王陛下，RETRY！R'
       - 'Maou-sama, Retry! R'
       - 'Demon Lord, Retry! R'
+      - 'Demon Lord Retry'
     bgm: '451119'
+    rewrite:
+      title: 重来吧，魔王大人！
+      season: 2
     fansub:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22重来吧、魔王大人！R%22%2C%22魔王様、リトライ！Ｒ%22%2C%22魔王陛下，RETRY！R%22%2C%22Maou-sama%2C%20Retry!%20R%22%2C%22Demon%20Lord%2C%20Retry!%20R%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
@@ -105,7 +123,7 @@ onair:
       - 'Ao no Hako'
     bgm: '460306'
     fansub:
-      - ANi
+      - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22蓝箱%22%2C%22アオのハコ%22%2C%22青之箱%22%2C%22青色之箱%22%2C%22青春之箱%22%2C%22Blue%20Box%22%2C%22Ao%20no%20Hako%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
 
   - title: 悲喜渔生
@@ -120,6 +138,7 @@ onair:
 
   - title: Re：从零开始的异世界生活 第三季 袭击篇
     alias:
+      - 'Re：從零開始的異世界生活 第三季'
       - 'Re:ゼロから始める異世界生活 3rd season 襲擊編'
       - 'Re0 第三季'
       - 'Re0 3'
@@ -128,9 +147,12 @@ onair:
       - 'Re:ゼロから始める異世界生活 (2024)'
       - 'Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season Shuugeki Hen'
       - 'Re:ZERO -Starting Life in Another World- Season 3 Shuugeki Hen'
-    season: 3
+    season: 1
     rewrite:
       title: Re：从零开始的异世界生活
+      season: 1
+      episode:
+        offset: +50
     bgm: '425998'
     fansub:
       - ANi
@@ -138,17 +160,19 @@ onair:
 
   - title: 神选 第二季
     alias:
+      - '神选'
       - 'カミエラビ シーズン2'
       - 'カミエラビ 完結編'
       - '神明选拔 第二季'
       - 'GOD.app Season 2'
       - 'Kamierabi Season 2'
-    season: 2
+    season: 1
     rewrite:
       title: 神选
+      season: 1
     bgm: '467803'
     fansub:
-      - ANi
+      - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22神选%20第二季%22%2C%22カミエラビ%20シーズン2%22%2C%22カミエラビ%20完結編%22%2C%22神明选拔%20第二季%22%2C%22GOD.app%20Season%202%22%2C%22Kamierabi%20Season%202%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
 
   - title: 缘结甘神家
@@ -179,6 +203,7 @@ onair:
 
   - title: 精灵幻想记 第二季
     alias:
+      - '精靈幻想記 2'
       - '精霊幻想記2'
       - 'Seirei Gensouki 2'
       - 'Seirei Gensouki: Spirit Chronicles Season 2'
@@ -192,13 +217,39 @@ onair:
 
   - title: 鸭乃桥论的禁忌推理 第二季
     alias:
+      - '鸭乃桥论的禁忌推理'
       - '鴨乃橋ロンの禁断推理 2nd Season'
       - 'Kamonohashi Ron no Kindan Suiri 2nd Season'
       - 'Ron Kamonohashi`s Forbidden Deductions 2nd Season'
-    season: 2
+    season: 1
     rewrite:
       title: 鸭乃桥论的禁忌推理
     bgm: '472331'
     fansub:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22鸭乃桥论的禁忌推理%20第二季%22%2C%22鴨乃橋ロンの禁断推理%202nd%20Season%22%2C%22Kamonohashi%20Ron%20no%20Kindan%20Suiri%202nd%20Season%22%2C%22Ron%20Kamonohashi`s%20Forbidden%20Deductions%202nd%20Season%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
+
+  - title: 听说你们要结婚！？
+    alias:
+      - '聽說你們要結婚！？'
+      - '結婚するって、本当ですか'
+      - '真的要结婚吗'
+      - '365 Days To The Wedding'
+    bgm: '429305'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22听说你们要结婚！？%22%2C%22結婚するって、本当ですか%22%2C%22真的要结婚吗%22%2C%22365%20Days%20To%20The%20Wedding%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
+
+  - title: 超自然武装当哒当
+    alias:
+      - '胆大党'
+      - 'ダンダダン'
+      - 'dandadan'
+      - '当哒当'
+      - '超自然武装当哒当'
+      - '膽大黨'
+      - 'DAN DA DAN'
+    bgm: '467461'
+    fansub:
+      - 喵萌奶茶屋
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22胆大党%22%2C%22ダンダダン%22%2C%22dandadan%22%2C%22当哒当%22%2C%22超自然武装当哒当%22%2C%22膽大黨%22%2C%22DAN%20DA%20DAN%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z

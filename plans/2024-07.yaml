@@ -39,6 +39,7 @@ onair:
     preference:
       format:
         episode: '{title} S{season}E{ep}.{extension}'
+    status: finish
     fansub:
       - 拨雪寻春
       - B站沸羊羊都得叫我师傅
@@ -52,6 +53,7 @@ onair:
       - 'Tokidoki Bosotto Russia-go de Dereru Tonari no Aalya-san'
       - 'Alya Sometimes Hides Her Feelings in Russian'
     bgm: '424883'
+    status: finish
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22不时用俄语小声说真心话的邻桌艾莉同学%22%2C%22時々ボソッとロシア語でデレる隣のアーリャさん%22%2C%22不时轻声地以俄语遮羞的邻座艾莉同学%22%2C%22Tokidoki%20Bosotto%20Russia-go%20de%20Dereru%20Tonari%20no%20Aalya-san%22%2C%22Alya%20Sometimes%20Hides%20Her%20Feelings%20in%20Russian%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
@@ -64,6 +66,7 @@ onair:
       - 'Make Heroine ga Oosugiru!'
       - 'Toooooo Many Losing Heroines!'
     bgm: '464376'
+    status: finish
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22败犬女主太多了！%22%2C%22負けヒロインが多すぎる！%22%2C%22败犬女主太多啦！%22%2C%22败北女角太多了！%22%2C%22Make%20Heroine%20ga%20Oosugiru!%22%2C%22Toooooo%20Many%20Losing%20Heroines!%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
@@ -74,6 +77,7 @@ onair:
       - 'How to Become Ordinary'
       - 'Shoushimin Series'
     bgm: '474906'
+    status: finish
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22小市民系列%22%2C%22小市民シリーズ%22%2C%22How%20to%20Become%20Ordinary%22%2C%22Shoushimin%20Series%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
@@ -144,6 +148,7 @@ onair:
       - '2.5 Jigen no Ririsa'
       - '2.5 Dimensional Seduction'
     bgm: '410346'
+    status: onair
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%222.5次元的诱惑%22%2C%222.5次元の誘惑%22%2C%222.5%20Jigen%20no%20Ririsa%22%2C%222.5%20Dimensional%20Seduction%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
@@ -178,6 +183,7 @@ onair:
       - 'Mayonaka Punch'
       - '深夜 Punch'
     bgm: '477207'
+    status: finish
     fansub:
       - ANi
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22深夜重拳%22%2C%22真夜中ぱんチ%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
@@ -212,6 +218,7 @@ onair:
       - 'Narenare -Cheer for You!-'
       - 'Na Nare Hana Nare'
     bgm: '464561'
+    status: finish
     fansub:
       - S1百综字幕组
       - Alicest
@@ -267,6 +274,7 @@ onair:
       - 'Tsue to Tsurugi no Wistoria'
       - 'Wistoria: Wand and Sword'
     bgm: '479477'
+    status: finish
     fansub:
       - ANi
 
@@ -286,6 +294,7 @@ onair:
       - 'エグミレガシー'
       - 'Egumi Legacy'
     bgm: '490824'
+    status: finish
     fansub:
       - LoliHouse
       - ANi

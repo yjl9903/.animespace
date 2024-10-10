@@ -1,4 +1,4 @@
-# Generated at 2024-09-25 09:54
+# Generated at 2024-10-05 07:28
 
 season: 1
 
@@ -94,3 +94,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/679477_Naze_Boku_no_Sekai_wo_Daremo_Oboeteinai_no_ka_11_1080p_2024_7.html
+
+  - filename: 为何我的世界被遗忘了？ S01E12 {猎户发布组}.mp4
+    fansub: 猎户发布组
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679811_Naze_Boku_no_Sekai_wo_Daremo_Oboeteinai_no_ka_12_END_1080p_2024_7.html
