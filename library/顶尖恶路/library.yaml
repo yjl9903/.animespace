@@ -1,0 +1,36 @@
+# Generated at 2024-10-21 10:20
+
+storage: anime
+
+videos:
+  - filename: 顶尖恶路 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679803_ANi_Acro_Trip_Acro_Trip_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 顶尖恶路 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/679806_ANi_Acro_Trip_Acro_Trip_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 顶尖恶路 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/680313_ANi_Acro_Trip_Acro_Trip_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 顶尖恶路 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/680835_ANi_Acro_Trip_Acro_Trip_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

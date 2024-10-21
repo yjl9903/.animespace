@@ -1,4 +1,4 @@
-# Generated at 2024-10-09 09:08
+# Generated at 2024-10-16 01:46
 
 season: 1
 
@@ -22,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/680255_ANi_Amagamisan_Chi_no_Enmusubi_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 缘结甘神家 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/680783_ANi_Amagamisan_Chi_no_Enmusubi_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

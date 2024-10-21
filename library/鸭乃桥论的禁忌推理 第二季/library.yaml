@@ -1,4 +1,4 @@
-# Generated at 2024-10-09 11:45
+# Generated at 2024-10-14 10:55
 
 season: 1
 
@@ -14,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/680184_ANi_-_14_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 鸭乃桥论的禁忌推理 S01E15 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/680733_ANi_-_15_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

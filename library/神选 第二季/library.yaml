@@ -1,4 +1,4 @@
-# Generated at 2024-10-06 02:01
+# Generated at 2024-10-17 11:38
 
 season: 1
 
@@ -14,3 +14,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/679884_10_KamiErabi_GOD_app_13_1080p.html
+
+  - filename: 神选 S01E14 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/680384_10_KamiErabi_GOD_app_14_1080p.html
+
+  - filename: 神选 S01E15 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/680897_10_KamiErabi_GOD_app_15_1080p.html

@@ -1,4 +1,4 @@
-# Generated at 2024-10-09 10:55
+# Generated at 2024-10-18 02:39
 
 season: 1
 
@@ -23,4 +23,13 @@ videos:
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://garden.breadio.wiki/detail/moe/670693c769861b000740ff14
+      magnet: https://garden.breadio.wiki/detail/dmhy/680324_ANi_Re_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: Re：从零开始的异世界生活 S01E53 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/680839_ANi_Re_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

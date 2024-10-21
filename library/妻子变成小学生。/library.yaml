@@ -1,4 +1,4 @@
-# Generated at 2024-10-07 01:48
+# Generated at 2024-10-21 10:03
 
 season: 1
 
@@ -22,3 +22,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/680105_ANi_TsumaSho_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 妻子变成小学生。 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/680637_ANi_TsumaSho_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 妻子变成小学生。 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/681090_ANi_TsumaSho_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
