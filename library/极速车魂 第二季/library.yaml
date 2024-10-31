@@ -1,4 +1,4 @@
-# Generated at 2024-10-21 07:09
+# Generated at 2024-10-28 07:18
 
 season: 2
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/681124_LoliHouse_MF_GHOST_-_03_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 极速车魂 S01E16 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/681611_LoliHouse_MF_GHOST_-_04_WebRip_1080p_HEVC-10bit_AAC.html

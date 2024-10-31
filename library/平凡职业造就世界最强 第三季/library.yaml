@@ -1,4 +1,4 @@
-# Generated at 2024-10-16 12:14
+# Generated at 2024-10-28 11:28
 
 season: 3
 
@@ -15,3 +15,21 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/680737_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 平凡职业造就世界最强 S03E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/681173_ANi_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 平凡职业造就世界最强 S03E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/681662_ANi_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

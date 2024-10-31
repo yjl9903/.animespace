@@ -261,4 +261,12 @@ onair:
     bgm: '408896'
     fansub:
       - ANi
-    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22顶尖恶路%22%2C%22アクロトリップ%22%2C%22Acro%20Trip%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
+
+  - title: 魔王2099
+    alias:
+      - '魔王 2099'
+      - 'Maou 2099'
+      - 'Demon Lord 2099'
+    bgm: '425991'
+    fansub:
+      - LoliHouse
