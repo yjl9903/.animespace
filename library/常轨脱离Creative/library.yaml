@@ -1,4 +1,4 @@
-# Generated at 2024-10-20 10:18
+# Generated at 2024-11-01 10:10
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/681091_MCE_Creative_Hamidashi_Creative_03_1080P_x264_AAC.html
+
+  - filename: 常轨脱离Creative S01E04 {MCE汉化组}.mp4
+    fansub: MCE汉化组
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/681932_MCE_Creative_Hamidashi_Creative_04_1080P_x264_AAC.html

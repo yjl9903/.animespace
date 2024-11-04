@@ -1,4 +1,4 @@
-# Generated at 2024-10-28 01:29
+# Generated at 2024-11-03 04:12
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/681542_LoliHouse_2099_Maou_2099_-_03_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 魔王2099 S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/682038_LoliHouse_2099_Maou_2099_-_04_WebRip_1080p_HEVC-10bit_AAC.html

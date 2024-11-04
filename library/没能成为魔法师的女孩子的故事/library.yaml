@@ -1,4 +1,4 @@
-# Generated at 2024-10-26 02:24
+# Generated at 2024-11-02 02:13
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/681430_ANi_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 没能成为魔法师的女孩子的故事 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/681946_ANi_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

@@ -1,4 +1,4 @@
-# Generated at 2024-10-26 07:07
+# Generated at 2024-11-02 05:09
 
 season: 1
 
@@ -46,3 +46,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/681463_10_Ao_no_Hako_Blue_Box_05_1080p.html
+
+  - filename: 蓝箱 S01E06 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/681973_10_Ao_no_Hako_Blue_Box_06_1080p.html

@@ -1,4 +1,4 @@
-# Generated at 2024-10-27 07:44
+# Generated at 2024-11-03 05:15
 
 season: 1
 
@@ -46,3 +46,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/681488_ANi_Demon_Lord_Retry_RETRY_R_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 重来吧，魔王大人！ S02E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/681993_ANi_Demon_Lord_Retry_RETRY_R_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
