@@ -1,4 +1,4 @@
-# Generated at 2024-11-02 05:09
+# Generated at 2024-12-16 01:09
 
 season: 1
 
@@ -54,3 +54,51 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/681973_10_Ao_no_Hako_Blue_Box_06_1080p.html
+
+  - filename: 蓝箱 S01E07 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/683001_10_Ao_no_Hako_Blue_Box_07_1080p.html
+
+  - filename: 蓝箱 S01E08 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/683104_10_Ao_no_Hako_Blue_Box_08_1080p.html
+
+  - filename: 蓝箱 S01E09 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/684665_10_Ao_no_Hako_Blue_Box_09_1080p.html
+
+  - filename: 蓝箱 S01E10 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/684667_10_Ao_no_Hako_Blue_Box_10_1080p.html
+
+  - filename: 蓝箱 S01E11 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/684669_10_Ao_no_Hako_Blue_Box_11_1080p.html
+
+  - filename: 蓝箱 S01E12 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/685178_10_Ao_no_Hako_Blue_Box_12_1080p.html

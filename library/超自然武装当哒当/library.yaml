@@ -1,4 +1,4 @@
-# Generated at 2024-11-02 08:38
+# Generated at 2024-12-22 03:44
 
 season: 1
 
@@ -46,3 +46,59 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/681951_10_Dandadan_05_1080p.html
+
+  - filename: 超自然武装当哒当 S01E06 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/682489_10_Dandadan_06_1080p.html
+
+  - filename: 超自然武装当哒当 S01E07 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/682971_10_Dandadan_07_1080p.html
+
+  - filename: 超自然武装当哒当 S01E08 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/683607_10_Dandadan_08_1080p.html
+
+  - filename: 超自然武装当哒当 S01E09 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/684113_10_Dandadan_09_1080p.html
+
+  - filename: 超自然武装当哒当 S01E10 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/684577_10_Dandadan_10_1080p.html
+
+  - filename: 超自然武装当哒当 S01E11 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/685030_10_Dandadan_11_1080p.html
+
+  - filename: 超自然武装当哒当 S01E12 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/685475_10_Dandadan_12_1080p.html

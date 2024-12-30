@@ -1,4 +1,4 @@
-# Generated at 2024-11-01 02:33
+# Generated at 2024-11-21 03:31
 
 season: 1
 
@@ -51,3 +51,30 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/681781_ANi_Re_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: Re：从零开始的异世界生活 S01E56 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/682339_ANi_Re_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: Re：从零开始的异世界生活 S01E57 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/682810_ANi_Re_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: Re：从零开始的异世界生活 S01E58 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/683475_ANi_Re_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

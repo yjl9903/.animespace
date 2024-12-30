@@ -124,6 +124,7 @@ onair:
     bgm: '460306'
     fansub:
       - 喵萌奶茶屋
+      - 北宇治字幕组
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22蓝箱%22%2C%22アオのハコ%22%2C%22青之箱%22%2C%22青色之箱%22%2C%22青春之箱%22%2C%22Blue%20Box%22%2C%22Ao%20no%20Hako%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
 
   - title: 悲喜渔生
@@ -132,8 +133,10 @@ onair:
       - '正负垂钓者'
       - 'Negative Positive Angler'
     bgm: '505895'
+    status: finish
     fansub:
       - ANi
+      - LoliHouse
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22悲喜渔生%22%2C%22ネガポジアングラー%22%2C%22正负垂钓者%22%2C%22Negative%20Positive%20Angler%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
 
   - title: Re：从零开始的异世界生活 第三季 袭击篇
@@ -167,6 +170,7 @@ onair:
       - 'GOD.app Season 2'
       - 'Kamierabi Season 2'
     season: 1
+    status: finish
     rewrite:
       title: 神选
       season: 1
@@ -270,3 +274,15 @@ onair:
     bgm: '425991'
     fansub:
       - LoliHouse
+      - ANi
+
+  - title: 噗妮露是可爱史莱姆
+    alias:
+      - 'ぷにるはかわいいスライム'
+      - '可爱史莱姆噗尼露'
+      - 'Puniru wa Kawaii Slime'
+      - 'Puniru is a Kawaii Slime'
+    bgm: '470045'
+    fansub:
+      - 轻之国度
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22噗妮露是可爱史莱姆%22%2C%22ぷにるはかわいいスライム%22%2C%22可爱史莱姆噗尼露%22%2C%22Puniru%20wa%20Kawaii%20Slime%22%2C%22Puniru%20is%20a%20Kawaii%20Slime%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
