@@ -1,0 +1,16 @@
+# Generated at 2025-01-04 12:36
+
+season: 1
+
+date: 2025-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 灰色：幻影扳机 S01E01 {极影字幕社}.mkv
+    fansub: 极影字幕社
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686253_01_GB_CN_HEVC_opus_1080p.html

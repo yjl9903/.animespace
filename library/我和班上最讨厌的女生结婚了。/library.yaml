@@ -1,0 +1,16 @@
+# Generated at 2025-01-04 01:08
+
+season: 1
+
+date: 2025-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 我和班上最讨厌的女生结婚了。 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686262_ANi_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

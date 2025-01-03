@@ -1,0 +1,16 @@
+# Generated at 2025-01-04 12:59
+
+season: 1
+
+date: 2025-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 刹那之花 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686205_ANi_Momentary_Lily_MOMENTARY_LILY_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

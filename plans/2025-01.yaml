@@ -1,0 +1,225 @@
+title: 创建于 2025-01-03 11:31
+
+date: 2025-01-01 12:00
+
+status: onair
+
+onair:
+  - title: 黄昏旅店
+    alias:
+      - '誰ソ彼ホテル'
+      - '黄昏旅馆'
+      - 'Tasokare Hotel The Animation'
+    bgm: '501033'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22黄昏旅店%22%2C%22誰ソ彼ホテル%22%2C%22黄昏旅馆%22%2C%22Tasokare%20Hotel%20The%20Animation%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 天久鹰央的推理病历表
+    alias:
+      - '天久鷹央の推理カルテ'
+      - '天久鹰央的事件病历簿'
+      - 'Ameku Takao no Suiri Karte'
+      - 'Ameku Takao''s Detective Karte'
+    bgm: '488177'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22天久鹰央的推理病历表%22%2C%22天久鷹央の推理カルテ%22%2C%22天久鹰央的事件病历簿%22%2C%22Ameku%20Takao%20no%20Suiri%20Karte%22%2C%22Ameku%20Takao's%20Detective%20Karte%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: Re：从零开始的异世界生活 第三季 反击篇
+    alias:
+      - 'Re:ゼロから始める異世界生活 3rd season 反擊編'
+    season: 1
+    rewrite:
+      title: Re：从零开始的异世界生活
+      season: 1
+      episode:
+        offset: +58
+    bgm: '510728'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22Re：从零开始的异世界生活%20第三季%20反击篇%22%2C%22Re:ゼロから始める異世界生活%203rd%20season%20反擊編%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 金牌得主
+    alias:
+      - 'メダリスト'
+      - '舞冰的祈愿'
+      - 'Medalist'
+    bgm: '430699'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22金牌得主%22%2C%22メダリスト%22%2C%22舞冰的祈愿%22%2C%22Medalist%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 终究、与你相恋。
+    alias:
+      - 'どうせ、恋してしまうんだ。'
+      - 'Anyway, I Will Fall in Love with You'
+      - 'Anyway, I''m Falling in Love with You'
+    bgm: '482301'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22终究、与你相恋。%22%2C%22どうせ、恋してしまうんだ。%22%2C%22Anyway%2C%20I%20Will%20Fall%20in%20Love%20with%20You%22%2C%22Anyway%2C%20I'm%20Falling%20in%20Love%20with%20You%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 坂本日常
+    alias:
+      - 'SAKAMOTO DAYS'
+      - 'サカモトデイズ'
+      - '坂本 DAYS'
+    bgm: '496617'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22坂本日常%22%2C%22SAKAMOTO%20DAYS%22%2C%22サカモトデイズ%22%2C%22坂本%20DAYS%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 想星的大天使 Myth of Emotions
+    alias:
+      - '想星のアクエリオン Myth of Emotions'
+    bgm: '425355'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22想星的大天使%20Myth%20of%20Emotions%22%2C%22想星のアクエリオン%20Myth%20of%20Emotions%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 魔神创造传
+    alias:
+      - '魔神創造伝ワタル'
+    bgm: '474999'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22魔神创造传%22%2C%22魔神創造伝ワタル%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 刹那之花
+    alias:
+      - 'もめんたりー・リリィ'
+      - 'MOMENTARY LILY'
+    bgm: '491915'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22刹那之花%22%2C%22もめんたりー・リリィ%22%2C%22MOMENTARY%20LILY%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 我和班上最讨厌的女生结婚了。
+    alias:
+      - 'クラスの大嫌いな女子と結婚することになった。'
+      - '和班上最讨厌的女生结婚了。'
+      - '我决定和班上最讨厌的女生结婚了。'
+      - 'I Got Married to the Girl I Hate Most in Class'
+      - 'Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.'
+    bgm: '501023'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22我和班上最讨厌的女生结婚了。%22%2C%22クラスの大嫌いな女子と結婚することになった。%22%2C%22和班上最讨厌的女生结婚了。%22%2C%22我决定和班上最讨厌的女生结婚了。%22%2C%22I%20Got%20Married%20to%20the%20Girl%20I%20Hate%20Most%20in%20Class%22%2C%22Class%20no%20Daikirai%20na%20Joshi%20to%20Kekkon%20Suru%20Koto%20ni%20Natta.%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 药屋少女的呢喃 第二季
+    alias:
+      - '薬屋のひとりごと 第2期'
+      - '药师少女的独语 第二季'
+      - 'Kusuriya no Hitorigoto season 2'
+      - 'The Apothecary Diaries season 2'
+    season: 2
+    rewrite:
+      title: 药屋少女的呢喃
+    bgm: '486347'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22药屋少女的呢喃%20第二季%22%2C%22薬屋のひとりごと%20第2期%22%2C%22药师少女的独语%20第二季%22%2C%22Kusuriya%20no%20Hitorigoto%20season%202%22%2C%22The%20Apothecary%20Diaries%20season%202%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 超超超超超喜欢你的100个女朋友 第二季
+    alias:
+      - '君のことが大大大大大好きな100人の彼女 第2期'
+      - '百人女友 第二季'
+      - 'Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season'
+      - 'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You 2nd Season'
+    season: 2
+    rewrite:
+      title: 超超超超超喜欢你的100个女朋友
+    bgm: '471793'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22超超超超超喜欢你的100个女朋友%20第二季%22%2C%22君のことが大大大大大好きな100人の彼女%20第2期%22%2C%22百人女友%20第二季%22%2C%22Kimi%20no%20Koto%20ga%20Daidaidaidaidaisuki%20na%20100-nin%20no%20Kanojo%202nd%20Season%22%2C%22The%20100%20Girlfriends%20Who%20Really%2C%20Really%2C%20Really%2C%20Really%2C%20Really%20Love%20You%202nd%20Season%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 全修。
+    alias:
+      - 'Zenshuu.'
+      - 'ZENSHU'
+    bgm: '486039'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22全修。%22%2C%22Zenshuu.%22%2C%22ZENSHU%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 卡片战斗先导者 Divinez Deluxe篇
+    alias:
+      - 'カードファイト!! ヴァンガード Divinez デラックス編'
+      - 'Cardfight!! Vanguard: Divinez Deluxe-hen Edit'
+    bgm: '440880'
+    season: 7
+    rewrite:
+      title: 卡片战斗先导者overDress
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22卡片战斗先导者%20Divinez%20Deluxe篇%22%2C%22カードファイト!!%20ヴァンガード%20Divinez%20デラックス編%22%2C%22Cardfight!!%20Vanguard:%20Divinez%20Deluxe-hen%20Edit%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 一杆青空
+    alias:
+      - '空色ユーティリティ'
+      - '空色Utility'
+      - 'Sora-iro Utility'
+    bgm: '479788'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22一杆青空%22%2C%22空色ユーティリティ%22%2C%22空色Utility%22%2C%22Sora-iro%20Utility%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 石纪元 科学与未来
+    alias:
+      - 'Dr.STONE SCIENCE FUTURE'
+      - '新石纪 科学与未来'
+      - '石纪元 第四季'
+      - '新石纪 第四季'
+    season: 4
+    rewrite:
+      title: 石纪元
+    bgm: '471578'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22石纪元%20科学与未来%22%2C%22Dr.STONE%20SCIENCE%20FUTURE%22%2C%22新石纪%20科学与未来%22%2C%22石纪元%20第四季%22%2C%22新石纪%20第四季%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 蜂蜜柠檬碳酸水
+    alias:
+      - 'ハニーレモンソーダ'
+      - '青春特调蜂蜜柠檬苏打'
+      - 'Honey Lemon Soda'
+    bgm: '482719'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22蜂蜜柠檬碳酸水%22%2C%22ハニーレモンソーダ%22%2C%22青春特调蜂蜜柠檬苏打%22%2C%22Honey%20Lemon%20Soda%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 灰色：幻影扳机
+    alias:
+      - 'グリザイア：ファントムトリガー'
+      - 'Grisaia: Phantom Trigger'
+      - 'GRISAIA：PHANTOM TRIGGER'
+    bgm: '371829'
+    fansub:
+      - 极影字幕社
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22灰色：幻影扳机%22%2C%22グリザイア：ファントムトリガー%22%2C%22Grisaia:%20Phantom%20Trigger%22%2C%22GRISAIA：PHANTOM%20TRIGGER%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 群花绽放，彷如修罗
+    alias:
+      - '花は咲く、修羅の如く'
+      - '花如修罗一般，绽放'
+    bgm: '498934'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22群花绽放，彷如修罗%22%2C%22花は咲く、修羅の如く%22%2C%22花如修罗一般，绽放%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 这公司有我喜欢的人
+    alias:
+      - 'この会社に好きな人がいます'
+      - 'Kono Kaisha ni Suki na Hito ga Imasu'
+      - 'Can You Keep a Secret?'
+    bgm: '504710'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22这公司有我喜欢的人%22%2C%22この会社に好きな人がいます%22%2C%22Kono%20Kaisha%20ni%20Suki%20na%20Hito%20ga%20Imasu%22%2C%22Can%20You%20Keep%20a%20Secret?%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 我的幸福婚姻 第二季
+    alias:
+      - 'わたしの幸せな結婚 第二期'
+      - '我的幸福婚约 第二季'
+      - '我的美好婚事 第二季'
+      - 'Watashi no Shiawase na Kekkon (2025)'
+      - 'My Happy Marriage (2025)'
+      - 'Watashi no Shiawase na Kekkon 2nd Season'
+    season: 2
+    bgm: '455626'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22我的幸福婚姻%20第二季%22%2C%22わたしの幸せな結婚%20第二期%22%2C%22我的幸福婚约%20第二季%22%2C%22我的美好婚事%20第二季%22%2C%22Watashi%20no%20Shiawase%20na%20Kekkon%20(2025)%22%2C%22My%20Happy%20Marriage%20(2025)%22%2C%22Watashi%20no%20Shiawase%20na%20Kekkon%202nd%20Season%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: BanG Dream! Ave Mujica
+    alias:
+      - '颂乐人偶'
+      - 'BanG Dream! 颂乐人偶'
+    bgm: '454684'
+    fansub:
+      - 喵萌奶茶屋
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22BanG%20Dream!%20Ave%20Mujica%22%2C%22颂乐人偶%22%2C%22BanG%20Dream!%20颂乐人偶%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z

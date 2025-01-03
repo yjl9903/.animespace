@@ -150,7 +150,6 @@ onair:
       - 'Spice and Wolf: Merchant Meets the Wise Wolf'
       - 'Ookami to Koushinryou: Merchant Meets the Wise Wolf'
     bgm: '372010'
-    status: onair
     fansub:
       - 幻之字幕组
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22狼与香辛料%20行商邂逅贤狼%22%2C%22狼と香辛料%20MERCHANT%20MEETS%20THE%20WISE%20WOLF%22%2C%22狼与香辛料%20MERCHANT%20MEETS%20THE%20WISE%20WOLF%22%2C%22Spice%20and%20Wolf:%20Merchant%20Meets%20the%20Wise%20Wolf%22%2C%22Ookami%20to%20Koushinryou:%20Merchant%20Meets%20the%20Wise%20Wolf%22%5D%5D&after=2024-03-31T16%3A00%3A00.000Z
@@ -328,7 +327,6 @@ onair:
       - 'デッドデッドデーモンズデデデデデストラクション'
       - "恶魔的破坏 DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION"
       - 'DEAD DEAD DEMONS DEDEDEDE DESTRUCTION'
-    status: onair
     bgm: '495562'
     preference:
       keyword:
@@ -343,7 +341,6 @@ onair:
       - 'じゃんたま カン！！'
       - '雀魂 杠！！'
       - 'MAHJONG SOUL KAN!!'
-    status: onair
     bgm: '473805'
     rewrite:
       title: 雀魂
