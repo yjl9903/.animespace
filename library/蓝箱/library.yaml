@@ -1,4 +1,4 @@
-# Generated at 2024-12-16 01:09
+# Generated at 2025-01-05 10:50
 
 season: 1
 
@@ -102,3 +102,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/685178_10_Ao_no_Hako_Blue_Box_12_1080p.html
+
+  - filename: 蓝箱 S01E13 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686374_10_Ao_no_Hako_Blue_Box_13_1080p.html
