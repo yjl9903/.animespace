@@ -189,9 +189,12 @@ onair:
 
   - title: 群花绽放，彷如修罗
     alias:
+      - '群花绽放、彷如修罗'
       - '花は咲く、修羅の如く'
       - '花如修罗一般，绽放'
     bgm: '498934'
+    fansub:
+      - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22群花绽放，彷如修罗%22%2C%22花は咲く、修羅の如く%22%2C%22花如修罗一般，绽放%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 这公司有我喜欢的人
