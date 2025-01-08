@@ -1,5 +1,16 @@
-# Generated at 2025-01-04 12:02
+# Generated at 2025-01-07 12:42
+
+season: 1
+
+date: 2025-01-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 金牌得主 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686452_LoliHouse_Medalist_-_01_WebRip_1080p_HEVC-10bit_AAC.html

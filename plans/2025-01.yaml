@@ -46,6 +46,9 @@ onair:
       - '舞冰的祈愿'
       - 'Medalist'
     bgm: '430699'
+    fansub:
+      - LoliHouse
+      - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22金牌得主%22%2C%22メダリスト%22%2C%22舞冰的祈愿%22%2C%22Medalist%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 终究、与你相恋。
@@ -129,7 +132,7 @@ onair:
       - 'ZENSHU'
     bgm: '486039'
     fansub:
-      - ANi
+      - 黑白字幕组
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22全修。%22%2C%22Zenshuu.%22%2C%22ZENSHU%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 卡片战斗先导者 Divinez Deluxe篇
@@ -184,6 +187,7 @@ onair:
     season: 2
     bgm: '371829'
     fansub:
+      - 桜都字幕组
       - 极影字幕社
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22灰色：幻影扳机%22%2C%22グリザイア：ファントムトリガー%22%2C%22Grisaia:%20Phantom%20Trigger%22%2C%22GRISAIA：PHANTOM%20TRIGGER%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
@@ -203,6 +207,8 @@ onair:
       - 'Kono Kaisha ni Suki na Hito ga Imasu'
       - 'Can You Keep a Secret?'
     bgm: '504710'
+    fansub:
+      - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22这公司有我喜欢的人%22%2C%22この会社に好きな人がいます%22%2C%22Kono%20Kaisha%20ni%20Suki%20na%20Hito%20ga%20Imasu%22%2C%22Can%20You%20Keep%20a%20Secret?%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 我的幸福婚姻 第二季
@@ -214,6 +220,8 @@ onair:
       - 'My Happy Marriage (2025)'
       - 'Watashi no Shiawase na Kekkon 2nd Season'
     season: 2
+    rewrite:
+      title: 我的幸福婚姻
     bgm: '455626'
     fansub:
       - ANi
@@ -227,3 +235,12 @@ onair:
     fansub:
       - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22BanG%20Dream!%20Ave%20Mujica%22%2C%22颂乐人偶%22%2C%22BanG%20Dream!%20颂乐人偶%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
+
+  - title: 这公司有我喜欢的人
+    alias:
+      - 'この会社に好きな人がいます'
+      - 'Kono Kaisha ni Suki na Hito ga Imasu'
+      - 'Can You Keep a Secret?'
+    bgm: '504710'
+    fansub:
+      - ANi

@@ -1,5 +1,16 @@
-# Generated at 2025-01-04 12:02
+# Generated at 2025-01-08 01:11
+
+season: 1
+
+date: 2025-01-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 全修。 S01E01 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686641_Zenshuu_01_webRip_AVC-8bit_1080P_AAC.html
