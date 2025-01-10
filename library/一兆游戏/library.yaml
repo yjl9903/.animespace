@@ -1,4 +1,4 @@
-# Generated at 2024-12-20 01:15
+# Generated at 2025-01-10 12:51
 
 season: 1
 
@@ -110,3 +110,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/685415_ANi_TRILLION_GAME_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 一兆游戏 S01E14 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686834_ANi_TRILLION_GAME_-_14_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
