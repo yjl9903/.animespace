@@ -68,6 +68,8 @@ onair:
       - 'サカモトデイズ'
       - '坂本 DAYS'
     bgm: '496617'
+    fansub:
+      - 奇怪机翻组
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22坂本日常%22%2C%22SAKAMOTO%20DAYS%22%2C%22サカモトデイズ%22%2C%22坂本%20DAYS%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 想星的大天使 Myth of Emotions
@@ -105,15 +107,17 @@ onair:
 
   - title: 药屋少女的呢喃 第二季
     alias:
+      - '藥屋少女的呢喃'
       - '薬屋のひとりごと 第2期'
       - '药师少女的独语 第二季'
       - 'Kusuriya no Hitorigoto season 2'
       - 'The Apothecary Diaries season 2'
-    season: 2
+    season: 1
     rewrite:
       title: 药屋少女的呢喃
     bgm: '486347'
     fansub:
+      - 豌豆字幕组
       - 天月動漫&發佈組
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22药屋少女的呢喃%20第二季%22%2C%22薬屋のひとりごと%20第2期%22%2C%22药师少女的独语%20第二季%22%2C%22Kusuriya%20no%20Hitorigoto%20season%202%22%2C%22The%20Apothecary%20Diaries%20season%202%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
@@ -148,8 +152,15 @@ onair:
     season: 7
     rewrite:
       title: 卡片战斗先导者overDress
+    preference:
+      keyword:
+        order:
+          platform:
+            - Baha
+            - ABEMA
     fansub:
       - ANi
+      - Kirara Fantasia
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22卡片战斗先导者%20Divinez%20Deluxe篇%22%2C%22カードファイト!!%20ヴァンガード%20Divinez%20デラックス編%22%2C%22Cardfight!!%20Vanguard:%20Divinez%20Deluxe-hen%20Edit%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 一杆青空
@@ -183,6 +194,8 @@ onair:
       - '青春特调蜂蜜柠檬苏打'
       - 'Honey Lemon Soda'
     bgm: '482719'
+    fansub:
+      - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22蜂蜜柠檬碳酸水%22%2C%22ハニーレモンソーダ%22%2C%22青春特调蜂蜜柠檬苏打%22%2C%22Honey%20Lemon%20Soda%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 灰色：幻影扳机
@@ -219,6 +232,7 @@ onair:
 
   - title: 我的幸福婚姻 第二季
     alias:
+      - '我的幸福婚姻 2期'
       - 'わたしの幸せな結婚 第二期'
       - '我的幸福婚约 第二季'
       - '我的美好婚事 第二季'
@@ -230,7 +244,7 @@ onair:
       title: 我的幸福婚姻
     bgm: '455626'
     fansub:
-      - ANi
+      - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22我的幸福婚姻%20第二季%22%2C%22わたしの幸せな結婚%20第二期%22%2C%22我的幸福婚约%20第二季%22%2C%22我的美好婚事%20第二季%22%2C%22Watashi%20no%20Shiawase%20na%20Kekkon%20(2025)%22%2C%22My%20Happy%20Marriage%20(2025)%22%2C%22Watashi%20no%20Shiawase%20na%20Kekkon%202nd%20Season%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: BanG Dream! Ave Mujica
@@ -250,3 +264,14 @@ onair:
     bgm: '504710'
     fansub:
       - ANi
+
+  - title: 虽然是公会的前台小姐，因为讨厌加班，所以打算自己讨伐boss
+    alias:
+      - 'ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います'
+      - '雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目'
+      - 'Guild no Uketsukejou Desu ga, Zangyou wa Iya nano de Boss o Solo Toubatsu Shiyou to Omoimasu'
+      - 'I May Be a Guild Receptionist, but I`ll Solo Any Boss to Clock Out on Time'
+    bgm: '445827'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22虽然是公会的前台小姐，因为讨厌加班，所以打算自己讨伐boss%22%2C%22ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います%22%2C%22雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目%22%2C%22Guild%20no%20Uketsukejou%20Desu%20ga%2C%20Zangyou%20wa%20Iya%20nano%20de%20Boss%20o%20Solo%20Toubatsu%20Shiyou%20to%20Omoimasu%22%2C%22I%20May%20Be%20a%20Guild%20Receptionist%2C%20but%20I`ll%20Solo%20Any%20Boss%20to%20Clock%20Out%20on%20Time%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
