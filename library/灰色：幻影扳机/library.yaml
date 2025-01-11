@@ -1,4 +1,4 @@
-# Generated at 2025-01-07 08:54
+# Generated at 2025-01-11 01:44
 
 season: 2
 
@@ -14,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/686607_Grisaia_Phantom_Trigger_01_1080p.html
+
+  - filename: 灰色：幻影扳机 S02E02 {极影字幕社}.mkv
+    fansub: 极影字幕社
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686907_02_GB_CN_HEVC_opus_1080p.html
