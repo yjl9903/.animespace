@@ -1,5 +1,16 @@
-# Generated at 2025-01-04 12:02
+# Generated at 2025-01-12 02:25
+
+season: 1
+
+date: 2025-01-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 药屋少女的呢喃 S01E25 {豌豆字幕组}.mp4
+    fansub: 豌豆字幕组
+    type: 番剧
+    episode: 25
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686956_Kusuriya_no_Hitorigoto_25_1080P_MP4.html

@@ -1,5 +1,17 @@
-# Generated at 2025-01-04 12:02
+# Generated at 2025-01-12 03:56
+
+season: 2
+
+date: 2025-01-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 我的幸福婚姻 S02E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    season: 2
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/686843_01_2_Watashi_no_Shiawase_na_Kekkon_S2_01_1080p.html

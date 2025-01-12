@@ -1,5 +1,17 @@
-# Generated at 2025-01-04 12:02
+# Generated at 2025-01-12 02:15
+
+season: 1
+
+date: 2025-01-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 坂本日常 S01E01 {奇怪机翻组}.mp4
+    fansub: 奇怪机翻组
+    type: 番剧
+    season: 1
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687000_Strange-Raw_SAKAMOTO_DAYS_S01_01_Bilibili_WEB-DL_1080P_AVC-8Bits_AAC_2_0.html

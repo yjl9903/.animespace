@@ -146,6 +146,7 @@ onair:
 
   - title: 卡片战斗先导者 Divinez Deluxe篇
     alias:
+      - 'Cardfight!! Vanguard: Divinez Deluxe'
       - 'カードファイト!! ヴァンガード Divinez デラックス編'
       - 'Cardfight!! Vanguard: Divinez Deluxe-hen Edit'
     bgm: '440880'
@@ -154,10 +155,8 @@ onair:
       title: 卡片战斗先导者overDress
     preference:
       keyword:
-        order:
-          platform:
-            - Baha
-            - ABEMA
+        exclude:
+          - ABEMA
     fansub:
       - ANi
       - Kirara Fantasia
@@ -188,8 +187,9 @@ onair:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22石纪元%20科学与未来%22%2C%22Dr.STONE%20SCIENCE%20FUTURE%22%2C%22新石纪%20科学与未来%22%2C%22石纪元%20第四季%22%2C%22新石纪%20第四季%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
-  - title: 蜂蜜柠檬碳酸水
+  - title: 蜂蜜柠檬苏打
     alias:
+      - '蜂蜜柠檬碳酸水'
       - 'ハニーレモンソーダ'
       - '青春特调蜂蜜柠檬苏打'
       - 'Honey Lemon Soda'
