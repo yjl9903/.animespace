@@ -1,5 +1,16 @@
-# Generated at 2025-01-04 12:02
+# Generated at 2025-01-13 12:22
+
+season: 1
+
+date: 2025-01-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 魔神创造传 S01E01 {Kirara Fantasia}.mp4
+    fansub: Kirara Fantasia
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/6783853eb00d7300070be781

@@ -1,5 +1,16 @@
-# Generated at 2025-01-04 12:02
+# Generated at 2025-01-12 11:35
+
+season: 1
+
+date: 2025-01-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 想星的大天使 Myth of Emotions S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687098_LoliHouse_Myth_of_Emotions_Sousei_no_Aquarion_Myth_of_Emotions_-_01_WebRip_1080p_HEVC-10bit_AAC.html

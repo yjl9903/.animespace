@@ -1,4 +1,4 @@
-# Generated at 2025-01-07 12:45
+# Generated at 2025-01-13 10:16
 
 season: 1
 
@@ -14,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/686553_ANi_Can_You_Keep_a_Secret_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 这公司有我喜欢的人 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687205_ANi_I_Have_a_Crush_at_Work_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

@@ -76,12 +76,17 @@ onair:
     alias:
       - '想星のアクエリオン Myth of Emotions'
     bgm: '425355'
+    fansub:
+      - LoliHouse
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22想星的大天使%20Myth%20of%20Emotions%22%2C%22想星のアクエリオン%20Myth%20of%20Emotions%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 魔神创造传
     alias:
       - '魔神創造伝ワタル'
+      - 'Mashin Souzouden Wataru'
     bgm: '474999'
+    fansub:
+      - Kirara Fantasia
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22魔神创造传%22%2C%22魔神創造伝ワタル%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 刹那之花
@@ -123,11 +128,12 @@ onair:
 
   - title: 超超超超超喜欢你的100个女朋友 第二季
     alias:
+      - '超超超超超喜歡你的 100 個女朋友'
       - '君のことが大大大大大好きな100人の彼女 第2期'
       - '百人女友 第二季'
       - 'Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season'
       - 'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You 2nd Season'
-    season: 2
+    season: 1
     rewrite:
       title: 超超超超超喜欢你的100个女朋友
     bgm: '471793'
