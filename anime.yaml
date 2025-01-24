@@ -39,6 +39,10 @@ preference:
       fansub:
         - '内嵌'
         - '内封'
+      platform:
+        - Baha
+        - ABEMA
+        - Viu
     # exclude:
     #   - 外挂
     #   - 外掛
@@ -48,6 +52,7 @@ plans:
 
 plugins:
   - name: animegarden
+    api: https://hkg.animes.garden/api/
     provider: aria2
     trackers:
       - http://tracker.gbitt.info/announce
