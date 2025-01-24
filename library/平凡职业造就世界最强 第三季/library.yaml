@@ -1,4 +1,4 @@
-# Generated at 2025-01-04 01:21
+# Generated at 2025-01-21 01:11
 
 season: 3
 
@@ -96,3 +96,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/686072_ANi_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 平凡职业造就世界最强 S03E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687791_ANi_-_12_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

@@ -1,4 +1,4 @@
-# Generated at 2025-01-12 07:50
+# Generated at 2025-01-25 05:19
 
 season: 1
 
@@ -110,3 +110,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/686922_ANi_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 冻牌～地下麻将斗牌录～ S01E14 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687512_ANi_-_14_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 冻牌～地下麻将斗牌录～ S01E15 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688182_ANi_-_15_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

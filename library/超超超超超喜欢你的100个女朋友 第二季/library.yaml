@@ -1,4 +1,4 @@
-# Generated at 2025-01-13 12:30
+# Generated at 2025-01-20 10:24
 
 season: 1
 
@@ -14,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/687102_ANi_100_-_13_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 超超超超超喜欢你的100个女朋友 S01E14 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687687_ANi_100_-_14_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

@@ -1,4 +1,4 @@
-# Generated at 2025-01-11 01:39
+# Generated at 2025-01-18 12:34
 
 season: 1
 
@@ -22,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/686915_ANi_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我和班上最讨厌的女生结婚了。 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687502_ANi_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

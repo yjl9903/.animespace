@@ -1,4 +1,4 @@
-# Generated at 2025-01-10 01:01
+# Generated at 2025-01-24 01:41
 
 season: 1
 
@@ -22,3 +22,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/686833_ANi_Momentary_Lily_MOMENTARY_LILY_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 刹那之花 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687423_ANi_Momentary_Lily_MOMENTARY_LILY_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 刹那之花 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688090_ANi_Momentary_Lily_MOMENTARY_LILY_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

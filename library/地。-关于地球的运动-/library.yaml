@@ -1,4 +1,4 @@
-# Generated at 2025-01-14 11:15
+# Generated at 2025-01-23 01:19
 
 season: 1
 
@@ -134,3 +134,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/687289_-_-_Chi_Chikyuu_no_Undou_ni_Tsuite_16_1080p_2024_10.html
+
+  - filename: 地。-关于地球的运动- S01E17 {猎户发布组}.mp4
+    fansub: 猎户发布组
+    type: 番剧
+    episode: 17
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687984_-_-_Chi_Chikyuu_no_Undou_ni_Tsuite_17_1080p_2024_10.html

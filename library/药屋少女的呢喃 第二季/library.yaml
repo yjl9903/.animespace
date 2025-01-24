@@ -1,4 +1,4 @@
-# Generated at 2025-01-12 02:25
+# Generated at 2025-01-25 06:13
 
 season: 1
 
@@ -14,3 +14,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/686956_Kusuriya_no_Hitorigoto_25_1080P_MP4.html
+
+  - filename: 药屋少女的呢喃 S01E26 {豌豆字幕组}.mp4
+    fansub: 豌豆字幕组
+    type: 番剧
+    episode: 26
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687526_Kusuriya_no_Hitorigoto_26_1080P_MP4.html
+
+  - filename: 药屋少女的呢喃 S01E27 {豌豆字幕组}.mp4
+    fansub: 豌豆字幕组
+    type: 番剧
+    episode: 27
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688184_Kusuriya_no_Hitorigoto_27_1080P_MP4.html

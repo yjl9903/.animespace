@@ -1,4 +1,4 @@
-# Generated at 2025-01-11 01:44
+# Generated at 2025-01-22 12:17
 
 season: 2
 
@@ -15,10 +15,18 @@ videos:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/686607_Grisaia_Phantom_Trigger_01_1080p.html
 
-  - filename: 灰色：幻影扳机 S02E02 {极影字幕社}.mkv
-    fansub: 极影字幕社
+  - filename: 灰色：幻影扳机 S02E02 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
     type: 番剧
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://garden.breadio.wiki/detail/dmhy/686907_02_GB_CN_HEVC_opus_1080p.html
+      magnet: https://garden.breadio.wiki/detail/dmhy/687852_Grisaia_Phantom_Trigger_02_1080p.html
+
+  - filename: 灰色：幻影扳机 S02E03 {桜都字幕组}.mkv
+    fansub: 桜都字幕组
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687855_Grisaia_Phantom_Trigger_03_1080p.html

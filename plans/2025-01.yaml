@@ -165,7 +165,7 @@ onair:
           - ABEMA
     fansub:
       - ANi
-      - Kirara Fantasia
+      # - Kirara Fantasia
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22卡片战斗先导者%20Divinez%20Deluxe篇%22%2C%22カードファイト!!%20ヴァンガード%20Divinez%20デラックス編%22%2C%22Cardfight!!%20Vanguard:%20Divinez%20Deluxe-hen%20Edit%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
 
   - title: 一杆青空
@@ -218,6 +218,7 @@ onair:
 
   - title: 群花绽放，彷如修罗
     alias:
+      - 'Hana wa Saku Shura no Gotoku'
       - '群花绽放、彷如修罗'
       - '花は咲く、修羅の如く'
       - '花如修罗一般，绽放'
@@ -261,15 +262,6 @@ onair:
     fansub:
       - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22BanG%20Dream!%20Ave%20Mujica%22%2C%22颂乐人偶%22%2C%22BanG%20Dream!%20颂乐人偶%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
-
-  - title: 这公司有我喜欢的人
-    alias:
-      - 'この会社に好きな人がいます'
-      - 'Kono Kaisha ni Suki na Hito ga Imasu'
-      - 'Can You Keep a Secret?'
-    bgm: '504710'
-    fansub:
-      - ANi
 
   - title: 虽然是公会的前台小姐，因为讨厌加班，所以打算自己讨伐boss
     alias:

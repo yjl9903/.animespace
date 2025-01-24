@@ -1,4 +1,4 @@
-# Generated at 2025-01-14 11:22
+# Generated at 2025-01-22 12:04
 
 season: 1
 
@@ -117,4 +117,12 @@ videos:
     episode: 14
     source:
       type: AnimeGarden
-      magnet: https://garden.breadio.wiki/detail/moe/67867c2fb00d730007245cb0
+      magnet: https://garden.breadio.wiki/detail/dmhy/687291_ANi_Amagamisan_Chi_no_Enmusubi_-_14_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 缘结甘神家 S01E15 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687890_ANi_Amagamisan_Chi_no_Enmusubi_-_15_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
