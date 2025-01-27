@@ -209,7 +209,7 @@ onair:
       - 'グリザイア：ファントムトリガー'
       - 'Grisaia: Phantom Trigger'
       - 'GRISAIA：PHANTOM TRIGGER'
-    season: 2
+    season: 1
     bgm: '371829'
     fansub:
       - 桜都字幕组
@@ -246,9 +246,13 @@ onair:
       - 'Watashi no Shiawase na Kekkon (2025)'
       - 'My Happy Marriage (2025)'
       - 'Watashi no Shiawase na Kekkon 2nd Season'
-    season: 2
+    season: 1
     rewrite:
       title: 我的幸福婚姻
+      season: 1
+      episode:
+        fansub: 喵萌奶茶屋
+        offset: +12
     bgm: '455626'
     fansub:
       - 喵萌奶茶屋
@@ -270,6 +274,8 @@ onair:
       - 'Guild no Uketsukejou Desu ga, Zangyou wa Iya nano de Boss o Solo Toubatsu Shiyou to Omoimasu'
       - 'I May Be a Guild Receptionist, but I`ll Solo Any Boss to Clock Out on Time'
     bgm: '445827'
+    rewrite:
+      title: 虽然是公会的柜台小姐，但因为不想加班所以打算独自讨伐迷宫头目
     fansub:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22虽然是公会的前台小姐，因为讨厌加班，所以打算自己讨伐boss%22%2C%22ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います%22%2C%22雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目%22%2C%22Guild%20no%20Uketsukejou%20Desu%20ga%2C%20Zangyou%20wa%20Iya%20nano%20de%20Boss%20o%20Solo%20Toubatsu%20Shiyou%20to%20Omoimasu%22%2C%22I%20May%20Be%20a%20Guild%20Receptionist%2C%20but%20I`ll%20Solo%20Any%20Boss%20to%20Clock%20Out%20on%20Time%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z
