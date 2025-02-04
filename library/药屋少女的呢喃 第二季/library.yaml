@@ -1,4 +1,4 @@
-# Generated at 2025-01-25 06:13
+# Generated at 2025-02-01 08:31
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688184_Kusuriya_no_Hitorigoto_27_1080P_MP4.html
+
+  - filename: 药屋少女的呢喃 S01E28 {豌豆字幕组}.mp4
+    fansub: 豌豆字幕组
+    type: 番剧
+    episode: 28
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688633_Kusuriya_no_Hitorigoto_28_1080P_MP4.html

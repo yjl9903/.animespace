@@ -1,4 +1,4 @@
-# Generated at 2025-01-24 01:47
+# Generated at 2025-01-31 08:33
 
 season: 4
 
@@ -33,3 +33,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688066_ANi_Dr_STONE_S04_Dr_STONE_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 石纪元 S04E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688554_ANi_Dr_STONE_S04_Dr_STONE_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

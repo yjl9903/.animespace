@@ -1,4 +1,4 @@
-# Generated at 2025-01-22 12:04
+# Generated at 2025-01-29 12:50
 
 season: 1
 
@@ -126,3 +126,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/687890_ANi_Amagamisan_Chi_no_Enmusubi_-_15_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 缘结甘神家 S01E16 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 16
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688427_ANi_Amagamisan_Chi_no_Enmusubi_-_16_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

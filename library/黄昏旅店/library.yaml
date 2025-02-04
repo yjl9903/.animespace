@@ -1,4 +1,4 @@
-# Generated at 2025-01-25 02:24
+# Generated at 2025-02-01 11:17
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688164_ANi_Tasokare_Hotel_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 黄昏旅店 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688615_ANi_Tasokare_Hotel_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

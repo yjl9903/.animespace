@@ -1,4 +1,4 @@
-# Generated at 2025-01-20 10:31
+# Generated at 2025-01-29 08:54
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/687731_Zenshuu_03_webRip_AVC-8bit_1080P_AAC.html
+
+  - filename: 全修。 S01E04 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688496_Zenshuu_04_webRip_AVC-8bit_1080P_AAC.html
