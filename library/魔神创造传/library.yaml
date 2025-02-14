@@ -1,4 +1,4 @@
-# Generated at 2025-02-02 08:12
+# Generated at 2025-02-09 07:48
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/moe/679f3460ddfe370007ac93d1
+
+  - filename: 魔神创造传 S01E05 {Kirara Fantasia}.mp4
+    fansub: Kirara Fantasia
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67a86ec5ddfe370007f8315f

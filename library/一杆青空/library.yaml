@@ -1,4 +1,4 @@
-# Generated at 2025-02-01 08:39
+# Generated at 2025-02-09 04:28
 
 season: 1
 
@@ -46,3 +46,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688628_ANi_Sorairo_Utility_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 一杆青空 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689047_ANi_Sorairo_Utility_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

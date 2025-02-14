@@ -1,4 +1,4 @@
-# Generated at 2025-01-29 06:19
+# Generated at 2025-02-05 07:10
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688447_ANi_Hana_wa_Saku_Shura_no_Gotoku_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 群花绽放，彷如修罗 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688869_ANi_Hana_wa_Saku_Shura_no_Gotoku_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

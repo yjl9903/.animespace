@@ -1,4 +1,4 @@
-# Generated at 2025-02-01 08:46
+# Generated at 2025-02-08 11:48
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688624_ANi_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 虽然是公会的柜台小姐，但因为不想加班所以打算独自讨伐迷宫头目 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689046_ANi_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

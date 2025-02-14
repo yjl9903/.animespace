@@ -1,4 +1,4 @@
-# Generated at 2025-01-31 08:22
+# Generated at 2025-02-07 09:36
 
 season: 1
 
@@ -142,3 +142,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688580_ANi_TRILLION_GAME_-_17_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 一兆游戏 S01E18 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 18
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688985_ANi_TRILLION_GAME_-_18_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

@@ -1,4 +1,4 @@
-# Generated at 2025-02-01 08:31
+# Generated at 2025-02-08 06:09
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688633_Kusuriya_no_Hitorigoto_28_1080P_MP4.html
+
+  - filename: 药屋少女的呢喃 S01E29 {豌豆字幕组}.mp4
+    fansub: 豌豆字幕组
+    type: 番剧
+    episode: 29
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689064_Kusuriya_no_Hitorigoto_29_1080P_MP4.html

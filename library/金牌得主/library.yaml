@@ -1,4 +1,4 @@
-# Generated at 2025-02-03 05:05
+# Generated at 2025-02-10 11:52
 
 season: 1
 
@@ -46,3 +46,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688768_LoliHouse_Medalist_-_05_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 金牌得主 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689228_LoliHouse_Medalist_-_06_WebRip_1080p_HEVC-10bit_AAC.html

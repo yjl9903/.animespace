@@ -1,4 +1,4 @@
-# Generated at 2025-01-29 05:56
+# Generated at 2025-02-14 12:34
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688437_Grisaia_Phantom_Trigger_04_1080p.html
+
+  - filename: 灰色：幻影扳机 S01E06 {极影字幕社}.mkv
+    fansub: 极影字幕社
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689390_06_GB_CN_HEVC_opus_1080p.html

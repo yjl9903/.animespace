@@ -1,4 +1,4 @@
-# Generated at 2025-01-28 10:14
+# Generated at 2025-02-11 11:12
 
 season: 1
 
@@ -150,3 +150,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/688410_-_-_Chi_Chikyuu_no_Undou_ni_Tsuite_18_1080p_2024_10.html
+
+  - filename: 地。-关于地球的运动- S01E19 {猎户发布组}.mp4
+    fansub: 猎户发布组
+    type: 番剧
+    episode: 19
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688857_-_-_Chi_Chikyuu_no_Undou_ni_Tsuite_19_1080p_2024_10.html
+
+  - filename: 地。-关于地球的运动- S01E20 {猎户发布组}.mp4
+    fansub: 猎户发布组
+    type: 番剧
+    episode: 20
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689310_-_-_Chi_Chikyuu_no_Undou_ni_Tsuite_20_1080p_2024_10.html
