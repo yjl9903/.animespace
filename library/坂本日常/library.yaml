@@ -1,4 +1,4 @@
-# Generated at 2025-02-08 11:46
+# Generated at 2025-03-04 11:55
 
 season: 1
 
@@ -51,3 +51,30 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/689097_Strange-Raw_SAKAMOTO_DAYS_S01_05_Bilibili_WEB-DL_1080P_AVC-8Bits_AAC_2_0.html
+
+  - filename: 坂本日常 S01E06 {奇怪机翻组}.mp4
+    fansub: 奇怪机翻组
+    type: 番剧
+    season: 1
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689518_Strange-Raw_SAKAMOTO_DAYS_S01_06_Bilibili_WEB-DL_1080P_AVC-8Bits_AAC_2_0.html
+
+  - filename: 坂本日常 S01E07 {奇怪机翻组}.mp4
+    fansub: 奇怪机翻组
+    type: 番剧
+    season: 1
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/690022_Strange-Raw_SAKAMOTO_DAYS_S01_07_Bilibili_WEB-DL_1080P_AVC-8Bits_AAC_2_0.html
+
+  - filename: 坂本日常 S01E08 {奇怪机翻组}.mp4
+    fansub: 奇怪机翻组
+    type: 番剧
+    season: 1
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/690538_Strange-Raw_SAKAMOTO_DAYS_S01_08_Bilibili_WEB-DL_1080P_AVC-8Bits_AAC_2_0.html

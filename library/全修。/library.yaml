@@ -1,4 +1,4 @@
-# Generated at 2025-02-12 12:00
+# Generated at 2025-03-25 01:49
 
 season: 1
 
@@ -54,3 +54,51 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/689312_Zenshuu_06_webRip_AVC-8bit_1080P_AAC.html
+
+  - filename: 全修。 S01E07 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689773_Zenshuu_07_webRip_AVC-8bit_1080P_AAC.html
+
+  - filename: 全修。 S01E08 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/690190_Zenshuu_08_webRip_AVC-8bit_1080P_AAC.html
+
+  - filename: 全修。 S01E09 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/690772_Zenshuu_09_webRip_AVC-8bit_1080P_AAC.html
+
+  - filename: 全修。 S01E10 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/691216_Zenshuu_10_webRip_AVC-8bit_1080P_AAC.html
+
+  - filename: 全修。 S01E11 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/691560_Zenshuu_11_webRip_AVC-8bit_1080P_AAC.html
+
+  - filename: 全修。 S01E12 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/691990_Zenshuu_12_webRip_AVC-8bit_1080P_AAC_END.html

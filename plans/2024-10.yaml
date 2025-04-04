@@ -89,8 +89,14 @@ onair:
       - 'Touhai: Ura Rate Mahjong Touhai Roku'
     bgm: '474801'
     status: onair
+    preference:
+      keyword:
+        exclude:
+          - '[ANi]  凍牌~地下麻將鬥牌錄~ - 20 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]'
     fansub:
       - ANi
+      - 喵萌奶茶屋
+      - Kirara Fantasia
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22冻牌～地下麻将斗牌录～%22%2C%22凍牌～裏レート麻雀闘牌録～%22%2C%22Touhai:%20Ura%20Rate%20Mahjong%20Touhai%20Roku%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
 
   - title: 没能成为魔法师的女孩子的故事

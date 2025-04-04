@@ -85,7 +85,6 @@ onair:
       - '物语系列 Off&Monster Season'
       - 'Monogatari Series: Off & Monster Season'
     bgm: '475354'
-    status: onair
     fansub:
       - 猎户手抄部
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22物语系列%20外传季&amp;怪物季%22%2C%22〈物語〉シリーズ%20オフ&amp;モンスターシーズン%22%2C%22物语系列%20Off&amp;Monster季%22%2C%22物语系列%20Off&amp;Monster%20Season%22%2C%22Monogatari%20Series:%20Off%20&amp;%20Monster%20Season%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z
@@ -102,7 +101,6 @@ onair:
 
   - title: 多数欠
     bgm: '477204'
-    status: onair
     fansub:
       - LoliHouse
     # https://garden.onekuma.cn/resources/1?include=%5B%5B%22多数欠%22%5D%5D&after=2024-06-30T16%3A00%3A00.000Z

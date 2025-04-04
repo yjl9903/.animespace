@@ -1,4 +1,4 @@
-# Generated at 2025-02-09 07:48
+# Generated at 2025-03-30 09:19
 
 season: 1
 
@@ -46,3 +46,51 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/moe/67a86ec5ddfe370007f8315f
+
+  - filename: 魔神创造传 S01E07 {Kirara Fantasia}.mp4
+    fansub: Kirara Fantasia
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67bae3c6c7f6470007bef698
+
+  - filename: 魔神创造传 S01E08 {Kirara Fantasia}.mp4
+    fansub: Kirara Fantasia
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67c41e4cc7f647000708e39a
+
+  - filename: 魔神创造传 S01E09 {Kirara Fantasia}.mp4
+    fansub: Kirara Fantasia
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67cd58dbc7f647000755ad95
+
+  - filename: 魔神创造传 S01E10 {Kirara Fantasia}.mp4
+    fansub: Kirara Fantasia
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67d6934fc7f6470007a39c14
+
+  - filename: 魔神创造传 S01E11 {Kirara Fantasia}.mp4
+    fansub: Kirara Fantasia
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67dfcdd1c7f6470007f17b35
+
+  - filename: 魔神创造传 S01E12 {Kirara Fantasia}.mp4
+    fansub: Kirara Fantasia
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67e90853c7f647000741a1e0

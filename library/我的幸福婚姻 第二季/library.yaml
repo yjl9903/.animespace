@@ -1,4 +1,4 @@
-# Generated at 2025-02-13 01:51
+# Generated at 2025-03-19 11:13
 
 season: 2
 
@@ -60,3 +60,48 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/689356_01_2_Watashi_no_Shiawase_na_Kekkon_S2_06_1080p.html
+
+  - filename: 我的幸福婚姻 S01E19 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    season: 2
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689983_01_2_Watashi_no_Shiawase_na_Kekkon_S2_07_1080p.html
+
+  - filename: 我的幸福婚姻 S01E20 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    season: 2
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/690263_01_2_Watashi_no_Shiawase_na_Kekkon_S2_08_1080p.html
+
+  - filename: 我的幸福婚姻 S01E21 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    season: 2
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/690646_01_2_Watashi_no_Shiawase_na_Kekkon_S2_09_1080p.html
+
+  - filename: 我的幸福婚姻 S01E22 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    season: 2
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/691155_01_2_Watashi_no_Shiawase_na_Kekkon_S2_10_1080p.html
+
+  - filename: 我的幸福婚姻 S01E23 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    season: 2
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/691629_01_2_Watashi_no_Shiawase_na_Kekkon_S2_11_1080p.html

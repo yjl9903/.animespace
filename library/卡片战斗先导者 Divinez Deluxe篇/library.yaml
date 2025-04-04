@@ -1,5 +1,107 @@
-# Generated at 2025-01-04 12:02
+# Generated at 2025-04-04 09:13
+
+season: 7
+
+date: 2025-01-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 卡片战斗先导者overDress S07E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/687481_ANi_%21%21_Divinez_DELUXE_-_01_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688144_ANi_%21%21_Divinez_DELUXE_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/688600_ANi_%21%21_Divinez_DELUXE_-_03_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689007_ANi_%21%21_Divinez_DELUXE_-_04_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E05 {灼眼のシャナ}.mp4
+    fansub: 灼眼のシャナ
+    type: 番剧
+    season: 3
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689477_ANi_%21%21_Divinez_DELUXE_-_05_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689907_ANi_%21%21_Divinez_DELUXE_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/690901_ANi_%21%21_Divinez_DELUXE_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/691336_ANi_%21%21_Divinez_DELUXE_-_08_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/691789_ANi_%21%21_Divinez_DELUXE_-_09_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/692202_ANi_%21%21_Divinez_DELUXE_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 卡片战斗先导者overDress S07E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/692582_ANi_%21%21_Divinez_DELUXE_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

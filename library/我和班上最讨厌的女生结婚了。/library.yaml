@@ -1,4 +1,4 @@
-# Generated at 2025-02-08 12:29
+# Generated at 2025-03-22 12:21
 
 season: 1
 
@@ -54,3 +54,51 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/689044_ANi_-_06_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我和班上最讨厌的女生结婚了。 S01E07 {灼眼のシャナ}.mp4
+    fansub: 灼眼のシャナ
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/689481_ANi_-_07_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我和班上最讨厌的女生结婚了。 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67b8a32ec7f6470007ac9548
+
+  - filename: 我和班上最讨厌的女生结婚了。 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67c1ddafc7f6470007f6ed39
+
+  - filename: 我和班上最讨厌的女生结婚了。 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/690917_ANi_-_10_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我和班上最讨厌的女生结婚了。 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/691350_ANi_-_11_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 我和班上最讨厌的女生结婚了。 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67dd8d30c7f6470007dd83d9
