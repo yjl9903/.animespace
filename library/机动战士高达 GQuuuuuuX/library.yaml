@@ -1,5 +1,16 @@
-# Generated at 2025-04-04 09:49
+# Generated at 2025-04-10 03:16
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 机动战士高达 GQuuuuuuX S01E01 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/692967_SweetSub_GQuuuuuuX_Mobile_Suit_Gundam_GQuuuuuuX_01_WebRip_1080P_AVC_8bit.html

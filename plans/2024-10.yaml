@@ -63,7 +63,6 @@ onair:
       - 'Chi.: Chikyuu no Undou ni Tsuite'
       - 'Orb: On the Movements of the Earth'
     bgm: '389156'
-    status: onair
     fansub:
       - 猎户发布组
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22地。-关于地球的运动-%22%2C%22チ。―地球の運動について―%22%2C%22Chi.:%20Chikyuu%20no%20Undou%20ni%20Tsuite%22%2C%22Orb:%20On%20the%20Movements%20of%20the%20Earth%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
@@ -88,7 +87,6 @@ onair:
       - '凍牌～裏レート麻雀闘牌録～'
       - 'Touhai: Ura Rate Mahjong Touhai Roku'
     bgm: '474801'
-    status: onair
     preference:
       keyword:
         exclude:
@@ -117,7 +115,6 @@ onair:
       - 'Trillion Game'
       - '1,000,000,000,000$ GAME'
     bgm: '454787'
-    status: onair
     fansub:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22一兆游戏%22%2C%22トリリオンゲーム%22%2C%22Trillion%20Game%22%2C%221%2C000%2C000%2C000%2C000$%20GAME%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
@@ -160,7 +157,6 @@ onair:
       - 'Re:ゼロから始める異世界生活 (2024)'
       - 'Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season Shuugeki Hen'
       - 'Re:ZERO -Starting Life in Another World- Season 3 Shuugeki Hen'
-    status: onair
     season: 1
     rewrite:
       title: Re：从零开始的异世界生活
@@ -197,7 +193,6 @@ onair:
       - 'Amagami-san Chi no Enmusubi'
       - 'Tying the Knot with an Amagami Sister'
     bgm: '431370'
-    status: onair
     fansub:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22缘结甘神家%22%2C%22甘神さんちの縁結び%22%2C%22结缘甘神神社%22%2C%22甘神家的连理枝%22%2C%22Amagami-san%20Chi%20no%20Enmusubi%22%2C%22Tying%20the%20Knot%20with%20an%20Amagami%20Sister%22%5D%5D&after=2024-09-30T16%3A00%3A00.000Z
@@ -211,7 +206,6 @@ onair:
     season: 3
     rewrite:
       title: 平凡职业造就世界最强
-    status: onair
     bgm: '400576'
     fansub:
       - ANi

@@ -44,7 +44,7 @@ onair:
       - '機動戦士Gundam ジークアクス'
     bgm: '526816'
     fansub:
-      - ANi
+      - SweetSub
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22机动战士高达%20GQuuuuuuX%22%2C%22機動戦士Gundam%20GQuuuuuuX%22%2C%22Mobile%20Suit%20Gundam%20GQuuuuuuX%22%2C%22機動戦士Gundam%20ジークアクス%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
 
   - title: 小市民系列 第二季
@@ -62,6 +62,12 @@ onair:
     alias:
       - '黒執事 -緑の魔女編-'
     bgm: '502875'
+    season: 5
+    rewrite:
+      title: 黑执事
+    fansub:
+      - ANi
+      - 豌豆字幕组
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22黑执事%20-绿之魔女篇-%22%2C%22黒執事%20-緑の魔女編-%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
 
   - title: 打了300年的史莱姆，不知不觉就练到了满级 ～其二～

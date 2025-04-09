@@ -1,5 +1,16 @@
-# Generated at 2025-04-08 10:57
+# Generated at 2025-04-10 03:02
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 阳光马达棒球场！ S01E01 {奇怪机翻组}.mkv
+    fansub: 奇怪机翻组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/692843_Ballpark_de_Tsukamaete_01_WebRip_1080P_HEVC-10Bits_AAC-2_0.html
