@@ -1,0 +1,12 @@
+# Generated at 2025-04-04 10:06
+
+storage: anime
+
+videos:
+  - filename: 直至魔女消逝 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/692563_LoliHouse_Aru_Majo_ga_Shinu_Made_-_01_WebRip_1080p_HEVC-10bit_AAC.html

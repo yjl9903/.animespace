@@ -1,0 +1,16 @@
+# Generated at 2025-04-08 11:13
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 赛马娘 芦毛灰姑娘 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/692900_LoliHouse_Uma_Musume_Cinderella_Gray_-_01_WebRip_1080p_HEVC-10bit_AAC.html

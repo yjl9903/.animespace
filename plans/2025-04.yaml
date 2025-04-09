@@ -1,0 +1,140 @@
+title: 创建于 2025-04-04 09:20
+
+date: 2025-04-01 12:00
+
+status: onair
+
+onair:
+  - title: 摇滚乃是淑女的爱好
+    alias:
+      - 'ロックは淑女の嗜みでして'
+      - '摇滚乐是淑女的嗜好'
+      - '摇滚乃淑女之嗜好'
+      - '搖滾樂是淑女的嗜好'
+      - 'Rock wa Lady no Tashinami deshite'
+      - "Rock Is a Lady's Modesty"
+    bgm: '504678'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22摇滚乃是淑女的爱好%22%2C%22ロックは淑女の嗜みでして%22%2C%22摇滚乐是淑女的嗜好%22%2C%22摇滚乃淑女之嗜好%22%2C%22搖滾樂是淑女的嗜好%22%2C%22Rock%20wa%20Lady%20no%20Tashinami%20deshite%22%2C%22Rock%20Is%20a%20Lady's%20Modesty%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 赛马娘 芦毛灰姑娘
+    alias:
+      - 'ウマ娘 シンデレラグレイ'
+      - '赛马娘 栗帽灰姑娘'
+      - '赛马娘 Cinderella Gray'
+      - 'Uma Musume Cinderella Gray'
+    bgm: '509297'
+    fansub:
+      - LoliHouse
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22赛马娘%20芦毛灰姑娘%22%2C%22ウマ娘%20シンデレラグレイ%22%2C%22赛马娘%20栗帽灰姑娘%22%2C%22赛马娘%20Cinderella%20Gray%22%2C%22Uma%20Musume%20Cinderella%20Gray%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 莉可丽丝 朋友是时间小偷。
+    alias:
+      - 'リコリス・リコイル Friends are thieves of time.'
+      - 'リコリス・リコイル オリジナルショートムービー'
+      - '莉可丽丝 短片'
+    bgm: '504950'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22莉可丽丝%20朋友是时间小偷。%22%2C%22リコリス・リコイル%20Friends%20are%20thieves%20of%20time.%22%2C%22リコリス・リコイル%20オリジナルショートムービー%22%2C%22莉可丽丝%20短片%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 机动战士高达 GQuuuuuuX
+    alias:
+      - '機動戦士Gundam GQuuuuuuX'
+      - 'Mobile Suit Gundam GQuuuuuuX'
+      - '機動戦士Gundam ジークアクス'
+    bgm: '526816'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22机动战士高达%20GQuuuuuuX%22%2C%22機動戦士Gundam%20GQuuuuuuX%22%2C%22Mobile%20Suit%20Gundam%20GQuuuuuuX%22%2C%22機動戦士Gundam%20ジークアクス%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 小市民系列 第二季
+    alias:
+      - '小市民シリーズ 第2期'
+    rewrite:
+      title: 小市民系列
+    season: 1
+    bgm: '513018'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22小市民系列%20第二季%22%2C%22小市民シリーズ%20第2期%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 黑执事 -绿之魔女篇-
+    alias:
+      - '黒執事 -緑の魔女編-'
+    bgm: '502875'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22黑执事%20-绿之魔女篇-%22%2C%22黒執事%20-緑の魔女編-%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 打了300年的史莱姆，不知不觉就练到了满级 ～其二～
+    alias:
+      - 'スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～'
+      - 'スライム倒して300年、知らないうちにレベルMAXになってました 第2期'
+      - '打了300年的史莱姆，不知不觉就练到了满级 第二季'
+      - '打了三百年的史莱姆，不知不觉就练到了满等 第二季'
+      - '持续狩猎史莱姆三百年，不知不觉就练到LV MAX 第二季'
+      - 'Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season'
+      - 'I`ve Been Killing Slimes for 300 Years and Maxed Out My Level 2nd Season'
+    season: 2
+    rewrite:
+      title: 打了300年的史莱姆，不知不觉就练到了满级
+    bgm: '364844'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22打了300年的史莱姆，不知不觉就练到了满级%20～其二～%22%2C%22スライム倒して300年、知らないうちにレベルMAXになってました%20～そのに～%22%2C%22スライム倒して300年、知らないうちにレベルMAXになってました%20第2期%22%2C%22打了300年的史莱姆，不知不觉就练到了满级%20第二季%22%2C%22打了三百年的史莱姆，不知不觉就练到了满等%20第二季%22%2C%22持续狩猎史莱姆三百年，不知不觉就练到LV%20MAX%20第二季%22%2C%22Slime%20Taoshite%20300-nen%2C%20Shiranai%20Uchi%20ni%20Level%20Max%20ni%20Nattemashita%202nd%20Season%22%2C%22I`ve%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level%202nd%20Season%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 随兴旅-That''s Journey-
+    alias:
+      - "ざつ旅-That's Journey-"
+      - "杂旅-That's Journey-"
+      - "Zatsu Tabi: That's Journey"
+    bgm: '437593'
+    fansub:
+      - 喵萌奶茶屋
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22随兴旅-That's%20Journey-%22%2C%22ざつ旅-That's%20Journey-%22%2C%22杂旅-That's%20Journey-%22%2C%22Zatsu%20Tabi:%20That's%20Journey%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 末日后酒店
+    alias:
+      - 'アポカリプスホテル'
+      - '启示录酒店'
+      - '天启酒店'
+      - 'Apocalypse Hotel'
+    bgm: '509986'
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22末日后酒店%22%2C%22アポカリプスホテル%22%2C%22启示录酒店%22%2C%22天启酒店%22%2C%22Apocalypse%20Hotel%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 直至魔女消逝
+    alias:
+      - 'ある魔女が死ぬまで'
+      - '直到某魔女死去'
+      - 'Aru Majo ga Shinu Made'
+      - 'Until the Witch Dies'
+    bgm: '501702'
+    fansub:
+      - LoliHouse
+      - Kirara Fantasia
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22直至魔女消逝%22%2C%22ある魔女が死ぬまで%22%2C%22直到某魔女死去%22%2C%22Aru%20Majo%20ga%20Shinu%20Made%22%2C%22Until%20the%20Witch%20Dies%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 夏日口袋
+    alias:
+      - 'Summer Pockets'
+    bgm: '363957'
+    fansub:
+      - ANi
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22夏日口袋%22%2C%22Summer%20Pockets%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 拉撒路
+    alias:
+      - 'LAZARUS'
+      - 'ラザロ'
+    bgm: '446296'
+    fansub:
+      - 喵萌奶茶屋
+    # https://garden.breadio.wiki/resources/1?include=%5B%5B%22拉撒路%22%2C%22LAZARUS%22%2C%22ラザロ%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 阳光马达棒球场！
+    alias:
+      - '阳光马达棒球场'
+      - 'ボールパークでつかまえて！'
+      - 'Ballpark de Tsukamaete!'
+      - 'The Catcher in the Ballpark!'
+    bgm: '524123'
+    fansub:
+      - 奇怪机翻组

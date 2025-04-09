@@ -1,0 +1,16 @@
+# Generated at 2025-04-08 12:50
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 随兴旅-That''s Journey- S01E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/692833_04_-That_s_Journey-_Zatsu_Tabi_That_s_Journey_01_1080p.html

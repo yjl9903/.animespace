@@ -1,0 +1,12 @@
+# Generated at 2025-04-04 09:59
+
+storage: anime
+
+videos:
+  - filename: 摇滚乃是淑女的爱好 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/moe/67eeb0b3c7f6470007744baa

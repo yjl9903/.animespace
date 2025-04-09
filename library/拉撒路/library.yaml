@@ -1,0 +1,12 @@
+# Generated at 2025-04-08 11:28
+
+storage: anime
+
+videos:
+  - filename: 拉撒路 S01E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/692771_04_LAZARUS_01_1080p.html

@@ -40,6 +40,7 @@ preference:
         - '内嵌'
         - '内封'
       platform:
+        - B-Global
         - Baha
         - ABEMA
         - Viu

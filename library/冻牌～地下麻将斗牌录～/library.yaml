@@ -1,4 +1,4 @@
-# Generated at 2025-03-29 04:37
+# Generated at 2025-04-08 12:35
 
 season: 1
 
@@ -198,3 +198,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/692256_ANi_-_24_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
+
+  - filename: 冻牌～地下麻将斗牌录～ S01E25 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 25
+    source:
+      type: AnimeGarden
+      magnet: https://garden.breadio.wiki/detail/dmhy/692608_ANi_-_25_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html
