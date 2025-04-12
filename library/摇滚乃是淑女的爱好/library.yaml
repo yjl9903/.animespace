@@ -1,4 +1,8 @@
-# Generated at 2025-04-04 09:59
+# Generated at 2025-04-11 10:32
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
@@ -10,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/moe/67eeb0b3c7f6470007744baa
+
+  - filename: 摇滚乃是淑女的爱好 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693074_ANi_Rock_Is_a_Ladys_Modesty_-_02_1080P_Baha_WEB-DL_AAC_AVC_CHT_MP4.html

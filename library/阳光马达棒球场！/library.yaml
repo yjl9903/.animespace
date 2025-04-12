@@ -1,4 +1,4 @@
-# Generated at 2025-04-10 03:02
+# Generated at 2025-04-11 01:03
 
 season: 1
 
@@ -13,4 +13,12 @@ videos:
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/692843_Ballpark_de_Tsukamaete_01_WebRip_1080P_HEVC-10Bits_AAC-2_0.html
+      magnet: https://animes.garden/detail/dmhy/693030_Ballpark_de_Tsukamaete_01v2_WebRip_1080P_HEVC-10Bits_AAC-2_0.html
+
+  - filename: 阳光马达棒球场！ S01E02 {奇怪机翻组}.mkv
+    fansub: 奇怪机翻组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693031_Ballpark_de_Tsukamaete_02_WebRip_1080P_HEVC-10Bits_AAC-2_0.html
