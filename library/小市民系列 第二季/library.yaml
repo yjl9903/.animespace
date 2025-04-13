@@ -1,4 +1,4 @@
-# Generated at 2025-04-10 02:44
+# Generated at 2025-04-13 03:55
 
 season: 1
 
@@ -15,3 +15,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/ani/%5BANi%5D%20SHOSHIMIN%20How%20to%20Become%20Ordinary%20S02%20-%20%E5%B0%8F%E5%B8%82%E6%B0%91%E7%B3%BB%E5%88%97%20%E7%AC%AC%E4%BA%8C%E5%AD%A3%20-%2011%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.torrent
+
+  - filename: 小市民系列 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/67faaa53c7f6470007edb122

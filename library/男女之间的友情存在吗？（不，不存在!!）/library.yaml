@@ -1,0 +1,20 @@
+# Generated at 2025-04-13 01:33
+
+storage: anime
+
+videos:
+  - filename: 男女之间的友情存在吗？（不，不存在!!） S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/67f24944c7f6470007969f1c
+
+  - filename: 男女之间的友情存在吗？（不，不存在!!） S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/67fa1b5cc7f6470007e78d23

@@ -128,6 +128,7 @@ onair:
     rewrite:
       title: 药屋少女的呢喃
     bgm: '486347'
+    status: onair
     fansub:
       - 豌豆字幕组
       - 天月動漫&發佈組
@@ -271,7 +272,6 @@ onair:
         fansub: 喵萌奶茶屋
         offset: +12
     bgm: '455626'
-    status: onair
     fansub:
       - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22我的幸福婚姻%20第二季%22%2C%22わたしの幸せな結婚%20第二期%22%2C%22我的幸福婚约%20第二季%22%2C%22我的美好婚事%20第二季%22%2C%22Watashi%20no%20Shiawase%20na%20Kekkon%20(2025)%22%2C%22My%20Happy%20Marriage%20(2025)%22%2C%22Watashi%20no%20Shiawase%20na%20Kekkon%202nd%20Season%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z

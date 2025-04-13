@@ -1,5 +1,16 @@
-# Generated at 2025-04-04 09:49
+# Generated at 2025-04-13 01:19
+
+season: 2
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 打了300年的史莱姆，不知不觉就练到了满级 S02E01 {不当舔狗制作组}.mkv
+    fansub: 不当舔狗制作组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/692769_300_-_01_CR_WebRip_2160p_HEVC-10bit_AAC.html

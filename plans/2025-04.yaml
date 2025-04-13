@@ -26,6 +26,7 @@ onair:
       - 'Uma Musume Cinderella Gray'
     bgm: '509297'
     fansub:
+      - S1百综字幕组
       - LoliHouse
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22赛马娘%20芦毛灰姑娘%22%2C%22ウマ娘%20シンデレラグレイ%22%2C%22赛马娘%20栗帽灰姑娘%22%2C%22赛马娘%20Cinderella%20Gray%22%2C%22Uma%20Musume%20Cinderella%20Gray%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
 
@@ -61,6 +62,7 @@ onair:
   - title: 黑执事 -绿之魔女篇-
     alias:
       - '黒執事 -緑の魔女編-'
+      - '黑執事 綠之魔女篇'
     bgm: '502875'
     season: 5
     rewrite:
@@ -84,7 +86,7 @@ onair:
       title: 打了300年的史莱姆，不知不觉就练到了满级
     bgm: '364844'
     fansub:
-      - ANi
+      - 不当舔狗制作组
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22打了300年的史莱姆，不知不觉就练到了满级%20～其二～%22%2C%22スライム倒して300年、知らないうちにレベルMAXになってました%20～そのに～%22%2C%22スライム倒して300年、知らないうちにレベルMAXになってました%20第2期%22%2C%22打了300年的史莱姆，不知不觉就练到了满级%20第二季%22%2C%22打了三百年的史莱姆，不知不觉就练到了满等%20第二季%22%2C%22持续狩猎史莱姆三百年，不知不觉就练到LV%20MAX%20第二季%22%2C%22Slime%20Taoshite%20300-nen%2C%20Shiranai%20Uchi%20ni%20Level%20Max%20ni%20Nattemashita%202nd%20Season%22%2C%22I`ve%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level%202nd%20Season%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
 
   - title: 随兴旅-That''s Journey-
@@ -104,6 +106,8 @@ onair:
       - '天启酒店'
       - 'Apocalypse Hotel'
     bgm: '509986'
+    fansub:
+      - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22末日后酒店%22%2C%22アポカリプスホテル%22%2C%22启示录酒店%22%2C%22天启酒店%22%2C%22Apocalypse%20Hotel%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
 
   - title: 直至魔女消逝
@@ -133,6 +137,7 @@ onair:
     bgm: '446296'
     fansub:
       - 喵萌奶茶屋
+      - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22拉撒路%22%2C%22LAZARUS%22%2C%22ラザロ%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
 
   - title: 阳光马达棒球场！
@@ -144,3 +149,55 @@ onair:
     bgm: '524123'
     fansub:
       - 奇怪机翻组
+
+  - title: 紫云寺家的兄弟姐妹
+    alias:
+      - '紫雲寺家の子供たち'
+      - '紫云寺家的孩子们'
+      - '紫雲寺家的兄弟姊妹'
+      - 'Shiunji-ke no Kodomotachi'
+      - 'The Shiunji Family Children'
+    bgm: '480545'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=紫云寺家的兄弟姐妹&include=紫雲寺家の子供たち&include=紫云寺家的孩子们&include=紫雲寺家的兄弟姊妹&include=Shiunji-ke%20no%20Kodomotachi&include=The%20Shiunji%20Family%20Children&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 男女之间的友情存在吗？（不，不存在!!）
+    alias:
+      - '男女の友情は成立する？（いや、しないっ!!）'
+      - '男女之间存在纯友情吗？（不，不存在！！）'
+      - 'Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)'
+      - 'Can a Boy and Girl Friendship Hold Up? (No, It Can''t!!)'
+    bgm: '395493'
+    fansub:
+      - LoliHouse
+    # https://animes.garden/resources/1?include=男女之间的友情存在吗？（不，不存在!!）&include=男女の友情は成立する？（ いや、しないっ!!）&include=男女之间存在纯友情吗？（不，不存在！！）&include=Danjo%20no%20Yuujou%20wa%20Seiritsu%20suru?%20(Iya%2C%20Shinai!!)&include=Can%20a%20Boy%20and%20Girl%20Friendship%20Hold%20Up?%20(No%2C%20It%20Can't!!)&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: mono女孩
+    alias:
+      - 'mono'
+    bgm: '485936'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=mono女孩&include=mono&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 时光流逝，饭菜依旧美味
+    alias:
+      - '日々は過ぎれど飯うまし'
+      - '歲月流逝飯菜依舊美味'
+      - 'Hibi wa Sugiredo Meshi Umashi'
+      - 'Food for the Soul'
+    bgm: '531159'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=时光流逝，饭菜依旧美味&include=日々は過ぎれど飯うまし&include=歲月流逝飯菜依舊美味&include=Hibi%20wa%20Sugiredo%20Meshi%20Umashi&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 九龙大众浪漫
+    alias:
+      - '九龍ジェネリックロマンス'
+      - '九龙泛型浪漫'
+      - 'Kowloon Generic Romance'
+    bgm: '518090'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=九龙大众浪漫&include=九龍ジェネリックロマンス&include=九龙泛型浪漫&include=Kowloon%20Generic%20Romance&after=2025-03-31T16%3A00%3A00.000Z

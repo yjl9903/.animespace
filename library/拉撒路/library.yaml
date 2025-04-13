@@ -1,4 +1,8 @@
-# Generated at 2025-04-08 11:28
+# Generated at 2025-04-14 03:52
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
@@ -10,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/692771_04_LAZARUS_01_1080p.html
+
+  - filename: 拉撒路 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/%5BANi%5D%20Lazarus%20-%20LAZARUS%20%E6%8B%89%E6%92%92%E8%B7%AF%20-%2002%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.torrent

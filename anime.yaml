@@ -34,6 +34,7 @@ preference:
         - 繁
         - CHT
       resolution:
+        - '2160'
         - '1080'
         - '720'
       fansub:

@@ -1,5 +1,16 @@
-# Generated at 2025-04-04 09:49
+# Generated at 2025-04-14 02:27
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 末日后酒店 S01E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693244_04_Apocalypse_Hotel_01_1080p.html

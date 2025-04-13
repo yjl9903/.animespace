@@ -1,5 +1,24 @@
-# Generated at 2025-04-04 09:49
+# Generated at 2025-04-13 01:09
+
+season: 5
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 黑执事 S05E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/67f153bac7f64700078cb9ee
+
+  - filename: 黑执事 S05E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/67fa8e3cc7f6470007ec6591

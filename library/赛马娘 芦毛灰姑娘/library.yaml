@@ -1,4 +1,4 @@
-# Generated at 2025-04-08 11:13
+# Generated at 2025-04-14 02:16
 
 season: 1
 
@@ -14,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://garden.breadio.wiki/detail/dmhy/692900_LoliHouse_Uma_Musume_Cinderella_Gray_-_01_WebRip_1080p_HEVC-10bit_AAC.html
+
+  - filename: 赛马娘 芦毛灰姑娘 S01E02 {S1百综字幕组}.mkv
+    fansub: S1百综字幕组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693291_S1_Uma_Musume_Cinderella_Gray_02_WebRip_x264_EAC3.html
