@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - '@naria2/node'
+  - bufferutil
+  - fs-native-extensions
+  - node-datachannel
+  - utf-8-validate
+  - utp-native
