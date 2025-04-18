@@ -35,7 +35,10 @@ onair:
       - 'リコリス・リコイル Friends are thieves of time.'
       - 'リコリス・リコイル オリジナルショートムービー'
       - '莉可丽丝 短片'
+      - 'Lycoris Recoil 莉可麗絲：友誼是時間的竊賊'
     bgm: '504950'
+    fansub:
+      - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22莉可丽丝%20朋友是时间小偷。%22%2C%22リコリス・リコイル%20Friends%20are%20thieves%20of%20time.%22%2C%22リコリス・リコイル%20オリジナルショートムービー%22%2C%22莉可丽丝%20短片%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
 
   - title: 机动战士高达 GQuuuuuuX
@@ -177,6 +180,9 @@ onair:
     alias:
       - 'mono'
     bgm: '485936'
+    preference:
+      keyword:
+        exclude: [Mononoke]
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=mono女孩&include=mono&after=2025-03-31T16%3A00%3A00.000Z

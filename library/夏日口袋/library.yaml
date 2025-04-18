@@ -1,4 +1,4 @@
-# Generated at 2025-04-11 12:41
+# Generated at 2025-04-19 03:07
 
 season: 1
 
@@ -13,4 +13,12 @@ videos:
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/ani/%5BANi%5D%20Summer%20Pockets%20-%20Summer%20Pockets%20-%2001%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.torrent
+      magnet: https://animes.garden/detail/ani/0d52a5a2149650e756f1960d39a90bebb8c5165e
+
+  - filename: 夏日口袋 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693363

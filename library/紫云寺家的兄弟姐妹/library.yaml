@@ -1,4 +1,8 @@
-# Generated at 2025-04-13 01:24
+# Generated at 2025-04-19 03:33
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
@@ -9,4 +13,12 @@ videos:
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/ani/%5BANi%5D%20The%20Shiunji%20Family%20Children%20-%20%E7%B4%AB%E9%9B%B2%E5%AF%BA%E5%AE%B6%E7%9A%84%E5%85%84%E5%BC%9F%E5%A7%8A%E5%A6%B9%20-%2001%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.torrent
+      magnet: https://animes.garden/detail/ani/06aaa91d95f9b10bf5774cfd393c39d16e4fa94b
+
+  - filename: 紫云寺家的兄弟姐妹 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693420

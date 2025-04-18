@@ -1,4 +1,4 @@
-# Generated at 2025-04-08 12:50
+# Generated at 2025-04-16 10:13
 
 season: 1
 
@@ -13,4 +13,12 @@ videos:
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://garden.breadio.wiki/detail/dmhy/692833_04_-That_s_Journey-_Zatsu_Tabi_That_s_Journey_01_1080p.html
+      magnet: https://animes.garden/detail/dmhy/692833
+
+  - filename: 随兴旅-That''s Journey- S01E02 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693462
