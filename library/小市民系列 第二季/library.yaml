@@ -1,4 +1,4 @@
-# Generated at 2025-04-19 02:47
+# Generated at 2025-04-20 09:55
 
 season: 1
 
@@ -7,6 +7,15 @@ date: 2025-04-01T04:00:00.000Z
 storage: anime
 
 videos:
+  - filename: 小市民系列 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 1
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/67faaa53c7f6470007edb122
+
   - filename: 小市民系列 S01E11 {ANi}.mp4
     fansub: ANi
     type: 番剧
@@ -14,13 +23,13 @@ videos:
     episode: 11
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/ani/6c44213510b1756c55ec48c1670701a571f84e3d
+      magnet: https://animes.garden/detail/dmhy/692684
 
-  - filename: 小市民系列 S01E12 {ANi}.mp4
+  - filename: 小市民系列 S01E13 {ANi}.mp4
     fansub: ANi
     type: 番剧
     season: 2
-    episode: 12
+    episode: 13
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/moe/67faaa53c7f6470007edb122
+      magnet: https://animes.garden/detail/dmhy/693668

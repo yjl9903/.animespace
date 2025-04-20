@@ -1,4 +1,8 @@
-# Generated at 2025-04-13 01:33
+# Generated at 2025-04-19 11:17
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
@@ -18,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/67fa1b5cc7f6470007e78d23
+
+  - filename: 男女之间的友情存在吗？（不，不存在!!） S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693621
