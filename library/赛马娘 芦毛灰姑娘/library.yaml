@@ -1,4 +1,4 @@
-# Generated at 2025-04-20 09:52
+# Generated at 2025-04-21 10:28
 
 season: 1
 
@@ -23,10 +23,10 @@ videos:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/693291
 
-  - filename: 赛马娘 芦毛灰姑娘 S01E03 {LoliHouse}.mkv
-    fansub: LoliHouse
+  - filename: 赛马娘 芦毛灰姑娘 S01E03 {S1百综字幕组}.mkv
+    fansub: S1百综字幕组
     type: 番剧
     episode: 3
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/693717
+      magnet: https://animes.garden/detail/dmhy/693764

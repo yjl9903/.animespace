@@ -1,4 +1,4 @@
-# Generated at 2025-04-20 10:08
+# Generated at 2025-04-22 11:48
 
 season: 1
 
@@ -21,4 +21,12 @@ videos:
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/693420
+      magnet: https://animes.garden/detail/ani/4e430741549940db832475f2ca804fbd20030a0c
+
+  - filename: 紫云寺家的兄弟姐妹 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693855

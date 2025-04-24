@@ -1,4 +1,4 @@
-# Generated at 2025-04-17 11:52
+# Generated at 2025-04-23 01:40
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/693557
+
+  - filename: 直至魔女消逝 S01E04 {Kirara Fantasia}.mp4
+    fansub: Kirara Fantasia
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6807b639c7f647000777d85f

@@ -1,4 +1,4 @@
-# Generated at 2025-04-15 11:30
+# Generated at 2025-04-21 10:38
 
 season: 1
 
@@ -22,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/693377
+
+  - filename: 拉撒路 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693736
