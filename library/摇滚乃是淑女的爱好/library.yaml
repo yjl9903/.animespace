@@ -1,4 +1,4 @@
-# Generated at 2025-04-20 09:42
+# Generated at 2025-04-25 01:16
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/680125ccc7f647000732878f
+
+  - filename: 摇滚乃是淑女的爱好 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/680a603dc7f64700078fd910
