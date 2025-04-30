@@ -1,4 +1,4 @@
-# Generated at 2025-04-22 12:06
+# Generated at 2025-04-29 10:45
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/693791
+
+  - filename: 夏日口袋 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694269

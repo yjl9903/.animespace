@@ -1,4 +1,4 @@
-# Generated at 2025-04-24 09:01
+# Generated at 2025-04-29 08:30
 
 season: 1
 
@@ -30,3 +30,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/ani/48038abe789a4b3b7fbe689bfa39984139d65814
+
+  - filename: 九龙大众浪漫 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/680cee1dc7f6470007a870d4

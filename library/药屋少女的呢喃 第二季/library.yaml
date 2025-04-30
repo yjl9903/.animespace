@@ -1,4 +1,4 @@
-# Generated at 2025-04-19 10:54
+# Generated at 2025-04-28 11:16
 
 season: 1
 
@@ -126,3 +126,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/693617
+
+  - filename: 药屋少女的呢喃 S01E40 {豌豆字幕组}.mp4
+    fansub: 豌豆字幕组
+    type: 番剧
+    episode: 40
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694068

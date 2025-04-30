@@ -1,4 +1,4 @@
-# Generated at 2025-04-24 08:59
+# Generated at 2025-04-29 08:21
 
 season: 1
 
@@ -22,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/ani/68fe38bbdcbeeb4486c1b363587df3f033b7629e
+
+  - filename: 时光流逝，饭菜依旧美味 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694119

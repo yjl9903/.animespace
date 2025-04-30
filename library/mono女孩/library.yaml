@@ -1,4 +1,4 @@
-# Generated at 2025-04-24 08:57
+# Generated at 2025-04-29 08:13
 
 season: 1
 
@@ -22,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/ani/70ee003caae535602e20b38c72d6dbfe56bb0b56
+
+  - filename: mono女孩 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694117

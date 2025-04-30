@@ -1,4 +1,4 @@
-# Generated at 2025-04-24 08:51
+# Generated at 2025-04-29 10:09
 
 season: 1
 
@@ -33,3 +33,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/ani/2ce9622e49c1a89c9d74f4cbd2d288dc97232acb
+
+  - filename: 小市民系列 S01E14 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/680d1f58c7f6470007aa8d49
