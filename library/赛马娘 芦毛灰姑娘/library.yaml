@@ -1,4 +1,4 @@
-# Generated at 2025-04-29 10:05
+# Generated at 2025-05-05 07:04
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/694209
+
+  - filename: 赛马娘 芦毛灰姑娘 S01E05 {S1百综字幕组}.mkv
+    fansub: S1百综字幕组
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694686

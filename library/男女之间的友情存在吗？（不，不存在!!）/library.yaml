@@ -1,4 +1,4 @@
-# Generated at 2025-04-29 08:07
+# Generated at 2025-05-03 11:25
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/680c6049c7f6470007a31297
+
+  - filename: 男女之间的友情存在吗？（不，不存在!!） S01E05 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694565

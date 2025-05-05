@@ -1,4 +1,4 @@
-# Generated at 2025-04-20 07:23
+# Generated at 2025-05-05 11:16
 
 season: 1
 
@@ -22,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/693682
+
+  - filename: 末日后酒店 S01E03 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694701

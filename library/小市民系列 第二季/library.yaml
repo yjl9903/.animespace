@@ -1,4 +1,4 @@
-# Generated at 2025-04-29 10:09
+# Generated at 2025-05-04 06:20
 
 season: 1
 
@@ -42,3 +42,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/680d1f58c7f6470007aa8d49
+
+  - filename: 小市民系列 S01E15 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/681659d7c7f64700070e53d1
