@@ -1,4 +1,4 @@
-# Generated at 2025-05-04 09:13
+# Generated at 2025-05-11 01:22
 
 season: 1
 
@@ -38,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/694599
+
+  - filename: 时光流逝，饭菜依旧美味 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694978

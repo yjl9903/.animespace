@@ -96,6 +96,7 @@ onair:
     bgm: '364844'
     fansub:
       - 不当舔狗制作组
+      - 桜都字幕组
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22打了300年的史莱姆，不知不觉就练到了满级%20～其二～%22%2C%22スライム倒して300年、知らないうちにレベルMAXになってました%20～そのに～%22%2C%22スライム倒して300年、知らないうちにレベルMAXになってました%20第2期%22%2C%22打了300年的史莱姆，不知不觉就练到了满级%20第二季%22%2C%22打了三百年的史莱姆，不知不觉就练到了满等%20第二季%22%2C%22持续狩猎史莱姆三百年，不知不觉就练到LV%20MAX%20第二季%22%2C%22Slime%20Taoshite%20300-nen%2C%20Shiranai%20Uchi%20ni%20Level%20Max%20ni%20Nattemashita%202nd%20Season%22%2C%22I`ve%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level%202nd%20Season%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
 
   - title: 随兴旅-That''s Journey-
@@ -128,7 +129,7 @@ onair:
     bgm: '501702'
     fansub:
       - LoliHouse
-      - Kirara Fantasia
+      - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22直至魔女消逝%22%2C%22ある魔女が死ぬまで%22%2C%22直到某魔女死去%22%2C%22Aru%20Majo%20ga%20Shinu%20Made%22%2C%22Until%20the%20Witch%20Dies%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
 
   - title: 夏日口袋
@@ -213,3 +214,12 @@ onair:
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=九龙大众浪漫&include=九龍ジェネリックロマンス&include=九龙泛型浪漫&include=Kowloon%20Generic%20Romance&after=2025-03-31T16%3A00%3A00.000Z
+
+  - title: 前桥魔女
+    alias:
+      - '前橋ウィッチーズ'
+      - 'Maebashi Witches'
+    bgm: '511207'
+    fansub:
+      - 喵萌奶茶屋
+    # https://animes.garden/resources/1?include=前桥魔女&include=前橋ウィッチーズ&include=Maebashi%20Witches&after=2025-06-30T16%3A00%3A00.000Z

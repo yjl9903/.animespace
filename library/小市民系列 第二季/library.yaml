@@ -1,4 +1,4 @@
-# Generated at 2025-05-04 06:20
+# Generated at 2025-05-11 02:20
 
 season: 1
 
@@ -51,3 +51,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/681659d7c7f64700070e53d1
+
+  - filename: 小市民系列 S01E16 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 16
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/681f9458c7f64700077300b5

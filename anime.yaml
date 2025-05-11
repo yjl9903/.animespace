@@ -43,11 +43,11 @@ preference:
       platform:
         - B-Global
         - Baha
-        - ABEMA
-        - Viu
-    # exclude:
-    #   - 外挂
-    #   - 外掛
+    exclude:
+      - ABEMA
+      - Viu
+      # - 外挂
+      # - 外掛
 
 plans:
   - ./plans/*.yaml

@@ -1,4 +1,4 @@
-# Generated at 2025-05-03 12:57
+# Generated at 2025-05-10 08:58
 
 season: 1
 
@@ -142,3 +142,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/694541
+
+  - filename: 药屋少女的呢喃 S01E42 {豌豆字幕组}.mp4
+    fansub: 豌豆字幕组
+    type: 番剧
+    episode: 42
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694933

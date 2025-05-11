@@ -1,4 +1,4 @@
-# Generated at 2025-05-03 01:47
+# Generated at 2025-05-12 12:17
 
 season: 1
 
@@ -46,3 +46,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/694515
+
+  - filename: 直至魔女消逝 S01E06 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694946

@@ -1,4 +1,4 @@
-# Generated at 2025-05-02 12:48
+# Generated at 2025-05-09 12:55
 
 season: 1
 
@@ -46,3 +46,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/68139ac7c7f6470007ef1fb4
+
+  - filename: 摇滚乃是淑女的爱好 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/681cd53ac7f647000757496f
