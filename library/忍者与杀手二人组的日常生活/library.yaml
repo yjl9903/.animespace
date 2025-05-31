@@ -1,0 +1,72 @@
+# Generated at 2025-05-30 03:57
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 忍者与杀手二人组的日常生活 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693054
+
+  - filename: 忍者与杀手二人组的日常生活 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693543
+
+  - filename: 忍者与杀手二人组的日常生活 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/693970
+
+  - filename: 忍者与杀手二人组的日常生活 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694434
+
+  - filename: 忍者与杀手二人组的日常生活 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694888
+
+  - filename: 忍者与杀手二人组的日常生活 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695280
+
+  - filename: 忍者与杀手二人组的日常生活 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/682f1903c7f64700071245c1
+
+  - filename: 忍者与杀手二人组的日常生活 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/696152

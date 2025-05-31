@@ -1,4 +1,4 @@
-# Generated at 2025-05-10 10:58
+# Generated at 2025-05-31 02:55
 
 season: 1
 
@@ -54,3 +54,27 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/681f637ec7f647000770f7cf
+
+  - filename: 男女之间的友情存在吗？（不，不存在!!） S01E07 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695342
+
+  - filename: 男女之间的友情存在吗？（不，不存在!!） S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6830995fc7f647000721c674
+
+  - filename: 男女之间的友情存在吗？（不，不存在!!） S01E09 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/696211

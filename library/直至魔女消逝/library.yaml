@@ -1,4 +1,4 @@
-# Generated at 2025-05-12 12:17
+# Generated at 2025-05-30 03:35
 
 season: 1
 
@@ -47,10 +47,34 @@ videos:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/694515
 
-  - filename: 直至魔女消逝 S01E06 {喵萌奶茶屋}.mp4
-    fansub: 喵萌奶茶屋
+  - filename: 直至魔女消逝 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
     type: 番剧
     episode: 6
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/694946
+      magnet: https://animes.garden/detail/dmhy/695196
+
+  - filename: 直至魔女消逝 S01E07 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695284
+
+  - filename: 直至魔女消逝 S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695753
+
+  - filename: 直至魔女消逝 S01E09 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/696157

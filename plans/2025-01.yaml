@@ -172,7 +172,6 @@ onair:
       keyword:
         exclude:
           - ABEMA
-    status: onair
     fansub:
       - ANi
       - 灼眼のシャナ
@@ -225,7 +224,6 @@ onair:
       - 'GRISAIA：PHANTOM TRIGGER'
     season: 1
     bgm: '371829'
-    status: onair
     fansub:
       - 桜都字幕组
       - 极影字幕社
@@ -280,6 +278,7 @@ onair:
       - '颂乐人偶'
       - 'BanG Dream! 颂乐人偶'
     bgm: '454684'
+    stauts: onair
     fansub:
       - 喵萌奶茶屋
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22BanG%20Dream!%20Ave%20Mujica%22%2C%22颂乐人偶%22%2C%22BanG%20Dream!%20颂乐人偶%22%5D%5D&after=2024-12-31T16%3A00%3A00.000Z

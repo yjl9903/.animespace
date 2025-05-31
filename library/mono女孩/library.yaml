@@ -1,4 +1,4 @@
-# Generated at 2025-05-11 12:48
+# Generated at 2025-05-30 03:39
 
 season: 1
 
@@ -21,7 +21,7 @@ videos:
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/ani/70ee003caae535602e20b38c72d6dbfe56bb0b56
+      magnet: https://animes.garden/detail/dmhy/693664
 
   - filename: mono女孩 S01E03 {ANi}.mp4
     fansub: ANi
@@ -46,3 +46,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/681f7f7fc7f6470007722517
+
+  - filename: mono女孩 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695399
+
+  - filename: mono女孩 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695857

@@ -1,4 +1,8 @@
-# Generated at 2025-05-09 12:25
+# Generated at 2025-05-26 02:32
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
 
 storage: anime
 
@@ -34,3 +38,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/694875
+
+  - filename: 前桥魔女 S01E05 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695932

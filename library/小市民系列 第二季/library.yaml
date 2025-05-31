@@ -1,4 +1,4 @@
-# Generated at 2025-05-11 02:20
+# Generated at 2025-05-30 03:20
 
 season: 1
 
@@ -32,7 +32,7 @@ videos:
     episode: 13
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/ani/2ce9622e49c1a89c9d74f4cbd2d288dc97232acb
+      magnet: https://animes.garden/detail/dmhy/693668
 
   - filename: 小市民系列 S01E14 {ANi}.mp4
     fansub: ANi
@@ -60,3 +60,21 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/681f9458c7f64700077300b5
+
+  - filename: 小市民系列 S01E17 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 17
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6828ced7c7f6470007d292f4
+
+  - filename: 小市民系列 S01E18 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 18
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6832095ac7f647000730fd28

@@ -38,6 +38,7 @@ onair:
       - '莉可丽丝 短片'
       - 'Lycoris Recoil 莉可麗絲：友誼是時間的竊賊'
     bgm: '504950'
+    stauts: finish
     season: 0
     rewrite:
       title: 莉可丽丝
@@ -177,7 +178,7 @@ onair:
       - '男女の友情は成立する？（いや、しないっ!!）'
       - '男女之间存在纯友情吗？（不，不存在！！）'
       - 'Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)'
-      - 'Can a Boy and Girl Friendship Hold Up? (No, It Can''t!!)'
+      - "Can a Boy and Girl Friendship Hold Up? (No, It Can't!!)"
     bgm: '395493'
     fansub:
       - LoliHouse
@@ -223,3 +224,28 @@ onair:
     fansub:
       - 喵萌奶茶屋
     # https://animes.garden/resources/1?include=前桥魔女&include=前橋ウィッチーズ&include=Maebashi%20Witches&after=2025-06-30T16%3A00%3A00.000Z
+
+  - title: 忍者与杀手二人组的日常生活
+    alias:
+      - '忍者と殺し屋のふたりぐらし'
+      - '忍者×杀手二人组的日常生活'
+      - '忍者與殺手的兩人生活'
+      - '忍者与杀手的两人生活'
+      - 'NINJA to KOROSHIYA no FUTARIGURASHI'
+      - 'NINKORO'
+    bgm: '491569'
+    fansub:
+      - ANi
+      - MeiYangYang
+    # https://animes.garden/resources/1?include=忍者与杀手二人组的日常生活&include=忍者と殺し屋のふたりぐらし&include=忍者×杀手二人组的日常生活&include=忍者與殺手的兩人生活&include=NINJA%20to%20KOROSHIYA%20no%20FUTARIGURASHI&include=NINKORO&after=2025-06-30T16%3A00%3A00.000Z
+
+  - title: 鬼人幻灯抄
+    alias:
+      - '鬼人幻燈抄'
+      - 'Kijin Gentoushou'
+      - 'キジンゲントウショウ'
+    bgm: '404753'
+    fansub:
+      - 沸班亚马制作组
+      - ANi
+    # https://animes.garden/resources/1?include=鬼人幻灯抄&include=鬼人幻燈抄&include=Kijin%20Gentoushou&include=キジンゲントウショウ&after=2025-06-30T16%3A00%3A00.000Z

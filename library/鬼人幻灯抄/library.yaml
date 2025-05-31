@@ -1,0 +1,80 @@
+# Generated at 2025-05-26 11:33
+
+season: 1
+
+date: 2025-04-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 鬼人幻灯抄 S01E01 {沸班亚马制作组}.mkv
+    fansub: 沸班亚马制作组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694855
+
+  - filename: 鬼人幻灯抄 S01E02 {沸班亚马制作组}.mkv
+    fansub: 沸班亚马制作组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694860
+
+  - filename: 鬼人幻灯抄 S01E03 {沸班亚马制作组}.mkv
+    fansub: 沸班亚马制作组
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694863
+
+  - filename: 鬼人幻灯抄 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68065dafc7f64700076abe5d
+
+  - filename: 鬼人幻灯抄 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694268
+
+  - filename: 鬼人幻灯抄 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/694741
+
+  - filename: 鬼人幻灯抄 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695107
+
+  - filename: 鬼人幻灯抄 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695530
+
+  - filename: 鬼人幻灯抄 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695984

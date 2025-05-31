@@ -1,4 +1,4 @@
-# Generated at 2025-05-06 10:00
+# Generated at 2025-05-28 12:12
 
 season: 1
 
@@ -21,7 +21,7 @@ videos:
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/ani/4e430741549940db832475f2ca804fbd20030a0c
+      magnet: https://animes.garden/detail/dmhy/693420
 
   - filename: 紫云寺家的兄弟姐妹 S01E03 {ANi}.mp4
     fansub: ANi
@@ -46,3 +46,27 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/694786
+
+  - filename: 紫云寺家的兄弟姐妹 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695182
+
+  - filename: 紫云寺家的兄弟姐妹 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/695624
+
+  - filename: 紫云寺家的兄弟姐妹 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/696042

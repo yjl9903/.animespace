@@ -1,4 +1,4 @@
-# Generated at 2025-05-09 12:55
+# Generated at 2025-05-30 03:13
 
 season: 1
 
@@ -54,3 +54,27 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/681cd53ac7f647000757496f
+
+  - filename: 摇滚乃是淑女的爱好 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68260fbec7f6470007b7732c
+
+  - filename: 摇滚乃是淑女的爱好 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/682f4a3dc7f64700071430d3
+
+  - filename: 摇滚乃是淑女的爱好 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/683884cdc7f647000778d7b9

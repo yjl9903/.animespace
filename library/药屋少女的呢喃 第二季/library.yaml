@@ -1,4 +1,4 @@
-# Generated at 2025-05-10 08:58
+# Generated at 2025-05-31 03:11
 
 season: 1
 
@@ -150,3 +150,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/694933
+
+  - filename: 药屋少女的呢喃 S01E43 {豌豆字幕组}.mp4
+    fansub: 豌豆字幕组
+    type: 番剧
+    episode: 43
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6830e5acc7f6470007250271
+
+  - filename: 药屋少女的呢喃 S01E44 {豌豆字幕组}.mp4
+    fansub: 豌豆字幕组
+    type: 番剧
+    episode: 44
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/696212
