@@ -1,4 +1,4 @@
-# Generated at 2025-05-30 03:13
+# Generated at 2025-06-06 12:57
 
 season: 1
 
@@ -78,3 +78,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/683884cdc7f647000778d7b9
+
+  - filename: 摇滚乃是淑女的爱好 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6841bf38c7f6470007eac8a3

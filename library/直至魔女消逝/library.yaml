@@ -1,4 +1,4 @@
-# Generated at 2025-05-30 03:35
+# Generated at 2025-06-12 11:17
 
 season: 1
 
@@ -78,3 +78,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/696157
+
+  - filename: 直至魔女消逝 S01E10 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/696612
+
+  - filename: 直至魔女消逝 S01E11 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697076

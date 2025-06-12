@@ -1,4 +1,4 @@
-# Generated at 2025-05-29 12:56
+# Generated at 2025-06-08 01:04
 
 season: 5
 
@@ -70,3 +70,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/6831ed4dc7f64700072fbf22
+
+  - filename: 黑执事 S05E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/683b27c8c7f647000796e565
+
+  - filename: 黑执事 S05E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68446247c7f64700070b04c9

@@ -1,4 +1,4 @@
-# Generated at 2025-05-28 07:48
+# Generated at 2025-06-12 11:06
 
 season: 1
 
@@ -70,3 +70,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/696087
+
+  - filename: 机动战士高达 GQuuuuuuX S01E09 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/696540
+
+  - filename: 机动战士高达 GQuuuuuuX S01E10 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68494a6bc7f647000748ab0f

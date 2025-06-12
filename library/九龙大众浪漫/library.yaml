@@ -1,4 +1,4 @@
-# Generated at 2025-05-30 03:51
+# Generated at 2025-06-08 01:15
 
 season: 1
 
@@ -70,3 +70,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/6831e63bc7f64700072f6cb0
+
+  - filename: 九龙大众浪漫 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/683b12a3c7f647000795f67f
+
+  - filename: 九龙大众浪漫 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68444d22c7f64700070a019c
