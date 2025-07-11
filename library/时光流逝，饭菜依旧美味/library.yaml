@@ -1,4 +1,4 @@
-# Generated at 2025-06-08 01:33
+# Generated at 2025-06-29 01:16
 
 season: 1
 
@@ -78,3 +78,27 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/696759
+
+  - filename: 时光流逝，饭菜依旧美味 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697189
+
+  - filename: 时光流逝，饭菜依旧美味 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697607
+
+  - filename: 时光流逝，饭菜依旧美味 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68601fca80851c0007a1f7c4

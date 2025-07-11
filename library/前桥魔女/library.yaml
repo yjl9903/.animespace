@@ -1,4 +1,4 @@
-# Generated at 2025-05-26 02:32
+# Generated at 2025-06-29 02:21
 
 season: 1
 
@@ -46,3 +46,59 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/695932
+
+  - filename: 前桥魔女 S01E06 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697150
+
+  - filename: 前桥魔女 S01E07 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697151
+
+  - filename: 前桥魔女 S01E08 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697152
+
+  - filename: 前桥魔女 S01E09 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697434
+
+  - filename: 前桥魔女 S01E10 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697560
+
+  - filename: 前桥魔女 S01E11 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698077
+
+  - filename: 前桥魔女 S01E12 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698078

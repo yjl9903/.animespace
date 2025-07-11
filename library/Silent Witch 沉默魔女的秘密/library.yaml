@@ -1,0 +1,16 @@
+# Generated at 2025-07-05 03:08
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: Silent Witch 沉默魔女的秘密 S01E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698457

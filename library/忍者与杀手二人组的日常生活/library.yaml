@@ -1,4 +1,4 @@
-# Generated at 2025-06-12 11:23
+# Generated at 2025-06-26 08:50
 
 season: 1
 
@@ -86,3 +86,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/684ac882c7f64700075ac30e
+
+  - filename: 忍者与杀手二人组的日常生活 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68540301c7f6470007c70c51
+
+  - filename: 忍者与杀手二人组的日常生活 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697929

@@ -1,4 +1,4 @@
-# Generated at 2025-06-10 08:07
+# Generated at 2025-07-03 02:39
 
 season: 1
 
@@ -86,3 +86,27 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/696940
+
+  - filename: 拉撒路 S01E11 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697367
+
+  - filename: 拉撒路 S01E12 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697812
+
+  - filename: 拉撒路 S01E13 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698233

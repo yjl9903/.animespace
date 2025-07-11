@@ -1,4 +1,4 @@
-# Generated at 2025-06-08 02:37
+# Generated at 2025-07-07 01:37
 
 season: 1
 
@@ -7,6 +7,15 @@ date: 2025-04-01T04:00:00.000Z
 storage: anime
 
 videos:
+  - filename: 小市民系列 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 1
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/692684
+
   - filename: 小市民系列 S01E12 {ANi}.mp4
     fansub: ANi
     type: 番剧
@@ -16,19 +25,10 @@ videos:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/67faaa53c7f6470007edb122
 
-  - filename: 小市民系列 S01E11 {ANi}.mp4
-    fansub: ANi
-    type: 番剧
-    season: 2
-    episode: 11
-    source:
-      type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/692684
-
   - filename: 小市民系列 S01E13 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
+    season: 1
     episode: 13
     source:
       type: AnimeGarden
@@ -37,7 +37,7 @@ videos:
   - filename: 小市民系列 S01E14 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
+    season: 1
     episode: 14
     source:
       type: AnimeGarden
@@ -46,7 +46,7 @@ videos:
   - filename: 小市民系列 S01E15 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
+    season: 1
     episode: 15
     source:
       type: AnimeGarden
@@ -55,7 +55,7 @@ videos:
   - filename: 小市民系列 S01E16 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
+    season: 1
     episode: 16
     source:
       type: AnimeGarden
@@ -64,7 +64,7 @@ videos:
   - filename: 小市民系列 S01E17 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
+    season: 1
     episode: 17
     source:
       type: AnimeGarden
@@ -73,7 +73,7 @@ videos:
   - filename: 小市民系列 S01E18 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
+    season: 1
     episode: 18
     source:
       type: AnimeGarden
@@ -82,7 +82,7 @@ videos:
   - filename: 小市民系列 S01E19 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
+    season: 1
     episode: 19
     source:
       type: AnimeGarden
@@ -91,8 +91,26 @@ videos:
   - filename: 小市民系列 S01E20 {ANi}.mp4
     fansub: ANi
     type: 番剧
-    season: 2
+    season: 1
     episode: 20
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/68447e56c7f64700070c6d7f
+
+  - filename: 小市民系列 S01E21 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 1
+    episode: 21
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/684db8d8c7f64700077d105f
+
+  - filename: 小市民系列 S01E22 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 1
+    episode: 22
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697613

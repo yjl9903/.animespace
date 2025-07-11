@@ -1,0 +1,16 @@
+# Generated at 2025-07-09 01:16
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) S01E01 {Prejudice-Studio}.mkv
+    fansub: Prejudice-Studio
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/686d285c80851c00074a3683

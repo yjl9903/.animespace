@@ -1,0 +1,16 @@
+# Generated at 2025-07-07 01:46
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68694c3080851c000713b768

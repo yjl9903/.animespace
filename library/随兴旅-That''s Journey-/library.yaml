@@ -1,4 +1,4 @@
-# Generated at 2025-06-04 11:13
+# Generated at 2025-06-25 05:39
 
 season: 1
 
@@ -78,3 +78,27 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/696543
+
+  - filename: 随兴旅-That''s Journey- S01E10 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697162
+
+  - filename: 随兴旅-That''s Journey- S01E11 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697519
+
+  - filename: 随兴旅-That''s Journey- S01E12 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697868

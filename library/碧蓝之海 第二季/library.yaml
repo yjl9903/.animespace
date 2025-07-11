@@ -1,0 +1,12 @@
+# Generated at 2025-07-09 12:58
+
+storage: anime
+
+videos:
+  - filename: 碧蓝之海 S02E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/686bf67a80851c000739647b

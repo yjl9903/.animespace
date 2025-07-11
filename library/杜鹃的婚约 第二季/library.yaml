@@ -1,0 +1,13 @@
+# Generated at 2025-07-09 12:46
+
+storage: anime
+
+videos:
+  - filename: 杜鹃的婚约 S02E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/686d24d280851c00074a0915

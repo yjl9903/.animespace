@@ -14,6 +14,7 @@ onair:
       - 'Rock wa Lady no Tashinami deshite'
       - "Rock Is a Lady's Modesty"
     bgm: '504678'
+    status: finish
     fansub:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22摇滚乃是淑女的爱好%22%2C%22ロックは淑女の嗜みでして%22%2C%22摇滚乐是淑女的嗜好%22%2C%22摇滚乃淑女之嗜好%22%2C%22搖滾樂是淑女的嗜好%22%2C%22Rock%20wa%20Lady%20no%20Tashinami%20deshite%22%2C%22Rock%20Is%20a%20Lady's%20Modesty%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
@@ -25,6 +26,7 @@ onair:
       - '赛马娘 Cinderella Gray'
       - 'Uma Musume Cinderella Gray'
     bgm: '509297'
+    status: finish
     fansub:
       - S1百综字幕组
       - LoliHouse
@@ -38,7 +40,7 @@ onair:
       - '莉可丽丝 短片'
       - 'Lycoris Recoil 莉可麗絲：友誼是時間的竊賊'
     bgm: '504950'
-    stauts: finish
+    status: finish
     season: 0
     rewrite:
       title: 莉可丽丝
@@ -53,6 +55,7 @@ onair:
       - 'Mobile Suit Gundam GQuuuuuuX'
       - '機動戦士Gundam ジークアクス'
     bgm: '526816'
+    status: finish
     fansub:
       - SweetSub
       - 沸班亚马制作组
@@ -65,6 +68,7 @@ onair:
       title: 小市民系列
     season: 1
     bgm: '513018'
+    status: finish
     fansub:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22小市民系列%20第二季%22%2C%22小市民シリーズ%20第2期%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
@@ -74,6 +78,7 @@ onair:
       - '黒執事 -緑の魔女編-'
       - '黑執事 綠之魔女篇'
     bgm: '502875'
+    status: finish
     season: 5
     rewrite:
       title: 黑执事
@@ -128,6 +133,7 @@ onair:
       - 'Aru Majo ga Shinu Made'
       - 'Until the Witch Dies'
     bgm: '501702'
+    status: finish
     fansub:
       - LoliHouse
       - 喵萌奶茶屋
@@ -137,6 +143,7 @@ onair:
     alias:
       - 'Summer Pockets'
     bgm: '363957'
+    status: onair
     fansub:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22夏日口袋%22%2C%22Summer%20Pockets%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
@@ -146,6 +153,7 @@ onair:
       - 'LAZARUS'
       - 'ラザロ'
     bgm: '446296'
+    status: finish
     fansub:
       - 喵萌奶茶屋
       - ANi
@@ -158,6 +166,7 @@ onair:
       - 'Ballpark de Tsukamaete!'
       - 'The Catcher in the Ballpark!'
     bgm: '524123'
+    status: onair
     fansub:
       - 奇怪机翻组
 
@@ -169,6 +178,7 @@ onair:
       - 'Shiunji-ke no Kodomotachi'
       - 'The Shiunji Family Children'
     bgm: '480545'
+    status: finish
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=紫云寺家的兄弟姐妹&include=紫雲寺家の子供たち&include=紫云寺家的孩子们&include=紫雲寺家的兄弟姊妹&include=Shiunji-ke%20no%20Kodomotachi&include=The%20Shiunji%20Family%20Children&after=2025-03-31T16%3A00%3A00.000Z
@@ -188,6 +198,7 @@ onair:
     alias:
       - 'mono'
     bgm: '485936'
+    status: finish
     preference:
       keyword:
         exclude: [Mononoke]
@@ -202,6 +213,7 @@ onair:
       - 'Hibi wa Sugiredo Meshi Umashi'
       - 'Food for the Soul'
     bgm: '531159'
+    status: finish
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=时光流逝，饭菜依旧美味&include=日々は過ぎれど飯うまし&include=歲月流逝飯菜依舊美味&include=Hibi%20wa%20Sugiredo%20Meshi%20Umashi&after=2025-03-31T16%3A00%3A00.000Z
@@ -212,6 +224,7 @@ onair:
       - '九龙泛型浪漫'
       - 'Kowloon Generic Romance'
     bgm: '518090'
+    status: finish
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=九龙大众浪漫&include=九龍ジェネリックロマンス&include=九龙泛型浪漫&include=Kowloon%20Generic%20Romance&after=2025-03-31T16%3A00%3A00.000Z
@@ -234,6 +247,7 @@ onair:
       - 'NINJA to KOROSHIYA no FUTARIGURASHI'
       - 'NINKORO'
     bgm: '491569'
+    status: finish
     fansub:
       - ANi
       - MeiYangYang

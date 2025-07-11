@@ -1,0 +1,25 @@
+# Generated at 2025-07-11 10:13
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 神椿市建设中。 S00E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    season: 0
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698451
+
+  - filename: 神椿市建设中。 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698914

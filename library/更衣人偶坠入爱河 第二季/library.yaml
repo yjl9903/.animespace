@@ -1,0 +1,17 @@
+# Generated at 2025-07-11 01:39
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 更衣人偶坠入爱河 S01E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 1
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6869533f80851c0007141557

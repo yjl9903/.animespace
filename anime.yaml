@@ -1,13 +1,13 @@
 storage:
   anime:
     provider: webdav
-    url: https://openlist.onekuma.cn/dav
+    url: http://localhost:5244/dav
     directory: /aliyundriver/anime
     username: admin
     password: !env OPENLIST_PASSWORD
   pikpak:
     provider: webdav
-    url: https://openlist.onekuma.cn/dav
+    url: http://localhost:5244/dav
     directory: /pikpak/anime
     username: admin
     password: !env OPENLIST_PASSWORD

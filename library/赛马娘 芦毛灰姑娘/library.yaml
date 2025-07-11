@@ -1,4 +1,4 @@
-# Generated at 2025-06-09 03:28
+# Generated at 2025-06-29 11:55
 
 season: 1
 
@@ -86,3 +86,27 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/696865
+
+  - filename: 赛马娘 芦毛灰姑娘 S01E11 {S1百综字幕组}.mkv
+    fansub: S1百综字幕组
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697300
+
+  - filename: 赛马娘 芦毛灰姑娘 S01E12 {S1百综字幕组}.mkv
+    fansub: S1百综字幕组
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/697749
+
+  - filename: 赛马娘 芦毛灰姑娘 S01E13 {S1百综字幕组}.mkv
+    fansub: S1百综字幕组
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698140

@@ -1,0 +1,24 @@
+# Generated at 2025-07-05 03:22
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 章鱼哔的原罪 S01E01 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698025
+
+  - filename: 章鱼哔的原罪 S01E02 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698468

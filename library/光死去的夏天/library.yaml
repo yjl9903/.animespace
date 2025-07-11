@@ -1,0 +1,16 @@
+# Generated at 2025-07-09 12:07
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 光死去的夏天 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698702

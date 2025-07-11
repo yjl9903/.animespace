@@ -1,0 +1,17 @@
+# Generated at 2025-07-11 10:32
+
+season: 4
+
+date: 2025-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 石纪元 S04E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/686fc7d580851c00076caf9c
