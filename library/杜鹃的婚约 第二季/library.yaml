@@ -1,4 +1,8 @@
-# Generated at 2025-07-09 12:46
+# Generated at 2025-07-16 12:52
+
+season: 2
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -11,3 +15,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/686d24d280851c00074a0915
+
+  - filename: 杜鹃的婚约 S02E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699316

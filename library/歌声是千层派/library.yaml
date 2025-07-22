@@ -1,5 +1,16 @@
-# Generated at 2025-06-28 11:00
+# Generated at 2025-07-17 11:56
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 歌声是千层派 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699424

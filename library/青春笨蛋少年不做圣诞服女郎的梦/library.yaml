@@ -1,4 +1,4 @@
-# Generated at 2025-07-07 01:46
+# Generated at 2025-07-20 12:42
 
 season: 1
 
@@ -14,3 +14,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/68694c3080851c000713b768
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/687286c180851c000790823e
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/687bc14a80851c00070f551a

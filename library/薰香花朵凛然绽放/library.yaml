@@ -1,0 +1,32 @@
+# Generated at 2025-07-20 08:30
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 薰香花朵凛然绽放 S01E01 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698542
+
+  - filename: 薰香花朵凛然绽放 S01E02 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6874ca7380851c0007b0b339
+
+  - filename: 薰香花朵凛然绽放 S01E03 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699554

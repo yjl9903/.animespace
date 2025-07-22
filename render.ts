@@ -57,7 +57,7 @@ async function render() {
         );
       } else {
         return (
-          `[${anime.plan.title}](https://bangumi.tv/subject/${anime.plan.bgm})` +
+          `[${anime.plan.title}](https://animes.garden/subject/${anime.plan.bgm})` +
           season
         );
       }

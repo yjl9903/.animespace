@@ -1,0 +1,20 @@
+# Generated at 2025-07-15 01:34
+
+storage: anime
+
+videos:
+  - filename: 小城日常 S01E01 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/686ba29380851c000734b0b2
+
+  - filename: 小城日常 S01E02 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6874f75080851c0007b319d8

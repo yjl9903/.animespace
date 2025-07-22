@@ -1,4 +1,4 @@
-# Generated at 2025-07-09 12:15
+# Generated at 2025-07-16 12:46
 
 season: 1
 
@@ -22,3 +22,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/698746
+
+  - filename: 最近的侦探真没用 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6876665380851c0007c6ffca

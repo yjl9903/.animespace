@@ -1,4 +1,8 @@
-# Generated at 2025-07-09 12:58
+# Generated at 2025-07-15 03:24
+
+season: 2
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -10,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/686bf67a80851c000739647b
+
+  - filename: 碧蓝之海 S02E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699234

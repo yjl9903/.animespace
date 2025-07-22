@@ -1,4 +1,8 @@
-# Generated at 2025-07-09 12:37
+# Generated at 2025-07-15 01:10
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -10,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/686bbe3480851c0007361e50
+
+  - filename: 明天，美食广场见。 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6874f89b80851c0007b32c78

@@ -5,31 +5,28 @@ date: 2025-06-27 12:00
 status: onair
 
 onair:
-  - title: 拔作岛
-    alias:
-      - 'ぬきたし THE ANIMATION'
-    bgm: '477825'
-    # https://animes.garden/resources/1?include=拔作岛&include=ぬきたし%20THE%20ANIMATION&after=2025-06-30T16%3A00%3A00.000Z
-
-  - title: 神椿市建设中。
-    alias:
-      - '神椿市建設中'
-      - '神椿市建設中。'
-      - 'Kamitsubaki-shi Kensetsuchuu.'
-      - 'Kamitsubaki City Under Construction'
-      - '神椿市建設中。 魔女の娘 -Witchling-'
-    bgm: '475032'
-    fansub:
-      - LoliHouse
-      - ANi
+  # - title: 神椿市建设中。
+  #   alias:
+  #     - '神椿市建設中'
+  #     - '神椿市建設中。'
+  #     - 'Kamitsubaki-shi Kensetsuchuu.'
+  #     - 'Kamitsubaki City Under Construction'
+  #     - '神椿市建設中。 魔女の娘 -Witchling-'
+  #   bgm: '475032'
+  #   fansub:
+  #     - LoliHouse
+  #     - ANi
     # https://animes.garden/resources/1?include=神椿市建设中。&include=神椿市建設中。&include=Kamitsubaki-shi%20Kensetsuchuu.&include=Kamitsubaki%20City%20Under%20Construction&include=神椿市建設中。%20魔女の娘%20-Witchling-&after=2025-06-30T16%3A00%3A00.000Z
 
   - title: 歌声是千层派
     alias:
       - 'うたごえはミルフィーユ'
       - '歌聲是法式千層酥'
+      - '歌聲是法式千層酥'
       - 'Utagoe wa Mille-Feuille'
     bgm: '441670'
+    fansub:
+      - ANi
     # https://animes.garden/resources/1?include=歌声是千层派&include=うたごえはミルフィーユ&include=歌聲是法式千層酥&include=Utagoe%20wa%20Mille-Feuille&after=2025-06-30T16%3A00%3A00.000Z
 
   - title: 我怎么可能成为你的恋人，不行不行！(※不是不可能！？)
@@ -77,7 +74,13 @@ onair:
       - 'Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu Season 2'
       - 'I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2'
     season: 2
+    rewrite:
+      season: 1
+      title: 转生为第七王子，随心所欲的魔法学习之路
     bgm: '499656'
+    fansub:
+      - LoliHouse
+      - ANi
     # https://animes.garden/resources/1?include=转生为第七王子，随心所欲的魔法学习之路%20第二季&include=転生したら第七王子だったので、気ままに魔術を極めます%20第2期&include=转生七王子的魔法全解%20第二季&include=Tensei%20Shitara%20Dai%20Nana%20Ouji%20Datta%20no%20de%2C%20Kimamani%20Majutsu%20o%20Kiwamemasu%20Season%202&include=I%20Was%20Reincarnated%20as%20the%207th%20Prince%20So%20I%20Can%20Take%20My%20Time%20Perfecting%20My%20Magical%20Ability%20Season%202&after=2025-06-30T16%3A00%3A00.000Z
 
   - title: 盾之勇者成名录 第四季
@@ -99,6 +102,8 @@ onair:
       - '青春ブタ野郎シリーズ 大学生編'
       - '青春笨蛋少年系列 大学生篇'
     bgm: '467930'
+    rewrite:
+      season: 2
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=青春笨蛋少年不做圣诞服女郎的梦&include=青春ブタ野郎はサンタクロースの夢 を見ない&include=青春猪头少年不会梦到圣诞服女郎&include=青春豬頭少年不會夢到聖誕服女郎&include=Seishun%20Buta%20Yarou:%20Santa%20Claus%20no%20Yume%20wo%20Minai&include=Rascal%20Does%20Not%20Dream%20of%20Santa%20Claus&include=青春ブタ野郎シ リーズ%20大学生編&include=青春笨蛋少年系列%20大学生篇&after=2025-06-30T16%3A00%3A00.000Z
@@ -110,6 +115,8 @@ onair:
       - 'BadGirl'
       - 'Bad Girl'
     bgm: '501614'
+    fansub:
+      - ANi
     # https://animes.garden/resources/1?include=不良少女&include=ばっどがーる&include=坏女孩&include=BadGirl&include=Bad%20Girl&after=2025-06-30T16%3A00%3A00.000Z
 
   - title: 渡君的XX即将崩坏
@@ -180,11 +187,6 @@ onair:
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=石纪元%20科学与未来%20第2部分&include=Dr.STONE%20SCIENCE%20FUTURE%20第2 クール&include=新石纪%20科学与未来%20第2部分&include=石纪元%20第四季%20第2部分&include=新石纪%20第四季%20第2部分&after=2025-06-30T16%3A00%3A00.000Z
-
-  - title: BULLET/BULLET
-    alias:
-    bgm: '408467'
-    # https://animes.garden/resources/1?include=BULLET/BULLET&after=2025-06-30T16%3A00%3A00.000Z
 
   - title: 保龄球少女！
     alias:
@@ -288,3 +290,44 @@ onair:
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=碧蓝之海%20第二季&include=ぐらんぶる%20Season%202&include=Grand%20Blue%20Season%202&include=Grand%20Blue%20Dreaming%20Season%202&after=2025-06-30T16%3A00%3A00.000Z
+
+  - title: 与游戏中心的少女异文化交流的故事
+    alias:
+      - 'ゲーセン少女と異文化交流'
+      - '游乐场少女的异文化交流'
+      - 'Game Center Shoujo to Ibunka Kouryuu'
+      - 'Cultural Exchange With a Game Centre Girl'
+    bgm: '510256'
+    fansub:
+      - 北宇治字幕组
+      - ANi
+    # https://animes.garden/resources/1?include=与游戏中心的少女异文化交流的故事&include=ゲーセン少女と異文化交流&include=游乐场少女的异文化交流&include=Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu&include=Cultural%20Exchange%20With%20a%20Game%20Centre%20Girl&after=2025-06-30T16%3A00%3A00.000Z
+
+  - title: 薰香花朵凛然绽放
+    alias:
+      - 花开凛凛满薰香
+      - 薫る花は凛と咲く
+      - Kaoru Hana wa Rin to Saku
+    bgm: '513345'
+    fansub:
+      - 拨雪寻春
+
+  - title: 小城日常
+    alias:
+      - 'CITY THE ANIMATION'
+    bgm: '514358'
+    fansub:
+      - SweetSub
+      - LoliHouse
+
+  - title: 欢迎光临流放者食堂！
+    alias:
+      - '欢迎来到颠沛流离食堂'
+      - '追放者食堂へようこそ！'
+      - '歡迎光臨流放者食堂！'
+      - "Welcome to the Outcast's Restaurant!"
+    bgm: '528831'
+    fansub:
+      - LoliHouse
+      - ANi
+    # https://animes.garden/resources/1?include=欢迎光临流放者食堂！&include=追放者食堂へようこそ！&include=歡迎光臨流放者食堂！&include=Welcome%20to%20the%20Outcast's%20Restaurant!&after=2025-06-30T16%3A00%3A00.000Z

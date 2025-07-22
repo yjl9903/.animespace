@@ -1,4 +1,4 @@
-# Generated at 2025-07-11 03:26
+# Generated at 2025-07-16 05:02
 
 season: 1
 
@@ -14,3 +14,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/698762
+
+  - filename: 保龄球少女！ S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699330

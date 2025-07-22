@@ -1,5 +1,26 @@
-# Generated at 2025-06-28 11:00
+# Generated at 2025-07-17 02:00
+
+season: 2
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 转生为第七王子，随心所欲的魔法学习之路 S01E13 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    season: 2
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698883
+
+  - filename: 转生为第七王子，随心所欲的魔法学习之路 S01E14 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    season: 2
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699393

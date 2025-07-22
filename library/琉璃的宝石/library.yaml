@@ -1,4 +1,8 @@
-# Generated at 2025-07-09 12:29
+# Generated at 2025-07-20 11:39
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -10,3 +14,19 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/686a7ac780851c000723a599
+
+  - filename: 琉璃的宝石 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6873b52f80851c0007a0caaf
+
+  - filename: 琉璃的宝石 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/687cf0bf80851c0007200835

@@ -1,0 +1,28 @@
+# Generated at 2025-07-18 03:12
+
+storage: anime
+
+videos:
+  - filename: 欢迎光临流放者食堂！ S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699414
+
+  - filename: 欢迎光临流放者食堂！ S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699415
+
+  - filename: 欢迎光临流放者食堂！ S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699425
