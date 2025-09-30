@@ -1,4 +1,4 @@
-# Generated at 2025-07-20 12:49
+# Generated at 2025-09-21 12:02
 
 season: 1
 
@@ -30,3 +30,75 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/699531
+
+  - filename: 不良少女 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6884f4bc5394e50007ffdaa1
+
+  - filename: 不良少女 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700413
+
+  - filename: 不良少女 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700890
+
+  - filename: 不良少女 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68a0a46a5394e50007a26fc7
+
+  - filename: 不良少女 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701741
+
+  - filename: 不良少女 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702176
+
+  - filename: 不良少女 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702611
+
+  - filename: 不良少女 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/28ba7d38de4dc669ed2a1c1f090f4f4ae71a070a
+
+  - filename: 不良少女 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703497

@@ -1,4 +1,4 @@
-# Generated at 2025-07-22 02:37
+# Generated at 2025-09-29 11:59
 
 season: 1
 
@@ -126,3 +126,75 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/699694
+
+  - filename: 鬼人幻灯抄 S01E16 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 16
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700129
+
+  - filename: 鬼人幻灯抄 S01E17 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 17
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6890d0c05394e50007ac3d79
+
+  - filename: 鬼人幻灯抄 S01E18 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 18
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701035
+
+  - filename: 鬼人幻灯抄 S01E19 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 19
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701482
+
+  - filename: 鬼人幻灯抄 S01E20 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 20
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701890
+
+  - filename: 鬼人幻灯抄 S01E21 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 21
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702357
+
+  - filename: 鬼人幻灯抄 S01E22 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 22
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702750
+
+  - filename: 鬼人幻灯抄 S01E23 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 23
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703690
+
+  - filename: 鬼人幻灯抄 S01E24 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 24
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/b4db26acbfd672319efa60e70c084f430ab74611

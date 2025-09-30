@@ -1,4 +1,4 @@
-# Generated at 2025-07-18 02:56
+# Generated at 2025-09-29 03:30
 
 season: 1
 
@@ -24,10 +24,90 @@ videos:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/699078
 
-  - filename: 神椿市建设中。 S01E02 {ANi}.mp4
-    fansub: ANi
+  - filename: 神椿市建设中。 S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
     type: 番剧
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/699439
+      magnet: https://animes.garden/detail/dmhy/699697
+
+  - filename: 神椿市建设中。 S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700087
+
+  - filename: 神椿市建设中。 S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700648
+
+  - filename: 神椿市建设中。 S01E05 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701049
+
+  - filename: 神椿市建设中。 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701692
+
+  - filename: 神椿市建设中。 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701647
+
+  - filename: 神椿市建设中。 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702081
+
+  - filename: 神椿市建设中。 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702528
+
+  - filename: 神椿市建设中。 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702968
+
+  - filename: 神椿市建设中。 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703404
+
+  - filename: 神椿市建设中。 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703855

@@ -1,4 +1,4 @@
-# Generated at 2025-07-20 12:42
+# Generated at 2025-09-29 04:20
 
 season: 1
 
@@ -7,26 +7,106 @@ date: 2025-06-27T04:00:00.000Z
 storage: anime
 
 videos:
-  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S01E01 {ANi}.mp4
-    fansub: ANi
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E01 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
     type: 番剧
     episode: 1
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/moe/68694c3080851c000713b768
+      magnet: https://animes.garden/detail/dmhy/698608
 
-  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S01E02 {ANi}.mp4
-    fansub: ANi
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E02 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
     type: 番剧
     episode: 2
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/moe/687286c180851c000790823e
+      magnet: https://animes.garden/detail/dmhy/699247
 
-  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S01E03 {ANi}.mp4
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E03 {ANi}.mp4
     fansub: ANi
     type: 番剧
     episode: 3
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/687bc14a80851c00070f551a
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6884fbbe5394e5000700440c
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/688e363d5394e5000784e117
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/689770c55394e50007108b93
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68a0ab615394e50007a2df8a
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68a9e5c35394e50007379487
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68b320465394e50007cebca8
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68bc5ad45394e500077215cd
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68c5954f5394e5000714ad2c
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68cecfd05394e50007be71ec
+
+  - filename: 青春笨蛋少年不做圣诞服女郎的梦 S02E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68d80a445394e500076bff3d

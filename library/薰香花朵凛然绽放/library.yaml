@@ -1,4 +1,4 @@
-# Generated at 2025-07-20 08:30
+# Generated at 2025-09-29 05:28
 
 season: 1
 
@@ -29,4 +29,84 @@ videos:
     episode: 3
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/699554
+      magnet: https://animes.garden/detail/moe/687dcc5a80851c00072d269b
+
+  - filename: 薰香花朵凛然绽放 S01E04 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700099
+
+  - filename: 薰香花朵凛然绽放 S01E05 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700526
+
+  - filename: 薰香花朵凛然绽放 S01E06 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701023
+
+  - filename: 薰香花朵凛然绽放 S01E07 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701437
+
+  - filename: 薰香花朵凛然绽放 S01E08 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701850
+
+  - filename: 薰香花朵凛然绽放 S01E09 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702233
+
+  - filename: 薰香花朵凛然绽放 S01E10 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68bfe3485394e50007b119b3
+
+  - filename: 薰香花朵凛然绽放 S01E11 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703168
+
+  - filename: 薰香花朵凛然绽放 S01E12 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703660
+
+  - filename: 薰香花朵凛然绽放 S01E13 {拨雪寻春}.mkv
+    fansub: 拨雪寻春
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704043

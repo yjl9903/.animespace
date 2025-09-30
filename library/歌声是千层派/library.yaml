@@ -1,4 +1,4 @@
-# Generated at 2025-07-17 11:56
+# Generated at 2025-09-30 06:04
 
 season: 1
 
@@ -14,3 +14,75 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/699424
+
+  - filename: 歌声是千层派 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699848
+
+  - filename: 歌声是千层派 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700302
+
+  - filename: 歌声是千层派 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700761
+
+  - filename: 歌声是千层派 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/689de5245394e5000778a23c
+
+  - filename: 歌声是千层派 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701630
+
+  - filename: 歌声是千层派 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702066
+
+  - filename: 歌声是千层派 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702516
+
+  - filename: 歌声是千层派 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702948
+
+  - filename: 歌声是千层派 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703395

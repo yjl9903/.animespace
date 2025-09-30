@@ -1,5 +1,116 @@
-# Generated at 2025-06-28 11:00
+# Generated at 2025-09-24 08:48
+
+season: 4
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 盾之勇者成名录 S04E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/698815
+
+  - filename: 盾之勇者成名录 S04E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699362
+
+  - filename: 盾之勇者成名录 S04E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699807
+
+  - filename: 盾之勇者成名录 S04E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/688a09955394e500074a5374
+
+  - filename: 盾之勇者成名录 S04E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/689344115394e50007d1da28
+
+  - filename: 盾之勇者成名录 S04E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701140
+
+  - filename: 盾之勇者成名录 S04E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701589
+
+  - filename: 盾之勇者成名录 S04E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702018
+
+  - filename: 盾之勇者成名录 S04E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702459
+
+  - filename: 盾之勇者成名录 S04E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/3ab46ba9b3a8ae78c62a0933ba5eb61a16e22249
+
+  - filename: 盾之勇者成名录 S04E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703349
+
+  - filename: 盾之勇者成名录 S04E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 4
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703790

@@ -1,4 +1,8 @@
-# Generated at 2025-07-15 01:34
+# Generated at 2025-09-30 01:07
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -18,3 +22,91 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/6874f75080851c0007b319d8
+
+  - filename: 小城日常 S01E03 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699685
+
+  - filename: 小城日常 S01E04 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700122
+
+  - filename: 小城日常 S01E05 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700565
+
+  - filename: 小城日常 S01E06 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701041
+
+  - filename: 小城日常 S01E07 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701488
+
+  - filename: 小城日常 S01E08 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701900
+
+  - filename: 小城日常 S01E09 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702347
+
+  - filename: 小城日常 S01E10 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702768
+
+  - filename: 小城日常 S01E11 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703251
+
+  - filename: 小城日常 S01E12 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703713
+
+  - filename: 小城日常 S01E13 {SweetSub}.mp4
+    fansub: SweetSub
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704077

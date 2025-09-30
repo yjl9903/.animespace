@@ -1,4 +1,4 @@
-# Generated at 2025-07-15 01:10
+# Generated at 2025-09-23 01:10
 
 season: 1
 
@@ -22,3 +22,83 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/6874f89b80851c0007b32c78
+
+  - filename: 明天，美食广场见。 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699680
+
+  - filename: 明天，美食广场见。 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700124
+
+  - filename: 明天，美食广场见。 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700560
+
+  - filename: 明天，美食广场见。 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701026
+
+  - filename: 明天，美食广场见。 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701470
+
+  - filename: 明天，美食广场见。 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701884
+
+  - filename: 明天，美食广场见。 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702315
+
+  - filename: 明天，美食广场见。 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702737
+
+  - filename: 明天，美食广场见。 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703199
+
+  - filename: 明天，美食广场见。 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703673

@@ -2,7 +2,7 @@ title: 创建于 2025-04-04 09:20
 
 date: 2025-04-01 12:00
 
-status: onair
+status: finish
 
 onair:
   - title: 摇滚乃是淑女的爱好
@@ -260,6 +260,7 @@ onair:
       - 'Kijin Gentoushou'
       - 'キジンゲントウショウ'
     bgm: '404753'
+    status: onair
     fansub:
       - 沸班亚马制作组
       - ANi

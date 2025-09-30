@@ -1,4 +1,4 @@
-# Generated at 2025-07-15 12:47
+# Generated at 2025-09-29 10:02
 
 season: 1
 
@@ -22,3 +22,83 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/699162
+
+  - filename: 光死去的夏天 S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699597
+
+  - filename: 光死去的夏天 S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700113
+
+  - filename: 光死去的夏天 S01E05 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700471
+
+  - filename: 光死去的夏天 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700991
+
+  - filename: 光死去的夏天 S01E07 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701424
+
+  - filename: 光死去的夏天 S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701791
+
+  - filename: 光死去的夏天 S01E09 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702783
+
+  - filename: 光死去的夏天 S01E10 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703090
+
+  - filename: 光死去的夏天 S01E11 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703604
+
+  - filename: 光死去的夏天 S01E12 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704057

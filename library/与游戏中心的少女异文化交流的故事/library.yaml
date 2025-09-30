@@ -1,4 +1,8 @@
-# Generated at 2025-07-15 01:14
+# Generated at 2025-09-21 01:48
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -10,3 +14,75 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/699211
+
+  - filename: 与游戏中心的少女异文化交流的故事 S01E02 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699788
+
+  - filename: 与游戏中心的少女异文化交流的故事 S01E03 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700110
+
+  - filename: 与游戏中心的少女异文化交流的故事 S01E04 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700505
+
+  - filename: 与游戏中心的少女异文化交流的故事 S01E05 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701576
+
+  - filename: 与游戏中心的少女异文化交流的故事 S01E06 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701579
+
+  - filename: 与游戏中心的少女异文化交流的故事 S01E07 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702426
+
+  - filename: 与游戏中心的少女异文化交流的故事 S01E08 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702730
+
+  - filename: 与游戏中心的少女异文化交流的故事 S01E09 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703012
+
+  - filename: 与游戏中心的少女异文化交流的故事 S01E10 {北宇治字幕组}.mkv
+    fansub: 北宇治字幕组
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703515

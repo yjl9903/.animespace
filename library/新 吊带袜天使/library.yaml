@@ -1,5 +1,96 @@
-# Generated at 2025-06-28 11:00
+# Generated at 2025-09-23 01:05
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 新 吊带袜天使 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699105
+
+  - filename: 新 吊带袜天使 S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699571
+
+  - filename: 新 吊带袜天使 S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700128
+
+  - filename: 新 吊带袜天使 S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701386
+
+  - filename: 新 吊带袜天使 S01E05 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701387
+
+  - filename: 新 吊带袜天使 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701493
+
+  - filename: 新 吊带袜天使 S01E07 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703097
+
+  - filename: 新 吊带袜天使 S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703098
+
+  - filename: 新 吊带袜天使 S01E09 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703228
+
+  - filename: 新 吊带袜天使 S01E10 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703684
+
+  - filename: 新 吊带袜天使 S01E11 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703685

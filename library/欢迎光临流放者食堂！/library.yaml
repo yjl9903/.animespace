@@ -1,4 +1,8 @@
-# Generated at 2025-07-18 03:12
+# Generated at 2025-09-18 10:31
+
+season: 1
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
@@ -19,10 +23,82 @@ videos:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/699415
 
-  - filename: 欢迎光临流放者食堂！ S01E03 {ANi}.mp4
-    fansub: ANi
+  - filename: 欢迎光临流放者食堂！ S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
     type: 番剧
     episode: 3
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/699425
+      magnet: https://animes.garden/detail/dmhy/699759
+
+  - filename: 欢迎光临流放者食堂！ S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699853
+
+  - filename: 欢迎光临流放者食堂！ S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700307
+
+  - filename: 欢迎光临流放者食堂！ S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700764
+
+  - filename: 欢迎光临流放者食堂！ S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701199
+
+  - filename: 欢迎光临流放者食堂！ S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701638
+
+  - filename: 欢迎光临流放者食堂！ S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702067
+
+  - filename: 欢迎光临流放者食堂！ S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702519
+
+  - filename: 欢迎光临流放者食堂！ S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702956
+
+  - filename: 欢迎光临流放者食堂！ S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703397

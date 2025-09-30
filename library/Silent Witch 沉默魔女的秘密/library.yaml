@@ -1,4 +1,4 @@
-# Generated at 2025-07-19 06:31
+# Generated at 2025-09-29 03:57
 
 season: 1
 
@@ -7,6 +7,15 @@ date: 2025-06-27T04:00:00.000Z
 storage: anime
 
 videos:
+  - filename: Silent Witch 沉默魔女的秘密 S00E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 0
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702556
+
   - filename: Silent Witch 沉默魔女的秘密 S01E01 {喵萌奶茶屋}.mp4
     fansub: 喵萌奶茶屋
     type: 番剧
@@ -30,3 +39,75 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/699482
+
+  - filename: Silent Witch 沉默魔女的秘密 S01E04 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/699932
+
+  - filename: Silent Witch 沉默魔女的秘密 S01E05 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700372
+
+  - filename: Silent Witch 沉默魔女的秘密 S01E06 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700848
+
+  - filename: Silent Witch 沉默魔女的秘密 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701244
+
+  - filename: Silent Witch 沉默魔女的秘密 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701690
+
+  - filename: Silent Witch 沉默魔女的秘密 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702125
+
+  - filename: Silent Witch 沉默魔女的秘密 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702997
+
+  - filename: Silent Witch 沉默魔女的秘密 S01E11 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703456
+
+  - filename: Silent Witch 沉默魔女的秘密 S01E12 {喵萌奶茶屋}.mp4
+    fansub: 喵萌奶茶屋
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703903

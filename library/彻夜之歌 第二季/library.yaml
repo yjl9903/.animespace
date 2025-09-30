@@ -1,5 +1,125 @@
-# Generated at 2025-07-05 02:40
+# Generated at 2025-09-20 12:29
+
+season: 2
+
+date: 2025-06-27T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 彻夜之歌 S00E01 {ANi}.mp4
+    fansub: ANi
+    type: OVA
+    season: 2
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703440
+
+  - filename: 彻夜之歌 S02E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6867fab980851c0007035933
+
+  - filename: 彻夜之歌 S02E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6871354f80851c00077f5fd4
+
+  - filename: 彻夜之歌 S02E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 16
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/687a6fbd80851c0007fd81de
+
+  - filename: 彻夜之歌 S02E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 17
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6883aa4a5394e50007ed902c
+
+  - filename: 彻夜之歌 S02E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 18
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/688ce4c95394e5000771f000
+
+  - filename: 彻夜之歌 S02E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 19
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68961f4b5394e50007fc9e78
+
+  - filename: 彻夜之歌 S02E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 20
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/689f59c95394e500078ed62e
+
+  - filename: 彻夜之歌 S02E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 21
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68a8944c5394e500072339ca
+
+  - filename: 彻夜之歌 S02E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 22
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68b1ceca5394e50007b960be
+
+  - filename: 彻夜之歌 S02E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 23
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68bb09475394e500075c67b5
+
+  - filename: 彻夜之歌 S02E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 24
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68c443d95394e50007fe53ed
+
+  - filename: 彻夜之歌 S02E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 25
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68cd7e565394e50007a75006

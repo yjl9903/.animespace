@@ -5,17 +5,17 @@ date: 2025-06-27 12:00
 status: onair
 
 onair:
-  # - title: 神椿市建设中。
-  #   alias:
-  #     - '神椿市建設中'
-  #     - '神椿市建設中。'
-  #     - 'Kamitsubaki-shi Kensetsuchuu.'
-  #     - 'Kamitsubaki City Under Construction'
-  #     - '神椿市建設中。 魔女の娘 -Witchling-'
-  #   bgm: '475032'
-  #   fansub:
-  #     - LoliHouse
-  #     - ANi
+  - title: 神椿市建设中。
+    alias:
+      - '神椿市建設中'
+      - '神椿市建設中。'
+      - 'Kamitsubaki-shi Kensetsuchuu.'
+      - 'Kamitsubaki City Under Construction'
+      - '神椿市建設中。 魔女の娘 -Witchling-'
+    bgm: '475032'
+    fansub:
+      - LoliHouse
+      - ANi
     # https://animes.garden/resources/1?include=神椿市建设中。&include=神椿市建設中。&include=Kamitsubaki-shi%20Kensetsuchuu.&include=Kamitsubaki%20City%20Under%20Construction&include=神椿市建設中。%20魔女の娘%20-Witchling-&after=2025-06-30T16%3A00%3A00.000Z
 
   - title: 歌声是千层派
@@ -85,11 +85,17 @@ onair:
 
   - title: 盾之勇者成名录 第四季
     alias:
+      - '盾之勇者成名錄 Season 4'
       - '盾の勇者の成り上がり Season 4'
       - 'Tate no Yuusha no Nariagari Season 4'
       - 'The Rising of the Shield Hero Season 4'
     season: 4
     bgm: '476542'
+    rewrite:
+      title: 盾之勇者成名录
+      season: 4
+    fansub:
+      - ANi
     # https://animes.garden/resources/1?include=盾之勇者成名录%20第四季&include=盾の勇者の成り上がり%20Season%204&include=Tate%20no%20Yuusha%20no%20Nariagari%20Season%204&include=The%20Rising%20of%20the%20Shield%20Hero%20Season%204&after=2025-06-30T16%3A00%3A00.000Z
 
   - title: 青春笨蛋少年不做圣诞服女郎的梦
@@ -105,6 +111,7 @@ onair:
     rewrite:
       season: 2
     fansub:
+      - 喵萌奶茶屋
       - ANi
     # https://animes.garden/resources/1?include=青春笨蛋少年不做圣诞服女郎的梦&include=青春ブタ野郎はサンタクロースの夢 を見ない&include=青春猪头少年不会梦到圣诞服女郎&include=青春豬頭少年不會夢到聖誕服女郎&include=Seishun%20Buta%20Yarou:%20Santa%20Claus%20no%20Yume%20wo%20Minai&include=Rascal%20Does%20Not%20Dream%20of%20Santa%20Claus&include=青春ブタ野郎シ リーズ%20大学生編&include=青春笨蛋少年系列%20大学生篇&after=2025-06-30T16%3A00%3A00.000Z
 
@@ -202,6 +209,8 @@ onair:
     alias:
       - 'New PANTY & STOCKING with GARTERBELT'
     bgm: '390555'
+    fansub:
+      - LoliHouse
     # https://animes.garden/resources/1?include=新%20吊带袜天使&include=New%20PANTY%20&%20STOCKING%20with%20GARTERBELT&after=2025-06-30T16%3A00%3A00.000Z
 
   - title: 章鱼哔的原罪
@@ -210,6 +219,7 @@ onair:
       - '章鱼噼的原罪'
       - '章鱼P的原罪'
     bgm: '527620'
+    status: finish
     fansub:
       - SweetSub
       - ANi
@@ -217,15 +227,21 @@ onair:
 
   - title: 彻夜之歌 第二季
     alias:
+      - '彻夜之歌'
+      - 'Yofukashi no Uta'
       - 'よふかしのうた Season 2'
       - '徹夜之歌 第二季'
       - '夜曲 第二季'
       - '那徜徉在夜晚的歌声 第二季'
       - 'Yofukashi no Uta Season 2'
       - 'CALL OF THE NIGHT Season 2'
-    season: 1
+    season: 2
     rewrite:
       title: 彻夜之歌
+      season: 2
+      episode:
+        offset: -13
+        fansub: ANi
     bgm: '484623'
     fansub:
       - ANi
@@ -331,3 +347,33 @@ onair:
       - LoliHouse
       - ANi
     # https://animes.garden/resources/1?include=欢迎光临流放者食堂！&include=追放者食堂へようこそ！&include=歡迎光臨流放者食堂！&include=Welcome%20to%20the%20Outcast's%20Restaurant!&after=2025-06-30T16%3A00%3A00.000Z
+
+  - title: 死灵之子的宇宙恐怖秀
+    alias:
+      - 'ネクロノミ子のコズミックホラーショウ'
+      - 'Necronomico no Cosmic Horror Show'
+      - 'Necronomico and the Cosmic Horror Show'
+    bgm: '528147'
+    fansub:
+      - S1百综字幕组
+    # https://animes.garden/resources/1?include=死灵之子的宇宙恐怖秀&include=ネクロノミ子のコズミックホラーショウ&include=Necronomico%20no%20Cosmic%20Horror%20Show&include=Necronomico%20and%20the%20Cosmic%20Horror%20Show&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 帝乃三姐妹原来很好搞定。
+    alias:
+      - '帝乃三姉妹は案外、チョロい。'
+      - '帝乃三姐妹意外的好对付。'
+      - '帝乃三姊妹意外地容易相處。'
+      - 'Mikadono Sanshimai wa Angai, Choroi.'
+    bgm: '502272'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=帝乃三姐妹原来很好搞定。&include=帝乃三姉妹は案外、チョロい。&include=帝乃三姐妹意外的好对付。&include=帝乃三姊妹意外地容易相處。&include=Mikadono%20Sanshimai%20wa%20Angai%2C%20Choroi.&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 9-nine- 支配者的王冠
+    alias:
+      - "9-nine- Ruler's Crown"
+    bgm: '496973'
+    fansub:
+      - LoliHouse
+      - ANi
+    # https://animes.garden/resources/1?include=9-nine-%20支配者的王冠&include=9-nine-%20Ruler's%20Crown&after=2025-09-30T16%3A00%3A00.000Z

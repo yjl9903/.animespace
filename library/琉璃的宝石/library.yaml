@@ -1,4 +1,4 @@
-# Generated at 2025-07-20 11:39
+# Generated at 2025-09-29 05:22
 
 season: 1
 
@@ -30,3 +30,83 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/687cf0bf80851c0007200835
+
+  - filename: 琉璃的宝石 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700054
+
+  - filename: 琉璃的宝石 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700497
+
+  - filename: 琉璃的宝石 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/700970
+
+  - filename: 琉璃的宝石 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/701396
+
+  - filename: 琉璃的宝石 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702326
+
+  - filename: 琉璃的宝石 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702251
+
+  - filename: 琉璃的宝石 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/702678
+
+  - filename: 琉璃的宝石 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703127
+
+  - filename: 琉璃的宝石 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/703579
+
+  - filename: 琉璃的宝石 S01E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704014
