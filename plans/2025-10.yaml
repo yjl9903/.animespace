@@ -1,0 +1,135 @@
+title: 创建于 2025-10-05 12:21
+
+date: 2025-10-01 12:00
+
+status: onair
+
+onair:
+  - title: 对我垂涎欲滴的非人少女
+    alias:
+      - '私を喰べたい、ひとでなし'
+      - 'Watashi wo Tabetai, Hitodenashi'
+      - 'This Monster Wants to Eat Me'
+      - '想吃掉我的非人少女'
+      - '想要吃掉我的非人类'
+    bgm: '520842'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=对我垂涎欲滴的非人少女&include=私を喰べたい、ひとでなし&include=Watashi%20wo%20Tabetai%2C%20Hitodenashi&include=This%20Monster%20Wants%20to%20Eat%20Me&include=想吃掉我的非人少女&include=想要吃掉我的非人类&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 古诺希亚
+    alias:
+      - 'グノーシア'
+      - '宇宙人狼'
+      - 'GNOSIA'
+    bgm: '526448'
+    # https://animes.garden/resources/1?include=古诺希亚&include=グノーシア&include=宇宙人狼&include=GNOSIA&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 不擅吸血的吸血鬼
+    alias:
+      - 'ちゃんと吸えない吸血鬼ちゃん'
+      - '超萌吸血鬼不能好好吸血'
+    bgm: '536102'
+    # https://animes.garden/resources/1?include=不擅吸血的吸血鬼&include=ちゃんと吸えない吸血鬼ちゃん&include=超萌吸血鬼不能好好吸血&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 末世二轮之旅
+    alias:
+      - '終末ツーリング'
+      - '终末摩托游'
+      - '末世二輪之旅'
+      - 'Shuumatsu Touring'
+      - 'Touring After the Apocalypse'
+    bgm: '539395'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=末世二轮之旅&include=終末ツーリング&include=终末摩托游&include=末世二輪之旅&include=Shuumatsu%20Touring&include=Touring%20After%20the%20Apocalypse&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 赛马娘 芦毛灰姑娘 第2部分
+    alias:
+      - 'ウマ娘 シンデレラグレイ 第2クール'
+      - '赛马娘 栗帽灰姑娘 第2部分'
+      - '赛马娘 Cinderella Gray 第2部分'
+      - 'Uma Musume Cinderella Gray Part 2'
+      - '赛马娘 芦毛灰姑娘'
+    bgm: '530377'
+    season: 1
+    rewrite:
+      title: 赛马娘 芦毛灰姑娘
+    fansub:
+      - S1百综字幕组
+    # https://animes.garden/resources/1?include=赛马娘%20芦毛灰姑娘%20第2部分&include=ウマ娘%20シンデレラグレイ%20第2クール&include=赛马娘%20栗帽灰姑娘%20第2部分&include=赛马娘%20Cinderella%20Gray%20第2部分&include=Uma%20Musume%20Cinderella%20Gray%20Part%202&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 间谍过家家 第三季
+    alias:
+      - 'SPY×FAMILY Season 3'
+      - 'SPY x FAMILY 間諜家家酒 Season 3'
+      - '間諜家家酒 Season 3'
+    season: 3
+    bgm: '498378'
+    rewrite:
+      title: 间谍过家家
+      episode:
+        offset: -37
+        fansub: ANi
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=间谍过家家%20第三季&include=SPY×FAMILY%20Season%203&include=SPY%20x%20FAMILY%20間諜家家酒%20Season%203&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 数码宝贝 BEATBREAK
+    alias:
+      - 'デジモンビートブレイク'
+      - 'DIGIMON BEATBREAK'
+      - '数码宝贝BEATBREAK'
+    bgm: '545499'
+    fansub:
+      - LoliHouse
+      - ANi
+    # https://animes.garden/resources/1?include=数码宝贝%20BEATBREAK&include=デジモンビートブレイク&include=DIGIMON%20BEATBREAK&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: SI-VIS：英雄之声
+    alias:
+      - 'SI-VIS: The Sound of Heroes'
+      - '希维司：英雄之声'
+      - 'SI-VIS：英雄之聲'
+    bgm: '573897'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=SI-VIS：英雄之声&include=SI-VIS:%20The%20Sound%20of%20Heroes&include=希维司：英雄之声&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 弹珠汽水瓶里的千岁同学
+    alias:
+      - '千歳くんはラムネ瓶のなか'
+      - '千岁同学在波子汽水瓶内'
+      - 'Chitose-kun wa Ramune Bin no Naka'
+      - 'Chitose Is in the Ramune Bottle'
+    bgm: '507634'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=弹珠汽水瓶里的千岁同学&include=千歳くんはラムネ瓶のなか&include=千岁同学在波子汽水瓶内&include=Chitose-kun%20wa%20Ramune%20Bin%20no%20Naka&include=Chitose%20Is%20in%20the%20Ramune%20Bottle&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 永远的黄昏
+    alias:
+      - '永久のユウグレ'
+      - '永恒余晖'
+      - '永遠的黃昏'
+      - 'Towa no Yuugure'
+      - 'Dusk Beyond the End of the World'
+    bgm: '566600'
+    date: 2025-9-25 12:00
+    fansub:
+      - LoliHouse
+      - ANi
+    # https://animes.garden/resources/1?include=永远的黄昏&include=永久のユウグレ&include=永恒余晖&include=永遠的黃昏&include=Towa%20no%20Yuugure&include=Dusk%20Beyond%20the%20End%20of%20the%20World&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 朋友的妹妹只喜欢烦我
+    alias:
+      - '友達の妹が俺にだけウザい'
+      - '朋友的妹妹只缠着我'
+      - '朋友的妹妹只纏著我'
+      - '妹烦／妹缠'
+      - 'My Friend''s Little Sister Has It In for Me!'
+      - 'Tomodachi no Imouto ga Ore ni dake Uzai'
+    bgm: '326859'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=朋友的妹妹只喜欢烦我&include=友達の妹が俺にだけウザい&include=朋友的妹妹只缠着我&include=妹烦／妹缠&include=My%20Friend's%20Little%20Sister%20Has%20It%20In%20for%20Me!&include=Tomodachi%20no%20Imouto%20ga%20Ore%20ni%20dake%20Uzai&after=2025-09-30T16%3A00%3A00.000Z

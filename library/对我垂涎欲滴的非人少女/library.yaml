@@ -1,0 +1,16 @@
+# Generated at 2025-10-05 05:15
+
+season: 1
+
+date: 2025-10-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 对我垂涎欲滴的非人少女 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704236

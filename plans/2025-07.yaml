@@ -2,7 +2,7 @@ title: 创建于 2025-06-28 10:53
 
 date: 2025-06-27 12:00
 
-status: onair
+status: finish
 
 onair:
   - title: 神椿市建设中。
@@ -52,6 +52,7 @@ onair:
     bgm: '459616'
     fansub:
       - 喵萌奶茶屋
+      - ANi
     # https://animes.garden/resources/1?include=公爵千金的家庭教师&include=公女殿下の家庭教師&include=Koujo%20Denka%20no%20Kateikyoushi&include=Private%20Tutor%20to%20the%20Duke's%20Daughter&after=2025-06-30T16%3A00%3A00.000Z
 
   - title: Silent Witch 沉默魔女的秘密
@@ -132,6 +133,7 @@ onair:
       - 'Watari-kun no xx ga Houkai Sunzen'
       - "Watari-kun's ****** Is about to Collapse"
     bgm: '455454'
+    status: onair
     fansub:
       - LoliHouse
     # https://animes.garden/resources/1?include=渡君的XX即将崩坏&include=渡くんの××が崩壊寸前&include=Watari-kun%20no%20xx%20ga%20Houkai%20Sunzen&include=Watari-kun's%20******%20Is%20about%20to%20Collapse&after=2025-06-30T16%3A00%3A00.000Z
@@ -143,6 +145,7 @@ onair:
       - 'Futari Solo Camp'
       - 'Solo Camping for Two'
     bgm: '531344'
+    status: onair
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=双人单身露营&include=ふたりソロキャンプ&include=雙人單身露營&include=Futari%20Solo%20Camp&include=Solo%20Camping%20for%20Two&after=2025-06-30T16%3A00%3A00.000Z

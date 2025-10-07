@@ -1,0 +1,16 @@
+# Generated at 2025-10-05 05:35
+
+season: 1
+
+date: 2025-10-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: SI-VIS：英雄之声 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704370

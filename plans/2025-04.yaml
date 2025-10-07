@@ -144,7 +144,6 @@ onair:
     alias:
       - 'Summer Pockets'
     bgm: '363957'
-    status: onair
     fansub:
       - ANi
     # https://garden.breadio.wiki/resources/1?include=%5B%5B%22夏日口袋%22%2C%22Summer%20Pockets%22%5D%5D&after=2025-03-31T16%3A00%3A00.000Z
@@ -167,7 +166,6 @@ onair:
       - 'Ballpark de Tsukamaete!'
       - 'The Catcher in the Ballpark!'
     bgm: '524123'
-    status: onair
     fansub:
       - 奇怪机翻组
 
