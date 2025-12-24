@@ -1,4 +1,4 @@
-# Generated at 2025-10-05 05:18
+# Generated at 2025-12-21 12:45
 
 season: 1
 
@@ -14,3 +14,91 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/moe/68e144cd5394e50007220791
+
+  - filename: 末世二轮之旅 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68ea7f4d5394e50007e2c3ff
+
+  - filename: 末世二轮之旅 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705362
+
+  - filename: 末世二轮之旅 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68fcf4555394e50007646f85
+
+  - filename: 末世二轮之旅 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/69062ecf5394e50007247e80
+
+  - filename: 末世二轮之旅 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/690f694c5394e50007e4f32a
+
+  - filename: 末世二轮之旅 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6918a3bb5394e50007a7567d
+
+  - filename: 末世二轮之旅 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6921de575394e500075de6f5
+
+  - filename: 末世二轮之旅 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/95516c7c10f8dccb94748bdaec4b4a3318e4e4ff
+
+  - filename: 末世二轮之旅 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/693453435394e50007e30b96
+
+  - filename: 末世二轮之旅 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/693d8dc25394e50007ac3498
+
+  - filename: 末世二轮之旅 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/46f3453ff453a587d01551517558b459c7e6112a

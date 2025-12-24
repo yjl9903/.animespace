@@ -1,5 +1,80 @@
-# Generated at 2025-10-05 02:10
+# Generated at 2025-12-24 12:48
+
+season: 1
+
+date: 2025-10-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 弹珠汽水瓶里的千岁同学 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68e4ec1f5394e500077054ec
+
+  - filename: 弹珠汽水瓶里的千岁同学 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/68ee7ac35394e5000735ad84
+
+  - filename: 弹珠汽水瓶里的千岁同学 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705606
+
+  - filename: 弹珠汽水瓶里的千岁同学 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706100
+
+  - filename: 弹珠汽水瓶里的千岁同学 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706538
+
+  - filename: 弹珠汽水瓶里的千岁同学 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708395
+
+  - filename: 弹珠汽水瓶里的千岁同学 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708906
+
+  - filename: 弹珠汽水瓶里的千岁同学 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/6941894a5394e5000705654d
+
+  - filename: 弹珠汽水瓶里的千岁同学 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709683

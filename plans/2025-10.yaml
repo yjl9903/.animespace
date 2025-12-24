@@ -23,6 +23,8 @@ onair:
       - '宇宙人狼'
       - 'GNOSIA'
     bgm: '526448'
+    fansub:
+      - ANi
     # https://animes.garden/resources/1?include=古诺希亚&include=グノーシア&include=宇宙人狼&include=GNOSIA&after=2025-09-30T16%3A00%3A00.000Z
 
   - title: 不擅吸血的吸血鬼
@@ -30,6 +32,9 @@ onair:
       - 'ちゃんと吸えない吸血鬼ちゃん'
       - '超萌吸血鬼不能好好吸血'
     bgm: '536102'
+    fansub:
+      - LoliHouse
+      - ANi
     # https://animes.garden/resources/1?include=不擅吸血的吸血鬼&include=ちゃんと吸えない吸血鬼ちゃん&include=超萌吸血鬼不能好好吸血&after=2025-09-30T16%3A00%3A00.000Z
 
   - title: 末世二轮之旅
@@ -127,9 +132,64 @@ onair:
       - '朋友的妹妹只缠着我'
       - '朋友的妹妹只纏著我'
       - '妹烦／妹缠'
-      - 'My Friend''s Little Sister Has It In for Me!'
+      - "My Friend's Little Sister Has It In for Me!"
       - 'Tomodachi no Imouto ga Ore ni dake Uzai'
     bgm: '326859'
     fansub:
       - ANi
     # https://animes.garden/resources/1?include=朋友的妹妹只喜欢烦我&include=友達の妹が俺にだけウザい&include=朋友的妹妹只缠着我&include=妹烦／妹缠&include=My%20Friend's%20Little%20Sister%20Has%20It%20In%20for%20Me!&include=Tomodachi%20no%20Imouto%20ga%20Ore%20ni%20dake%20Uzai&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 矢野同学的普通日常
+    alias:
+      - '矢野くんの普通の日々'
+      - '矢野同学观察日记'
+      - 'Yano-kun no Futsuu no Hibi'
+      - "Mr. Yano's Ordinary Days"
+    bgm: '502408'
+    fansub:
+      - ANi
+
+  - title: 不动声色的柏田与喜形于色的太田
+    alias:
+      - '顔に出ない柏田さんと顔に出る太田君'
+      - '无口的柏田小姐与元气的太田君'
+      - '不動聲色的柏田與喜形於色的太田'
+      - 'Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun'
+      - 'Inexpressive Kashiwada and Expressive Oota'
+    bgm: '544104'
+    fansub:
+      - Prejudice-Studio
+    # https://animes.garden/resources/1?include=不动声色的柏田与喜形于色的太田&include=顔に出ない柏田さんと顔に出る太田君&include=无口的柏田小姐与元气的太田君&include=不動聲色的柏田與喜形於色的太田&include=Kao%20ni%20Denai%20Kashiwada-san%20to%20Kao%20ni%20Deru%20Oota-kun&include=Inexpressive%20Kashiwada%20and%20Expressive%20Oota&after=2025-09-30T16%3A00%3A00.000Z
+
+  - title: 这里是充满笑容的职场。
+    alias:
+      - '笑顔のたえない職場です。'
+      - '欢迎来到笑容不断的职场。'
+      - '這裡是充滿笑容的職場。'
+      - 'Egao no Taenai Shokuba desu.'
+      - "A Workplace Where You Can't Help But Smile"
+    bgm: '475663'
+    fansub:
+      - ANi
+
+  - title: 绝妙舞步
+    alias:
+      - 'ワンダンス'
+      - 'Wandance'
+      - 'Wondance'
+    bgm: '508958'
+    fansub:
+      - LoliHouse
+    # https://animes.garden/resources/1?include=绝妙舞步&include=ワンダンス&include=Wandance&include=Wondance&after=2025-12-31T16%3A00%3A00.000Z
+
+  - title: 野原广志午餐流派
+    alias:
+      - '野原ひろし 昼メシの流儀'
+      - '野原廣志 午餐的流派'
+      - '野原廣志 午餐的流派'
+      - 'Nohara Hiroshi: Hiru Meshi no Ryuugi'
+      - 'Style of Hiroshi Nohara Lunch'
+    bgm: '543189'
+    fansub:
+      - ANi
+    # https://animes.garden/resources/1?include=野原广志午餐流派&include=野原ひろし%20昼メシの流儀&include=野原廣志%20午餐的流派&include=Nohara%20Hiroshi:%20Hiru%20Meshi%20no%20Ryuugi&include=Style%20of%20Hiroshi%20Nohara%20Lunch&after=2025-12-31T16%3A00%3A00.000Z

@@ -1,5 +1,96 @@
-# Generated at 2025-10-05 02:10
+# Generated at 2025-12-23 04:04
+
+season: 1
+
+date: 2025-10-01T04:00:00.000Z
 
 storage: anime
 
-videos: []
+videos:
+  - filename: 不擅吸血的吸血鬼 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705003
+
+  - filename: 不擅吸血的吸血鬼 S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705479
+
+  - filename: 不擅吸血的吸血鬼 S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705993
+
+  - filename: 不擅吸血的吸血鬼 S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706430
+
+  - filename: 不擅吸血的吸血鬼 S01E05 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706893
+
+  - filename: 不擅吸血的吸血鬼 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707384
+
+  - filename: 不擅吸血的吸血鬼 S01E07 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707789
+
+  - filename: 不擅吸血的吸血鬼 S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708311
+
+  - filename: 不擅吸血的吸血鬼 S01E09 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708836
+
+  - filename: 不擅吸血的吸血鬼 S01E10 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709308
+
+  - filename: 不擅吸血的吸血鬼 S01E11 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709614

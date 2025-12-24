@@ -1,4 +1,4 @@
-# Generated at 2025-10-05 05:50
+# Generated at 2025-12-20 11:38
 
 season: 3
 
@@ -15,3 +15,102 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/704350
+
+  - filename: 间谍过家家 S03E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 39
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704848
+
+  - filename: 间谍过家家 S03E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 40
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705355
+
+  - filename: 间谍过家家 S03E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 41
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705863
+
+  - filename: 间谍过家家 S03E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 42
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706327
+
+  - filename: 间谍过家家 S03E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 43
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706737
+
+  - filename: 间谍过家家 S03E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 44
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707251
+
+  - filename: 间谍过家家 S03E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 45
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707703
+
+  - filename: 间谍过家家 S03E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 46
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708150
+
+  - filename: 间谍过家家 S03E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 47
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708636
+
+  - filename: 间谍过家家 S03E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 48
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709122
+
+  - filename: 间谍过家家 S03E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 49
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/cbdd289cbacda48668e0c1b55e30b737e6a700f7

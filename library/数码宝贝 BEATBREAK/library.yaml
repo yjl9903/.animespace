@@ -1,4 +1,4 @@
-# Generated at 2025-10-06 01:04
+# Generated at 2025-12-23 04:36
 
 season: 1
 
@@ -14,3 +14,91 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/704446
+
+  - filename: 数码宝贝 BEATBREAK S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704949
+
+  - filename: 数码宝贝 BEATBREAK S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705431
+
+  - filename: 数码宝贝 BEATBREAK S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705920
+
+  - filename: 数码宝贝 BEATBREAK S01E05 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706401
+
+  - filename: 数码宝贝 BEATBREAK S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706789
+
+  - filename: 数码宝贝 BEATBREAK S01E07 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707313
+
+  - filename: 数码宝贝 BEATBREAK S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707759
+
+  - filename: 数码宝贝 BEATBREAK S01E09 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708224
+
+  - filename: 数码宝贝 BEATBREAK S01E10 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708706
+
+  - filename: 数码宝贝 BEATBREAK S01E11 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709223
+
+  - filename: 数码宝贝 BEATBREAK S01E12 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709511

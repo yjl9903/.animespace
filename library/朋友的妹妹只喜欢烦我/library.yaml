@@ -1,4 +1,4 @@
-# Generated at 2025-10-05 06:18
+# Generated at 2025-12-23 04:50
 
 season: 1
 
@@ -14,3 +14,91 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/704362
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704872
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705372
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705872
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706346
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706748
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707268
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707721
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708169
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/693468535394e50007e4cb4a
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709140
+
+  - filename: 朋友的妹妹只喜欢烦我 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/699483912f6938e330474b2ae0368d04ca21151d

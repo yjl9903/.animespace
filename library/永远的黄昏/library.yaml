@@ -1,4 +1,4 @@
-# Generated at 2025-10-06 03:05
+# Generated at 2025-12-20 02:14
 
 season: 1
 
@@ -7,19 +7,11 @@ date: 2025-10-01T04:00:00.000Z
 storage: anime
 
 videos:
-  - filename: 永远的黄昏 S00E00 {ANi}.mp4
-    fansub: ANi
-    type: 番剧
-    season: 0
-    episode: 0
-    source:
-      type: AnimeGarden
-      magnet: https://animes.garden/detail/moe/68d567465394e500073b0c16
-
-  - filename: 永远的黄昏 S01E00 {LoliHouse}.mkv
+  - filename: 永远的黄昏 S00E01 {LoliHouse}.mkv
     fansub: LoliHouse
     type: 番剧
-    episode: 0
+    season: 0
+    episode: 1
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/704240
@@ -31,3 +23,91 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/704250
+
+  - filename: 永远的黄昏 S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704732
+
+  - filename: 永远的黄昏 S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705261
+
+  - filename: 永远的黄昏 S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705764
+
+  - filename: 永远的黄昏 S01E05 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706231
+
+  - filename: 永远的黄昏 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706643
+
+  - filename: 永远的黄昏 S01E07 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707185
+
+  - filename: 永远的黄昏 S01E08 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707633
+
+  - filename: 永远的黄昏 S01E09 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708130
+
+  - filename: 永远的黄昏 S01E10 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708580
+
+  - filename: 永远的黄昏 S01E11 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709092
+
+  - filename: 永远的黄昏 S01E12 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709398

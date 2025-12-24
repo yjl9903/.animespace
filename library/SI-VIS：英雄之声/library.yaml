@@ -1,4 +1,4 @@
-# Generated at 2025-10-05 05:35
+# Generated at 2025-12-23 04:42
 
 season: 1
 
@@ -14,3 +14,91 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/704370
+
+  - filename: SI-VIS：英雄之声 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/704889
+
+  - filename: SI-VIS：英雄之声 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705394
+
+  - filename: SI-VIS：英雄之声 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/705896
+
+  - filename: SI-VIS：英雄之声 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706359
+
+  - filename: SI-VIS：英雄之声 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/706764
+
+  - filename: SI-VIS：英雄之声 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707278
+
+  - filename: SI-VIS：英雄之声 S01E08 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 8
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/707733
+
+  - filename: SI-VIS：英雄之声 S01E09 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 9
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708190
+
+  - filename: SI-VIS：英雄之声 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/708664
+
+  - filename: SI-VIS：英雄之声 S01E11 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 11
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709159
+
+  - filename: SI-VIS：英雄之声 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/bb01c47915c207592ea4343fad0cf0d8b06ab7ef
