@@ -1,4 +1,4 @@
-# Generated at 2025-12-24 12:48
+# Generated at 2026-01-05 12:49
 
 season: 1
 
@@ -78,3 +78,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/709683
+
+  - filename: 弹珠汽水瓶里的千岁同学 S01E10 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 10
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/710157

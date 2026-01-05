@@ -1,4 +1,4 @@
-# Generated at 2025-12-23 04:42
+# Generated at 2026-01-04 11:33
 
 season: 1
 
@@ -102,3 +102,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/ani/bb01c47915c207592ea4343fad0cf0d8b06ab7ef
+
+  - filename: SI-VIS：英雄之声 S01E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/2e7d7a0df4a76d4c60e4c39f2deabe2c199e1f95

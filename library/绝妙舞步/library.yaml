@@ -1,4 +1,4 @@
-# Generated at 2025-12-18 11:07
+# Generated at 2026-01-04 03:00
 
 season: 1
 
@@ -37,7 +37,7 @@ videos:
     episode: 4
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/706200
+      magnet: https://animes.garden/detail/moe/6903736d5394e50007ed495d
 
   - filename: 绝妙舞步 S01E05 {LoliHouse}.mkv
     fansub: LoliHouse
@@ -69,7 +69,7 @@ videos:
     episode: 8
     source:
       type: AnimeGarden
-      magnet: https://animes.garden/detail/dmhy/708006
+      magnet: https://animes.garden/detail/moe/692866655394e50007e89f80
 
   - filename: 绝妙舞步 S01E09 {LoliHouse}.mkv
     fansub: LoliHouse
@@ -94,3 +94,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/709376
+
+  - filename: 绝妙舞步 S01E12 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709767

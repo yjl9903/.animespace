@@ -1,4 +1,4 @@
-# Generated at 2025-12-23 03:57
+# Generated at 2025-12-28 09:49
 
 season: 1
 
@@ -94,3 +94,11 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/ani/cece8fcd08f9c7af944bd35844d6863534de253a
+
+  - filename: 古诺希亚 S01E12 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 12
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709906

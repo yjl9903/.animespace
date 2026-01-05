@@ -1,4 +1,4 @@
-# Generated at 2025-12-20 11:38
+# Generated at 2025-12-28 12:13
 
 season: 3
 
@@ -114,3 +114,12 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/ani/cbdd289cbacda48668e0c1b55e30b737e6a700f7
+
+  - filename: 间谍过家家 S03E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 3
+    episode: 50
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/709896
