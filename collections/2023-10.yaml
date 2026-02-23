@@ -1,0 +1,393 @@
+name: 2023 年 10 月新番放送计划
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2023-09-28 12:00:00
+
+subjects:
+  - name: 葬送的芙莉莲
+    bgm: 400602
+    source:
+      include:
+        - 葬送的芙莉莲
+        - 葬送のフリーレン
+        - "Frieren: Beyond Journey's End"
+        - Sousou no Frieren
+        - 葬送的芙莉蓮
+        - FRIEREN
+      exclude:
+        - 沸羊羊字幕组
+        - B站沸羊羊都得叫我师傅
+      fansub:
+        - 北宇治字幕组
+        - ANi
+        - ANiTorrent
+
+  - name: 星灵感应
+    bgm: 404115
+    source:
+      include:
+        - 星灵感应
+        - 星屑テレパス
+        - Hoshikuzu Telepath
+      fansub:
+        - 爱恋字幕社
+        - ANi
+
+  - name: 圣剑学院的魔剑使
+    bgm: 353819
+    source:
+      include:
+        - 圣剑学院的魔剑使
+        - 聖剣学院の魔剣使い
+        - Seiken Gakuin no Maken Tsukai
+      fansub:
+        - ANi
+
+  - name: 偶像大师 百万现场！
+    bgm: 309807
+    source:
+      include:
+        - 偶像大师 百万现场！
+        - アイドルマスター ミリオンライブ！
+      fansub:
+        - 柏油字幕组
+        - 北宇治字幕组
+
+  - name: 赛马娘 Pretty Derby 第三季
+    bgm: 407332
+    naming:
+      name: 赛马娘 Pretty Derby
+      season: 3
+    source:
+      include:
+        - 赛马娘 Pretty Derby 第三季
+        - 赛马娘 Pretty Derby 第3季
+        - ウマ娘 プリティーダービー Season 3
+        - 赛马娘 第三季
+        - 赛马娘 Pretty Derby Season 3
+        - "Uma Musume: Pretty Derby Season 3"
+      fansub:
+        - 肥猫压制
+        - ANi
+
+  - name: 经验丰富的你与经验为零的我交往的故事
+    bgm: 400595
+    source:
+      include:
+        - 经验丰富的你与经验为零的我交往的故事
+        - 经验丰富的你和经验为零的我交往的故事
+        - 経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。
+        - 位于恋爱光谱极端的我们
+      fansub:
+        - ANi
+
+  - name: 药屋少女的呢喃
+    bgm: 420628
+    source:
+      include:
+        - 药屋少女的呢喃
+        - 薬屋のひとりごと
+        - 药师少女的独语
+        - Kusuriya no Hitorigoto
+      fansub:
+        - 喵萌奶茶屋
+        - 天月動漫&發佈組
+        - Amor字幕组
+
+  - name: 想要成为影之实力者！ 第二季
+    bgm: 419846
+    naming:
+      name: 想要成为影之实力者！
+      season: 2
+    source:
+      include:
+        - 想要成为影之实力者！ 第二季
+        - 陰の実力者になりたくて！ 2nd season
+        - 我想成為影之強者！第二季
+        - Kage no Jitsuryokusha ni Naritakute! 2nd Season
+        - The Eminence in Shadow 2nd Season
+      fansub:
+        - ANi
+        - LoliHouse
+
+  - name: 盾之勇者成名录 第三季
+    bgm: 289907
+    naming:
+      name: 盾之勇者成名录
+      season: 3
+    source:
+      include:
+        - 盾之勇者成名录 第三季
+        - 盾之勇者成名录 Season 3
+        - 盾の勇者の成り上がり Season 3
+        - 盾勇 3
+        - Tate no Yuusha no Nariagari Season 3
+        - The Rising of the Shield Hero Season 3
+      fansub:
+        - ANi
+
+  - name: 米奇与达利
+    bgm: 362255
+    source:
+      include:
+        - 米奇与达利
+        - ミギとダリ
+        - 米奇与达利 恶童物语
+        - 基米与达利
+        - Migi to Dali
+        - Migi &amp; Dali
+      fansub:
+        - ANi
+
+  - name: 16bit的感动 ANOTHER LAYER
+    bgm: 413741
+    source:
+      include:
+        - 16bit的感动 ANOTHER LAYER
+        - 16bit 的感动 ANOTHER LAYER
+        - 16bitセンセーション ANOTHER LAYER
+        - "16bit Sensation: Another Layer"
+      fansub:
+        - ANi
+
+  - name: 地下忍者
+    bgm: 348220
+    source:
+      include:
+        - 地下忍者
+        - アンダーニンジャ
+        - Under Ninja
+      fansub:
+        - ANi
+
+  - name: 冥王
+    bgm: 217021
+    source:
+      include:
+        - 冥王
+        - PLUTO
+
+  - name: 极速车魂
+    bgm: 364252
+    source:
+      include:
+        - 极速车魂
+        - MFゴースト
+        - 燃油車鬥魂
+        - MF GHOST
+      fansub:
+        - ANi
+
+  - name: 女友成双 第二季
+    bgm: 398949
+    storage:
+      path: 女友成双/Season 2
+    naming:
+      name: 女友成双
+      season: 2
+    source:
+      include:
+        - 女友成双 第二季
+        - カノジョも彼女 Season 2
+        - Kanojo mo Kanojo S02
+        - 女朋友 and 女朋友 第二季
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            episode_offset: -12
+
+  - name: 新石纪 NEW WORLD 第2部分
+    bgm: 424372
+    naming:
+      name: 新石纪 NEW WORLD
+      season: 3
+    source:
+      include:
+        - 新石纪 NEW WORLD 第2部分
+        - Dr.STONE 新石紀 第三季
+        - Dr.STONE NEW WORLD 第2クール
+        - Dr.STONE NEW WORLD part 2
+        - Dr.STONE 第3期 part 2
+        - Dr.STONE 3 part 2
+        - 新石纪 第三季 第2部分
+        - 石纪元 第三季 第2部分
+        - ドクターストーン 第3期 第2部分
+      fansub:
+        - ANi
+
+  - name: 间谍过家家 第二季
+    bgm: 411427
+    naming:
+      name: 间谍过家家
+      season: 2
+    source:
+      include:
+        - 间谍过家家 第二季
+        - 间谍过家家 Season 2
+        - SPY x FAMILY 間諜家家酒 Season 2
+        - SPY×FAMILY Season 2
+        - Spy x Family (2023)
+      fansub:
+        - 桜都字幕组
+
+  - name: 我们的雨色协议
+    bgm: 444634
+    source:
+      include:
+        - 我们的雨色协议
+        - 僕らの雨いろプロトコル
+        - Bokura no Ame-iro Protocol
+      fansub:
+        - ANi
+        - 极影字幕社
+
+  - name: 神选
+    bgm: 425601
+    naming:
+      name: GOD.app
+    source:
+      include:
+        - 神选
+        - カミエラビ
+        - GOD.app
+        - Kamierabi
+      fansub:
+        - 喵萌奶茶屋
+
+  - name: Overtake!
+    bgm: 416534
+    source:
+      include:
+        - Overtake!
+        - オーバーテイク！
+        - OVERTAKE！
+      fansub:
+        - ANi
+
+  - name: 鸭乃桥论的禁忌推理
+    bgm: 411426
+    source:
+      include:
+        - 鸭乃桥论的禁忌推理
+        - 鴨乃橋ロンの禁断推理
+        - Kamonohashi Ron no Kindan Suiri
+      fansub:
+        - ANi
+
+  - name: 特搜组大吾 救国的橘色部队
+    bgm: 411106
+    source:
+      include:
+        - 特搜组大吾 救国的橘色部队
+        - め組の大吾 救国のオレンジ
+        - "Me-gumi no Daigo: Kyuukoku no Orange"
+        - "Firefighter Daigo: Rescuer in Orange"
+        - 消防员的故事 救国的橘色部队
+        - 烈焰先鋒 救國的橘衣消防員
+      fansub:
+        - ANi
+
+  - name: 我推是反派大小姐。
+    bgm: 410928
+    source:
+      include:
+        - 我推是反派大小姐。
+        - 私の推しは悪役令嬢。
+        - 我的推是壞人大小姐。
+        - 我的推是恶役大小姐
+        - Watashi no Oshi wa Akuyaku Reijou.
+        - I'm in Love with the Villainess
+      fansub:
+        - ANi
+
+  - name: 大小姐和看门犬
+    bgm: 403631
+    source:
+      include:
+        - 大小姐和看门犬
+        - お嬢と番犬くん
+        - A Girl &amp; Her Guard Dog
+        - Ojou to Banken-kun
+        - 大小姐与看门狗
+        - 大小姐和看門犬
+      fansub:
+        - ANi
+
+  - name: 捡走被人悔婚的千金，教会她坏坏的幸福生活
+    bgm: 398922
+    source:
+      include:
+        - 捡走被人悔婚的千金，教会她坏坏的幸福生活
+        - 婚約破棄された令嬢を拾った俺が、イケナイことを教え込む
+        - I`m Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
+        - Kon`yakuhaki Sareta Reijou o Hirotta Ore ga, Ikenai Koto o Oshiekomu
+        - 捡到被退婚大小姐的我，教会她做坏坏的事
+      fansub:
+        - ANi
+
+  - name: 迪阿姆帝国物语～从断头台开始的，公主转生逆转传～
+    bgm: 400114
+    source:
+      include:
+        - 迪阿姆帝国物语～从断头台开始的，公主转生逆转传～
+        - ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～
+        - 堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～
+        - Tearmoon Empire
+        - "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story"
+      fansub:
+        - ANi
+
+  - name: 猪肝记得煮熟再吃
+    bgm: 362005
+    source:
+      include:
+        - 猪肝记得煮熟再吃
+        - 豚のレバーは加熱しろ
+        - 猪肝倒是热热再吃啊
+        - "Heat the pig liver: the story of a man turned into a pig."
+        - Buta no Liver wa Kanetsu Shiro
+      fansub:
+        - ANi
+        - LoliHouse
+
+  - name: 超超超超超喜欢你的100个女朋友
+    bgm: 424379
+    source:
+      include:
+        - 超超超超超喜欢你的100个女朋友
+        - 超超超超喜欢你的100个女孩子
+        - 超超超超超喜歡你的 100 個女朋友
+        - 君のことが大大大大大好きな100人の彼女
+        - 百人女友
+        - Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 Nin no Kanojo
+      fansub:
+        - 喵萌奶茶屋
+        - ANi
+
+  - name: 家里蹲吸血姬的郁闷
+    bgm: 414214
+    source:
+      include:
+        - 家里蹲吸血姬的郁闷
+        - 家裡蹲吸血姬的鬱悶
+        - ひきこまり吸血姫の悶々
+        - Hikikomari Kyuuketsu Hime no Monmon
+      fansub:
+        - ANi
+
+  - name: 仙魔大战
+    bgm: 427568
+    naming:
+      template:
+        TV: "{name}.S{season}E{episode}.2023.{fansub}"
+    source:
+      include:
+        - 仙魔大战
+        - ビックリメン
+        - Bikkurimen
+      fansub:
+        - ANi

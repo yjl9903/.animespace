@@ -1,0 +1,425 @@
+name: 创建于 2025-06-28 10:53
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2025-06-27 12:00:00
+
+subjects:
+  - name: 神椿市建设中。
+    bgm: 475032
+    source:
+      include:
+        - 神椿市建设中。
+        - 神椿市建設中
+        - 神椿市建設中。
+        - Kamitsubaki-shi Kensetsuchuu.
+        - Kamitsubaki City Under Construction
+        - 神椿市建設中。 魔女の娘 -Witchling-
+      fansub:
+        - LoliHouse
+        - ANi
+
+  - name: 歌声是千层派
+    bgm: 441670
+    source:
+      include:
+        - 歌声是千层派
+        - うたごえはミルフィーユ
+        - 歌聲是法式千層酥
+        - Utagoe wa Mille-Feuille
+      fansub:
+        - ANi
+
+  - name: 我怎么可能成为你的恋人，不行不行！(※不是不可能！？)
+    bgm: 524707
+    source:
+      include:
+        - 我怎么可能成为你的恋人，不行不行！(※不是不可能！？)
+        - わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）
+        - Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)
+        - There''s No Freaking Way I'll be Your Lover! Unless...
+        - わたなれ
+        - 我怎么可能成为你的恋人，办不到办不到！(※真香!?)
+        - 我们不可能成为恋人！绝对不行。 (※似乎可行？)
+        - 我怎么可能成为你的恋人，不行不行
+      fansub:
+        - Prejudice-Studio
+
+  - name: 公爵千金的家庭教师
+    bgm: 459616
+    source:
+      include:
+        - 公爵千金的家庭教师
+        - 公女殿下的家庭教师
+        - 公女殿下の家庭教師
+        - Koujo Denka no Kateikyoushi
+        - Private Tutor to the Duke's Daughter
+      fansub:
+        - 喵萌奶茶屋
+        - ANi
+
+  - name: Silent Witch 沉默魔女的秘密
+    bgm: 506677
+    source:
+      include:
+        - Silent Witch 沉默魔女的秘密
+        - サイレント・ウィッチ 沈黙の魔女の隠しごと
+        - 沉默的魔女
+        - "Silent Witch: Chinmoku no Majo no Kakushigoto"
+        - Secrets of the Silent Witch
+        - 沉默魔女的秘密
+      fansub:
+        - 喵萌奶茶屋
+        - ANi
+
+  - name: 转生为第七王子，随心所欲的魔法学习之路 第二季
+    bgm: 499656
+    naming:
+      name: 转生为第七王子，随心所欲的魔法学习之路
+      season: 2
+    source:
+      include:
+        - 转生为第七王子，随心所欲的魔法学习之路 第二季
+        - 転生したら第七王子だったので、気ままに魔術を極めます 第2期
+        - 转生七王子的魔法全解 第二季
+        - Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu Season 2
+        - I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2
+      fansub:
+        - LoliHouse
+        - ANi
+      rewrite:
+        - apply:
+            season: 1
+
+  - name: 盾之勇者成名录 第四季
+    bgm: 476542
+    naming:
+      name: 盾之勇者成名录
+      season: 4
+    source:
+      include:
+        - 盾之勇者成名录 第四季
+        - 盾之勇者成名錄 Season 4
+        - 盾の勇者の成り上がり Season 4
+        - Tate no Yuusha no Nariagari Season 4
+        - The Rising of the Shield Hero Season 4
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 4
+
+  - name: 青春笨蛋少年不做圣诞服女郎的梦
+    bgm: 467930
+    source:
+      include:
+        - 青春笨蛋少年不做圣诞服女郎的梦
+        - 青春ブタ野郎はサンタクロースの夢を見ない
+        - 青春猪头少年不会梦到圣诞服女郎
+        - 青春豬頭少年不會夢到聖誕服女郎
+        - "Seishun Buta Yarou: Santa Claus no Yume wo Minai"
+        - Rascal Does Not Dream of Santa Claus
+        - 青春ブタ野郎シリーズ 大学生編
+        - 青春笨蛋少年系列 大学生篇
+      fansub:
+        - 喵萌奶茶屋
+        - ANi
+      rewrite:
+        - apply:
+            season: 2
+
+  - name: 不良少女
+    bgm: 501614
+    source:
+      include:
+        - 不良少女
+        - ばっどがーる
+        - 坏女孩
+        - BadGirl
+        - Bad Girl
+      fansub:
+        - ANi
+
+  - name: 渡君的XX即将崩坏
+    bgm: 455454
+    source:
+      include:
+        - 渡君的XX即将崩坏
+        - 渡くんの××が崩壊寸前
+        - Watari-kun no xx ga Houkai Sunzen
+        - Watari-kun's ****** Is about to Collapse
+      fansub:
+        - LoliHouse
+
+  - name: 双人单身露营
+    bgm: 531344
+    source:
+      include:
+        - 双人单身露营
+        - ふたりソロキャンプ
+        - 雙人單身露營
+        - Futari Solo Camp
+        - Solo Camping for Two
+      fansub:
+        - ANi
+
+  - name: 费马的料理
+    bgm: 531945
+    source:
+      include:
+        - 费马的料理
+        - フェルマーの料理
+        - 费尔马的料理
+        - Fermat no Ryouri
+        - Fermat's Cuisine
+      fansub:
+        - ANi
+
+  - name: 光死去的夏天
+    bgm: 496086
+    source:
+      include:
+        - 光死去的夏天
+        - 光が死んだ夏
+        - 光逝去的夏天
+        - Hikaru ga Shinda Natsu
+        - The Summer Hikaru Died
+      fansub:
+        - LoliHouse
+
+  - name: 最近的侦探真没用
+    bgm: 509216
+    source:
+      include:
+        - 最近的侦探真没用
+        - まったく最近の探偵ときたら
+        - 这届侦探真不行
+        - Mattaku Saikin no Tantei to Kitara
+        - Detectives These Days Are Crazy!
+      fansub:
+        - ANi
+
+  - name: 石纪元 科学与未来 第2部分
+    bgm: 508003
+    naming:
+      name: 石纪元
+      season: 4
+    source:
+      include:
+        - 石纪元 科学与未来 第2部分
+        - Dr.STONE SCIENCE FUTURE 第2クール
+        - 新石纪 科学与未来 第2部分
+        - 石纪元 第四季 第2部分
+        - 新石纪 第四季 第2部分
+        - Dr.STONE 新石紀 第四季
+      fansub:
+        - ANi
+
+  - name: 保龄球少女！
+    bgm: 413567
+    source:
+      include:
+        - 保龄球少女！
+        - Turkey!
+        - ターキー！
+        - Turkey Time to Strike
+      fansub:
+        - ANi
+
+  - name: 新 吊带袜天使
+    bgm: 390555
+    source:
+      include:
+        - 新 吊带袜天使
+        - New PANTY & STOCKING with GARTERBELT
+      fansub:
+        - LoliHouse
+
+  - name: 章鱼哔的原罪
+    bgm: 527620
+    source:
+      include:
+        - 章鱼哔的原罪
+        - タコピーの原罪
+        - 章鱼噼的原罪
+        - 章鱼P的原罪
+      fansub:
+        - SweetSub
+        - ANi
+
+  - name: 彻夜之歌 第二季
+    bgm: 484623
+    naming:
+      name: 彻夜之歌
+      season: 2
+    source:
+      include:
+        - 彻夜之歌 第二季
+        - 彻夜之歌
+        - Yofukashi no Uta
+        - よふかしのうた Season 2
+        - 徹夜之歌 第二季
+        - 夜曲 第二季
+        - 那徜徉在夜晚的歌声 第二季
+        - Yofukashi no Uta Season 2
+        - CALL OF THE NIGHT Season 2
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 2
+        - match:
+            fansub:
+              - ANi
+          apply:
+            episode_offset: -13
+
+  - name: 更衣人偶坠入爱河 第二季
+    bgm: 398951
+    naming:
+      name: 更衣人偶坠入爱河
+      season: 1
+    source:
+      include:
+        - 更衣人偶坠入爱河 第二季
+        - 戀上換裝娃娃 Season 2
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 1
+
+  - name: 琉璃的宝石
+    bgm: 512190
+    source:
+      include:
+        - 琉璃的宝石
+        - 瑠璃の宝石
+        - Ruri no Houseki
+        - Introduction to Mineralogy
+      fansub:
+        - ANi
+
+  - name: 明天，美食广场见。
+    bgm: 528438
+    source:
+      include:
+        - 明天，美食广场见。
+        - フードコートで、また明日。
+        - 美食广场里的女高中生们在说啥
+        - Food Court de, Mata Ashita.
+        - See You Tomorrow at the Food Court
+      fansub:
+        - ANi
+
+  - name: 杜鹃的婚约 第二季
+    bgm: 505303
+    naming:
+      name: 杜鹃的婚约
+      season: 2
+    source:
+      include:
+        - 杜鹃的婚约 第二季
+        - 杜鵑婚約 第二季
+        - カッコウの許嫁 Season 2
+        - Kakkou no Iinazuke Season 2
+        - A Couple of Cuckoos Season 2
+      fansub:
+        - ANi
+
+  - name: 碧蓝之海 第二季
+    bgm: 515880
+    naming:
+      name: 碧蓝之海
+      season: 2
+    source:
+      include:
+        - 碧蓝之海 第二季
+        - 碧藍之海 2
+        - ぐらんぶる Season 2
+        - Grand Blue Season 2
+        - Grand Blue Dreaming Season 2
+      fansub:
+        - ANi
+
+  - name: 与游戏中心的少女异文化交流的故事
+    bgm: 510256
+    source:
+      include:
+        - 与游戏中心的少女异文化交流的故事
+        - ゲーセン少女と異文化交流
+        - 游乐场少女的异文化交流
+        - Game Center Shoujo to Ibunka Kouryuu
+        - Cultural Exchange With a Game Centre Girl
+      fansub:
+        - 北宇治字幕组
+        - ANi
+
+  - name: 薰香花朵凛然绽放
+    bgm: 513345
+    source:
+      include:
+        - 薰香花朵凛然绽放
+        - 花开凛凛满薰香
+        - 薫る花は凛と咲く
+        - Kaoru Hana wa Rin to Saku
+      fansub:
+        - 拨雪寻春
+
+  - name: 小城日常
+    bgm: 514358
+    source:
+      include:
+        - 小城日常
+        - CITY THE ANIMATION
+      fansub:
+        - SweetSub
+        - LoliHouse
+
+  - name: 欢迎光临流放者食堂！
+    bgm: 528831
+    source:
+      include:
+        - 欢迎光临流放者食堂！
+        - 欢迎来到颠沛流离食堂
+        - 追放者食堂へようこそ！
+        - 歡迎光臨流放者食堂！
+        - Welcome to the Outcast's Restaurant!
+      fansub:
+        - LoliHouse
+        - ANi
+
+  - name: 死灵之子的宇宙恐怖秀
+    bgm: 528147
+    source:
+      include:
+        - 死灵之子的宇宙恐怖秀
+        - ネクロノミ子のコズミックホラーショウ
+        - Necronomico no Cosmic Horror Show
+        - Necronomico and the Cosmic Horror Show
+      fansub:
+        - S1百综字幕组
+
+  - name: 帝乃三姐妹原来很好搞定。
+    bgm: 502272
+    source:
+      include:
+        - 帝乃三姐妹原来很好搞定。
+        - 帝乃三姉妹は案外、チョロい。
+        - 帝乃三姐妹意外的好对付。
+        - 帝乃三姊妹意外地容易相處。
+        - Mikadono Sanshimai wa Angai, Choroi.
+      fansub:
+        - ANi
+
+  - name: 9-nine- 支配者的王冠
+    bgm: 496973
+    source:
+      include:
+        - 9-nine- 支配者的王冠
+        - 9-nine- Ruler's Crown
+      fansub:
+        - LoliHouse
+        - ANi

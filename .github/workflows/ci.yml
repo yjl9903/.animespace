@@ -33,14 +33,14 @@ jobs:
       - name: Install
         run: pnpm install
 
-      - name: Update README
-        continue-on-error: true
-        run: |
-          npx optc render.ts
-          if [[ `git status --porcelain` ]]; then
-            git add README.md
-            git config user.name 'github-actions[bot]'
-            git config user.email 'github-actions[bot]@users.noreply.github.com'
-            git commit -m "update: README"
-            git push
-          fi
+      # - name: Update README
+      #   continue-on-error: true
+      #   run: |
+      #     npx optc render.ts
+      #     if [[ `git status --porcelain` ]]; then
+      #       git add README.md
+      #       git config user.name 'github-actions[bot]'
+      #       git config user.email 'github-actions[bot]@users.noreply.github.com'
+      #       git commit -m "update: README"
+      #       git push
+      #     fi

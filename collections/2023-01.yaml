@@ -1,0 +1,23 @@
+name: 2023 年 1 月新番放送计划
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2023-01-01 21:00:00
+
+subjects:
+  - name: 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ Ⅱ
+    bgm: 330054
+    naming:
+      season: 2
+    source:
+      include:
+        - 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ Ⅱ
+        - 魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～
+        - 魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ Ⅱ
+        - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II"
+        - 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ 第二季
+        - 魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ 第2期
+      fansub:
+        - ANi

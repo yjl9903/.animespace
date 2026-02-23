@@ -1,95 +1,50 @@
+downloader:
+  provider: qbittorrent
+  url: http://localhost:9091/api/v2
+  category: animespace
+
 storage:
-  anime:
-    provider: webdav
-    url: http://localhost:5244/dav
-    directory: /aliyundriver/anime
-    username: admin
-    password: !env OPENLIST_PASSWORD
-  pikpak:
-    provider: webdav
-    url: http://localhost:5244/dav
-    directory: /pikpak/anime
-    username: admin
-    password: !env OPENLIST_PASSWORD
-  library: './library'
+  default:
+    driver: aliyundrive
+    directory: /anime
+    token: !env ALIYUNDRIVE_REFRESH_TOKEN
+    endpoint: https://api.oplist.org/alicloud/renewapi
+  # pikpak:
+  #   driver: webdav
+  #   url: https://openlist.onekuma.cn/dav
+  #   directory: /pikpak/anime
+  #   username: admin
+  #   password: !env OPENLIST_PASSWORD
 
 preference:
-  format:
-    episode: '{title} S{season}E{ep} {{fansub}}.{extension}'
-    film: '{title} {{fansub}}.{extension}'
-    ova: '{title} S00E{ep} {{fansub}}.{extension}'
-  extension:
-    include:
-      - mp4
-      - mkv
-    exclude: []
-  keyword:
-    order:
-      format:
-        - mp4
-        - mkv
+  template:
+    动画: '{title} S{season}E{ep} {{fansub}}'
+    电影: '{title} {{fansub}}'
+
+  animegarden:
+    fansub:
+      - Prejudice-Studio
+      - LoliHouse
+      - 喵萌奶茶屋
+      - ANi
+
+  order:
+    keywords:
       language:
         - 简
         - CHS
         - 繁
         - CHT
+      fansub:
+        - '内嵌'
+        - '内封'
       resolution:
         - '2160'
         - '1080'
         - '720'
-      fansub:
-        - '内嵌'
-        - '内封'
-      platform:
-        - B-Global
-        - Baha
-    exclude:
-      - ABEMA
-      - Viu
-      # - 外挂
-      # - 外掛
+      format:
+        - mkv
+        - mp4
 
-plans:
-  - ./plans/*.yaml
-
-plugins:
-  - name: animegarden
-    provider: aria2
-    trackers:
-      - http://tracker.gbitt.info/announce
-      - https://tracker.lilithraws.cf/announce
-      - https://tracker1.520.jp/announce
-      - http://www.wareztorrent.com/announce
-      - https://tr.burnabyhighstar.com/announce
-      - http://tk.greedland.net/announce
-      - http://trackme.theom.nz:80/announce
-      - https://tracker.foreverpirates.co:443/announce
-      - http://tracker3.ctix.cn:8080/announce
-      - https://tracker.m-team.cc/announce.php
-      - https://tracker.gbitt.info:443/announce
-      - https://tracker.loligirl.cn/announce
-      - https://tp.m-team.cc:443/announce.php
-      - https://tr.abir.ga/announce
-      - http://tracker.electro-torrent.pl/announce
-      - http://1337.abcvg.info/announce
-      - https://trackme.theom.nz:443/announce
-      - https://tracker.tamersunion.org:443/announce
-      - https://tr.abiir.top/announce
-      - wss://tracker.openwebtorrent.com:443/announce
-      - http://www.all4nothin.net:80/announce.php
-      - https://tracker.kuroy.me:443/announce
-      - https://1337.abcvg.info:443/announce
-      - http://torrentsmd.com:8080/announce
-      - https://tracker.gbitt.info/announce
-      - udp://tracker.sylphix.com:6969/announce
-    # proxy: http://127.0.0.1:7890
-    # debug:
-    #   log: ./aria2.log
-
-  - name: local
-    directory: ./local
-    introspect: false
-    refresh: false
-
-  - name: bangumi
-    username: '603937'
+collections:
+  - collections/*.yaml

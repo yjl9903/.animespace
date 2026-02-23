@@ -1,0 +1,275 @@
+name: 创建于 2025-04-04 09:20
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2025-04-01 12:00:00
+
+subjects:
+  - name: 摇滚乃是淑女的爱好
+    bgm: 504678
+    source:
+      include:
+        - 摇滚乃是淑女的爱好
+        - ロックは淑女の嗜みでして
+        - 摇滚乐是淑女的嗜好
+        - 摇滚乃淑女之嗜好
+        - 搖滾樂是淑女的嗜好
+        - Rock wa Lady no Tashinami deshite
+        - Rock Is a Lady's Modesty
+      fansub:
+        - ANi
+
+  - name: 赛马娘 芦毛灰姑娘
+    bgm: 509297
+    source:
+      include:
+        - 赛马娘 芦毛灰姑娘
+        - ウマ娘 シンデレラグレイ
+        - 赛马娘 栗帽灰姑娘
+        - 赛马娘 Cinderella Gray
+        - Uma Musume Cinderella Gray
+      fansub:
+        - S1百综字幕组
+        - LoliHouse
+        - 桜都字幕组
+
+  - name: 莉可丽丝 朋友是时间小偷。
+    bgm: 504950
+    naming:
+      name: 莉可丽丝
+      season: 0
+    source:
+      include:
+        - 莉可丽丝 朋友是时间小偷。
+        - リコリス・リコイル Friends are thieves of time.
+        - リコリス・リコイル オリジナルショートムービー
+        - 莉可丽丝 短片
+        - Lycoris Recoil 莉可麗絲：友誼是時間的竊賊
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            episode: 4
+
+  - name: 机动战士高达 GQuuuuuuX
+    bgm: 526816
+    source:
+      include:
+        - 机动战士高达 GQuuuuuuX
+        - 機動戦士Gundam GQuuuuuuX
+        - Mobile Suit Gundam GQuuuuuuX
+        - 機動戦士Gundam ジークアクス
+      fansub:
+        - SweetSub
+        - 沸班亚马制作组
+
+  - name: 小市民系列 第二季
+    bgm: 513018
+    naming:
+      name: 小市民系列
+      season: 1
+    source:
+      include:
+        - 小市民系列 第二季
+        - 小市民シリーズ 第2期
+      fansub:
+        - ANi
+
+  - name: 黑执事 -绿之魔女篇-
+    bgm: 502875
+    naming:
+      name: 黑执事
+      season: 5
+    source:
+      include:
+        - 黑执事 -绿之魔女篇-
+        - 黒執事 -緑の魔女編-
+        - 黑執事 綠之魔女篇
+      fansub:
+        - ANi
+        - 豌豆字幕组
+
+  - name: 打了300年的史莱姆，不知不觉就练到了满级 ～其二～
+    bgm: 364844
+    naming:
+      name: 打了300年的史莱姆，不知不觉就练到了满级
+      season: 2
+    source:
+      include:
+        - 打了300年的史莱姆，不知不觉就练到了满级 ～其二～
+        - スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～
+        - スライム倒して300年、知らないうちにレベルMAXになってました 第2期
+        - 打了300年的史莱姆，不知不觉就练到了满级 第二季
+        - 打了三百年的史莱姆，不知不觉就练到了满等 第二季
+        - 持续狩猎史莱姆三百年，不知不觉就练到LV MAX 第二季
+        - Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2nd Season
+        - I`ve Been Killing Slimes for 300 Years and Maxed Out My Level 2nd Season
+      fansub:
+        - 不当舔狗制作组
+        - 桜都字幕组
+
+  - name: 随兴旅-That''s Journey-
+    bgm: 437593
+    source:
+      include:
+        - 随兴旅-That''s Journey-
+        - ざつ旅-That's Journey-
+        - 杂旅-That's Journey-
+        - "Zatsu Tabi: That's Journey"
+      fansub:
+        - 喵萌奶茶屋
+
+  - name: 末日后酒店
+    bgm: 509986
+    source:
+      include:
+        - 末日后酒店
+        - アポカリプスホテル
+        - 启示录酒店
+        - 天启酒店
+        - Apocalypse Hotel
+      fansub:
+        - 喵萌奶茶屋
+
+  - name: 直至魔女消逝
+    bgm: 501702
+    source:
+      include:
+        - 直至魔女消逝
+        - ある魔女が死ぬまで
+        - 直到某魔女死去
+        - Aru Majo ga Shinu Made
+        - Until the Witch Dies
+      fansub:
+        - LoliHouse
+        - 喵萌奶茶屋
+
+  - name: 夏日口袋
+    bgm: 363957
+    source:
+      include:
+        - 夏日口袋
+        - Summer Pockets
+      fansub:
+        - ANi
+
+  - name: 拉撒路
+    bgm: 446296
+    source:
+      include:
+        - 拉撒路
+        - LAZARUS
+        - ラザロ
+      fansub:
+        - 喵萌奶茶屋
+        - ANi
+
+  - name: 阳光马达棒球场！
+    bgm: 524123
+    source:
+      include:
+        - 阳光马达棒球场！
+        - 阳光马达棒球场
+        - ボールパークでつかまえて！
+        - Ballpark de Tsukamaete!
+        - The Catcher in the Ballpark!
+      fansub:
+        - 奇怪机翻组
+
+  - name: 紫云寺家的兄弟姐妹
+    bgm: 480545
+    source:
+      include:
+        - 紫云寺家的兄弟姐妹
+        - 紫雲寺家の子供たち
+        - 紫云寺家的孩子们
+        - 紫雲寺家的兄弟姊妹
+        - Shiunji-ke no Kodomotachi
+        - The Shiunji Family Children
+      fansub:
+        - ANi
+
+  - name: 男女之间的友情存在吗？（不，不存在!!）
+    bgm: 395493
+    source:
+      include:
+        - 男女之间的友情存在吗？（不，不存在!!）
+        - 男女の友情は成立する？（いや、しないっ!!）
+        - 男女之间存在纯友情吗？（不，不存在！！）
+        - Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
+        - Can a Boy and Girl Friendship Hold Up? (No, It Can't!!)
+      fansub:
+        - LoliHouse
+
+  - name: mono女孩
+    bgm: 485936
+    source:
+      include:
+        - mono女孩
+        - mono
+      exclude:
+        - Mononoke
+      fansub:
+        - ANi
+
+  - name: 时光流逝，饭菜依旧美味
+    bgm: 531159
+    source:
+      include:
+        - 时光流逝，饭菜依旧美味
+        - 日々は過ぎれど飯うまし
+        - 歲月流逝飯菜依舊美味
+        - Hibi wa Sugiredo Meshi Umashi
+        - Food for the Soul
+      fansub:
+        - ANi
+
+  - name: 九龙大众浪漫
+    bgm: 518090
+    source:
+      include:
+        - 九龙大众浪漫
+        - 九龍ジェネリックロマンス
+        - 九龙泛型浪漫
+        - Kowloon Generic Romance
+      fansub:
+        - ANi
+
+  - name: 前桥魔女
+    bgm: 511207
+    source:
+      include:
+        - 前桥魔女
+        - 前橋ウィッチーズ
+        - Maebashi Witches
+      fansub:
+        - 喵萌奶茶屋
+
+  - name: 忍者与杀手二人组的日常生活
+    bgm: 491569
+    source:
+      include:
+        - 忍者与杀手二人组的日常生活
+        - 忍者と殺し屋のふたりぐらし
+        - 忍者×杀手二人组的日常生活
+        - 忍者與殺手的兩人生活
+        - 忍者与杀手的两人生活
+        - NINJA to KOROSHIYA no FUTARIGURASHI
+        - NINKORO
+      fansub:
+        - ANi
+        - MeiYangYang
+
+  - name: 鬼人幻灯抄
+    bgm: 404753
+    source:
+      include:
+        - 鬼人幻灯抄
+        - 鬼人幻燈抄
+        - Kijin Gentoushou
+        - キジンゲントウショウ
+      fansub:
+        - 沸班亚马制作组
+        - ANi

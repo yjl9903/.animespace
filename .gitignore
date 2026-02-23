@@ -7,6 +7,7 @@
 # AnimeSpace
 anime
 download
+animespace.db
 .cache
 .trash
 *.mp4

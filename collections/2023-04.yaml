@@ -1,0 +1,270 @@
+name: 2023 年 4 月新番放送计划
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2023-04-01 21:00:00
+
+subjects:
+  - name: 【我推的孩子】
+    bgm: 386809
+    source:
+      include:
+        - 【我推的孩子】
+        - 【推しの子】
+        - "[Oshi no Ko]"
+      fansub:
+        - 桜都字幕组
+        - 北宇治字幕组
+        - Lilith-Raws
+        - LoliHouse
+
+  - name: 魔法少女毁灭者
+    bgm: 349039
+    source:
+      include:
+        - 魔法少女毁灭者
+        - 魔法少女マジカルデストロイヤーズ
+        - Mahou Shoujo Magical Destroyers
+        - 魔法少女 Destroyers
+        - 魔法少女 Magical Destroyers
+      fansub:
+        - 北宇治字幕组
+
+  - name: 新石纪 NEW WORLD
+    bgm: 363101
+    naming:
+      season: 3
+    source:
+      include:
+        - 新石纪 NEW WORLD
+        - Dr. Stone S03
+      fansub:
+        - Lilith-Raws
+
+  - name: 赛马娘 Pretty Derby Road to the Top
+    bgm: 380448
+    source:
+      include:
+        - 赛马娘 Pretty Derby Road to the Top
+        - 赛马娘 巅峰之路
+        - 赛马娘 Pretty Derby
+      fansub:
+        - 北宇治字幕组
+        - 肥猫压制
+
+  - name: 熊熊勇闯异世界 Punch!
+    bgm: 323651
+    naming:
+      season: 2
+    source:
+      include:
+        - 熊熊勇闯异世界 Punch!
+        - Kuma Kuma Kuma Bear Punch!
+        - Kuma Kuma Kuma Bear S02
+      fansub:
+        - Lilith-Raws
+        - ANi
+
+  - name: 天国大魔境
+    bgm: 404804
+    source:
+      include:
+        - 天国大魔境
+      fansub:
+        - SweetSub
+        - 猎户发布组
+
+  - name: 偶像大师 灰姑娘女孩 U149
+    bgm: 376703
+    naming:
+      template:
+        TV: "{name}.S{season}E{episode}.2023.{fansub}"
+    source:
+      include:
+        - 偶像大师 灰姑娘女孩 U149
+      fansub:
+        - 北宇治字幕组
+        - 喵萌奶茶屋
+
+  - name: 我的百合乃工作是也！
+    bgm: 381666
+    source:
+      include:
+        - 百合是我的工作！
+      fansub:
+        - Lilith-Raws
+
+  - name: 机动战士高达 水星的魔女
+    bgm: 403238
+    storage:
+      path: 机动战士高达 水星的魔女 Season2
+    naming:
+      season: 1
+    source:
+      include:
+        - 水星的魔女
+      fansub:
+        - LoliHouse
+        - 白恋字幕组
+
+  - name: 地狱乐
+    bgm: 325808
+    source:
+      include:
+        - 地狱乐
+      fansub:
+        - 喵萌奶茶屋
+        - 风之圣殿
+
+  - name: 为美好的世界献上爆炎！
+    bgm: 385209
+    source:
+      include:
+        - 为美好的世界献上爆炎！
+        - 为美好的世界献上爆焰！
+        - Kono Subarashii Sekai ni Bakuen wo!
+        - "KonoSuba: An Explosion on This Wonderful World!"
+      fansub:
+        - 桜都字幕组
+        - 爱恋字幕社
+
+  - name: 魔法使的新娘
+    bgm: 399820
+    storage:
+      path: 魔法使的新娘 第二季
+    naming:
+      season: 2
+    source:
+      include:
+        - 魔法使的新娘
+      fansub:
+        - ANi
+
+  - name: 和山田谈场Lv999的恋爱
+    bgm: 395684
+    source:
+      include:
+        - 和山田谈场Lv999的恋爱
+        - Yamada-kun to Lv999 no Koi wo Suru
+      fansub:
+        - Lilith-Raws
+        - ANi
+        - 爱恋字幕社
+
+  - name: 我心里危险的东西
+    bgm: 394260
+    source:
+      include:
+        - 我心里危险的东西
+        - 我内心的糟糕念头
+      fansub:
+        - LoliHouse
+
+  - name: 我家的英雄
+    bgm: 388067
+    source:
+      include:
+        - 我家的英雄
+        - My Home Hero
+      fansub:
+        - Lilith-Raws
+        - ANi
+
+  - name: 小鸟之翼 高尔夫少女 第二季
+    bgm: 389998
+    storage:
+      path: 小鸟之翼 高尔夫少女 第二季
+    naming:
+      season: 1
+    source:
+      include:
+        - 小鸟之翼 第二季
+      fansub:
+        - 北宇治字幕组
+      rewrite:
+        - apply:
+            episode_offset: 13
+
+  - name: 邻人似银河
+    bgm: 379442
+    source:
+      include:
+        - 邻人似银河
+        - A Galaxy Next Door
+        - Otonari ni Ginga
+      fansub:
+        - Lilith-Raws
+        - ANi
+
+  - name: 蓝色管弦乐
+    bgm: 377769
+    source:
+      include:
+        - 蓝色管弦乐
+      fansub:
+        - 动漫国字幕组
+
+  - name: 世界巨星
+    bgm: 409088
+    source:
+      include:
+        - 世界巨星
+        - World Dai Star
+      fansub:
+        - 喵萌奶茶屋
+        - 星空字幕组
+
+  - name: 亡骸游戏
+    bgm: 408013
+    source:
+      include:
+        - 亡骸游戏
+      fansub:
+        - LoliHouse
+
+  - name: 鬼灭之刃 锻刀村篇
+    bgm: 369768
+    naming:
+      season: 4
+    source:
+      include:
+        - 鬼灭之刃 锻刀村篇
+        - 鬼灭之刃 刀匠村篇
+      fansub:
+        - 爱恋字幕社
+
+  - name: 总之就是非常可爱
+    bgm: 355798
+    storage:
+      path: 总之就是非常可爱 第二季
+    naming:
+      season: 2
+    source:
+      include:
+        - 总之就是非常可爱
+        - トニカクカワイイ 第2期
+        - "TONIKAWA: Over The Moon For You Season 2"
+        - Tonikaku Kawaii Season 2
+      fansub:
+        - 爱恋字幕社
+
+  - name: 无神世界的神明活动
+    bgm: 377607
+    source:
+      include:
+        - 无神世界的神明活动
+        - 神無き世界のカミサマ活動
+        - 在无神的世界进行信仰传播
+        - Kaminaki Sekai no Kamisama Katsudou
+      fansub:
+        - ANi
+
+  - name: 跃动青春
+    bgm: 357961
+    source:
+      include:
+        - 跃动青春
+      fansub:
+        - 爱恋字幕社

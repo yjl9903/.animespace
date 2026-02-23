@@ -1,0 +1,346 @@
+name: 创建于 2026-01-06 12:30
+
+enabled: true
+
+preference:
+  animegarden:
+    after: 2026-01-01 12:00:00
+
+subjects:
+  - name: 极速车魂 第三季
+    bgm: 530110
+    naming: 极速车魂
+    source:
+      include:
+        - 极速车魂 第三季
+        - MFゴースト 3rd Season
+        - 燃油車鬥魂 第三季
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 1
+
+  - name: 安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～
+    bgm: 554013
+    source:
+      include:
+        - 安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～
+        - 安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～
+        - お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～
+        - Okiraku Ryoushu no Tanoshii Ryouchi Bouei
+        - Easygoing Territory Defense by the Optimistic Lord
+
+  - name: 转生之后的我变成了龙蛋
+    bgm: 544106
+    source:
+      include:
+        - 转生之后的我变成了龙蛋
+        - 転生したらドラゴンの卵だった
+
+  - name: 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活
+    bgm: 555445
+    source:
+      include:
+        - 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活
+        - 「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活
+        - 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
+        - '"Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai'
+        - Roll Over and Die
+      fansub:
+        - ANi
+
+  - name: 靠死亡游戏混饭吃。
+    bgm: 510753
+    source:
+      include:
+        - 靠死亡游戏混饭吃。
+        - 死亡遊戯で飯を食う。
+        - 以死亡游戏为生。
+        - Shibou Yuugi de Meshi wo Kuu.
+        - Playing Death Games to Put Food on the Table
+      fansub:
+        - ANi
+
+  - name: 厄里斯的圣杯
+    bgm: 520642
+    source:
+      include:
+        - 厄里斯的圣杯
+        - エリスの聖杯
+        - Eris no Seihai
+        - The Holy Grail of Eris
+      fansub:
+        - ANi
+
+  - name: 非人学生与厌世教师
+    bgm: 583728
+    source:
+      include:
+        - 非人学生与厌世教师
+        - 人外教室の人間嫌い教師
+        - Jingen Kyoushitsu no Ningengirai Kyoushi
+      fansub:
+        - LoliHouse
+
+  - name: 判处勇者刑 刑罚勇者9004队服刑记录
+    bgm: 445905
+    source:
+      include:
+        - 判处勇者刑 刑罚勇者9004队服刑记录
+        - 判處勇者刑
+        - 勇者刑に処す 懲罰勇者9004隊刑務記録
+        - "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku"
+        - Sentenced to Be a Hero
+        - Yushakei
+        - 勇者处刑 惩罚勇者9004队服刑记录
+      fansub:
+        - ANi
+
+  - name: "DARK MOON -黑之月: 月之祭坛-"
+    bgm: 513361
+    source:
+      include:
+        - "DARK MOON -黑之月: 月之祭坛-"
+        - "DARK MOON -黒の月: 月の祭壇-"
+        - "DARK MOON: 달의 제단"
+        - 月之祭坛
+      fansub:
+        - LoliHouse
+
+  - name: 蘑菇魔女
+    bgm: 528434
+    source:
+      include:
+        - 蘑菇魔女
+        - シャンピニオンの魔女
+        - Champignon Witch
+        - 毒菇魔女
+      fansub:
+        - ANi
+
+  - name: 皎洁迎宵之月
+    bgm: 557531
+    source:
+      include:
+        - 皎洁迎宵之月
+        - うるわしの宵の月
+        - 皎潔深宵之月
+
+  - name: 相反的你和我
+    bgm: 525565
+    source:
+      include:
+        - 相反的你和我
+        - 正反対な君と僕
+        - 正相反的你与我
+        - Seihantai na Kimi to Boku
+        - You and I Are Polar Opposites
+      fansub:
+        - LoliHouse
+        - ANi
+
+  - name: 和青梅竹马之间不会有恋爱喜剧
+    bgm: 549654
+    source:
+      include:
+        - 和青梅竹马之间不会有恋爱喜剧
+        - 幼馴染とはラブコメにならない
+        - 青梅竹馬的戀愛喜劇無法成立
+        - Osananajimi to wa Love Comedy ni Naranai
+        - No More Love With the Girls.
+      fansub:
+        - ANi
+
+  - name: 能帮我弄干净吗？
+    bgm: 562430
+    source:
+      include:
+        - 能帮我弄干净吗？
+        - 綺麗にしてもらえますか。
+        - 可以帮忙洗干净吗？
+        - 可以幫忙洗乾淨嗎？
+        - 大姐姐的绮丽日常
+        - Kirei ni Shitemoraemasu ka.
+        - Will You Clean This For Me?, Wash It All Away
+      fansub:
+        - 黑白字幕组
+        - 绿茶字幕组
+
+  - name: 金牌得主 第二季
+    bgm: 548818
+    naming: 金牌得主
+    source:
+      include:
+        - 金牌得主 第二季
+        - 金牌得主
+        - メダリスト 第2期
+        - 舞冰的祈愿 第二季
+        - Medalist Season 2
+      fansub:
+        - LoliHouse
+        - 绿茶字幕组
+      rewrite:
+        - match:
+            fansub:
+              - LoliHouse
+              - 绿茶字幕组
+          apply:
+            season: 2
+            episode_offset: -13
+
+  - name: 葬送的芙莉莲 第二季
+    bgm: 515759
+    naming: 葬送的芙莉莲
+    source:
+      include:
+        - 葬送的芙莉莲 第二季
+        - 葬送のフリーレン 第2期
+        - 葬送的芙莉蓮 第二季
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 1
+
+  - name: 【我推的孩子】 第三季
+    bgm: 517057
+    naming: 我推的孩子
+    source:
+      include:
+        - 【我推的孩子】 第三季
+        - 【我推的孩子】
+        - 【推しの子】 第3期
+        - Oshi no Ko 3rd Season
+        - '"Oshi no Ko" 3'
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 1
+
+  - name: 棱镜恋曲
+    bgm: 611089
+    source:
+      include:
+        - 棱镜恋曲
+        - プリズム輪舞曲
+        - Love Through  A Prism
+
+  - name: 达尔文事变
+    bgm: 495531
+    source:
+      include:
+        - 达尔文事变
+        - ダーウィン事変
+        - Darwin Jihen
+        - The Darwin Incident
+      fansub:
+        - LoliHouse
+
+  - name: 身为魔族的我想向勇者小队的可爱女孩告白。
+    bgm: 525816
+    source:
+      include:
+        - 身为魔族的我想向勇者小队的可爱女孩告白。
+        - 勇者パーティーにかわいい子がいたので、告白してみた。
+        - Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
+        - There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her
+      fansub:
+        - LoliHouse
+
+  - name: 公主大人“拷问”的时间到了 第二季
+    bgm: 486763
+    naming:
+      name: 公主大人“拷问”的时间到了
+    source:
+      include:
+        - 公主大人“拷问”的时间到了 第二季
+        - 姫様“拷問”の時間です 第2期
+        - 公主大人，接下来是“拷问”时间 第二季
+        - 公主殿下，「拷問」的時間到了 第二季
+        - Hime-sama "Goumon" no Jikan Desu season2
+        - Tis Time for "Torture," Princess season2
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 2
+
+  - name: 死亡账号
+    bgm: 543772
+    source:
+      include:
+        - 死亡账号
+        - デッドアカウント
+        - Dead Account
+      fansub:
+        - ANi
+
+  - name: 异国日记
+    bgm: 493016
+    source:
+      include:
+        - 异国日记
+        - 違国日記
+        - 他国日记
+        - 異國日記
+        - Ikoku Nikki
+      fansub:
+        - ANi
+
+  - name: 午夜的倾心旋律
+    bgm: 544109
+    source:
+      include:
+        - 午夜的倾心旋律
+        - 真夜中ハートチューン
+        - 午夜心旋律
+        - 深夜的心之曲
+        - Mayonaka Heart Tune
+        - Tune In to the Midnight Heart
+      fansub:
+        - ANi
+
+  - name: 和机器人啪啪啪能算在经验次数里吗？
+    bgm: 558296
+    source:
+      include:
+        - 和机器人啪啪啪能算在经验次数里吗？
+        - 和機器人啪啪啪能算在經驗人數裡嗎
+        - アンドロイドは経験人数に入りますか？？
+        - Android wa Keiken Ninzuu ni Hairimasu ka
+        - Android wa Keiken Ninzuu ni Hairimasu ka??
+        - Does It Count If You Lose Your Virginity to an Android?
+      fansub:
+        - 極彩字幕组
+        - ANi
+
+  - name: 现在多闻君是哪一面！？
+    bgm: 498791
+    source:
+      include:
+        - 现在多闻君是哪一面！？
+        - 多聞くん今どっち！？
+        - 现在的是哪一个多闻？！
+        - 现在的是哪一个多闻！？
+        - Tamon-kun Ima Docchi!?
+        - Tamon's B-Side
+      fansub:
+        - LoliHouse
+        - ANi
+
+  - name: 名侦探光之美少女！
+    bgm: 611077
+    source:
+      include:
+        - 名侦探光之美少女！
+        - 名探偵プリキュア！
+        - めいたんてい プリキュア！
+        - Star Detective Precure!
+        - たんプリ
+        - 探Q
+      exclude:
+        - 简繁外挂
+      fansub:
+        - 雪飄工作室(FLsnow)

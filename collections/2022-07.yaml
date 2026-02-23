@@ -1,0 +1,16 @@
+name: 2022 年 7 月新番放送计划
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2022-03-30 21:00:00
+
+subjects:
+  - name: 异世界舅舅
+    bgm: 339326
+    source:
+      include:
+        - 异世界舅舅
+      fansub:
+        - 幻樱字幕组

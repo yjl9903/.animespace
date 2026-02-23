@@ -1,0 +1,325 @@
+name: 创建于 2024-10-03 11:17
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2024-09-28 12:00:00
+
+subjects:
+  - name: 常轨脱离Creative
+    bgm: 437532
+    source:
+      include:
+        - 常轨脱离Creative
+        - ハミダシクリエイティブ
+        - 灵感满溢的甜蜜创想
+      fansub:
+        - MCE汉化组
+
+  - name: 极速车魂 第二季
+    bgm: 470738
+    naming:
+      name: 极速车魂
+      season: 1
+    source:
+      include:
+        - 极速车魂 第二季
+        - MF GHOST
+        - MFゴースト 2nd Season
+        - MF GHOST 2nd Season
+      fansub:
+        - LoliHouse
+        - ANi
+      rewrite:
+        - apply:
+            season: 1
+        - match:
+            fansub:
+              - LoliHouse
+          apply:
+            episode_offset: 12
+
+  - name: 妻子变成小学生。
+    bgm: 424680
+    source:
+      include:
+        - 妻子变成小学生。
+        - 妻、小学生になる。
+        - Tsuma, Shougakusei ni Naru.
+        - If My Wife Became an Elementary School Student.
+      fansub:
+        - ANi
+
+  - name: Love Live! Superstar!! 第三季
+    bgm: 404480
+    naming:
+      name: LoveLive! Superstar!!
+      season: 3
+    source:
+      include:
+        - Love Live! Superstar!! 第三季
+        - LoveLive! SuperStar!! 第三季
+        - ラブライブ！スーパースター!! 3期
+        - 爱与演唱会!超级明星!! 第三季
+        - Love Live! Superstar!! 3rd Season
+      fansub:
+        - ANi
+
+  - name: 地。-关于地球的运动-
+    bgm: 389156
+    source:
+      include:
+        - 地。-关于地球的运动-
+        - 地。关于地球的运动
+        - チ。―地球の運動について―
+        - "Chi.: Chikyuu no Undou ni Tsuite"
+        - "Orb: On the Movements of the Earth"
+      fansub:
+        - 猎户发布组
+
+  - name: 重来吧、魔王大人！R
+    bgm: 451119
+    naming:
+      name: 重来吧，魔王大人！
+    source:
+      include:
+        - 重来吧、魔王大人！R
+        - 魔王様、リトライ！Ｒ
+        - 魔王陛下，RETRY！R
+        - Maou-sama, Retry! R
+        - Demon Lord, Retry! R
+        - Demon Lord Retry
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 2
+
+  - name: 冻牌～地下麻将斗牌录～
+    bgm: 474801
+    source:
+      include:
+        - 冻牌～地下麻将斗牌录～
+        - 凍牌～裏レート麻雀闘牌録～
+        - "Touhai: Ura Rate Mahjong Touhai Roku"
+      exclude:
+        - "[ANi]  凍牌~地下麻將鬥牌錄~ - 20 [1080P][Baha][WEB-DL][AAC AVC][CHT][MP4]"
+      fansub:
+        - ANi
+        - 喵萌奶茶屋
+        - Kirara Fantasia
+
+  - name: 没能成为魔法师的女孩子的故事
+    bgm: 265391
+    source:
+      include:
+        - 没能成为魔法师的女孩子的故事
+        - 魔法使いになれなかった女の子の話
+        - 當不成魔法師的女孩
+        - まほなれ
+        - Mahoutsukai ni Narenakatta Onnanoko no Hanashi
+        - A Story of a Girl that was Unable to Become a Mage
+      fansub:
+        - ANi
+
+  - name: 一兆游戏
+    bgm: 454787
+    source:
+      include:
+        - 一兆游戏
+        - トリリオンゲーム
+        - Trillion Game
+        - 1,000,000,000,000$ GAME
+      fansub:
+        - ANi
+
+  - name: 蓝箱
+    bgm: 460306
+    source:
+      include:
+        - 蓝箱
+        - アオのハコ
+        - 青之箱
+        - 青色之箱
+        - 青春之箱
+        - Blue Box
+        - Ao no Hako
+      fansub:
+        - 喵萌奶茶屋
+        - 北宇治字幕组
+
+  - name: 悲喜渔生
+    bgm: 505895
+    source:
+      include:
+        - 悲喜渔生
+        - ネガポジアングラー
+        - 正负垂钓者
+        - Negative Positive Angler
+      fansub:
+        - ANi
+        - LoliHouse
+
+  - name: Re：从零开始的异世界生活 第三季 袭击篇
+    bgm: 425998
+    naming:
+      name: Re：从零开始的异世界生活
+      season: 1
+    source:
+      include:
+        - Re：从零开始的异世界生活 第三季 袭击篇
+        - Re：從零開始的異世界生活 第三季
+        - Re:ゼロから始める異世界生活 3rd season 襲擊編
+        - Re0 第三季
+        - Re0 3
+        - rezero s3
+        - Re:Zero kara Hajimeru Isekai Seikatsu (2024)
+        - Re:ゼロから始める異世界生活 (2024)
+        - Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season Shuugeki Hen
+        - Re:ZERO -Starting Life in Another World- Season 3 Shuugeki Hen
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 1
+        - apply:
+            episode_offset: 50
+
+  - name: 神选 第二季
+    bgm: 467803
+    naming:
+      name: 神选
+      season: 1
+    source:
+      include:
+        - 神选 第二季
+        - 神选
+        - カミエラビ シーズン2
+        - カミエラビ 完結編
+        - 神明选拔 第二季
+        - GOD.app Season 2
+        - Kamierabi Season 2
+      fansub:
+        - 喵萌奶茶屋
+      rewrite:
+        - apply:
+            season: 1
+
+  - name: 缘结甘神家
+    bgm: 431370
+    source:
+      include:
+        - 缘结甘神家
+        - 甘神さんちの縁結び
+        - 结缘甘神神社
+        - 甘神家的连理枝
+        - Amagami-san Chi no Enmusubi
+        - Tying the Knot with an Amagami Sister
+      fansub:
+        - ANi
+
+  - name: 平凡职业造就世界最强 第三季
+    bgm: 400576
+    naming:
+      name: 平凡职业造就世界最强
+      season: 3
+    source:
+      include:
+        - 平凡职业造就世界最强 第三季
+        - ありふれた職業で世界最強 season 3
+        - 平凡职业成就世界最强 第三季
+        - 平职 3
+        - Arifureta Shokugyou de Sekai Saikyou 3rd Season
+      fansub:
+        - ANi
+
+  - name: 精灵幻想记 第二季
+    bgm: 355803
+    naming:
+      name: 精灵幻想记
+      season: 2
+    source:
+      include:
+        - 精灵幻想记 第二季
+        - 精靈幻想記 2
+        - 精霊幻想記2
+        - Seirei Gensouki 2
+        - "Seirei Gensouki: Spirit Chronicles Season 2"
+      fansub:
+        - ANi
+
+  - name: 鸭乃桥论的禁忌推理 第二季
+    bgm: 472331
+    naming:
+      name: 鸭乃桥论的禁忌推理
+      season: 1
+    source:
+      include:
+        - 鸭乃桥论的禁忌推理 第二季
+        - 鸭乃桥论的禁忌推理
+        - 鴨乃橋ロンの禁断推理 2nd Season
+        - Kamonohashi Ron no Kindan Suiri 2nd Season
+        - Ron Kamonohashi`s Forbidden Deductions 2nd Season
+      fansub:
+        - ANi
+
+  - name: 听说你们要结婚！？
+    bgm: 429305
+    source:
+      include:
+        - 听说你们要结婚！？
+        - 聽說你們要結婚！？
+        - 結婚するって、本当ですか
+        - 真的要结婚吗
+        - 365 Days To The Wedding
+      fansub:
+        - ANi
+
+  - name: 超自然武装当哒当
+    bgm: 467461
+    source:
+      include:
+        - 超自然武装当哒当
+        - 胆大党
+        - ダンダダン
+        - dandadan
+        - 当哒当
+        - 膽大黨
+        - DAN DA DAN
+      fansub:
+        - 喵萌奶茶屋
+
+  - name: 顶尖恶路
+    bgm: 408896
+    source:
+      include:
+        - 顶尖恶路
+        - アクロトリップ
+        - Acro Trip
+      fansub:
+        - ANi
+
+  - name: 魔王2099
+    bgm: 425991
+    source:
+      include:
+        - 魔王2099
+        - 魔王 2099
+        - Maou 2099
+        - Demon Lord 2099
+      fansub:
+        - LoliHouse
+        - ANi
+
+  - name: 噗妮露是可爱史莱姆
+    bgm: 470045
+    source:
+      include:
+        - 噗妮露是可爱史莱姆
+        - ぷにるはかわいいスライム
+        - 可爱史莱姆噗尼露
+        - Puniru wa Kawaii Slime
+        - Puniru is a Kawaii Slime
+      fansub:
+        - 轻之国度

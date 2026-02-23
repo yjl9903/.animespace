@@ -1,0 +1,326 @@
+name: 创建于 2025-01-03 11:31
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2025-01-01 12:00:00
+
+subjects:
+  - name: 黄昏旅店
+    bgm: 501033
+    source:
+      include:
+        - 黄昏旅店
+        - 誰ソ彼ホテル
+        - 黄昏旅馆
+        - Tasokare Hotel The Animation
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 天久鹰央的推理病历表
+    bgm: 488177
+    source:
+      include:
+        - 天久鹰央的推理病历表
+        - 天久鷹央の推理カルテ
+        - 天久鹰央的事件病历簿
+        - Ameku Takao no Suiri Karte
+        - Ameku Takao's Detective Karte
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: Re：从零开始的异世界生活 第三季 反击篇
+    bgm: 510728
+    naming:
+      name: Re：从零开始的异世界生活
+      season: 1
+    source:
+      include:
+        - Re：从零开始的异世界生活 第三季 反击篇
+        - Re:ゼロから始める異世界生活 3rd season 反擊編
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+      rewrite:
+        - apply:
+            season: 1
+        - apply:
+            episode_offset: 58
+
+  - name: 金牌得主
+    bgm: 430699
+    source:
+      include:
+        - 金牌得主
+        - メダリスト
+        - 舞冰的祈愿
+        - Medalist
+      fansub:
+        - LoliHouse
+        - 喵萌奶茶屋
+
+  - name: 终究、与你相恋。
+    bgm: 482301
+    source:
+      include:
+        - 终究、与你相恋。
+        - 終究，與你相戀。
+        - どうせ、恋してしまうんだ。
+        - Anyway, I Will Fall in Love with You
+        - Anyway, I'm Falling in Love with You
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 坂本日常
+    bgm: 496617
+    source:
+      include:
+        - 坂本日常
+        - SAKAMOTO DAYS
+        - サカモトデイズ
+        - 坂本 DAYS
+      fansub:
+        - 奇怪机翻组
+
+  - name: 想星的大天使 Myth of Emotions
+    bgm: 425355
+    source:
+      include:
+        - 想星的大天使 Myth of Emotions
+        - 想星のアクエリオン Myth of Emotions
+      fansub:
+        - LoliHouse
+
+  - name: 魔神创造传
+    bgm: 474999
+    source:
+      include:
+        - 魔神创造传
+        - 魔神創造伝ワタル
+        - Mashin Souzouden Wataru
+      fansub:
+        - Kirara Fantasia
+
+  - name: 刹那之花
+    bgm: 491915
+    source:
+      include:
+        - 刹那之花
+        - もめんたりー・リリィ
+        - MOMENTARY LILY
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 我和班上最讨厌的女生结婚了。
+    bgm: 501023
+    source:
+      include:
+        - 我和班上最讨厌的女生结婚了。
+        - クラスの大嫌いな女子と結婚することになった。
+        - 和班上最讨厌的女生结婚了。
+        - 我决定和班上最讨厌的女生结婚了。
+        - I Got Married to the Girl I Hate Most in Class
+        - Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 药屋少女的呢喃 第二季
+    bgm: 486347
+    naming:
+      name: 药屋少女的呢喃
+      season: 1
+    source:
+      include:
+        - 药屋少女的呢喃 第二季
+        - 藥屋少女的呢喃
+        - 薬屋のひとりごと 第2期
+        - 药师少女的独语 第二季
+        - Kusuriya no Hitorigoto season 2
+        - The Apothecary Diaries season 2
+      fansub:
+        - 豌豆字幕组
+        - 天月動漫&發佈組
+
+  - name: 超超超超超喜欢你的100个女朋友 第二季
+    bgm: 471793
+    naming:
+      name: 超超超超超喜欢你的100个女朋友
+      season: 1
+    source:
+      include:
+        - 超超超超超喜欢你的100个女朋友 第二季
+        - 超超超超超喜歡你的 100 個女朋友
+        - 君のことが大大大大大好きな100人の彼女 第2期
+        - 百人女友 第二季
+        - Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season
+        - The 100 Girlfriends Who Really, Really, Really, Really, Really Love You 2nd Season
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 全修。
+    bgm: 486039
+    source:
+      include:
+        - 全修。
+        - Zenshuu.
+        - ZENSHU
+      fansub:
+        - 黑白字幕组
+
+  - name: 卡片战斗先导者 Divinez Deluxe篇
+    bgm: 440880
+    naming:
+      name: 卡片战斗先导者overDress
+      season: 7
+    source:
+      include:
+        - 卡片战斗先导者 Divinez Deluxe篇
+        - 卡片戰鬥!! 先導者 Divinez 第三季「DELUXE篇」
+        - "Cardfight!! Vanguard: Divinez Deluxe"
+        - カードファイト!! ヴァンガード Divinez デラックス編
+        - "Cardfight!! Vanguard: Divinez Deluxe-hen Edit"
+      exclude:
+        - ABEMA
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 一杆青空
+    bgm: 479788
+    source:
+      include:
+        - 一杆青空
+        - 空色ユーティリティ
+        - 空色Utility
+        - Sora-iro Utility
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 石纪元 科学与未来
+    bgm: 471578
+    naming:
+      name: 石纪元
+      season: 4
+    source:
+      include:
+        - 石纪元 科学与未来
+        - Dr STONE S04
+        - Dr.STONE SCIENCE FUTURE
+        - 新石纪 科学与未来
+        - 石纪元 第四季
+        - 新石纪 第四季
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 蜂蜜柠檬苏打
+    bgm: 482719
+    source:
+      include:
+        - 蜂蜜柠檬苏打
+        - 蜂蜜柠檬碳酸水
+        - ハニーレモンソーダ
+        - 青春特调蜂蜜柠檬苏打
+        - Honey Lemon Soda
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 灰色：幻影扳机
+    bgm: 371829
+    naming:
+      season: 1
+    source:
+      include:
+        - 灰色：幻影扳机
+        - グリザイア：ファントムトリガー
+        - "Grisaia: Phantom Trigger"
+        - GRISAIA：PHANTOM TRIGGER
+      fansub:
+        - 桜都字幕组
+        - 极影字幕社
+
+  - name: 群花绽放，彷如修罗
+    bgm: 498934
+    source:
+      include:
+        - 群花绽放，彷如修罗
+        - Hana wa Saku Shura no Gotoku
+        - 群花绽放、彷如修罗
+        - 花は咲く、修羅の如く
+        - 花如修罗一般，绽放
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 这公司有我喜欢的人
+    bgm: 504710
+    source:
+      include:
+        - 这公司有我喜欢的人
+        - この会社に好きな人がいます
+        - Kono Kaisha ni Suki na Hito ga Imasu
+        - Can You Keep a Secret?
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+
+  - name: 我的幸福婚姻 第二季
+    bgm: 455626
+    naming:
+      name: 我的幸福婚姻
+      season: 1
+    source:
+      include:
+        - 我的幸福婚姻 第二季
+        - 我的幸福婚姻 2期
+        - わたしの幸せな結婚 第二期
+        - 我的幸福婚约 第二季
+        - 我的美好婚事 第二季
+        - Watashi no Shiawase na Kekkon (2025)
+        - My Happy Marriage (2025)
+        - Watashi no Shiawase na Kekkon 2nd Season
+      fansub:
+        - 喵萌奶茶屋
+      rewrite:
+        - apply:
+            season: 1
+        - match:
+            fansub:
+              - 喵萌奶茶屋
+          apply:
+            episode_offset: 12
+
+  - name: BanG Dream! Ave Mujica
+    bgm: 454684
+    source:
+      include:
+        - BanG Dream! Ave Mujica
+        - 颂乐人偶
+        - BanG Dream! 颂乐人偶
+      fansub:
+        - 喵萌奶茶屋
+
+  - name: 虽然是公会的前台小姐，因为讨厌加班，所以打算自己讨伐boss
+    bgm: 445827
+    naming:
+      name: 虽然是公会的柜台小姐，但因为不想加班所以打算独自讨伐迷宫头目
+    source:
+      include:
+        - 虽然是公会的前台小姐，因为讨厌加班，所以打算自己讨伐boss
+        - ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
+        - 雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目
+        - Guild no Uketsukejou Desu ga, Zangyou wa Iya nano de Boss o Solo Toubatsu Shiyou to Omoimasu
+        - I May Be a Guild Receptionist, but I`ll Solo Any Boss to Clock Out on Time
+      fansub:
+        - ANi
+        - 灼眼のシャナ
+        - Kirara Fantasia

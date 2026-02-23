@@ -1,0 +1,326 @@
+name: 创建于 2024-07-01 08:50
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2024-06-27 12:00:00
+
+subjects:
+  - name: 身为VTuber的我因为忘记关台而成了传说
+    bgm: 416320
+    source:
+      include:
+        - 身为VTuber的我因为忘记关台而成了传说
+        - 身為 VTuber 的我因為忘記關台而成了傳說
+        - VTuberなんだが配信切り忘れたら伝説になってた
+        - "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream"
+        - VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta
+      fansub:
+        - ANi
+
+  - name: 恋爱没法用双子除尽
+    bgm: 445722
+    source:
+      include:
+        - 恋爱没法用双子除尽
+        - 恋は双子で割り切れない
+        - 恋爱无法用双子除尽
+        - 双子无法用恋爱除尽
+        - 双生恋情密不可分
+        - 无法割舍恋情的双胞胎
+        - Koi wa Futago de Warikirenai
+        - Love Is Indivisible by Twins
+      fansub:
+        - 云歌字幕组
+
+  - name: 义妹生活
+    bgm: 393037
+    naming:
+      template:
+        TV: "{name} S{season}E{episode}"
+    source:
+      include:
+        - 义妹生活
+        - 義妹生活
+        - Days with My Stepsister
+        - Gimai Seikatsu
+      fansub:
+        - 拨雪寻春
+        - B站沸羊羊都得叫我师傅
+        - yinghua001
+
+  - name: 不时用俄语小声说真心话的邻桌艾莉同学
+    bgm: 424883
+    source:
+      include:
+        - 不时用俄语小声说真心话的邻桌艾莉同学
+        - 時々ボソッとロシア語でデレる隣のアーリャさん
+        - 不时轻声地以俄语遮羞的邻座艾莉同学
+        - Tokidoki Bosotto Russia-go de Dereru Tonari no Aalya-san
+        - Alya Sometimes Hides Her Feelings in Russian
+      fansub:
+        - ANi
+
+  - name: 败犬女主太多了！
+    bgm: 464376
+    source:
+      include:
+        - 败犬女主太多了！
+        - 負けヒロインが多すぎる！
+        - 败犬女主太多啦！
+        - 败北女角太多了！
+        - Make Heroine ga Oosugiru!
+        - Toooooo Many Losing Heroines!
+      fansub:
+        - ANi
+
+  - name: 小市民系列
+    bgm: 474906
+    source:
+      include:
+        - 小市民系列
+        - 小市民シリーズ
+        - How to Become Ordinary
+        - Shoushimin Series
+      fansub:
+        - ANi
+
+  - name: 物语系列 外传季&怪物季
+    bgm: 475354
+    source:
+      include:
+        - 物语系列 外传季&怪物季
+        - 〈物語〉シリーズ オフ&モンスターシーズン
+        - 物语系列 Off&Monster季
+        - 物语系列 Off&Monster Season
+        - "Monogatari Series: Off & Monster Season"
+      fansub:
+        - 猎户手抄部
+
+  - name: 为何我的世界被遗忘了？
+    bgm: 446615
+    source:
+      include:
+        - 为何我的世界被遗忘了？
+        - なぜ僕の世界を誰も覚えていないのか?
+        - Naze Boku no Sekai o Dare mo Oboeteinai no ka?
+        - 为何无人记得我的世界？
+      fansub:
+        - 猎户发布组
+
+  - name: 多数欠
+    bgm: 477204
+    source:
+      include:
+        - 多数欠
+      fansub:
+        - LoliHouse
+
+  - name: 黃昏光影
+    bgm: 443931
+    source:
+      include:
+        - 黃昏光影
+        - 黄昏失焦
+        - 黄昏アウトフォーカス
+      fansub:
+        - ANi
+
+  - name: 前辈是男孩子
+    bgm: 425988
+    source:
+      include:
+        - 前辈是男孩子
+        - 學姊是男孩
+        - 先輩はおとこのこ
+        - 前辈是伪娘
+        - Senpai wa Otokonoko
+        - Senpai Is an Otokonoko
+      fansub:
+        - ANi
+
+  - name: 我的妻子没有感情
+    bgm: 482776
+    source:
+      include:
+        - 我的妻子没有感情
+        - 僕の妻は感情がない
+        - 我的妻子不具感情
+        - Boku no Tsuma wa Kanjou ga Nai
+        - My Wife Has No Emotion
+      fansub:
+        - LoliHouse
+
+  - name: 2.5次元的诱惑
+    bgm: 410346
+    source:
+      include:
+        - 2.5次元的诱惑
+        - 2.5 次元的诱惑
+        - 2.5次元の誘惑
+        - 2.5 Jigen no Ririsa
+        - 2.5 Dimensional Seduction
+      fansub:
+        - ANi
+        - LoliHouse
+
+  - name: 【我推的孩子】 第二季
+    bgm: 443428
+    naming:
+      name: 我推的孩子
+      season: 1
+    source:
+      include:
+        - 【我推的孩子】 第二季
+        - 【推しの子】 第2期
+        - Oshi no Ko
+      fansub:
+        - ANi
+
+  - name: 卡片战斗先导者 DivineZ 第二季
+    bgm: 440879
+    naming:
+      name: 卡片战斗先导者overDress
+      season: 6
+    source:
+      include:
+        - 卡片战斗先导者 DivineZ 第二季
+        - 卡片戰鬥!! 先導者 Divinez 第二季
+        - カードファイト!! ヴァンガード Divinez Season2
+      fansub:
+        - ANi
+
+  - name: 深夜重拳
+    bgm: 477207
+    source:
+      include:
+        - 深夜重拳
+        - 真夜中ぱんチ
+        - Mayonaka Punch
+        - 深夜 Punch
+      fansub:
+        - ANi
+
+  - name: 异世界自杀小队​​
+    bgm: 444046
+    source:
+      include:
+        - 异世界自杀小队​​
+        - 異世界スーサイド・スクワッド
+        - 异世界自杀突击队
+        - 异世界自杀特攻
+        - X特遣队的奇幻之旅
+        - Suicide Squad ISEKAI
+      fansub:
+        - ANi
+
+  - name: 亚托莉 -我挚爱的时光-
+    bgm: 397604
+    source:
+      include:
+        - 亚托莉 -我挚爱的时光-
+        - ATRI -My Dear Moments-
+      fansub:
+        - 北宇治字幕组
+        - ANi
+
+  - name: 亦叶亦花
+    bgm: 464561
+    source:
+      include:
+        - 亦叶亦花
+        - 菜なれ花なれ
+        - 少女如草花绽放
+        - 变成菜 变成花
+        - 菜一般 花一般
+        - Narenare -Cheer for You!-
+        - Na Nare Hana Nare
+      fansub:
+        - S1百综字幕组
+        - Alicest
+
+  - name: 鹿乃子乃子乃子虎视眈眈
+    bgm: 484761
+    source:
+      include:
+        - 鹿乃子乃子乃子虎视眈眈
+        - しかのこのこのここしたんたん
+        - 鹿乃子乃子虎视眈眈
+        - Shikanoko Nokonoko Koshitantan
+        - My Deer Friend Nokotan
+      fansub:
+        - 北宇治字幕组
+        - ANi
+
+  - name: 疑似后宫
+    bgm: 428823
+    source:
+      include:
+        - 疑似后宫
+        - 疑似ハーレム
+        - Giji Harem
+        - 百变的七仓同学
+        - 模擬後宮體驗
+      fansub:
+        - ANi
+
+  - name: 天穗之咲稻姬
+    bgm: 478684
+    source:
+      include:
+        - 天穗之咲稻姬
+        - 天穂のサクナヒメ
+        - てんすいのサクナヒメ
+        - 天穗之佐久名比命
+        - 天穗之佐久名姬
+        - Tensui no Sakuna-hime
+        - "Sakuna: Of Rice and Ruin"
+      fansub:
+        - ANi
+
+  - name: 魔法少女与恶曾是敌人。
+    bgm: 465884
+    source:
+      include:
+        - 魔法少女与恶曾是敌人。
+      fansub:
+        - 北宇治字幕组
+        - ANi
+
+  - name: 杖与剑的魔剑谭
+    bgm: 479477
+    source:
+      include:
+        - 杖与剑的魔剑谭
+        - 杖と剣のウィストリア
+        - 杖與劍的魔劍譚
+        - 杖与剑的维斯特利亚
+        - Tsue to Tsurugi no Wistoria
+        - "Wistoria: Wand and Sword"
+      fansub:
+        - ANi
+
+  - name: 擅长逃跑的殿下
+    bgm: 424573
+    source:
+      include:
+        - 擅长逃跑的殿下
+        - 逃げ上手の若君
+        - Nige Jouzu no Wakagimi
+        - The Elusive Samurai
+        - 少主溜得快
+      fansub:
+        - LoliHouse
+        - ANi
+
+  - name: 哎咕岛消失的舔甜歌姬
+    bgm: 490824
+    source:
+      include:
+        - 哎咕岛消失的舔甜歌姬
+        - エグミレガシー
+        - Egumi Legacy
+      fansub:
+        - LoliHouse
+        - ANi

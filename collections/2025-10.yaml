@@ -1,0 +1,220 @@
+name: 创建于 2025-10-05 12:21
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2025-10-01 12:00:00
+
+subjects:
+  - name: 对我垂涎欲滴的非人少女
+    bgm: 520842
+    source:
+      include:
+        - 对我垂涎欲滴的非人少女
+        - 私を喰べたい、ひとでなし
+        - Watashi wo Tabetai, Hitodenashi
+        - This Monster Wants to Eat Me
+        - 想吃掉我的非人少女
+        - 想要吃掉我的非人类
+      fansub:
+        - ANi
+
+  - name: 古诺希亚
+    bgm: 526448
+    enabled: true
+    source:
+      include:
+        - 古诺希亚
+        - グノーシア
+        - 宇宙人狼
+        - GNOSIA
+      fansub:
+        - ANi
+
+  - name: 不擅吸血的吸血鬼
+    bgm: 536102
+    source:
+      include:
+        - 不擅吸血的吸血鬼
+        - ちゃんと吸えない吸血鬼ちゃん
+        - 超萌吸血鬼不能好好吸血
+      fansub:
+        - LoliHouse
+        - ANi
+
+  - name: 末世二轮之旅
+    bgm: 539395
+    source:
+      include:
+        - 末世二轮之旅
+        - 終末ツーリング
+        - 终末摩托游
+        - 末世二輪之旅
+        - Shuumatsu Touring
+        - Touring After the Apocalypse
+      fansub:
+        - ANi
+
+  - name: 赛马娘 芦毛灰姑娘 第2部分
+    bgm: 530377
+    naming:
+      name: 赛马娘 芦毛灰姑娘
+      season: 1
+    source:
+      include:
+        - 赛马娘 芦毛灰姑娘 第2部分
+        - ウマ娘 シンデレラグレイ 第2クール
+        - 赛马娘 栗帽灰姑娘 第2部分
+        - 赛马娘 Cinderella Gray 第2部分
+        - Uma Musume Cinderella Gray Part 2
+        - 赛马娘 芦毛灰姑娘
+      fansub:
+        - S1百综字幕组
+
+  - name: 间谍过家家 第三季
+    bgm: 498378
+    naming:
+      name: 间谍过家家
+      season: 3
+    source:
+      include:
+        - 间谍过家家 第三季
+        - SPY×FAMILY Season 3
+        - SPY x FAMILY 間諜家家酒 Season 3
+        - 間諜家家酒 Season 3
+      fansub:
+        - ANi
+      rewrite:
+        - match:
+            fansub:
+              - ANi
+          apply:
+            episode_offset: -37
+
+  - name: 数码宝贝 BEATBREAK
+    bgm: 545499
+    enabled: true
+    source:
+      include:
+        - 数码宝贝 BEATBREAK
+        - デジモンビートブレイク
+        - DIGIMON BEATBREAK
+        - 数码宝贝BEATBREAK
+      fansub:
+        - LoliHouse
+        - ANi
+
+  - name: SI-VIS：英雄之声
+    bgm: 573897
+    enabled: true
+    source:
+      include:
+        - SI-VIS：英雄之声
+        - "SI-VIS: The Sound of Heroes"
+        - 希维司：英雄之声
+        - SI-VIS：英雄之聲
+      fansub:
+        - ANi
+
+  - name: 弹珠汽水瓶里的千岁同学
+    bgm: 507634
+    enabled: true
+    source:
+      include:
+        - 弹珠汽水瓶里的千岁同学
+        - 千歳くんはラムネ瓶のなか
+        - 千岁同学在波子汽水瓶内
+        - Chitose-kun wa Ramune Bin no Naka
+        - Chitose Is in the Ramune Bottle
+      fansub:
+        - ANi
+
+  - name: 永远的黄昏
+    bgm: 566600
+    source:
+      include:
+        - 永远的黄昏
+        - 永久のユウグレ
+        - 永恒余晖
+        - 永遠的黃昏
+        - Towa no Yuugure
+        - Dusk Beyond the End of the World
+      fansub:
+        - LoliHouse
+        - ANi
+
+  - name: 朋友的妹妹只喜欢烦我
+    bgm: 326859
+    source:
+      include:
+        - 朋友的妹妹只喜欢烦我
+        - 友達の妹が俺にだけウザい
+        - 朋友的妹妹只缠着我
+        - 朋友的妹妹只纏著我
+        - 妹烦／妹缠
+        - My Friend's Little Sister Has It In for Me!
+        - Tomodachi no Imouto ga Ore ni dake Uzai
+      fansub:
+        - ANi
+
+  - name: 矢野同学的普通日常
+    bgm: 502408
+    source:
+      include:
+        - 矢野同学的普通日常
+        - 矢野くんの普通の日々
+        - 矢野同学观察日记
+        - Yano-kun no Futsuu no Hibi
+        - Mr. Yano's Ordinary Days
+      fansub:
+        - ANi
+
+  - name: 不动声色的柏田与喜形于色的太田
+    bgm: 544104
+    source:
+      include:
+        - 不动声色的柏田与喜形于色的太田
+        - 顔に出ない柏田さんと顔に出る太田君
+        - 无口的柏田小姐与元气的太田君
+        - 不動聲色的柏田與喜形於色的太田
+        - Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun
+        - Inexpressive Kashiwada and Expressive Oota
+      fansub:
+        - Prejudice-Studio
+
+  - name: 这里是充满笑容的职场。
+    bgm: 475663
+    source:
+      include:
+        - 这里是充满笑容的职场。
+        - 笑顔のたえない職場です。
+        - 欢迎来到笑容不断的职场。
+        - 這裡是充滿笑容的職場。
+        - Egao no Taenai Shokuba desu.
+        - A Workplace Where You Can't Help But Smile
+      fansub:
+        - ANi
+
+  - name: 绝妙舞步
+    bgm: 508958
+    source:
+      include:
+        - 绝妙舞步
+        - ワンダンス
+        - Wandance
+        - Wondance
+      fansub:
+        - LoliHouse
+
+  - name: 野原广志午餐流派
+    bgm: 543189
+    source:
+      include:
+        - 野原广志午餐流派
+        - 野原ひろし 昼メシの流儀
+        - 野原廣志 午餐的流派
+        - "Nohara Hiroshi: Hiru Meshi no Ryuugi"
+        - Style of Hiroshi Nohara Lunch
+      fansub:
+        - ANi

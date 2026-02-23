@@ -1,0 +1,264 @@
+name: 创建于 2023-06-29 09:49
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2023-06-25 12:00:00
+
+subjects:
+  - name: BanG Dream! It's MyGO!!!!!
+    bgm: 428735
+    source:
+      include:
+        - BanG Dream! It's MyGO!!!!!
+        - It's MyGO!!!!!
+      fansub:
+        - Pharos of MyGO
+        - 千城忆梦
+        - Lilith-Raws
+        - ANi
+
+  - name: 满怀美梦的少年是现实主义者
+    bgm: 408351
+    source:
+      include:
+        - 满怀美梦的少年是现实主义者
+        - 滿懷美夢的少年是現實主義者
+        - 夢見る男子は現実主義者
+        - 幻想男子变成了现实主义者
+        - Yumemiru Danshi wa Genjitsushugisha
+      fansub:
+        - Lilith-Raws
+
+  - name: 谎言游戏
+    bgm: 333979
+    naming:
+      template:
+        TV: "{name} S{season}E{episode} (2023) {{fansub}}"
+    source:
+      include:
+        - 谎言游戏
+        - ライアー・ライアー
+        - Liar Liar
+        - LIAR·LIAR
+      fansub:
+        - LoliHouse
+        - ANi
+        - Lilith-Raws
+
+  - name: 不死少女・杀人笑剧
+    bgm: 425591
+    source:
+      include:
+        - 不死少女・杀人笑剧
+        - 不死少女的謀殺鬧劇
+      fansub:
+        - Lilith-Raws
+
+  - name: 能干猫今天也忧郁
+    bgm: 384672
+    source:
+      include:
+        - 能干猫今天也忧郁
+        - 能干的猫今天也忧郁
+        - デキる猫は今日も憂鬱
+        - Dekiru Neko wa Kyou mo Yuuutsu
+      fansub:
+        - Lilith-Raws
+        - ANi
+
+  - name: 堀与宫村 -piece-
+    bgm: 425992
+    naming:
+      template:
+        TV: "{name}.S{season}E{episode}.2023.{fansub}"
+    source:
+      include:
+        - 堀与宫村 -piece-
+        - ホリミヤ -piece-
+      fansub:
+        - 桜都字幕组
+        - ANi
+
+  - name: 总之就是非常可爱 女子高中篇
+    bgm: 441233
+    naming:
+      name: 总之就是非常可爱
+      season: 3
+    source:
+      include:
+        - 总之就是非常可爱 女子高中篇
+        - トニカクカワイイ 女子高編
+      fansub:
+        - 云光字幕组
+        - 天月動漫&發佈組
+
+  - name: 僵尸百分百～在成为僵尸前要做的100件事～
+    bgm: 414461
+    source:
+      include:
+        - 僵尸百分百～在成为僵尸前要做的100件事～
+        - ゾン100～ゾンビになるまでにしたい100のこと～
+        - 僵尸百分百～在变成僵尸之前想做的100件事～
+        - 僵尸100
+        - Zom 100 - Zombie ni Naru made ni Shitai 100 no Koto
+      fansub:
+        - 爱恋字幕社
+        - ANi
+        - Lilith-Raws
+
+  - name: 无职转生 ～到了异世界就拿出真本事～
+    bgm: 373247
+    storage:
+      path: 无职转生Ⅱ ～到了异世界就拿出真本事～
+    naming:
+      season: 2
+    source:
+      include:
+        - 无职转生 ～到了异世界就拿出真本事～
+        - 無職轉生～到了異世界就拿出真本事
+        - 无职转生Ⅱ ～到了异世界就拿出真本事～
+        - 無職轉生，到了異世界就拿出真本事
+        - 無職転生Ⅱ ～異世界行ったら本気だす～
+        - 无职转生Ⅱ ～在异世界认真地活下去～
+        - Mushoku Tensei
+      fansub:
+        - 北宇治字幕组
+        - ANi
+        - Lilith-Raws
+
+  - name: 莱莎的炼金工房 ～常暗女王与秘密藏身处～
+    bgm: 425236
+    source:
+      include:
+        - 莱莎的炼金工房 ～常暗女王与秘密藏身处～
+        - ライザのアトリエ ～常闇の女王と秘密の隠れ家～
+      fansub:
+        - 桜都字幕组
+        - Lilith-Raws
+
+  - name: 七魔剑支配天下
+    bgm: 362006
+    source:
+      include:
+        - 七魔剑支配天下
+        - 七つの魔剣が支配する
+        - 主宰七魔剑
+        - 七柄魔剑将其支配
+        - Reign of the Seven Spellblades
+        - Nanatsu no Maken ga Shihai Suru
+      fansub:
+        - Lilith-Raws
+        - ANi
+
+  - name: AI电子基因
+    bgm: 410203
+    source:
+      include:
+        - AI电子基因
+        - AIの遺電子
+        - AI no Idenshi
+        - AI的遗电子
+      fansub:
+        - Lilith-Raws
+        - ANi
+
+  - name: 间谍教室
+    bgm: 428418
+    storage:
+      path: 间谍教室 第二季
+    naming:
+      season: 1
+    source:
+      include:
+        - 间谍教室
+        - スパイ教室
+        - 特工教室
+        - Spy Room
+        - Spy Kyoushitsu
+      fansub:
+        - Lilith-Raws
+        - ANi
+
+  - name: 白圣女与黑牧师
+    bgm: 387822
+    source:
+      include:
+        - 白圣女与黑牧师
+        - 白聖女と黒牧師
+        - The White Holy Woman and the Black Priest
+        - Shiro Seijo to Kuro Bokushi
+      fansub:
+        - 北宇治字幕组
+        - Lilith-Raws
+        - ANi
+
+  - name: 喜欢的人忘记戴眼镜了
+    bgm: 415182
+    source:
+      include:
+        - 喜欢的人忘记戴眼镜了
+        - 我喜歡的女孩忘記戴眼鏡
+        - 好きな子がめがねを忘れた
+        - The Girl I Like Forgot Her Glasses
+      fansub:
+        - 桜都字幕组
+        - Lilith-Raws
+
+  - name: 幻日夜羽 -镜中晖光-
+    bgm: 389772
+    source:
+      include:
+        - 幻日夜羽 -镜中晖光-
+        - 幻日のヨハネ -SUNSHINE in the MIRROR-
+        - "Genjitsu no Yohane: Sunshine in the Mirror"
+        - "Yohane the Parhelion: Sunshine in the Mirror"
+      fansub:
+        - Lilith-Raws
+
+  - name: 政宗君的复仇
+    bgm: 185762
+    source:
+      include:
+        - 政宗君的复仇
+        - 政宗くんのリベンジ
+
+  - name: 政宗君的复仇R
+    bgm: 376433
+    naming:
+      season: 2
+    source:
+      include:
+        - 政宗君的复仇R
+        - 政宗君的復仇 R
+        - 政宗くんのリベンジR
+        - Masamune-kun no Revenge R
+        - 政宗君的复仇 第二季
+      fansub:
+        - Lilith-Raws
+
+  - name: 奇异贤伴 黑色天使
+    bgm: 401301
+    source:
+      include:
+        - 奇异贤伴 黑色天使
+        - SYNDUALITY Noir
+        - シンデュアリティ
+      fansub:
+        - 喵萌奶茶屋
+
+  - name: 我的幸福婚姻
+    bgm: 377125
+    source:
+      include:
+        - 我的幸福婚姻
+        - わたしの幸せな結婚
+        - 我的幸福婚约
+        - 我的美好婚事
+        - Watashi no Shiawase na Kekkon
+        - My Happy Marriage
+      fansub:
+        - 喵萌奶茶屋
+        - 爱恋字幕社
+        - 拨雪寻春

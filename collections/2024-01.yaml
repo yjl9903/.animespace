@@ -1,0 +1,286 @@
+name: 2024 年 1 月新番放送计划
+
+enabled: false
+
+preference:
+  animegarden:
+    after: 2024-01-01 12:00:00
+
+subjects:
+  - name: 指尖相触，恋恋不舍
+    bgm: 444334
+    source:
+      include:
+        - 指尖相触，恋恋不舍
+        - ゆびさきと恋々
+        - Yubisaki to Renren
+        - Signos de afecto
+      fansub:
+        - ANi
+
+  - name: 北海道辣妹贼拉可爱
+    bgm: 406119
+    source:
+      include:
+        - 北海道辣妹贼拉可爱
+        - 道産子ギャルはなまらめんこい
+        - Dosanko Gal wa Namara Menkoi
+      fansub:
+        - 爱恋字幕社
+
+  - name: 愚蠢天使与恶魔共舞
+    bgm: 431839
+    source:
+      include:
+        - 愚蠢天使与恶魔共舞
+        - 愚かな天使は悪魔と踊る
+        - The Foolish Angel Dances with the Devil
+        - Oroka na Tenshi wa Akuma to Odoru
+      fansub:
+        - ANi
+
+  - name: 奇异贤伴 黑色天使 第2部分
+    bgm: 456042
+    naming:
+      name: 奇异贤伴 黑色天使
+      season: 1
+    source:
+      include:
+        - 奇异贤伴 黑色天使 第2部分
+        - SYNDUALITY Noir
+        - シンデュアリティ
+      fansub:
+        - 喵萌奶茶屋
+
+  - name: 秒杀外挂太强了，异世界的家伙们根本就不是对手。
+    bgm: 409441
+    source:
+      include:
+        - 秒杀外挂太强了，异世界的家伙们根本就不是对手。
+        - 秒殺外掛太強了，異世界的傢伙們根本就不是對手。
+        - 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。
+        - Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranaindesu ga.
+      fansub:
+        - ANi
+
+  - name: 佐佐木与文鸟小哔
+    bgm: 393038
+    source:
+      include:
+        - 佐佐木与文鸟小哔
+        - 佐々木とピーちゃん
+        - 佐佐木大叔与小哔
+      fansub:
+        - ANi
+
+  - name: 公主大人“拷问”的时间到了
+    bgm: 443112
+    source:
+      include:
+        - 公主大人“拷问”的时间到了
+        - 姫様“拷問”の時間です
+        - Himesama Goumon no Jikan desu
+        - 公主大人，接下来是“拷问”时间
+      fansub:
+        - ANi
+
+  - name: 至高之牌 第二季
+    bgm: 426156
+    naming:
+      name: 至高之牌
+      season: 2
+    source:
+      include:
+        - 至高之牌 第二季
+        - HIGH CARD season2
+        - HIGH CARD 至高之牌 2
+      fansub:
+        - ANi
+
+  - name: 碰之道
+    bgm: 437206
+    source:
+      include:
+        - 碰之道
+        - ぽんのみち
+        - Pon no Michi
+      fansub:
+        - ANi
+
+  - name: 月刊妄想科学
+    bgm: 455355
+    source:
+      include:
+        - 月刊妄想科学
+        - 月刊モー想科学
+        - 月刊MOU想科学
+        - Gekkan Mousou Kagaku
+      fansub:
+        - ANi
+
+  - name: 金属胭脂
+    bgm: 425595
+    source:
+      include:
+        - 金属胭脂
+        - メタリックルージュ
+        - 金属口红
+        - METALLIC ROUGE
+      fansub:
+        - ANi
+
+  - name: 欢迎来到实力至上主义教室 第三季
+    bgm: 373266
+    naming:
+      name: 欢迎来到实力至上主义教室
+      season: 3
+    source:
+      include:
+        - 欢迎来到实力至上主义教室 第三季
+        - 歡迎來到實力至上主義的教室 第三季
+        - ようこそ実力至上主義の教室へ 3rd Season
+        - Classroom of the Elite III
+        - Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3nd Season
+      fansub:
+        - ANi
+
+  - name: 迷宫饭
+    bgm: 395378
+    source:
+      include:
+        - 迷宫饭
+        - ダンジョン飯
+        - Dungeon Meshi
+      fansub:
+        - 桜都字幕组
+
+  - name: 我心里危险的东西 第二季
+    bgm: 441795
+    naming:
+      name: 我心里危险的东西
+      season: 1
+    source:
+      include:
+        - 我心里危险的东西 第二季
+        - 僕の心のヤバイやつ 第2期
+        - 我内心的糟糕念头 第二季
+        - 我心中的野兽 第二季
+        - The Dangers in My Heart 2nd Season
+        - Boku no Kokoro no Yabai Yatsu 2nd Season
+      fansub:
+        - ANi
+
+  - name: 弱角友崎同学 2nd STAGE
+    bgm: 365572
+    naming:
+      name: 弱角友崎同学
+      season: 2
+    source:
+      include:
+        - 弱角友崎同学 2nd STAGE
+        - 弱キャラ友崎くん 2nd STAGE
+        - 弱势角色友崎君 第二季
+        - 弱势角色友崎同学 第二季
+        - 弱气角色友崎君 第二季
+        - 弱小角色友崎君 第二季
+        - 弱角友崎君 第二季
+        - 弱キャラ友崎くん 第2期
+        - Bottom-Tier Character Tomozaki
+        - Jaku Chara Tomozaki-kun 2nd Stage
+      fansub:
+        - ANi
+
+  # - name: 梦想成为魔法少女
+  #   bgm: 424663
+  #   storage:
+  #     driver: pikpak
+  #   source:
+  #     include:
+  #       - 梦想成为魔法少女
+  #       - 魔法少女にあこがれて
+  #       - 憧憬成为魔法少女
+  #       - Mahou Shoujo ni Akogarete
+  #     fansub:
+  #       - 桜都字幕组
+  #       - ANi
+
+  - name: 我独自升级
+    bgm: 390353
+    source:
+      include:
+        - 我独自升级
+        - 俺だけレベルアップな件
+        - 나 혼자만 레벨업
+        - Ore dake Level Up na Ken
+        - Na Honjaman Level Up
+        - Solo Leveling
+      fansub:
+        - ANi
+
+  # - name: 挣扎吧，亚当
+  #   bgm: 469072
+  #   storage:
+  #     driver: pikpak
+  #   source:
+  #     include:
+  #       - 挣扎吧，亚当
+  #     fansub:
+  #       - 永恒の光
+  #     order:
+  #       keywords:
+  #         level:
+  #           - Premium
+  #           - Onair
+  #           - Uncensored
+
+  - name: 勇气爆发
+    bgm: 438187
+    source:
+      include:
+        - 勇气爆发
+        - 勇氣爆發 BANG BRAVERN
+        - 勇気爆発バーンブレイバーン
+        - Bang Brave Bang Bravern
+        - Yuuki Bakuhatsu Bang Bravern
+        - ブレバン
+      fansub:
+        - ANi
+
+  # - name: 人气温泉『异世界温泉』开拓记 ～40岁左右的温泉爱好者转世到了悠闲的温泉天堂～
+  #   bgm: 467083
+  #   storage:
+  #     driver: pikpak
+  #   source:
+  #     include:
+  #       - 人气温泉『异世界温泉』开拓记 ～40岁左右的温泉爱好者转世到了悠闲的温泉天堂～
+  #       - 异世界温泉开拓记
+  #       - 名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～
+  #       - "Meitou &quot;Isekai no Yu&quot; Kaitaku-ki: Arafou Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku Deshita"
+  #     fansub:
+  #       - 極彩字幕组
+
+  - name: 卡片战斗先导者 DivineZ
+    bgm: 440878
+    naming:
+      name: 卡片战斗先导者overDress
+      season: 5
+    source:
+      include:
+        - 卡片战斗先导者 DivineZ
+        - 卡片戰鬥!! 先導者 Divinez
+        - カードファイト!! ヴァンガード DivineZ
+      fansub:
+        - ANi
+
+  - name: 大欺诈师 razbliuto
+    bgm: 465773
+    naming:
+      name: 大欺诈师
+      season: 2
+    source:
+      include:
+        - 大欺诈师 razbliuto
+        - GREAT PRETENDER razbliuto
+        - グレートプリテンダー ラズブリウト
+      fansub:
+        - SweetSub
