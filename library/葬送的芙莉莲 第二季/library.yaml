@@ -1,0 +1,53 @@
+# Generated at 2026-02-14 03:58
+
+season: 1
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 葬送的芙莉莲 S01E29 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 1
+    episode: 29
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711243
+
+  - filename: 葬送的芙莉莲 S01E30 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 30
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711810
+
+  - filename: 葬送的芙莉莲 S01E31 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 31
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712308
+
+  - filename: 葬送的芙莉莲 S01E32 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 32
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712769
+
+  - filename: 葬送的芙莉莲 S01E33 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 33
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/713218

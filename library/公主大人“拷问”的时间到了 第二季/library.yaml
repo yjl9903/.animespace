@@ -1,0 +1,62 @@
+# Generated at 2026-02-18 12:20
+
+season: 2
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 公主大人“拷问”的时间到了 S02E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/2221e26b80a6f712aaec9fdf75d14af5143846e8
+
+  - filename: 公主大人“拷问”的时间到了 S02E14 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/39bff792cc956c982a2fb77a651d187d89c38b38
+
+  - filename: 公主大人“拷问”的时间到了 S02E15 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/8901f564fd12359d9a891c45eac5bd9513637917
+
+  - filename: 公主大人“拷问”的时间到了 S02E16 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 16
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/c4ba901ef7db1e31ccbed945b34a54c8c897fd41
+
+  - filename: 公主大人“拷问”的时间到了 S02E17 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 17
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/698a04c2e98ea826c77db839
+
+  - filename: 公主大人“拷问”的时间到了 S02E18 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    season: 2
+    episode: 18
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/69933f4138b31e03ee2b4a3d

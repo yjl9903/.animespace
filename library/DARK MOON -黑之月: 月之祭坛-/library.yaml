@@ -1,0 +1,56 @@
+# Generated at 2026-02-14 03:56
+
+season: 1
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: "DARK MOON -黑之月: 月之祭坛- S01E01 {LoliHouse}.mkv"
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/710773
+
+  - filename: "DARK MOON -黑之月: 月之祭坛- S01E02 {LoliHouse}.mkv"
+    fansub: LoliHouse
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711269
+
+  - filename: "DARK MOON -黑之月: 月之祭坛- S01E03 {LoliHouse}.mkv"
+    fansub: LoliHouse
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711841
+
+  - filename: "DARK MOON -黑之月: 月之祭坛- S01E04 {LoliHouse}.mkv"
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712345
+
+  - filename: "DARK MOON -黑之月: 月之祭坛- S01E05 {LoliHouse}.mkv"
+    fansub: LoliHouse
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712798
+
+  - filename: "DARK MOON -黑之月: 月之祭坛- S01E06 {LoliHouse}.mkv"
+    fansub: LoliHouse
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/713253

@@ -1,0 +1,56 @@
+# Generated at 2026-02-15 05:38
+
+season: 1
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 和机器人啪啪啪能算在经验次数里吗？ S01E01 {極彩字幕组}.mkv
+    fansub: 極彩字幕组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/710738
+
+  - filename: 和机器人啪啪啪能算在经验次数里吗？ S01E02 {極彩字幕组}.mkv
+    fansub: 極彩字幕组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711258
+
+  - filename: 和机器人啪啪啪能算在经验次数里吗？ S01E03 {極彩字幕组}.mkv
+    fansub: 極彩字幕组
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711824
+
+  - filename: 和机器人啪啪啪能算在经验次数里吗？ S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/d849261cb1f2520f69525ee3a88d15953fcfd3d3
+
+  - filename: 和机器人啪啪啪能算在经验次数里吗？ S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/eec24550b91d1ae59a2e344c41fc0ab7d4125271
+
+  - filename: 和机器人啪啪啪能算在经验次数里吗？ S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/698f4acae98ea826c7e568dd

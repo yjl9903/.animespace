@@ -1,0 +1,64 @@
+# Generated at 2026-02-16 04:15
+
+season: 1
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 异国日记 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/a0f1bafd1f1e3d0d70ceaef788b7d863214d0e6f
+
+  - filename: 异国日记 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/710865
+
+  - filename: 异国日记 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711391
+
+  - filename: 异国日记 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711961
+
+  - filename: 异国日记 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712462
+
+  - filename: 异国日记 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712905
+
+  - filename: 异国日记 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/713360

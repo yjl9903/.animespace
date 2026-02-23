@@ -1,0 +1,32 @@
+# Generated at 2026-02-15 12:59
+
+season: 1
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 名侦探光之美少女！ S01E01 {雪飄工作室(FLsnow)}.mp4
+    fansub: 雪飄工作室(FLsnow)
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712415
+
+  - filename: 名侦探光之美少女！ S01E02 {雪飄工作室(FLsnow)}.mp4
+    fansub: 雪飄工作室(FLsnow)
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712859
+
+  - filename: 名侦探光之美少女！ S01E03 {雪飄工作室(FLsnow)}.mp4
+    fansub: 雪飄工作室(FLsnow)
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/713304

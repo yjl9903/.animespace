@@ -1,0 +1,64 @@
+# Generated at 2026-02-18 12:05
+
+season: 1
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 和青梅竹马之间不会有恋爱喜剧 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/10e8e85cb229a618a21825817d6b3a59701ccc22
+
+  - filename: 和青梅竹马之间不会有恋爱喜剧 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/710965
+
+  - filename: 和青梅竹马之间不会有恋爱喜剧 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711502
+
+  - filename: 和青梅竹马之间不会有恋爱喜剧 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712038
+
+  - filename: 和青梅竹马之间不会有恋爱喜剧 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712518
+
+  - filename: 和青梅竹马之间不会有恋爱喜剧 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712961
+
+  - filename: 和青梅竹马之间不会有恋爱喜剧 S01E07 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 7
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/713418

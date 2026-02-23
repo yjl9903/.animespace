@@ -1,0 +1,56 @@
+# Generated at 2026-02-13 02:24
+
+season: 1
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 S01E01 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/24f9419d14f7b6285e37057b300f8fe4fc310c2f
+
+  - filename: 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 S01E02 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711182
+
+  - filename: 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 S01E03 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711735
+
+  - filename: 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 S01E04 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712248
+
+  - filename: 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 S01E05 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712722
+
+  - filename: 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活 S01E06 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/713156

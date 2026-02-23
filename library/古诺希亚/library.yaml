@@ -1,4 +1,4 @@
-# Generated at 2025-12-28 09:49
+# Generated at 2026-02-15 03:34
 
 season: 1
 
@@ -102,3 +102,51 @@ videos:
     source:
       type: AnimeGarden
       magnet: https://animes.garden/detail/dmhy/709906
+
+  - filename: 古诺希亚 S01E13 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 13
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/ani/796d92943aed09fa4a417e73b3e5afc4cb63d6ba
+
+  - filename: 古诺希亚 S01E14 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 14
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711303
+
+  - filename: 古诺希亚 S01E15 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 15
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711882
+
+  - filename: 古诺希亚 S01E16 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 16
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712375
+
+  - filename: 古诺希亚 S01E17 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 17
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712838
+
+  - filename: 古诺希亚 S01E18 {ANi}.mp4
+    fansub: ANi
+    type: 番剧
+    episode: 18
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/713284

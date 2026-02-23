@@ -1,0 +1,56 @@
+# Generated at 2026-02-15 01:30
+
+season: 1
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 能帮我弄干净吗？ S01E01 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711094
+
+  - filename: 能帮我弄干净吗？ S01E02 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711210
+
+  - filename: 能帮我弄干净吗？ S01E03 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711666
+
+  - filename: 能帮我弄干净吗？ S01E04 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712171
+
+  - filename: 能帮我弄干净吗？ S01E05 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712674
+
+  - filename: 能帮我弄干净吗？ S01E06 {黑白字幕组}.mp4
+    fansub: 黑白字幕组
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/713309

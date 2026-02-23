@@ -1,0 +1,56 @@
+# Generated at 2026-02-18 12:29
+
+season: 1
+
+date: 2026-01-01T04:00:00.000Z
+
+storage: anime
+
+videos:
+  - filename: 非人学生与厌世教师 S01E01 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 1
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711039
+
+  - filename: 非人学生与厌世教师 S01E02 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 2
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/711474
+
+  - filename: 非人学生与厌世教师 S01E03 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 3
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712069
+
+  - filename: 非人学生与厌世教师 S01E04 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 4
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/moe/69818125e98ea826c7d93f0f
+
+  - filename: 非人学生与厌世教师 S01E05 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 5
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/712996
+
+  - filename: 非人学生与厌世教师 S01E06 {LoliHouse}.mkv
+    fansub: LoliHouse
+    type: 番剧
+    episode: 6
+    source:
+      type: AnimeGarden
+      magnet: https://animes.garden/detail/dmhy/713473
