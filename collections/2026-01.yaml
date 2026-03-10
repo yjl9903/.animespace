@@ -344,3 +344,12 @@ subjects:
         - 简繁外挂
       fansub:
         - 雪飄工作室(FLsnow)
+
+  - name: Fate/strange Fake
+    bgm: 443831
+    source:
+      include:
+        - Fate/strange Fake
+      fansub:
+        - LoliHouse
+        - ANi
