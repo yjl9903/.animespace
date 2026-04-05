@@ -1,18 +1,20 @@
 {
   "name": "@onekuma/animespace",
   "private": true,
+  "type": "module",
   "scripts": {
-    "commit": "optc commit.ts",
+    "commit": "optc scripts/commit.ts",
     "pull": "git pull"
   },
   "devDependencies": {
-    "animespace": "0.1.0-beta.23",
-    "bgmc": "^0.0.10",
+    "animespace": "0.5.3",
+    "bgmc": "0.1.1",
     "naria2c": "0.1.2",
     "optc": "0.6.4",
-    "undici": "^7.8.0"
+    "tsx": "4.21.0",
+    "undici": "8.0.2"
   },
-  "packageManager": "pnpm@10.8.0",
+  "packageManager": "pnpm@10.33.0",
   "engines": {
     "node": ">=v20.0.0"
   }

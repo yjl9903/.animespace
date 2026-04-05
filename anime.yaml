@@ -46,5 +46,8 @@ preference:
         - mkv
         - mp4
 
+bangumi:
+  uid: 603937
+
 collections:
   - collections/*.yaml

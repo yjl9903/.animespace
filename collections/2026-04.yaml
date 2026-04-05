@@ -1,0 +1,301 @@
+name: 2026 年 4 月新番放送计划
+
+enabled: true
+
+preference:
+  animegarden:
+    after: 2026-03-25T00:00:00.000Z
+
+subjects:
+  - name: 欢迎来到实力至上主义教室 第四季
+    bgm: 510710
+    naming:
+      name: 欢迎来到实力至上主义教室
+      season: 4
+    source:
+      include:
+        - 欢迎来到实力至上主义教室 第四季
+        - 歡迎來到實力至上主義的教室 第四季 2年級篇
+        - ようこそ実力至上主義の教室へ 4th Season
+        - Classroom of the Elite 4th Season
+        - ようこそ実力至上主義の教室へ 2年生編1学期
+
+  - name: 轮回的花瓣
+    bgm: 506149
+    source:
+      include:
+        - 轮回的花瓣
+        - リィンカーネーションの花弁
+        - Reincarnation no Kaben
+        - Petals of Reincarnation
+
+  - name: 石纪元 科学与未来 第3部分
+    bgm: 508004
+    naming:
+      name: 石纪元
+      season: 4
+    source:
+      include:
+        - 石纪元 科学与未来 第3部分
+        - Dr.STONE 新石紀 第四季
+        - Dr.STONE SCIENCE FUTURE 第3クール
+        - 新石纪 科学与未来 第3部分
+        - 石纪元 第四季 第3部分
+        - 新石纪 第四季 第3部分
+        - "Dr. Stone: Science Future 3"
+
+  - name: 雾尾粉丝后援会
+    bgm: 513208
+    source:
+      include:
+        - 雾尾粉丝后援会
+        - 霧尾ファンクラブ
+        - 雾尾粉丝俱乐部
+        - Kirio Fan Club
+
+  - name: 冰之城墙
+    bgm: 535669
+    source:
+      include:
+        - 冰之城墙
+        - 氷の城壁
+        - Koori no Jouheki
+        - The Ramparts of Ice
+
+  - name: 灰原同学重返过去，开启所向无敌的第二轮青春游戏
+    bgm: 567418
+    source:
+      include:
+        - 灰原同学重返过去，开启所向无敌的第二轮青春游戏
+        - 灰原くんの強くて青春ニューゲーム
+        - 灰原君的青春二周目（NEW GAME+）
+        - 灰原同學重返過去，開啟所向無敵的第二輪青春遊戲
+        - Haibara-kun no Tsuyokute Seishun New Game
+        - Haibara's Teenage New Game+
+
+  - name: 又被杀掉了呢，侦探大人
+    bgm: 608227
+    source:
+      include:
+        - 又被杀掉了呢，侦探大人
+        - また殺されてしまったのですね、探偵様
+        - 你又被杀了呢，侦探大人
+        - Mata Korosarete Shimatta no desu ne, Tantei-sama
+        - Killed Again, Mr. Detective.
+
+  - name: 关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
+    bgm: 458684
+    naming:
+      name: 关于邻家的天使大人不知不觉把我惯成了废人这档子事
+      season: 2
+    source:
+      include:
+        - 关于邻家的天使大人不知不觉把我惯成了废人这档子事 第二季
+        - 關於我在無意間被隔壁的天使變成廢柴這件事 2
+        - お隣の天使様にいつの間にか駄目人間にされていた件2
+        - 关于我在无意间被隔壁的天使变成废柴这件事 第二季
+        - 邻家的天使同学 第二季
+        - Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken Season 2
+        - The Angel Next Door Spoils Me Rotten Season 2
+
+  - name: 关于我转生变成史莱姆这档事 第四季
+    bgm: 515594
+    naming:
+      name: 关于我转生变成史莱姆这档事
+      season: 4
+    source:
+      include:
+        - 关于我转生变成史莱姆这档事 第四季
+        - 關於我轉生變成史萊姆這檔事 第四季
+        - 転生したらスライムだった件 第4期
+
+  - name: 冻结地球
+    bgm: 571555
+    source:
+      include:
+        - 冻结地球
+        - スノウボールアース
+        - 全球冻结
+        - Snowball Earth
+        - SNOW BALL EARTH
+
+  - name: 迦楠大人的白给是恶魔级
+    bgm: 552589
+    source:
+      include:
+        - 迦楠大人的白给是恶魔级
+        - カナン様はあくまでチョロい
+        - 容易对付的恶魔大人
+        - Kanan-sama wa Akumade Choroi
+
+  - name: 落语朱音
+    bgm: 576121
+    source:
+      include:
+        - 落语朱音
+        - あかね噺
+        - 朱音落语
+        - Akane-banashi
+
+  - name: 主播女孩重度依赖
+    bgm: 606263
+    source:
+      include:
+        - 主播女孩重度依赖
+        - NEEDY GIRL OVERDOSE
+
+  - name: 魔法姐妹露露特莉莉
+    bgm: 501796
+    source:
+      include:
+        - 魔法姐妹露露特莉莉
+        - 魔法の姉妹ルルットリリィ
+        - 魔法姐妹露露和莉莉
+        - 魔法姊妹露露特莉莉
+        - Mahou no Shimai Lulutto Lilly
+        - Magical Sisters Lulutto Lilly
+
+  - name: 女仆小姐的贪吃日常
+    bgm: 580473
+    source:
+      include:
+        - 女仆小姐的贪吃日常
+        - メイドさんは食べるだけ
+
+  - name: 幽灵音乐会
+    bgm: 600675
+    source:
+      include:
+        - 幽灵音乐会
+        - GHOST CONCERT
+        - "ゴーストコンサート : missing Songs"
+        - "Ghost Concert: missing Songs"
+
+  - name: 茉莉花酱的好感度正在崩坏
+    bgm: 609183
+    source:
+      include:
+        - 茉莉花酱的好感度正在崩坏
+        - 茉莉花ちゃんの好感度はぶっ壊れている
+
+  - name: おねがいアイプリ
+    bgm: 622634
+    source:
+      include:
+        - おねがいアイプリ
+
+  - name: 尖帽子的魔法工房
+    bgm: 377130
+    source:
+      include:
+        - 尖帽子的魔法工房
+        - とんがり帽子のアトリエ
+        - Atelier of Witch Hat
+        - Tongari Boushi no Atelier
+
+  - name: 欺诈游戏
+    bgm: 580133
+    source:
+      include:
+        - 欺诈游戏
+        - LIAR GAME
+        - -ライアーゲーム-
+
+  - name: 和班上第二可爱的女孩成为朋友
+    bgm: 456079
+    source:
+      include:
+        - 和班上第二可爱的女孩成为朋友
+        - クラスで2番目に可愛い女の子と友だちになった
+        - 我和班上第二可爱的女生成为朋友
+        - 和班上第二可爱的女孩成了朋友
+        - 和班上第二可爱的女生成为朋友
+        - 和班里第二可爱的女孩子成为了朋友
+        - Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta
+        - I Became Friends with the Second Cutest Girl in My Class
+        - クラにか
+
+  - name: 复制品的我也会谈恋爱。
+    bgm: 537722
+    source:
+      include:
+        - 复制品的我也会谈恋爱。
+        - レプリカだって、恋をする。
+        - 即使是复制人，也会恋爱。
+        - Replica datte, Koi wo Suru.
+        - Even a Replica Falls in Love, Even a Replica Can Fall in Love
+
+  - name: Re：从零开始的异世界生活 第四季 丧失篇
+    bgm: 547888
+    source:
+      include:
+        - Re：从零开始的异世界生活 第四季 丧失篇
+        - Re:ゼロから始める異世界生活 4th season 喪失編
+
+  - name: 淡岛百景
+    bgm: 493724
+    source:
+      include:
+        - 淡岛百景
+        - 淡島百景
+        - Awajima Hyakkei
+        - Awashima Hyakkei, One Hundred Views of Awajima
+
+  - name: 上伊那牡丹，酒醉身姿似百合花般
+    bgm: 543360
+    source:
+      include:
+        - 上伊那牡丹，酒醉身姿似百合花般
+        - 上伊那ぼたん、酔へる姿は百合の花
+        - 上伊那牡丹，醉姿如百合
+        - Kamiina Botan, the Drunken Appearance Is a Lily Flower
+        - Kamiina Botan, Yoeru Sugata wa Yuri no Hana
+
+  - name: 神之水滴
+    bgm: 609175
+    source:
+      include:
+        - 神之水滴
+        - 神の雫
+        - 神之雫
+
+  - name: 杖与剑的魔剑谭 第二季
+    bgm: 515856
+    naming:
+      name: 杖与剑的魔剑谭
+      season: 2
+    source:
+      include:
+        - 杖与剑的魔剑谭 第二季
+        - 杖と剣のウィストリア Season 2
+        - Tsue to Tsurugi no Wistoria Season 2
+        - "Wistoria: Wand and Sword Season 2"
+
+  - name: 黑猫与魔女的教室
+    bgm: 576351
+    source:
+      include:
+        - 黑猫与魔女的教室
+        - 黒猫と魔女の教室
+        - The Black Cat and the Witch Classroom
+        - The Classroom of a Black Cat and a Witch
+
+  - name: 想结束这场“我爱你”的游戏
+    bgm: 564289
+    source:
+      include:
+        - 想结束这场“我爱你”的游戏
+        - 愛してるゲームを終わらせたい
+        - 让“我爱你”游戏快点结束
+        - Aishiteru Game o Owarasetai
+        - I Want to End This Love Game
+
+  - name: 春夏秋冬代行者 春之舞
+    bgm: 551455
+    source:
+      include:
+        - 春夏秋冬代行者 春之舞
+        - 春夏秋冬代行者 春の舞
+        - "Shunkashuutou Daikousha: Haru no Mai"
+        - "Agents of the Four Seasons: Dance of Spring"
+        - Shunkashuutou Daikousha – Haru no Mai
