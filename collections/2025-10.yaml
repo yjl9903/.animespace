@@ -22,7 +22,6 @@ subjects:
 
   - name: 古诺希亚
     bgm: 526448
-    enabled: true
     source:
       include:
         - 古诺希亚
@@ -119,7 +118,6 @@ subjects:
 
   - name: 弹珠汽水瓶里的千岁同学
     bgm: 507634
-    enabled: true
     source:
       include:
         - 弹珠汽水瓶里的千岁同学

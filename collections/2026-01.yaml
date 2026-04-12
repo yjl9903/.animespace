@@ -326,6 +326,7 @@ subjects:
         - ANi
 
   - name: 名侦探光之美少女！
+    enabled: true
     bgm: 611077
     source:
       include:

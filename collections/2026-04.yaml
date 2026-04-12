@@ -108,6 +108,15 @@ subjects:
         - 关于我转生变成史莱姆这档事 第四季
         - 關於我轉生變成史萊姆這檔事 第四季
         - 転生したらスライムだった件 第4期
+      fansub:
+        - ANi
+      rewrite:
+        - match:
+            fansub:
+              - ANi
+          apply:
+            season: 4
+            episode_offset: -72
 
   - name: 冻结地球
     bgm: 571555
@@ -189,9 +198,15 @@ subjects:
     source:
       include:
         - 尖帽子的魔法工房
+        - 魔法帽的工作室
+        - 尖帽子的魔法工坊
         - とんがり帽子のアトリエ
         - Atelier of Witch Hat
         - Tongari Boushi no Atelier
+      fansub:
+        - 动漫国字幕组
+        - LoliHouse
+        - 喵萌奶茶屋
 
   - name: 欺诈游戏
     bgm: 580133
@@ -220,6 +235,7 @@ subjects:
     source:
       include:
         - 复制品的我也会谈恋爱。
+        - 複製品的我也會談戀愛
         - レプリカだって、恋をする。
         - 即使是复制人，也会恋爱。
         - Replica datte, Koi wo Suru.
@@ -229,6 +245,7 @@ subjects:
     bgm: 547888
     source:
       include:
+        - Re：从零开始的异世界生活 第四季
         - Re：从零开始的异世界生活 第四季 丧失篇
         - Re:ゼロから始める異世界生活 4th season 喪失編
 
