@@ -243,11 +243,20 @@ subjects:
 
   - name: Re：从零开始的异世界生活 第四季 丧失篇
     bgm: 547888
+    naming:
+      name: Re：从零开始的异世界生活
+      season: 1
     source:
       include:
         - Re：从零开始的异世界生活 第四季
         - Re：从零开始的异世界生活 第四季 丧失篇
         - Re:ゼロから始める異世界生活 4th season 喪失編
+      fansub:
+        - ANi
+      rewrite:
+        - apply:
+            season: 1
+            episode_offset: +66
 
   - name: 淡岛百景
     bgm: 493724
