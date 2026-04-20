@@ -292,10 +292,22 @@ subjects:
       season: 2
     source:
       include:
+        - 杖与剑的魔剑谭
         - 杖与剑的魔剑谭 第二季
         - 杖と剣のウィストリア Season 2
         - Tsue to Tsurugi no Wistoria Season 2
         - "Wistoria: Wand and Sword Season 2"
+      rewrite:
+        - match:
+            url: https://animes.garden/detail/dmhy/716249
+          apply:
+            season: 0
+            episode: 1
+        - match:
+            episode: '> 12'
+          apply:
+            season: 2
+            episode_offset: -12
 
   - name: 黑猫与魔女的教室
     bgm: 576351
@@ -325,3 +337,30 @@ subjects:
         - "Shunkashuutou Daikousha: Haru no Mai"
         - "Agents of the Four Seasons: Dance of Spring"
         - Shunkashuutou Daikousha – Haru no Mai
+
+  - name: 日本三国
+    bgm: 623851
+    source:
+      include:
+        - 日本三国
+        - 日本三國
+        - Nippon Sangoku
+        - The Three Nations Of The Crimson Sun
+
+  - name: 黄泉使者
+    bgm: 568572
+    source:
+      include:
+        - 黄泉使者
+        - 黄泉のツガイ
+        - 黄泉的使者
+        - 黃泉雙使
+        - Yomi no Tsugai
+        - Daemons of the Shadow Realm
+
+  - name: 一叠间漫画咖啡屋生活！
+    bgm: 569161
+    source:
+      include:
+        - 一叠间漫画咖啡屋生活！
+        - 一畳間まんきつ暮らし！
