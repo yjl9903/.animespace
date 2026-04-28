@@ -326,6 +326,7 @@ subjects:
         - 愛してるゲームを終わらせたい
         - 让“我爱你”游戏快点结束
         - Aishiteru Game o Owarasetai
+        - Aishiteru Game wo Owaraseta
         - I Want to End This Love Game
 
   - name: 春夏秋冬代行者 春之舞
@@ -363,4 +364,35 @@ subjects:
     source:
       include:
         - 一叠间漫画咖啡屋生活！
+        - 一疊間漫畫咖啡屋生活！
         - 一畳間まんきつ暮らし！
+      fansub:
+        - 三明治摆烂组
+        - LoliHouse
+
+  - name: 女神“异世界转生想成为什么”我“勇者的肋骨”
+    bgm: 623854
+    source:
+      include:
+        - 女神“异世界转生想成为什么”我“勇者的肋骨”
+        - 女神『異世界転生何になりたいですか』俺「勇者の肋骨で」
+        - Megami "Isekai Tensei Nani ni Naritai Desuka" Ore "Yuusha no Rokkotsu de"
+
+  - name: 左撇子艾伦
+    bgm: 409468
+    source:
+      include:
+        - 左撇子艾伦
+        - 左ききのエレン
+        - Hidarikiki no Eren
+        - Eren the Southpaw
+
+  - name: 婚姻剧毒
+    bgm: 590353
+    source:
+      include:
+        - 婚姻剧毒
+        - マリッジトキシン
+        - 婚姻毒素
+        - Marriagetoxin
+        - Marriage Toxin
