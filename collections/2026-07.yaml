@@ -1,0 +1,267 @@
+name: 2026 年 7 月新番放送计划
+
+enabled: true
+
+preference:
+  animegarden:
+    after: 2026-06-25T00:00:00.000Z
+
+subjects:
+  - name: BanG Dream! YUME∞MITA
+    bgm: 583729
+    source:
+      include:
+        - BanG Dream! YUME∞MITA
+        - BanG Dream！YUME∞MITA
+        - BanG Dream YumeMita
+        - BanG Dream! ゆめ∞みた
+        - バンドリ！ゆめ∞みた
+        - BanG Dream！夢限大みゅーたいぷ
+        - BanG Dream！梦想妄想世界
+        - 梦限大
+
+  - name: 尼古喵喵
+    bgm: 622206
+    source:
+      include:
+        - 尼古喵喵
+        - ヤニねこ
+
+  - name: THE WORLD IS DANCING 世界在起舞
+    bgm: 622633
+    source:
+      include:
+        - THE WORLD IS DANCING 世界在起舞
+        - ワールド イズ ダンシング
+        - 世界舞动
+        - The World Is Dancing
+        - 世界在起舞
+        - 世界在跳舞
+
+  - name: 描绘直至生命尽头
+    bgm: 545917
+    source:
+      include:
+        - 描绘直至生命尽头
+        - これ描いて死ね
+        - 畫完這個再去死
+        - Kore Kaite Shine
+        - Draw This, Then Die!
+        - 画完这个就去死
+
+  - name: 正后方的神威
+    bgm: 627136
+    source:
+      include:
+        - 正后方的神威
+        - 從後面來的神威先生
+        - うしろの正面カムイさん
+        - Ushiro no Shoumen Kamui-san
+        - Kamui-san in the Back
+        - KAMUI Hes Behind You 
+
+  - name: 无职转生 第三季 ～到了异世界就拿出真本事～
+    bgm: 501963
+    source:
+      include:
+        - 无职转生 第三季 ～到了异世界就拿出真本事～
+        - 無職転生Ⅲ ～異世界行ったら本気だす～
+        - 无职转生 第三季 ～在异世界认真地活下去～
+        - 無職轉生～到了異世界就拿出真本事～第三季
+
+  - name: 穹庐下的魔女
+    bgm: 552533
+    source:
+      include:
+        - 穹庐下的魔女
+        - 天幕のジャードゥーガル
+        - "Jaadugar: A Witch in Mongolia"
+      fansub:
+        - 绿茶字幕组
+        - ANi
+
+  - name: Grow Up Show ～向日葵马戏团～
+    bgm: 570583
+    source:
+      include:
+        - Grow Up Show ～向日葵马戏团～
+        - グロウアップショウ ～ひまわりのサーカス団～
+        - 成长秀～向日葵马戏团～
+      fansub:
+        - 绿茶字幕组
+        - ANi
+
+  - name: 才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐
+    bgm: 602733
+    source:
+      include:
+        - 才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐
+        - 才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました
+        - 才女的近侍
+        - "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita"
+        - "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School"
+
+  - name: 二十世纪电气目录
+    bgm: 255209
+    source:
+      include:
+        - 二十世纪电气目录
+        - 二十世紀電氣目録-ユーレカ・エヴリカ-
+        - Sparks of Tomorrow
+
+  - name: 碧蓝航线：微速前行！第二季
+    bgm: 454083
+    naming:
+      name: 碧蓝航线：微速前行！
+      season: 2
+    source:
+      include:
+        - 碧蓝航线：微速前行！第二季
+        - 碧藍航線 微速前進！2
+        - 碧蓝航线：微速前行！2!！
+        - Azur Lane：Bisoku Zenshin! Ni!!
+        - アズールレーン びそくぜんしんっ！にっ!!
+
+  - name: 再见菈菈
+    bgm: 495291
+    source:
+      include:
+        - 再见菈菈
+        - さよならララ
+        - 再见，拉拉
+        - 再見菈菈
+        - Goodbye, Lara
+
+  - name: 超超超超超喜欢你的100个女朋友 第三季
+    bgm: 598058
+    naming: 超超超超超喜欢你的100个女朋友
+    source:
+      include:
+        - 超超超超超喜欢你的100个女朋友
+        - 君のことが大大大大大好きな100人の彼女
+        - Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
+
+  - name: 炒翻天
+    bgm: 615835
+    source:
+      include:
+        - 炒翻天
+        - 鉄鍋のジャン
+        - Tetsunabe no Jan!
+        - Iron Wok Jan
+      fansub:
+        - Nix-Raws
+
+  - name: 相反的你和我 第二季
+    bgm: 638497
+    naming:
+      name: 相反的你和我
+      season: 1
+    source:
+      include:
+        - 相反的你和我
+        - 正反対な君と僕
+      rewrite:
+        - match:
+            fansub:
+              - ANi
+          apply:
+            season: 1
+
+  - name: 转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们
+    bgm: 456080
+    source:
+      include:
+        - 转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们
+        - 転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件
+        - Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken
+        - Oh Boy, Was I Wrong About Her
+      fansub:
+        - Prejudice-Studio
+        - LoliHouse
+        - 喵萌奶茶屋
+        - ANi
+        - Nix-Raws
+
+  - name: 与奔驰于透明之夜的你，谈一场看不见的恋爱。
+    bgm: 607340
+    source:
+      include:
+        - 与奔驰于透明之夜的你，谈一场看不见的恋爱。
+        - 透明な夜に駆ける君と、目に見えない恋をした。
+        - 與奔馳於透明之夜的你，談一場看不見的戀愛。
+
+  - name: 感谢对战。 ～大小姐才不玩格斗游戏～
+    bgm: 325767
+    source:
+      include:
+        - 感谢对战。 ～大小姐才不玩格斗游戏～
+        - 感謝對戰。～大小姐才不玩格鬥遊戲～
+        - 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
+        - "Tai-Ari deshita.: Ojousama wa Kakutou Game nante Shinai"
+        - Young Ladies Don't Play Fighting Games
+
+  - name: 攻壳机动队 THE GHOST IN THE SHELL
+    bgm: 496276
+    source:
+      include:
+        - 攻壳机动队 THE GHOST IN THE SHELL
+        - 攻殻機動隊 THE GHOST IN THE SHELL
+        - 攻壳机动队 2026
+        - 攻壳机动队 / The Ghost in the Shell
+
+  - name: 与你相恋到生命尽头
+    bgm: 541285
+    source:
+      include:
+        - 与你相恋到生命尽头
+        - 與妳相戀到生命盡頭
+        - きみが死ぬまで恋をしたい
+        - 只愿深入爱河直至你逝去
+        - Kimi ga Shinu made Koi wo Shitai
+        - I Want to Love You Till Your Dying Day
+
+  - name: 梅比乌斯之尘
+    bgm: 276787
+    source:
+      include:
+        - 梅比乌斯之尘
+        - メビウス・ダスト
+        - 梅比乌斯·尘埃
+        - MEBIUS DUST
+      fansub:
+        - Prejudice-Studio
+        - LoliHouse
+        - 喵萌奶茶屋
+        - ANi
+        - Nix-Raws
+
+  - name: 在超市后门吸烟的二人
+    bgm: 571784
+    source:
+      include:
+        - 在超市后门吸烟的二人
+        - スーパーの裏でヤニ吸うふたり
+        - 躲在超市后门抽烟的两人
+        - Super no Ura de Yani Suu Futari
+        - Smoking Behind the Supermarket with You
+
+  - name: 花织即使是转生也想打架
+    bgm: 587109
+    source:
+      include:
+        - 花织即使是转生也想打架
+        - 花織さんは転生しても喧嘩がしたい
+        - 花织同学转生后还是想干架
+
+  - name: 恶女不才，请多关照 ～雏宫蝶鼠换身传～
+    bgm: 545008
+    source:
+      include:
+        - 恶女不才，请多关照 ～雏宫蝶鼠换身传～
+        - ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
+        - 我是不才恶女 ～雏宫蝶鼠互换传～
+        - 虽然我是不完美恶女 ～雏宫蝶鼠替换传～
+        - "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
+        - "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den"
+        - 我是不才惡女
