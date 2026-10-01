@@ -1,0 +1,171 @@
+name: 2026 年 10 月新番放送计划
+
+enabled: true
+
+preference:
+  animegarden:
+    after: 2026-09-30T00:00:00.000Z
+
+subjects:
+  - name: FX战士久留美
+    bgm: 622288
+    source:
+      include:
+        - FX战士久留美
+        - FX戦士くるみちゃん
+        - FX 战士久留美
+        - FX 戦士くるみちゃん
+        - FX Senshi Kurumi-chan
+        - FX Senshi Kurumi chan
+
+  - name: 药屋少女的呢喃 第三季
+    bgm: 568244
+    naming:
+      name: 药屋少女的呢喃
+      season: 1
+    source:
+      include:
+        - 药屋少女的呢喃 第三季
+        - 薬屋のひとりごと 第3期
+
+  - name: 学生会也有洞！
+    bgm: 554779
+    source:
+      include:
+        - 学生会也有洞！
+        - 生徒会にも穴はある！
+        - NamaAnaru
+        - Even the Student Council Has Its Holes!
+        - Seitokai ni mo Ana wa Aru!
+        - 脑洞学生会！
+
+  - name: 至高之力
+    bgm: 636512
+    source:
+      include:
+        - 至高之力
+        - バーテックスフォース
+        - Vertex Force
+
+  - name: 青之箱 第二季
+    bgm: 548156
+    naming:
+      name: 青之箱
+      season: 1
+    source:
+      include:
+        - 青之箱 第二季
+        - アオのハコ Season 2
+        - 蓝箱 第二季
+        - 青春之箱 第二季
+        - Ao no Hako Season 2
+        - Blue Box Season 2
+
+  - name: 女友的朋友
+    bgm: 647220
+    source:
+      include:
+        - 女友的朋友
+        - 彼女の友達
+
+  - name: 你好，我是受心上人所托来做恋爱药的魔女。
+    bgm: 624923
+    source:
+      include:
+        - 你好，我是受心上人所托来做恋爱药的魔女。
+        - どうも、好きな人に惚れ薬を依頼された魔女です。
+        - 你好，身为魔女的我，被心上人委托制作迷情药
+        - Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.
+        - Hello, I am a Witch and my Crush Wants me to Make a Love Potion!
+
+  - name: 战斗之魂[Re] 绝界之空
+    bgm: 544378
+    source:
+      include:
+        - 战斗之魂[Re] 绝界之空
+        - Battle Spirits [Re] 絶界の空
+
+  - name: 冷淡的佐藤同学只对我撒娇
+    bgm: 634708
+    source:
+      include:
+        - 冷淡的佐藤同学只对我撒娇
+        - 塩対応の佐藤さんが俺にだけ甘い
+
+  - name: 侦探已经死了。 第二季
+    bgm: 393010
+    naming: 
+      name: 侦探已经死了。
+      season: 2
+    source:
+      include:
+        - 侦探已经死了。 第二季
+        - 探偵はもう、死んでいる。 Season 2
+
+  - name: 佐佐木与文鸟小哔 第二季
+    bgm: 486456
+    naming:
+      name: 佐佐木与文鸟小哔
+      season: 2
+    source:
+      include:
+        - 佐佐木与文鸟小哔 第二季
+        - 佐々木とピーちゃん 第2期
+        - 佐佐木大叔与小哔 第二季
+        - Sasaki to P-chan Season 2
+        - Sasaki and Peeps Season 2
+
+  - name: 世界最强的魔女，就此开始
+    bgm: 646154
+    source:
+      include:
+        - 世界最强的魔女，就此开始
+        - 世界最強の魔女、始めました
+        - The World's Strongest Witch
+        - 世界最强魔女，始动
+
+  - name: 兽王武神丹帝拜恩
+    bgm: 657778
+    source:
+      include:
+        - 兽王武神丹帝拜恩
+        - 獣王武神ダンデヴァイン
+        - 兽王武神DANDIVINE
+        - 獸王武神丹帝拜恩
+
+  - name: 铁旅！邂逅铁道少女
+    bgm: 590553
+    source:
+      include:
+        - 铁旅！邂逅铁道少女
+        - てつりょー！meet with 鉄道むすめ
+        - 铁旅！meet with 铁路女孩
+        - 铁旅！meet with 铁道娘
+        - TETSURYO! meet with Tetsudou Musume
+
+  - name: Dark Machine The Animation
+    bgm: 505550
+    source:
+      include:
+        - Dark Machine The Animation
+
+  - name: 弹珠汽水瓶里的千岁同学 第2部分
+    bgm: 584847
+    naming:
+      name: 弹珠汽水瓶里的千岁同学
+      season: 1
+    source:
+      include:
+        - 弹珠汽水瓶里的千岁同学 第2部分
+        - 千歳くんはラムネ瓶のなか 第2クール
+        - 千岁同学在波子汽水瓶内 第2部分
+        - Chitose-kun wa Ramune Bin no Naka Part 2
+        - Chitose Is in the Ramune Bottle Part 2
+
+  - name: 愚者之夜
+    bgm: 661692
+    source:
+      include:
+        - 愚者之夜
+        - フールナイト
+        - Fool Night
