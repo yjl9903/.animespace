@@ -25,8 +25,17 @@ subjects:
       season: 1
     source:
       include:
-        - 药屋少女的呢喃 第三季
-        - 薬屋のひとりごと 第3期
+        - 药屋少女的呢喃
+        - 药师少女的独语
+        - 薬屋のひとりごと
+      fansub:
+        - 豌豆字幕组
+      rewrite:
+        - match:
+            fansub:
+              - 豌豆字幕组
+          apply:
+            season: 1
 
   - name: 学生会也有洞！
     bgm: 554779
@@ -99,6 +108,7 @@ subjects:
       season: 2
     source:
       include:
+        - 侦探已经死了
         - 侦探已经死了。 第二季
         - 探偵はもう、死んでいる。 Season 2
 
@@ -109,6 +119,7 @@ subjects:
       season: 2
     source:
       include:
+        - 佐佐木与文鸟小哔
         - 佐佐木与文鸟小哔 第二季
         - 佐々木とピーちゃん 第2期
         - 佐佐木大叔与小哔 第二季
@@ -156,6 +167,7 @@ subjects:
       season: 1
     source:
       include:
+        - 弹珠汽水瓶里的千岁同学
         - 弹珠汽水瓶里的千岁同学 第2部分
         - 千歳くんはラムネ瓶のなか 第2クール
         - 千岁同学在波子汽水瓶内 第2部分
