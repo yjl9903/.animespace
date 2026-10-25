@@ -1,7 +1,9 @@
-onlyBuiltDependencies:
-  - '@naria2/node'
-  - bufferutil
-  - fs-native-extensions
-  - node-datachannel
-  - utf-8-validate
-  - utp-native
+allowBuilds:
+  '@naria2/node': true
+  bufferutil: true
+  esbuild: true
+  fs-native-extensions: true
+  ip-set: false
+  node-datachannel: true
+  utf-8-validate: true
+  utp-native: true

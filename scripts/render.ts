@@ -3,9 +3,8 @@
 /// <reference types="optc/globals" />
 
 import { fetch } from 'undici';
-import { Anime } from '@animespace/core';
 import { BgmClient } from 'bgmc';
-import { makeSystem } from 'animespace';
+import { makeSystem, type Anime } from 'animespace';
 
 const START = '<!-- __inject_start__ -->';
 const END = '<!-- __inject_end__ -->';
@@ -29,7 +28,7 @@ export default async function () {
 
 async function render() {
   const text: string[] = [];
-  const client = new BgmClient(fetch as any, { maxRetry: 5 });
+  const client = new BgmClient({ fetch, retry: 5 });
   const system = await makeSystem(path.resolve());
   const animes = await system.animes({ filter: () => true });
 
