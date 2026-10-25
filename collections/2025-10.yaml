@@ -106,7 +106,6 @@ subjects:
 
   - name: SI-VIS：英雄之声
     bgm: 573897
-    enabled: true
     source:
       include:
         - SI-VIS：英雄之声
