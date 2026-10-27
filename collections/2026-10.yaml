@@ -71,6 +71,10 @@ subjects:
         - Blue Box Season 2
       fansub:
         - 绿茶字幕组
+      rewrite:
+        - apply:
+            fansub: 绿茶字幕组
+            episode_offset: +25
 
   - name: 女友的朋友
     bgm: 647220
